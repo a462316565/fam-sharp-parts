@@ -7,7 +7,9 @@
     "ready": true,
     "size": 62843183,
     "parts": 8,
-    "partLen": 8388608
+    "partLen": 8388608,
+    "partDir": "ep1",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 2,
@@ -15,9 +17,11 @@
     "video": "media/ep2.mp4",
     "subs": "data/ep2.json",
     "ready": true,
-    "size": 49384193,
-    "parts": 6,
-    "partLen": 8388608
+    "size": 57231871,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 3,
@@ -25,9 +29,11 @@
     "video": "media/ep3.mp4",
     "subs": "data/ep3.json",
     "ready": true,
-    "size": 47333922,
-    "parts": 6,
-    "partLen": 8388608
+    "size": 57569099,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep3",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 4,
@@ -37,7 +43,9 @@
     "ready": true,
     "size": 54786514,
     "parts": 7,
-    "partLen": 8388608
+    "partLen": 8388608,
+    "partDir": "ep4",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 5,
