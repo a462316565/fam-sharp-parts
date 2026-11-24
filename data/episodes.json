@@ -86,9 +86,14 @@
   {
     "ep": 8,
     "title": "You're Going to Be Fine",
-    "video": "media/ep8.mp4",
+    "video": "media/ep8v2.mp4",
     "subs": "data/ep8.json",
-    "ready": false
+    "ready": true,
+    "size": 57488747,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep8v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 9,
