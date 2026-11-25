@@ -278,9 +278,14 @@
   {
     "ep": 24,
     "title": "Parting Friends",
-    "video": "media/ep24.mp4",
+    "video": "media/ep24v2.mp4",
     "subs": "data/ep24.json",
-    "ready": false
+    "ready": true,
+    "size": 57291214,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep24v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 25,
