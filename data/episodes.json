@@ -242,9 +242,14 @@
   {
     "ep": 21,
     "title": "A Big Fish in a Little Pond",
-    "video": "media/ep21.mp4",
+    "video": "media/ep21v2.mp4",
     "subs": "data/ep21.json",
-    "ready": false
+    "ready": true,
+    "size": 57380963,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep21v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 22,
