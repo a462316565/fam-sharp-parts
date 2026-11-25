@@ -134,9 +134,14 @@
   {
     "ep": 12,
     "title": "You're Tops",
-    "video": "media/ep12.mp4",
+    "video": "media/ep12v2.mp4",
     "subs": "data/ep12.json",
-    "ready": false
+    "ready": true,
+    "size": 57498081,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep12v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 13,
