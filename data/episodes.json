@@ -122,9 +122,14 @@
   {
     "ep": 11,
     "title": "A Place of Our Own",
-    "video": "media/ep11.mp4",
+    "video": "media/ep11v2.mp4",
     "subs": "data/ep11.json",
-    "ready": false
+    "ready": true,
+    "size": 57262847,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep11v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 12,
