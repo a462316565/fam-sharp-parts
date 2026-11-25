@@ -170,9 +170,14 @@
   {
     "ep": 15,
     "title": "Second Honeymoon",
-    "video": "media/ep15.mp4",
+    "video": "media/ep15v2.mp4",
     "subs": "data/ep15.json",
-    "ready": false
+    "ready": true,
+    "size": 57229244,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep15v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 16,
