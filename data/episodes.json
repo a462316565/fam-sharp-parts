@@ -182,9 +182,14 @@
   {
     "ep": 16,
     "title": "Full of Surprises",
-    "video": "media/ep16.mp4",
+    "video": "media/ep16v2.mp4",
     "subs": "data/ep16.json",
-    "ready": false
+    "ready": true,
+    "size": 57570961,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep16v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 17,
