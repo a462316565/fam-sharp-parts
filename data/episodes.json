@@ -218,9 +218,14 @@
   {
     "ep": 19,
     "title": "I Don't Believe It!",
-    "video": "media/ep19.mp4",
+    "video": "media/ep19v2.mp4",
     "subs": "data/ep19.json",
-    "ready": false
+    "ready": true,
+    "size": 56891695,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep19v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 20,
