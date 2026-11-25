@@ -254,9 +254,14 @@
   {
     "ep": 22,
     "title": "Career Choices",
-    "video": "media/ep22.mp4",
+    "video": "media/ep22v2.mp4",
     "subs": "data/ep22.json",
-    "ready": false
+    "ready": true,
+    "size": 57365879,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep22v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 23,
