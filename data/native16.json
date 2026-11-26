@@ -1,0 +1,1226 @@
+[
+ {
+  "i": 0,
+  "en": "The mailman just dropped some mail in our box, Grandpa.",
+  "cn": "邮递员刚往我们信箱里投了些邮件，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Oh, probably a lot of advertising and bills.",
+  "cn": "可能都是广告和账单。",
+  "score": 0.93
+ },
+ {
+  "i": 2,
+  "en": "Why don't you write to me, Robbie, so I can get some interesting mail?",
+  "cn": "这样我也能收到些有趣的邮件？",
+  "score": 0.6
+ },
+ {
+  "i": 3,
+  "en": "Right, Grandpa.",
+  "cn": "你说对了，爷爷。",
+  "score": 0.65
+ },
+ {
+  "i": 4,
+  "en": "Advertising, bills, bills, advertising.",
+  "cn": "广告，账单，账单，广告。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "It's just like I said, Robbie.",
+  "cn": "是的。就像我说的，罗比。",
+  "score": 0.9
+ },
+ {
+  "i": 6,
+  "en": "Nothing interesting.",
+  "cn": "没什么有趣的。",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "You won't believe it, Grandpa.",
+  "cn": "你不会相信的，爷爷，",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "But there's a letter here addressed to you.",
+  "cn": "但这里有一封写给你的信，",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Mr. Malcolm Stewart, and it looks like a personal letter.",
+  "cn": "马尔科姆·斯图尔特先生，看起来像私人信件。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "That must be a bill.",
+  "cn": "哦，肯定是账单。",
+  "score": 0.75
+ },
+ {
+  "i": 11,
+  "en": "I don't think so.",
+  "cn": "我不这么认为.",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "The return name and address is Pete Waters, RFD number one, Chesterton.",
+  "cn": "寄信人姓名和地址是",
+  "score": 0.57
+ },
+ {
+  "i": 13,
+  "en": "You're joking.",
+  "cn": "你开玩笑吧。皮特·沃特斯？",
+  "score": 0.61
+ },
+ {
+  "i": 14,
+  "en": "Pete Waters?",
+  "cn": "还是老皮特·沃特斯。",
+  "score": 0.63
+ },
+ {
+  "i": 15,
+  "en": "Pete Waters, RFD number one, Chesterton.",
+  "cn": "皮特·沃特斯，切斯特顿，RFD 1 号。",
+  "score": 0.85
+ },
+ {
+  "i": 16,
+  "en": "You know him?",
+  "cn": "你认识他？",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "Do I know Pete Waters?",
+  "cn": "我认识皮特·沃特斯？",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "You bet I do.",
+  "cn": "那当然！",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "He was my roommate in college.",
+  "cn": "他是我大学室友。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "He visited with Grandma and me in Florida about five years ago.",
+  "cn": "大约五年前他在佛罗里达看望过我和奶奶。",
+  "score": 0.74
+ },
+ {
+  "i": 21,
+  "en": "What does he say? Is he okay?",
+  "cn": "他还好吗？",
+  "score": 0.71
+ },
+ {
+  "i": 22,
+  "en": "He's fine. Just fine.",
+  "cn": "他写信邀请我",
+  "score": 0.65
+ },
+ {
+  "i": 23,
+  "en": "He's writing to invite me to spend a weekend with him at his farm.",
+  "cn": "他打算办个聚会，",
+  "score": 0.73
+ },
+ {
+  "i": 24,
+  "en": "He's planning a get-together with two or three other college friends.",
+  "cn": "算是五十周年重聚。",
+  "score": 0.67
+ },
+ {
+  "i": 25,
+  "en": "A kind of 50-year anniversary reunion.",
+  "cn": "听起来挺有意思。",
+  "score": 0.83
+ },
+ {
+  "i": 26,
+  "en": "Sounds like fun.",
+  "cn": "五十年？哇！",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "50 years? Wow.",
+  "cn": "对我来说也挺有意思，罗比。",
+  "score": 0.64
+ },
+ {
+  "i": 28,
+  "en": "Yeah, sounds like fun to me too, Robbie.",
+  "cn": "他有什么样的农场？",
+  "score": 0.86
+ },
+ {
+  "i": 29,
+  "en": "What kind of farm does he have?",
+  "cn": "我从没去过，罗比，",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "I've never been there, Robbie.",
+  "cn": "但他养鸡、养牛什么的。",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "But he has chickens and cows and all.",
+  "cn": "那意味着新鲜的鸡蛋和牛奶。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "That means fresh eggs and fresh milk.",
+  "cn": "他有家室吗？",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "Does he have a family?",
+  "cn": "没有，他没有，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "No, he doesn't, Robbie.",
+  "cn": "他从未结婚。",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "He never married.",
+  "cn": "他不像我这么幸运，",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "He's not as lucky as I am.",
+  "cn": "有家庭和孙辈。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "I have a family and grandchildren.",
+  "cn": "我是个幸运的人。",
+  "score": 0.86
+ },
+ {
+  "i": 38,
+  "en": "I'm a lucky man.",
+  "cn": "他怎么从没结过婚？",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "How come he never got married?",
+  "cn": "这是个好问题，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "That's a good question, Robbie.",
+  "cn": "非常好的问题。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "A very good question.",
+  "cn": "他没结婚是因为",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "He never married because the girl he was in love with in college married someone else.",
+  "cn": "就这么简单。",
+  "score": 0.84
+ },
+ {
+  "i": 43,
+  "en": "As simple as that.",
+  "cn": "他一直没走出来。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "He never got over it.",
+  "cn": "他一定非常爱她。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "He must have loved her very much.",
+  "cn": "是的。非常爱。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "Yes, very much.",
+  "cn": "莉莲·温特斯。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "Lillian Winters, she was in our class.",
+  "cn": "后来怎么样了？",
+  "score": 0.71
+ },
+ {
+  "i": 48,
+  "en": "And what happened?",
+  "cn": "她爱上了唐纳德·麦格拉斯，",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "She was in love with Donald McGrath, the quarterback in our football team.",
+  "cn": "我们橄榄球队的四分卫。",
+  "score": 0.63
+ },
+ {
+  "i": 50,
+  "en": "Football players are always popular with the ladies.",
+  "cn": "她喜欢皮特，他们一起参加舞会。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "She liked Pete, and they went to dances together.",
+  "cn": "但她的心属于唐纳德。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "But her heart was with Donald.",
+  "cn": "他后来走出来了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "Did he ever get over it?",
+  "cn": "没有，他一直没有。",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "No, he never did.",
+  "cn": "她现在在哪儿？",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "Where is she today?",
+  "cn": "Where is she 今天?",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "I don't know.",
+  "cn": "我不知道.",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Maybe Lillian will be at the reunion.",
+  "cn": "也许莉莲会来参加重聚。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "You think so?",
+  "cn": "你这么想？",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "Pete's full of surprises.",
+  "cn": "皮特总是充满惊喜。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "I wish I could go there with you, Grandpa.",
+  "cn": "真希望我能和你一起去，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "What do you think the surprise will be?",
+  "cn": "你怎么想",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "With Pete, you never know, Robbie.",
+  "cn": "你觉得惊喜会是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "Won't it be exciting to see all your college friends there again?",
+  "cn": "和皮特打交道，你永远不知道，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "It is already.",
+  "cn": "又能见到所有大学朋友，不是很令人兴奋吗？",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "I'm kind of excited about going now.",
+  "cn": "已经是了。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "Next weekend.",
+  "cn": "我现在有点兴奋了。",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "Sleep over Friday and Saturday night and come back Sunday.",
+  "cn": "下个周末……",
+  "score": 0.73
+ },
+ {
+  "i": 68,
+  "en": "I can't wait.",
+  "cn": "星期天回来。",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "Don't you think you ought to call Pete and tell him you're coming?",
+  "cn": "我等不及了！",
+  "score": 0.68
+ },
+ {
+  "i": 70,
+  "en": "You're reading my mind, Robbie.",
+  "cn": "告诉他你要来吗？",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "What do I do for you?",
+  "cn": "嗨。我能为你做什么？",
+  "score": 0.78
+ },
+ {
+  "i": 72,
+  "en": "I need a full tank.",
+  "cn": "我需要",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Where abouts you headed?",
+  "cn": "你要去哪儿？",
+  "score": 0.67
+ },
+ {
+  "i": 74,
+  "en": "The Pete Waters farm near Chesterton.",
+  "cn": "切斯特顿附近，皮特·沃特斯的农场。",
+  "score": 0.78
+ },
+ {
+  "i": 75,
+  "en": "I know it well.",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Pete Waters lives around here almost as long as I have.",
+  "cn": "我很熟悉。",
+  "score": 0.84
+ },
+ {
+  "i": 77,
+  "en": "How long is it going to take the farmer to get there?",
+  "cn": "皮特·沃特斯住在这儿的时间和我也差不多了。",
+  "score": 0.82
+ },
+ {
+  "i": 78,
+  "en": "About 15 minutes.",
+  "cn": "我到那里要多久？",
+  "score": 0.65
+ },
+ {
+  "i": 79,
+  "en": "There's a shortcut if you know it.",
+  "cn": "大约十五分钟。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "I don't.",
+  "cn": "有条近道——如果你知道的话。",
+  "score": 0.76
+ },
+ {
+  "i": 81,
+  "en": "Could you tell me how to use the shortcut?",
+  "cn": "不，我不知道。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Sure.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 83,
+  "en": "You take the next left turn.",
+  "cn": "你能告诉我怎么走近道吗？",
+  "score": 0.89
+ },
+ {
+  "i": 84,
+  "en": "You'll see a stop sign.",
+  "cn": "当然。你在下一个路口左转。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "Make a right at the stop sign.",
+  "cn": "你会看到一个停车标志。",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "Stay on that road and you'll cross a blue bridge.",
+  "cn": "在停车标志处右转。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Then you'll see a big old red barn.",
+  "cn": "沿着那条路走，你会经过一座蓝色的桥。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "That's the back of Pete Waters' place.",
+  "cn": "然后你会看到一个红色的大旧谷仓。",
+  "score": 0.89
+ },
+ {
+  "i": 89,
+  "en": "That's quite a difference from the directions that Pete sent me.",
+  "cn": "那就是皮特·沃特斯地方的后门。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "Now, if you take that route, it's probably a lot simpler,",
+  "cn": "这和皮特给我的方向完全不一样。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "but it'll take you 10 minutes longer.",
+  "cn": "如果你走那条路，可能简单得多，",
+  "score": 0.86
+ },
+ {
+  "i": 92,
+  "en": "Okay.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 93,
+  "en": "Let me repeat it.",
+  "cn": "但要多花十分钟。",
+  "score": 0.87
+ },
+ {
+  "i": 94,
+  "en": "Take the next left turn to the stop sign.",
+  "cn": "好的。让我重复一下。",
+  "score": 0.94
+ },
+ {
+  "i": 95,
+  "en": "Then a right across a blue bridge.",
+  "cn": "我在下一个路口左转到停车标志。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "Then a big red barn.",
+  "cn": "然后右转过蓝桥，",
+  "score": 0.88
+ },
+ {
+  "i": 97,
+  "en": "I can't believe it.",
+  "cn": "然后是一个红色大谷仓。",
+  "score": 0.55
+ },
+ {
+  "i": 98,
+  "en": "How much do I owe you?",
+  "cn": "不会错过的。",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Well, that'll be $18.70.",
+  "cn": "好that'll是1870",
+  "score": 0.3
+ },
+ {
+  "i": 100,
+  "en": "No charge for the cleanup. It's on the house.",
+  "cn": "嗯，十八美元七十美分。",
+  "score": 0.69
+ },
+ {
+  "i": 101,
+  "en": "Here's the 20.",
+  "cn": "Here's这20",
+  "score": 0.3
+ },
+ {
+  "i": 102,
+  "en": "Ah, okay. That's $1.30 change.",
+  "cn": "嗯，这是二十美元。",
+  "score": 0.45
+ },
+ {
+  "i": 103,
+  "en": "There we go. We'll make 20. Thanks.",
+  "cn": "啊。好的。找你一美元三十美分。",
+  "score": 0.72
+ },
+ {
+  "i": 104,
+  "en": "Thank you. Thanks for the directions.",
+  "cn": "谢谢你的指路。",
+  "score": 0.75
+ },
+ {
+  "i": 105,
+  "en": "Must be Pete's barn.",
+  "cn": "这一定是皮特的谷仓。",
+  "score": 0.85
+ },
+ {
+  "i": 106,
+  "en": "Turn right to the house.",
+  "cn": "右转到房子那边。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Hi.",
+  "cn": "嗨.",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "Hi. What can I do for you?",
+  "cn": "你好。我能为你做什么？",
+  "score": 0.84
+ },
+ {
+  "i": 109,
+  "en": "Is this the Pete Waters' barn?",
+  "cn": "这是皮特·沃特斯农场吗？",
+  "score": 0.75
+ },
+ {
+  "i": 110,
+  "en": "It is.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "I'm a friend of Pete's. I'm looking for the house.",
+  "cn": "我在找房子。",
+  "score": 0.63
+ },
+ {
+  "i": 112,
+  "en": "It's just over yonder.",
+  "cn": "就在那边。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "Keep along this road until you get to the end of the fence.",
+  "cn": "走到栅栏尽头。",
+  "score": 0.66
+ },
+ {
+  "i": 114,
+  "en": "We'll see the chicken house. His house is on the left.",
+  "cn": "他的房子在左边。",
+  "score": 0.65
+ },
+ {
+  "i": 115,
+  "en": "Oh, thanks. Back soon with a surprise.",
+  "cn": "很快带个惊喜回来。",
+  "score": 0.79
+ },
+ {
+  "i": 116,
+  "en": "Think yourself at home. Have a look around.",
+  "cn": "四处看看。皮特。",
+  "score": 0.52
+ },
+ {
+  "i": 117,
+  "en": "Pete. Same old Pete Waters.",
+  "cn": "Pete.同样oldPeteWaters.",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "Always full of surprises.",
+  "cn": "总是充满惊喜。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Recognize you.",
+  "cn": "我认得你……",
+  "score": 0.82
+ },
+ {
+  "i": 120,
+  "en": "Oh, don't be silly, Arnie.",
+  "cn": "哦，别傻了，阿尼。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "Of course you recognize him,",
+  "cn": "当然",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "except for the beard he hasn't changed in 50 years.",
+  "cn": "你当然认得他。",
+  "score": 0.89
+ },
+ {
+  "i": 123,
+  "en": "He's Malcolm Stewart.",
+  "cn": "除了胡子，他五十年没怎么变。",
+  "score": 0.74
+ },
+ {
+  "i": 124,
+  "en": "I know it's Malcolm Stewart.",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "You haven't changed much in 50 years.",
+  "cn": "是马尔科姆·斯图尔特！",
+  "score": 0.84
+ },
+ {
+  "i": 126,
+  "en": "Peggy.",
+  "cn": "Peggy.",
+  "score": 0.3
+ },
+ {
+  "i": 127,
+  "en": "Peggy Pendleton. You're Peggy Pendleton.",
+  "cn": "你五十年没怎么变。",
+  "score": 0.84
+ },
+ {
+  "i": 128,
+  "en": "Who am I, you old rascal? You don't recognize me, do you?",
+  "cn": "你是佩吉·彭德尔顿！",
+  "score": 0.62
+ },
+ {
+  "i": 129,
+  "en": "I know who you are.",
+  "cn": "我是谁，你个老家伙？",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "You're Arnold Pendleton.",
+  "cn": "你不认得我了吧？",
+  "score": 0.65
+ },
+ {
+  "i": 131,
+  "en": "You look wonderful.",
+  "cn": "你是阿诺德·富兰克林！",
+  "score": 0.79
+ },
+ {
+  "i": 132,
+  "en": "Sit down. Sit down.",
+  "cn": "你看起来好极了，马尔科姆！",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "Pete isn't home.",
+  "cn": "坐，坐。",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "Really?",
+  "cn": "皮特不在家。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "Oh, he left a note on the door",
+  "cn": "真的？",
+  "score": 0.89
+ },
+ {
+  "i": 136,
+  "en": "saying he was going to the railroad station",
+  "cn": "不在。他在门上留了张便条，",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "to pick up a surprise.",
+  "cn": "说要去火车站",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "He's so funny. Always full of surprises.",
+  "cn": "他真逗。",
+  "score": 0.69
+ },
+ {
+  "i": 139,
+  "en": "Even 50 years later.",
+  "cn": "总是充满惊喜，",
+  "score": 0.74
+ },
+ {
+  "i": 140,
+  "en": "The two of you look unbelievable.",
+  "cn": "即使五十年后。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "How's your family?",
+  "cn": "你们俩看起来太不可思议了！",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "Oh, I was sorry to hear about your wife",
+  "cn": "哦，我很难过，",
+  "score": 0.51
+ },
+ {
+  "i": 143,
+  "en": "having passed away.",
+  "cn": "having去世away.",
+  "score": 0.3
+ },
+ {
+  "i": 144,
+  "en": "Yes, about four years ago.",
+  "cn": "听说你妻子过世了。",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "And you're living with your children now in New York?",
+  "cn": "是的。大约四年前。",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "Pete wrote us and told us.",
+  "cn": "你现在和孩子们住在一起？在纽约？",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "Yep. Retired and moved to New York",
+  "cn": "是的。",
+  "score": 0.9
+ },
+ {
+  "i": 148,
+  "en": "to live with my son and his family.",
+  "cn": "退休后搬到纽约，",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "By the way, what do you think this big surprise is?",
+  "cn": "顺便问一下，",
+  "score": 0.82
+ },
+ {
+  "i": 150,
+  "en": "It could be most anything knowing Pete.",
+  "cn": "你觉得这个大惊喜会是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Hey, that must be Pete.",
+  "cn": "了解皮特的话，什么都可能。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "Oh, we'll find out about the surprise.",
+  "cn": "嘿，那一定是皮特！",
+  "score": 0.88
+ },
+ {
+  "i": 153,
+  "en": "So good to see you.",
+  "cn": "现在我们要知道惊喜是什么了。",
+  "score": 0.87
+ },
+ {
+  "i": 154,
+  "en": "Hi, Pete.",
+  "cn": "见到你们大家太好了！",
+  "score": 0.51
+ },
+ {
+  "i": 155,
+  "en": "Hey, oh, it's so good to see you.",
+  "cn": "哦，皮特，皮特！",
+  "score": 0.91
+ },
+ {
+  "i": 156,
+  "en": "Remember Lillian?",
+  "cn": "哦，见到你太好了！",
+  "score": 1.0
+ },
+ {
+  "i": 157,
+  "en": "I remember all of you. You haven't changed the bed.",
+  "cn": "记得莉莲吗？",
+  "score": 0.58
+ },
+ {
+  "i": 158,
+  "en": "Really?",
+  "cn": "真的",
+  "score": 0.3
+ },
+ {
+  "i": 159,
+  "en": "Oh, my gosh.",
+  "cn": "你一点没变。",
+  "score": 0.63
+ },
+ {
+  "i": 160,
+  "en": "We were together the thirty-night drama society.",
+  "cn": "莉莲·温特斯。莉莲·温特斯。",
+  "score": 0.83
+ },
+ {
+  "i": 161,
+  "en": "You never made that happen.",
+  "cn": "你从不做那碰巧",
+  "score": 0.3
+ },
+ {
+  "i": 162,
+  "en": "Oh, beautiful as ever, Lillian.",
+  "cn": "记得我吗，马尔科姆？",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "How's Donald?",
+  "cn": "哦，还是和以前一样漂亮，莉莲。",
+  "score": 0.86
+ },
+ {
+  "i": 164,
+  "en": "That's okay, Malcolm.",
+  "cn": "唐纳德怎么样？唐纳德。",
+  "score": 0.77
+ },
+ {
+  "i": 165,
+  "en": "Donald passed away a couple of years ago.",
+  "cn": "没关系，马尔科姆。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "Oh, I'm so sorry.",
+  "cn": "听到这个我很难过，莉莲。",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "I will not have missed this get-together for the world.",
+  "cn": "哦，我真难过。",
+  "score": 0.91
+ },
+ {
+  "i": 168,
+  "en": "And your little surprise, Pete.",
+  "cn": "我说什么也不会错过这次聚会！",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "You really surprised me by having us all come together.",
+  "cn": "你让我们都聚在一起，",
+  "score": 0.67
+ },
+ {
+  "i": 170,
+  "en": "You don't know what the surprise is yet.",
+  "cn": "真的让我很惊喜。",
+  "score": 1.0
+ },
+ {
+  "i": 171,
+  "en": "Come on.",
+  "cn": "你还不知道惊喜是什么吧？",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "We'll tell you the big surprise.",
+  "cn": "来吧！",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "I've invited you here for the weekend to help celebrate.",
+  "cn": "我们告诉你这个大惊喜。",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "Celebrate?",
+  "cn": "我邀请你们来这里度周末是为了庆祝。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Our 50th reunion.",
+  "cn": "庆祝？",
+  "score": 0.67
+ },
+ {
+  "i": 176,
+  "en": "No.",
+  "cn": "我们的五十周年重聚？",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "No, Pete wants to tell you.",
+  "cn": "不是。皮特想告诉你……",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "Now, let me have the honor, Lillian.",
+  "cn": "不，让我来说，莉莲。",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "For goodness sake, Pete, fellas, I can't wait much longer.",
+  "cn": "我等不及了。",
+  "score": 0.57
+ },
+ {
+  "i": 180,
+  "en": "Well, I am pouring this iced tea",
+  "cn": "嗯，我倒这杯冰茶，",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "so that we can toast Lillian and me.",
+  "cn": "好为莉莲——和我干杯。",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "You don't mean to tell me that you...",
+  "cn": "你不是要告诉我你和……",
+  "score": 0.92
+ },
+ {
+  "i": 183,
+  "en": "Yes, I do.",
+  "cn": "是的，我是。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "I have loved Lillian all these years,",
+  "cn": "这些年来我一直爱着莉莲，",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "so I asked her to be Mrs. Pete Waters.",
+  "cn": "所以我请她做皮特·沃特斯夫人。",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "And I said yes.",
+  "cn": "我答应了。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "Oh, I knew it.",
+  "cn": "我就知道！我就知道！",
+  "score": 0.69
+ },
+ {
+  "i": 188,
+  "en": "I knew it.",
+  "cn": "我knew它",
+  "score": 0.3
+ },
+ {
+  "i": 189,
+  "en": "Congratulations.",
+  "cn": "恭喜!",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "Oh, Lillian, I am so happy for you both.",
+  "cn": "我为你们俩感到太高兴了。",
+  "score": 0.81
+ },
+ {
+  "i": 191,
+  "en": "It's wonderful.",
+  "cn": "太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "It's wonderful for me.",
+  "cn": "对我来说太棒了。",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "Lillian will make me a happy man, finally.",
+  "cn": "莉莲会让我终于成为幸福的人。",
+  "score": 1.0
+ },
+ {
+  "i": 194,
+  "en": "You are full of surprises, Pete.",
+  "cn": "你总是充满惊喜，皮特。",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "We are going to spend the entire weekend",
+  "cn": "我们要庆祝一整个周末。",
+  "score": 0.64
+ },
+ {
+  "i": 196,
+  "en": "having a good time together here on the farm.",
+  "cn": "整个周末一起在农场",
+  "score": 0.61
+ },
+ {
+  "i": 197,
+  "en": "We are going to celebrate all weekend.",
+  "cn": "我们要",
+  "score": 0.57
+ },
+ {
+  "i": 198,
+  "en": "When is the wedding?",
+  "cn": "什么时候举办婚礼？",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "That's another surprise.",
+  "cn": "那是另一个惊喜。",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "Lillian and I were married two weeks ago in Detroit.",
+  "cn": "莉莲和我两周前在底特律结婚了。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "What?",
+  "cn": "什么",
+  "score": 0.3
+ },
+ {
+  "i": 202,
+  "en": "She's come here to stay.",
+  "cn": "她来这里住下了。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "Wait till I tell my family about this.",
+  "cn": "等我把这件事告诉家人！",
+  "score": 1.0
+ }
+]
