@@ -1,0 +1,716 @@
+[
+ {
+  "i": 0,
+  "en": "Hot dogs, I love hot dogs, but there is nothing better than a hot dog in the country",
+  "cn": "在乡下来个热狗，再好不过了。",
+  "score": 0.76
+ },
+ {
+  "i": 1,
+  "en": "Mmm cook outdoors over an open fire. I",
+  "cn": "在户外的明火上烤。",
+  "score": 0.75
+ },
+ {
+  "i": 2,
+  "en": "Wish I had one now",
+  "cn": "希望现在就有一个。",
+  "score": 0.97
+ },
+ {
+  "i": 3,
+  "en": "Do you remember when daddy and I used to take you and Susan and Robbie to Jones Beach? Oh, I sure do",
+  "cn": "你记得爸爸和我以前带你",
+  "score": 0.65
+ },
+ {
+  "i": 4,
+  "en": "Make a fire and we",
+  "cn": "做一个火和我们",
+  "score": 0.3
+ },
+ {
+  "i": 5,
+  "en": "Don't forget the",
+  "cn": "哦，别忘了芥末。",
+  "score": 0.69
+ },
+ {
+  "i": 6,
+  "en": "Mustard and oh does anybody want ketchup. I might as well take it along",
+  "cn": "我索性带上吧。",
+  "score": 0.55
+ },
+ {
+  "i": 7,
+  "en": "And now to make sure we've got the hamburger patties",
+  "cn": "现在确认我们带了汉堡肉饼。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "I have to remember to put them in the bag tomorrow morning before we leave",
+  "cn": "我有",
+  "score": 0.68
+ },
+ {
+  "i": 9,
+  "en": "I'll remind you Richard",
+  "cn": "我会提醒你，理查德。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "Mom, we really appreciate your taking care of max for the weekend giving up your free time. I love doing it",
+  "cn": "真的很感谢你周末照顾马克斯，",
+  "score": 0.66
+ },
+ {
+  "i": 11,
+  "en": "Susan and Harry have a sitter for Michelle in the city and I'm taking care of max. It's no big deal",
+  "cn": "苏珊和哈里在城里给米歇尔找了保姆，",
+  "score": 0.65
+ },
+ {
+  "i": 12,
+  "en": "I am happy to do it for you. I guess max is asleep by now",
+  "cn": "我很高兴为你们做。",
+  "score": 0.62
+ },
+ {
+  "i": 13,
+  "en": "He's not crying anymore",
+  "cn": "他不哭了。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "Baby's teething. He's asleep. Finally so much when a baby gets his first teeth",
+  "cn": "疼",
+  "score": 0.66
+ },
+ {
+  "i": 15,
+  "en": "He'll be fine. Marilyn. Well, he wakes up several times during the night. The pain is so bad",
+  "cn": "嗯，他晚上醒好几次，",
+  "score": 0.63
+ },
+ {
+  "i": 16,
+  "en": "Really concerned about going away for the weekend and leaving you with the full responsibility of taking care of max",
+  "cn": "把照顾马克斯的责任全留给你。",
+  "score": 0.68
+ },
+ {
+  "i": 17,
+  "en": "Oh, well, especially with this teething. I wish you felt better",
+  "cn": "尤其他还长牙。",
+  "score": 0.48
+ },
+ {
+  "i": 18,
+  "en": "Please don't worry Marilyn. Remember your father-in-law is a pediatrician",
+  "cn": "记住你公公是儿科医生。",
+  "score": 0.63
+ },
+ {
+  "i": 19,
+  "en": "We have a live-in doctor if there's a problem I can't handle. I agree Marilyn. We really don't have to be overly concerned",
+  "cn": "遇到我处理不了的问题，我们有住在家里的医生。",
+  "score": 0.64
+ },
+ {
+  "i": 20,
+  "en": "I'll go upstairs and stay with him until we fall asleep again",
+  "cn": "我上楼陪他，直到他再睡着。",
+  "score": 0.87
+ },
+ {
+  "i": 21,
+  "en": "Try putting him across your lap on his stomach",
+  "cn": "试着让他趴在你腿上，肚子朝下。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "He likes that. I'll try it. When are Susan and Harry picking you up Marilyn?",
+  "cn": "苏珊和哈里什么时候来接你，玛丽莲？",
+  "score": 0.69
+ },
+ {
+  "i": 23,
+  "en": "They're coming by at 6 tomorrow morning so we can get an early start",
+  "cn": "他们明早六点过来，",
+  "score": 0.58
+ },
+ {
+  "i": 24,
+  "en": "That's nice, and you'll have a full day in the country and a full night",
+  "cn": "你们会在乡下来个整天。",
+  "score": 0.74
+ },
+ {
+  "i": 25,
+  "en": "Tomorrow night. We'll be camping out in tennis",
+  "cn": "明天",
+  "score": 0.89
+ },
+ {
+  "i": 26,
+  "en": "And coming home on Sunday",
+  "cn": "星期天回来？",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "We'll be heading back late in the afternoon",
+  "cn": "我们下午晚些时候回。",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "You're gonna have the time of your lives",
+  "cn": "你们会度过一生中最美好的时光。",
+  "score": 0.83
+ },
+ {
+  "i": 29,
+  "en": "Camping out is such great fun. I have a great time camping out",
+  "cn": "露营太好玩了。",
+  "score": 0.63
+ },
+ {
+  "i": 30,
+  "en": "I'm sure I'm still a little worried about you. Well, it will be my great pleasure Marilyn. Remember. It's only one night",
+  "cn": "我是当然我是仍然一个little担心关于你好它将是我的很棒pleasureMarilyn.记得它是只one夜晚",
+  "score": 0.3
+ },
+ {
+  "i": 31,
+  "en": "She's asleep. I think I'll sleep through the night now",
+  "cn": "我认为",
+  "score": 0.75
+ },
+ {
+  "i": 32,
+  "en": "Thanks, honey",
+  "cn": "谢谢，亲爱的。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "Hope he's good when we're away",
+  "cn": "我希望",
+  "score": 0.92
+ },
+ {
+  "i": 34,
+  "en": "Well, so do I",
+  "cn": "嗯，我也希望。",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "Now to check the list of things we need for the camping trip. We need to bring a",
+  "cn": "现在，检查露营需要的东西清单。",
+  "score": 0.86
+ },
+ {
+  "i": 36,
+  "en": "flashlight hmm",
+  "cn": "flashlight嗯",
+  "score": 0.3
+ },
+ {
+  "i": 37,
+  "en": "It's in the right-hand drawer next to the bottle",
+  "cn": "在右边抽屉里，开瓶器旁边。",
+  "score": 0.91
+ },
+ {
+  "i": 38,
+  "en": "Do we have a bottle opener on the list Marilyn? No",
+  "cn": "清单上有开瓶器吗，玛丽莲？",
+  "score": 0.94
+ },
+ {
+  "i": 39,
+  "en": "No bottle opener",
+  "cn": "没有。没有开瓶器。",
+  "score": 0.95
+ },
+ {
+  "i": 40,
+  "en": "Is that one of the things Susan and Harry you're bringing no and we're bringing the ketchup mustard relish all that stuff and cooking utensils",
+  "cn": "我们带番茄酱、芥末、酸菜——所有那些东西。",
+  "score": 0.56
+ },
+ {
+  "i": 41,
+  "en": "Well, here's the bottle opener and here's the flashlight",
+  "cn": "嗯，开瓶器在这，手电筒在这。",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "matches",
+  "cn": "火柴。",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "Matches. Yes, of course for when we build our campfire",
+  "cn": "用来生营火。",
+  "score": 0.68
+ },
+ {
+  "i": 44,
+  "en": "So I can't build a fire by rubbing two pieces of wood together and don't forget your camera and film Richard",
+  "cn": "我不会用两根木棍摩擦生火。",
+  "score": 0.66
+ },
+ {
+  "i": 45,
+  "en": "All packed and ready and let's not forget our cassette player and some tape",
+  "cn": "别忘了我们的卡带机和磁带。",
+  "score": 0.74
+ },
+ {
+  "i": 46,
+  "en": "Some music tapes and some blank tapes so that we can record our thoughts about the trip",
+  "cn": "这样我们能录下对这次旅行的想法。",
+  "score": 0.7
+ },
+ {
+  "i": 47,
+  "en": "That's a nice idea an audio diary. That's what I thought got it the set player and",
+  "cn": "那是一个好主意一个audiodiary.那是什么我认为得到它这摆戏剧和",
+  "score": 0.3
+ },
+ {
+  "i": 48,
+  "en": "To be away from the city on such a beautiful day is my idea of heaven",
+  "cn": "在这么美的一天离开城市，",
+  "score": 0.77
+ },
+ {
+  "i": 49,
+  "en": "The grass the trees",
+  "cn": "草地。树木。新鲜空气。",
+  "score": 0.68
+ },
+ {
+  "i": 50,
+  "en": "The fresh air I told you you'd like it. I've been doing this for years",
+  "cn": "我说过你会喜欢的。我干这个好多年了。",
+  "score": 0.85
+ },
+ {
+  "i": 51,
+  "en": "Yeah, the spirit of a teenager Susan. What do you see yourself jumping around?",
+  "cn": "你有少年的活力，苏珊。",
+  "score": 0.53
+ },
+ {
+  "i": 52,
+  "en": "She works hard she plays hard she's a real steward",
+  "cn": "她是个真正的斯图尔特。",
+  "score": 0.46
+ },
+ {
+  "i": 53,
+  "en": "Come on Richard. Help me get this stuff out of the car",
+  "cn": "帮我把东西从车里拿出来。",
+  "score": 0.79
+ },
+ {
+  "i": 54,
+  "en": "Where does it go?",
+  "cn": "放哪儿？",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "Well, we'll put everything over there",
+  "cn": "嗯，我们把所有东西放那边。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "Set up our tents over there by the edge of the woods and we'll be able to make our fire there where it's safe",
+  "cn": "然后我们能在安全的地方生火。",
+  "score": 0.61
+ },
+ {
+  "i": 57,
+  "en": "Oh, there's our table and benches all set for eating. That's what makes this spot so good",
+  "cn": "这就是这地方好的原因。",
+  "score": 0.51
+ },
+ {
+  "i": 58,
+  "en": "Is anybody hungry I am just got here",
+  "cn": "有人饿了吗？",
+  "score": 0.53
+ },
+ {
+  "i": 59,
+  "en": "When you're out in the fresh air like this, it makes you hungry. Aren't you hungry Mary Mary?",
+  "cn": "像这样在新鲜空气里，会让人饿。",
+  "score": 0.84
+ },
+ {
+  "i": 60,
+  "en": "How about you Richard starving? You guys are like three kids. Are you hungry Harry?",
+  "cn": "你们三个就像孩子。",
+  "score": 0.51
+ },
+ {
+  "i": 61,
+  "en": "Yeah, now that you mention it I guess I am I mean, how could a guy not be hungry with all this talk about eating",
+  "cn": "说这么多吃的，谁会不饿呢？",
+  "score": 0.65
+ },
+ {
+  "i": 62,
+  "en": "Where's the bag with the chicken salad sandwiches right here next to the ice packs?",
+  "cn": "鸡肉沙拉三明治的袋子在哪？",
+  "score": 0.66
+ },
+ {
+  "i": 63,
+  "en": "Here put the tablecloth on the picnic table and I will bring the",
+  "cn": "把桌布铺在野餐桌上，",
+  "score": 0.67
+ },
+ {
+  "i": 64,
+  "en": "Cola and the plastic cuffs. How do you like it so far? Never been more relaxed. Mm-hmm. Me neither. I",
+  "cn": "Cola和这plasticcuffs.如何做你喜欢它如此far?从不曾经更多放松Mm-hmm.我neither.我",
+  "score": 0.3
+ },
+ {
+  "i": 65,
+  "en": "Wish we had brought Michelle Harry. She would have loved it. Oh, you're right. I wish we'd run max",
+  "cn": "真希望我们带了米歇尔，哈里。",
+  "score": 0.47
+ },
+ {
+  "i": 66,
+  "en": "Marilyn",
+  "cn": "我同意，玛丽莲。",
+  "score": 0.52
+ },
+ {
+  "i": 67,
+  "en": "Susan",
+  "cn": "谢谢，苏珊。",
+  "score": 0.55
+ },
+ {
+  "i": 68,
+  "en": "Let's not begin to worry about Michelle and max. We're having a good time and they're in good hands",
+  "cn": "我们玩得开心，他们也被照顾得很好。",
+  "score": 0.62
+ },
+ {
+  "i": 69,
+  "en": "Richard is right. Are you having a good time? Susie? You haven't answered my question. I am having a good time Harry. I",
+  "cn": "Richard是对是你having一个好时光Susie?你没有回答我的问题我是having一个好时光Harry.我",
+  "score": 0.3
+ },
+ {
+  "i": 70,
+  "en": "Promised not to think about the city. We're in the country",
+  "cn": "我保证不去想城市。",
+  "score": 0.65
+ },
+ {
+  "i": 71,
+  "en": "Let's all just enjoy this wonderful place and this wonderful weather. Good. This is heaven Harry",
+  "cn": "我们就一起享受这个美妙的地方",
+  "score": 0.58
+ },
+ {
+  "i": 72,
+  "en": "It was such a great idea to spend the weekend this way",
+  "cn": "这样过周末真是个好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Thanks, Susan. I thought you'd all like it",
+  "cn": "我就知道你们都会喜欢。",
+  "score": 0.78
+ },
+ {
+  "i": 74,
+  "en": "Into the sounds of the summer that surround us. It's so I've always liked camping up",
+  "cn": "听",
+  "score": 0.58
+ },
+ {
+  "i": 75,
+  "en": "Away from the telephones and account books",
+  "cn": "我一直喜欢露营。",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "It's refreshing for me. I always go back to the city in a wonderful state of mind",
+  "cn": "让我精神焕发。",
+  "score": 0.81
+ },
+ {
+  "i": 77,
+  "en": "We've only been here for a day and I've completely forgotten about all my business problems",
+  "cn": "我们才来一天，",
+  "score": 0.7
+ },
+ {
+  "i": 78,
+  "en": "The office seems so",
+  "cn": "就已经完全忘了所有生意上的问题。",
+  "score": 0.75
+ },
+ {
+  "i": 79,
+  "en": "How'd you like it Susan?",
+  "cn": "办公室似乎那么遥远。",
+  "score": 0.72
+ },
+ {
+  "i": 80,
+  "en": "We'll spend many more weekends like this",
+  "cn": "很高兴你喜欢，苏珊。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "And next time we'll bring Michelle. I wish she were here with us to enjoy the country and next time",
+  "cn": "下次我们带米歇尔。",
+  "score": 0.66
+ },
+ {
+  "i": 82,
+  "en": "Just listen to the sound soothing and hardly keep my eyes open. We could bottle fresh air",
+  "cn": "刚刚听去这声音soothing和努力保持我的眼光open.我们能瓶子新鲜空气",
+  "score": 0.3
+ },
+ {
+  "i": 83,
+  "en": "Wouldn't it be wonderful? We could call it deep sleep country air. Mm-hmm. Put you to sleep. Mm-hmm",
+  "cn": "不是很美妙吗？",
+  "score": 0.55
+ },
+ {
+  "i": 84,
+  "en": "So does the sound I'm having a hard time keeping my eyes open just listening to it",
+  "cn": "声音也是。",
+  "score": 0.56
+ },
+ {
+  "i": 85,
+  "en": "special music",
+  "cn": "像特别的音乐。",
+  "score": 0.57
+ },
+ {
+  "i": 86,
+  "en": "Too bad. We can't bottle the sound",
+  "cn": "可惜我们不能把声音装瓶。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Can what bottle the sound?",
+  "cn": "把声音装瓶。",
+  "score": 0.71
+ },
+ {
+  "i": 88,
+  "en": "What are you talking about? Oh, yeah",
+  "cn": "你在说什么？",
+  "score": 0.81
+ },
+ {
+  "i": 89,
+  "en": "Great idea",
+  "cn": "太好了",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "Let's do it. I'm sure everything is fine. My mother knows all there is to know about taking care of babies",
+  "cn": "我的母亲",
+  "score": 0.47
+ },
+ {
+  "i": 91,
+  "en": "I assure you let's put some of this stuff away and then take off. We've got a 40 minute drive into the city",
+  "cn": "我们把这些东西收一下，然后出发。",
+  "score": 0.58
+ },
+ {
+  "i": 92,
+  "en": "Wrong Richard believe me max is fine, but his teeth hurt and you just can't get to sleep poor dear",
+  "cn": "但他牙齿疼，就是睡不着，可怜的孩子。",
+  "score": 0.67
+ },
+ {
+  "i": 93,
+  "en": "Neither can you?",
+  "cn": "你也一样。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "So bad. Oh, how was your week? We had a great time, huh? I",
+  "cn": "如此bad.哦如何原本是你的星期我们有一个很棒时光huh?我",
+  "score": 0.3
+ },
+ {
+  "i": 95,
+  "en": "Was wonderful the weather couldn't have been better. It was nice here, too",
+  "cn": "天气再好不过了。",
+  "score": 0.61
+ },
+ {
+  "i": 96,
+  "en": "Did you get a chance to get outside at all? Oh, yes, Grandpa helped me yesterday afternoon",
+  "cn": "你有机会出门吗？",
+  "score": 0.62
+ },
+ {
+  "i": 97,
+  "en": "I went to the supermarket to get a few things and I stayed out an extra half hour",
+  "cn": "我去超市买点东西，",
+  "score": 0.65
+ },
+ {
+  "i": 98,
+  "en": "The village was filled with people at the weather was so nice",
+  "cn": "村子里到处是人——天气太好了。",
+  "score": 0.94
+ },
+ {
+  "i": 99,
+  "en": "There is a professional camper mom",
+  "cn": "哈里是专业露营者，妈妈。",
+  "score": 0.68
+ },
+ {
+  "i": 100,
+  "en": "He knows all there is to know and he made the weekend very easy for us to",
+  "cn": "让我们的周末轻松愉快。",
+  "score": 0.67
+ },
+ {
+  "i": 101,
+  "en": "You all helped you were wonderful",
+  "cn": "你太棒了，哈里！",
+  "score": 0.58
+ },
+ {
+  "i": 102,
+  "en": "Why don't you go to your room mom",
+  "cn": "你何不去房间休息一下，妈妈。",
+  "score": 0.73
+ },
+ {
+  "i": 103,
+  "en": "Tell me more about you. Did you do anything?",
+  "cn": "多告诉我一些你们周末的事。",
+  "score": 0.55
+ },
+ {
+  "i": 104,
+  "en": "Lots of special country",
+  "cn": "很多特别的乡村事。",
+  "score": 0.84
+ },
+ {
+  "i": 105,
+  "en": "We picked flowers",
+  "cn": "我们采了花。",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "Some home for you. Oh",
+  "cn": "给你带了一些回来。",
+  "score": 0.59
+ },
+ {
+  "i": 107,
+  "en": "So nice to be out in the country",
+  "cn": "在乡间户外真好。",
+  "score": 0.86
+ },
+ {
+  "i": 108,
+  "en": "They smell wonderful",
+  "cn": "它们闻起来很香。",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "Everything smelled so special",
+  "cn": "一切都闻起来很特别。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "It would have been great if we had been able to bottle the smells",
+  "cn": "要是我们能装瓶气味就好了。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Be a great business if you could do that. We're home now Ellen. We'll take care of it",
+  "cn": "如果你们能做到，那会是门好生意。",
+  "score": 0.57
+ },
+ {
+  "i": 112,
+  "en": "I'll take care of it. What's that? I think we'd better head home. It's getting late. We have a bit of a drive",
+  "cn": "天晚了，我们还要开一段路。",
+  "score": 0.5
+ },
+ {
+  "i": 113,
+  "en": "Well, all your things are inside as you're sleeping back. Thanks, Harry. Say goodbye to Richard. Call you all tomorrow night",
+  "cn": "好all你的事情是inside作为你是睡觉回谢谢Harry.说再见去Richard.Call你all明天夜晚",
+  "score": 0.3
+ },
+ {
+  "i": 114,
+  "en": "I'm so tired. I think I'm over time if I can get to maxis stopped crying",
+  "cn": "我太累了，我想我累过头了。",
+  "score": 0.51
+ },
+ {
+  "i": 115,
+  "en": "What works this oh, where did you get that?",
+  "cn": "哦。哦，你从哪弄来的？",
+  "score": 0.74
+ },
+ {
+  "i": 116,
+  "en": "Sounds so nice",
+  "cn": "听起来真好。",
+  "score": 0.84
+ },
+ {
+  "i": 117,
+  "en": "Think I'm falling asleep",
+  "cn": "我认为",
+  "score": 0.9
+ },
+ {
+  "i": 118,
+  "en": "Night sounds of the country the soothing sounds of the country",
+  "cn": "乡村的舒缓声音。",
+  "score": 0.76
+ }
+]
