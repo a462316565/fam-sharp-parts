@@ -1,0 +1,734 @@
+[
+ {
+  "i": 0,
+  "en": "Where's mom she went to a school board meeting I",
+  "cn": "她去参加教委会议了。",
+  "score": 0.78
+ },
+ {
+  "i": 1,
+  "en": "Don't know how she does it. She sure keeps busy. No, it's important to her",
+  "cn": "我不知道",
+  "score": 0.48
+ },
+ {
+  "i": 2,
+  "en": "There are lots of places to go lots of things to do",
+  "cn": "有很多地方要去，",
+  "score": 0.76
+ },
+ {
+  "i": 3,
+  "en": "She can't sit around and do nothing Philip works late. I",
+  "cn": "她不能闲坐着无所事事。",
+  "score": 0.72
+ },
+ {
+  "i": 4,
+  "en": "Guess you're right. I",
+  "cn": "我想你说得对。",
+  "score": 0.94
+ },
+ {
+  "i": 5,
+  "en": "Wish I had her energy",
+  "cn": "我希望我有她的精力。",
+  "score": 0.97
+ },
+ {
+  "i": 6,
+  "en": "Anybody home we're in here dad. Hi gang. Oh Philip. How's your day?",
+  "cn": "有人家我们是在这里爸爸Hi伙计们哦Philip.如何是你的天",
+  "score": 0.3
+ },
+ {
+  "i": 7,
+  "en": "My day was just fine",
+  "cn": "我这一天挺好。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "So was my night. Oh, so was 10 o'clock. Mm-hmm",
+  "cn": "我晚上也不错。",
+  "score": 0.49
+ },
+ {
+  "i": 9,
+  "en": "I'm starving",
+  "cn": "嗯。我饿坏了。",
+  "score": 0.78
+ },
+ {
+  "i": 10,
+  "en": "Where's mom? She went to a school board meeting. There's a note for you on the refrigerator",
+  "cn": "冰箱上有张给你的便条。",
+  "score": 0.58
+ },
+ {
+  "i": 11,
+  "en": "Oh, you have dinner, Robbie? Yeah, Mike and I had a hamburger at the diner. I came home a little while ago",
+  "cn": "迈克和我在小餐厅吃了汉堡。",
+  "score": 0.53
+ },
+ {
+  "i": 12,
+  "en": "You've been working late almost every night this week dad. Aren't you exhausted?",
+  "cn": "都工作到很晚，爸爸。",
+  "score": 0.53
+ },
+ {
+  "i": 13,
+  "en": "And I'm time to be exhausted",
+  "cn": "我没有",
+  "score": 0.61
+ },
+ {
+  "i": 14,
+  "en": "You and mom having that dinner together with us in almost a full week",
+  "cn": "我没时间累。",
+  "score": 0.62
+ },
+ {
+  "i": 15,
+  "en": "Yeah",
+  "cn": "吃了。",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "I feel bad about us not having dinner with a family, but our schedules are so different either",
+  "cn": "关于我们不能和家人吃饭，",
+  "score": 0.49
+ },
+ {
+  "i": 17,
+  "en": "I'm at the hospital doing paperwork or mom is it a committee meeting? I",
+  "cn": "要么妈妈在开委员会会议。",
+  "score": 0.56
+ },
+ {
+  "i": 18,
+  "en": "Frankly don't know what to do about it",
+  "cn": "坦白说，我不知道该怎么办。",
+  "score": 0.94
+ },
+ {
+  "i": 19,
+  "en": "I'm worried about you and mom",
+  "cn": "我很担心",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "You really have been working too hard",
+  "cn": "你真的太辛苦了。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "Well, I think I've had enough of that sandwich",
+  "cn": "我认为",
+  "score": 0.92
+ },
+ {
+  "i": 22,
+  "en": "You didn't finish it. It's not good to eat before going to bed",
+  "cn": "睡前吃东西不好。",
+  "score": 0.74
+ },
+ {
+  "i": 23,
+  "en": "Cookie can't hurt though",
+  "cn": "不过吃块饼干没事。",
+  "score": 0.9
+ },
+ {
+  "i": 24,
+  "en": "Well, I'm heading off for bed and",
+  "cn": "我要去睡了，",
+  "score": 0.79
+ },
+ {
+  "i": 25,
+  "en": "Good night's sleep. Well, good night",
+  "cn": "嗯，晚安。",
+  "score": 0.61
+ },
+ {
+  "i": 26,
+  "en": "Nice, son. Good night. Dad. I'm going to bed. Good night, Philip",
+  "cn": "好儿子好夜晚爸爸我是将去bed.好夜晚Philip",
+  "score": 0.3
+ },
+ {
+  "i": 27,
+  "en": "Why don't you finish balancing that checkbook? I found another mistake",
+  "cn": "你还没核对完支票簿吗？",
+  "score": 0.54
+ },
+ {
+  "i": 28,
+  "en": "I",
+  "cn": "我",
+  "score": 0.3
+ },
+ {
+  "i": 29,
+  "en": "Will be off to bed myself in a minute. Okay. All right. I'm really concerned about them grandpa",
+  "cn": "我一会儿也去睡。",
+  "score": 0.5
+ },
+ {
+  "i": 30,
+  "en": "concerned about whom about mom and dad",
+  "cn": "担心妈妈和爸爸。",
+  "score": 0.64
+ },
+ {
+  "i": 31,
+  "en": "They hardly ever see each other",
+  "cn": "他们几乎见不到面。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "Dad often works late mom has all these committees. She's on",
+  "cn": "妈妈又有那么多委员会的事。",
+  "score": 0.71
+ },
+ {
+  "i": 33,
+  "en": "What do you propose to do about it? You have that look in your eye?",
+  "cn": "你打算怎么办？",
+  "score": 0.63
+ },
+ {
+  "i": 34,
+  "en": "I don't know, but there must be a way of getting them to spend more time together",
+  "cn": "让他们多花时间在一起。",
+  "score": 0.61
+ },
+ {
+  "i": 35,
+  "en": "quality time",
+  "cn": "高质量的时间。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Reading reading this hour. Uh-huh. Come on Robbie. What are you doing up this late?",
+  "cn": "这么晚你还在做什么？",
+  "score": 0.54
+ },
+ {
+  "i": 37,
+  "en": "Things on my mind care to talk about sure if you don't mind listening",
+  "cn": "如果你不介意听的话。",
+  "score": 0.49
+ },
+ {
+  "i": 38,
+  "en": "Robbie remember me. I'm your mother",
+  "cn": "罗比，罗比，记得我吗？",
+  "score": 0.58
+ },
+ {
+  "i": 39,
+  "en": "If you have something you want to talk about I'm always prepared to listen",
+  "cn": "如果你有什么想谈的，",
+  "score": 0.71
+ },
+ {
+  "i": 40,
+  "en": "You haven't been around much lately",
+  "cn": "你最近不常在家。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "Okay, let's talk",
+  "cn": "好，我们谈谈。",
+  "score": 0.76
+ },
+ {
+  "i": 42,
+  "en": "You and dad are like ships that pass in the night",
+  "cn": "你和爸爸就像夜里擦肩而过的船。",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "Dad works hard and he works late",
+  "cn": "爸爸工作努力，而且工作到很晚。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "You work hard on all your committees and you work late. I thought you were proud of the work. I do I am mom real proud",
+  "cn": "我以为你为我做的事感到骄傲。",
+  "score": 0.5
+ },
+ {
+  "i": 45,
+  "en": "you are one fantastic mom, but",
+  "cn": "你是个了不起的妈妈，",
+  "score": 0.89
+ },
+ {
+  "i": 46,
+  "en": "but",
+  "cn": "但是",
+  "score": 0.3
+ },
+ {
+  "i": 47,
+  "en": "I've been noticing how little quality time you spend with dad and me and the family. I'm concerned",
+  "cn": "在一起的高质量时间太少了。",
+  "score": 0.54
+ },
+ {
+  "i": 48,
+  "en": "I'm concerned",
+  "cn": "我担心。",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "There must be a way that dad and you can spend more time together",
+  "cn": "让你和爸爸多花时间在一起。",
+  "score": 0.75
+ },
+ {
+  "i": 50,
+  "en": "Well, we always talk about taking a vacation together with the family. I",
+  "cn": "一起度假——和家人。",
+  "score": 0.67
+ },
+ {
+  "i": 51,
+  "en": "Think you ought to take a vacation away from the family alone kind of a second honeymoon",
+  "cn": "离开家人度个假——就你们俩。",
+  "score": 0.59
+ },
+ {
+  "i": 52,
+  "en": "It would be wonderful, but our schedules won't allow it I think I have an idea",
+  "cn": "但我们的日程不允许。",
+  "score": 0.52
+ },
+ {
+  "i": 53,
+  "en": "You do yep, I think I have an idea that will bring dad and you together in a more scheduled way",
+  "cn": "你做yep,我认为我有一个主意那将bring爸爸和你一起在一个更多scheduledway",
+  "score": 0.3
+ },
+ {
+  "i": 54,
+  "en": "What is it?",
+  "cn": "更规律地在一起。",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "Well, you know how dad is always talking about the kids in the ward and how important it is for them to be paid attention to yes",
+  "cn": "病房里的孩子们",
+  "score": 0.56
+ },
+ {
+  "i": 56,
+  "en": "Well, and how hard it is because the doctors and nurses are so busy",
+  "cn": "这事有多难？",
+  "score": 0.71
+ },
+ {
+  "i": 57,
+  "en": "How would it be you took some time to work with dad towards solving that problem? I?",
+  "cn": "和爸爸一起解决这个问题，怎么样？",
+  "score": 0.61
+ },
+ {
+  "i": 58,
+  "en": "Don't get it like setting up a regular weekly reading program",
+  "cn": "比如设立一个每周一次的定期阅读项目。",
+  "score": 0.82
+ },
+ {
+  "i": 59,
+  "en": "You and dad you and dr. Philip Stewart going to the Children's Ward once or twice a week and reading to them",
+  "cn": "每周去儿童病房一两次，",
+  "score": 0.6
+ },
+ {
+  "i": 60,
+  "en": "Not a bad idea",
+  "cn": "主意不错，罗比。",
+  "score": 0.8
+ },
+ {
+  "i": 61,
+  "en": "As a matter of fact it fits right in with something. I'm working on right now with the school board committee. What's that?",
+  "cn": "这正好和我在做的事吻合，",
+  "score": 0.57
+ },
+ {
+  "i": 62,
+  "en": "I've been trying to work out a program in the public school that will bring",
+  "cn": "我有曾经尝试去工作出一个计划在这公立学校那将bring",
+  "score": 0.3
+ },
+ {
+  "i": 63,
+  "en": "Parents and teachers together once a week to read to the students their own children really by doing that it will encourage reading",
+  "cn": "给学生读书——其实是他们自己的孩子。",
+  "score": 0.47
+ },
+ {
+  "i": 64,
+  "en": "So it might fit in with a program for reading to the kids in the hospital",
+  "cn": "在医院给孩子们读书的项目结合起来。",
+  "score": 0.62
+ },
+ {
+  "i": 65,
+  "en": "You're right. We'll do it. I'm gonna talk to daddy about it right now",
+  "cn": "我现在就去和爸爸说。",
+  "score": 0.67
+ },
+ {
+  "i": 66,
+  "en": "But dad was so exhausted when he came home from work. Why don't you talk to him about it tomorrow?",
+  "cn": "但爸爸下班回来时已经累坏了。",
+  "score": 0.64
+ },
+ {
+  "i": 67,
+  "en": "You are a very smart",
+  "cn": "你是个非常聪明的年轻人，罗比。",
+  "score": 0.67
+ },
+ {
+  "i": 68,
+  "en": "Won't forget. Well you believe me. I won't it is a great idea, and I promise you I won't forget",
+  "cn": "我保证我不会忘。",
+  "score": 0.48
+ },
+ {
+  "i": 69,
+  "en": "Thank you. I'll be a wonderful morning. Don't the flowers smell wonderful",
+  "cn": "花儿闻起来是不是很香？",
+  "score": 0.56
+ },
+ {
+  "i": 70,
+  "en": "Good morning, Ellen",
+  "cn": "早上好，埃伦。",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "Yes, they do",
+  "cn": "是的，很香。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "That's why I'm reading my paper and having my coffee on the patio this morning. It does smell sweet",
+  "cn": "所以今天早上我在露台上",
+  "score": 0.62
+ },
+ {
+  "i": 73,
+  "en": "How was your school board meeting last night must have come on very late",
+  "cn": "昨晚教委会议怎么样？",
+  "score": 0.68
+ },
+ {
+  "i": 74,
+  "en": "Did you find the sandwich I made for you hmm? Thanks, dear. I was so tired",
+  "cn": "你找到我给你做的三明治了吗？",
+  "score": 0.66
+ },
+ {
+  "i": 75,
+  "en": "I didn't even finish it Philip",
+  "cn": "都没吃完。",
+  "score": 0.85
+ },
+ {
+  "i": 76,
+  "en": "I've been working on a special project with the school board, and I'd like your opinion about it",
+  "cn": "我想听听你的意见。",
+  "score": 0.47
+ },
+ {
+  "i": 77,
+  "en": "What is it?",
+  "cn": "什么项目？",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "I've been trying to find a way to encourage reading",
+  "cn": "鼓励阅读的方法。",
+  "score": 0.63
+ },
+ {
+  "i": 79,
+  "en": "Good luck. Oh",
+  "cn": "祝你好运!",
+  "score": 0.78
+ },
+ {
+  "i": 80,
+  "en": "I think I may have found a way to do it now tell me about it",
+  "cn": "嗯，我觉得我可能找到了方法。",
+  "score": 0.72
+ },
+ {
+  "i": 81,
+  "en": "I work with families every day Ellen. I see how people spend their leisure time young and old",
+  "cn": "我明白了",
+  "score": 0.56
+ },
+ {
+  "i": 82,
+  "en": "mostly watching television",
+  "cn": "大多在看电视。",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "Now that would be okay if and I repeat if",
+  "cn": "如果，我再说一遍，",
+  "score": 0.5
+ },
+ {
+  "i": 84,
+  "en": "People took the time to read I couldn't agree with you more",
+  "cn": "我完全同意。",
+  "score": 0.6
+ },
+ {
+  "i": 85,
+  "en": "The question is how do we get them to read more?",
+  "cn": "我们怎么让他们多阅读？",
+  "score": 0.77
+ },
+ {
+  "i": 86,
+  "en": "I think you're gonna give me the answer to that question you",
+  "cn": "我觉得",
+  "score": 0.74
+ },
+ {
+  "i": 87,
+  "en": "Have that look in your eye I do have an answer Philip or at least I think I do",
+  "cn": "你眼中有那种神情。",
+  "score": 0.46
+ },
+ {
+  "i": 88,
+  "en": "Tell me about it. The plan is a simple one",
+  "cn": "嗯，告诉我。",
+  "score": 0.68
+ },
+ {
+  "i": 89,
+  "en": "Involve the entire family in a reading project",
+  "cn": "计划很简单。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "In the home. Yes in the home, but first in the school rooms",
+  "cn": "是的，在家里。",
+  "score": 0.7
+ },
+ {
+  "i": 91,
+  "en": "Hmm",
+  "cn": "嗯",
+  "score": 0.3
+ },
+ {
+  "i": 92,
+  "en": "interesting",
+  "cn": "但首先在教室里。",
+  "score": 0.71
+ },
+ {
+  "i": 93,
+  "en": "But how do you plan to do that?",
+  "cn": "嗯，有意思。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "By arranging with the public schools to schedule one hour a week to start with",
+  "cn": "和公立学校安排，",
+  "score": 0.66
+ },
+ {
+  "i": 95,
+  "en": "During that time parents are invited to attend and to read along with the children their children",
+  "cn": "邀请家长参加——",
+  "score": 0.62
+ },
+ {
+  "i": 96,
+  "en": "It can go beyond the school system. I guarantee you it would go very well",
+  "cn": "和孩子们一起阅读——他们的孩子。",
+  "score": 0.61
+ },
+ {
+  "i": 97,
+  "en": "In the hospitals. Yes, my patients mostly kids would would love to read and be read to I know so",
+  "cn": "我的病人——大多是孩子——",
+  "score": 0.45
+ },
+ {
+  "i": 98,
+  "en": "Maybe we can experiment with your patients and see how the plan works. I",
+  "cn": "也许我们可以在你的病人身上试验，",
+  "score": 0.65
+ },
+ {
+  "i": 99,
+  "en": "Love the idea. They",
+  "cn": "我喜欢这个想法。",
+  "score": 0.71
+ },
+ {
+  "i": 100,
+  "en": "We will spend more time together",
+  "cn": "这样，",
+  "score": 0.71
+ },
+ {
+  "i": 101,
+  "en": "We just don't see each other anymore",
+  "cn": "我们就能多花时间在一起，埃伦。",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "You and I are very busy",
+  "cn": "我们简直见不到对方了。",
+  "score": 0.78
+ },
+ {
+  "i": 103,
+  "en": "To find time to be together more to do things together more be a wonderful way to account for the patients in the ward",
+  "cn": "去找到时光去是一起更多去做事情一起更多是一个精彩way去账目为了这病人在这病房",
+  "score": 0.3
+ },
+ {
+  "i": 104,
+  "en": "Yes",
+  "cn": "和得到关注对他们有多重要吗？",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "You and I talk about it",
+  "cn": "我们俩商量一下。",
+  "score": 0.89
+ },
+ {
+  "i": 106,
+  "en": "Would you like to read? Mrs. Stewart and I will read a poem by Robert Frost",
+  "cn": "将读一首罗伯特·弗罗斯特的诗。",
+  "score": 0.55
+ },
+ {
+  "i": 107,
+  "en": "Um, it's called stopping by woods on a snowy evening stopping by woods on a snowy evening",
+  "cn": "《雪夜林边小立》。",
+  "score": 0.63
+ },
+ {
+  "i": 108,
+  "en": "By Robert Frost whose woods these are I think I know his house is in the village though",
+  "cn": "我想我认识这片林子的主人。",
+  "score": 0.52
+ },
+ {
+  "i": 109,
+  "en": "He will not see me stopping here to watch his woods fill up with snow",
+  "cn": "看他的林子落满雪。",
+  "score": 0.62
+ },
+ {
+  "i": 110,
+  "en": "My little horse must think it queer to stop without a farmhouse near between the woods and frozen lake",
+  "cn": "我的小马一定觉得奇怪",
+  "score": 0.45
+ },
+ {
+  "i": 111,
+  "en": "the darkest evening of the year",
+  "cn": "一年中最暗的夜晚。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "He gives his harness bells a shake to ask if there's some mistake",
+  "cn": "它摇了摇挽具上的铃铛",
+  "score": 0.63
+ },
+ {
+  "i": 113,
+  "en": "The only other sounds the sweep of easy wind and downy flake",
+  "cn": "微风吹拂、飞雪飘落。",
+  "score": 0.6
+ },
+ {
+  "i": 114,
+  "en": "Woods are lovely dark and deep",
+  "cn": "林子很美，幽暗而深邃，",
+  "score": 0.91
+ },
+ {
+  "i": 115,
+  "en": "But I have promises to keep and miles to go before I sleep",
+  "cn": "还要行数里路才能安睡，",
+  "score": 0.66
+ },
+ {
+  "i": 116,
+  "en": "and miles to go",
+  "cn": "还要行数里路才能安睡。",
+  "score": 0.63
+ },
+ {
+  "i": 117,
+  "en": "That was wonderful grandpa that Robbie, uh, when did you come we've been listening to you both",
+  "cn": "我们一直在听你们俩读。",
+  "score": 0.47
+ },
+ {
+  "i": 118,
+  "en": "These are lucky kids",
+  "cn": "这些孩子真幸运。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Do you enjoy reading together? Well, we may read together aloud at home",
+  "cn": "嗯，我们也许在家里一起大声朗读。",
+  "score": 0.7
+ },
+ {
+  "i": 120,
+  "en": "You were right, Robbie",
+  "cn": "你说得对，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "I know",
+  "cn": "我知道.",
+  "score": 1.0
+ }
+]
