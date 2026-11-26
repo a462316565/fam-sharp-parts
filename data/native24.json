@@ -1,0 +1,1262 @@
+[
+ {
+  "i": 0,
+  "en": "Yeah, they're getting the assembly hall ready for graduation ceremony.",
+  "cn": "是啊，他们在布置礼堂",
+  "score": 0.67
+ },
+ {
+  "i": 1,
+  "en": "So we all got to go home early. Too noisy to study.",
+  "cn": "所以我们都早回家了。",
+  "score": 0.75
+ },
+ {
+  "i": 2,
+  "en": "Well, now that you're here, you can help me with dinner.",
+  "cn": "你可以帮我做晚饭。",
+  "score": 0.62
+ },
+ {
+  "i": 3,
+  "en": "I need those potatoes, uh, peeled and sliced.",
+  "cn": "我需要",
+  "score": 0.93
+ },
+ {
+  "i": 4,
+  "en": "Mom, give me a break.",
+  "cn": "妈妈，饶了我吧。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "Alexandra's coming over to help me study for my math final.",
+  "cn": "亚历山德拉要过来帮我复习数学期末。",
+  "score": 0.92
+ },
+ {
+  "i": 6,
+  "en": "In that case, you can wash the dishes and clean up after dinner.",
+  "cn": "你可以晚饭后洗碗收拾。",
+  "score": 0.84
+ },
+ {
+  "i": 7,
+  "en": "Can I invite Alexandra to stay for dinner?",
+  "cn": "我能",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "Of course.",
+  "cn": "当然.",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Thanks, Mom.",
+  "cn": "谢谢，妈妈。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "You and Alexandra have become good friends, haven't you?",
+  "cn": "成了好朋友，是吧？",
+  "score": 0.78
+ },
+ {
+  "i": 11,
+  "en": "Yes, I like her.",
+  "cn": "是的。我喜欢她。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "She's a terrific person.",
+  "cn": "她是个了不起的人。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "I'm going to miss her when she goes back to Greece.",
+  "cn": "我会想她。",
+  "score": 0.67
+ },
+ {
+  "i": 14,
+  "en": "Would you like to give her a little farewell party?",
+  "cn": "你愿意",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "Mom, that would be terrific.",
+  "cn": "妈妈，那太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "Maybe we could make it a surprise.",
+  "cn": "也许我们可以搞个惊喜派对。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "Oh, I don't know.",
+  "cn": "哦，我不知道。",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Surprise parties don't always work out.",
+  "cn": "惊喜派对不一定都成功。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "Well, we could tell her it's a graduation party for me.",
+  "cn": "是我的毕业派对。",
+  "score": 0.65
+ },
+ {
+  "i": 20,
+  "en": "When Alexandra arrives, will surprise her?",
+  "cn": "亚历山德拉到的时候，",
+  "score": 0.63
+ },
+ {
+  "i": 21,
+  "en": "I suppose that might work.",
+  "cn": "嗯，我想那也许行得通。",
+  "score": 0.88
+ },
+ {
+  "i": 22,
+  "en": "I'd like to give her a nice going away friend.",
+  "cn": "我想送她一份不错的临别礼物。",
+  "score": 0.88
+ },
+ {
+  "i": 23,
+  "en": "Fine.",
+  "cn": "好的。",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "There's only one problem.",
+  "cn": "只有一个问题。",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "What's that?",
+  "cn": "什么？",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "He should have saved some money.",
+  "cn": "我本该存点钱的。",
+  "score": 0.86
+ },
+ {
+  "i": 27,
+  "en": "I'm sure Alexandra would be happy with something simple, Robbie.",
+  "cn": "收到简单的东西也会开心，罗比。",
+  "score": 0.77
+ },
+ {
+  "i": 28,
+  "en": "I know.",
+  "cn": "我知道.",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "But, well, I'd like to give her something nice to remember me by.",
+  "cn": "我想送她点好东西",
+  "score": 0.67
+ },
+ {
+  "i": 30,
+  "en": "Maybe I could borrow some money from you and Dad.",
+  "cn": "也许我能向你和爸爸借点钱。",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "It's all right with me if it's all right with your dad.",
+  "cn": "如果你爸爸同意。",
+  "score": 0.79
+ },
+ {
+  "i": 32,
+  "en": "Thanks, Mom.",
+  "cn": "谢谢，妈妈。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "I'll talk to him.",
+  "cn": "我去和他说。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "Is he still in his office?",
+  "cn": "他还在办公室吗？",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "I think so.",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Thanks, Mom.",
+  "cn": "谢谢，妈妈。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Robbie, good luck.",
+  "cn": "罗比！祝你好运！",
+  "score": 0.89
+ },
+ {
+  "i": 38,
+  "en": "You have the x-rays you wanted, Dr. Stewart.",
+  "cn": "这是你要的X光片，斯图尔特医生。",
+  "score": 0.81
+ },
+ {
+  "i": 39,
+  "en": "Oh, thank you, Wally.",
+  "cn": "哦。谢谢你，莫莉。",
+  "score": 0.77
+ },
+ {
+  "i": 40,
+  "en": "Now, let me check them.",
+  "cn": "现在，让我检查一下。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "Well, I don't see any brakes or fractures.",
+  "cn": "我没看到任何断裂或骨折。",
+  "score": 0.81
+ },
+ {
+  "i": 42,
+  "en": "Go ahead.",
+  "cn": "去领先",
+  "score": 0.3
+ },
+ {
+  "i": 43,
+  "en": "Hi, son.",
+  "cn": "嗨，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "Hi, Dad.",
+  "cn": "谢谢，爸爸。",
+  "score": 0.51
+ },
+ {
+  "i": 45,
+  "en": "Am I interrupting you?",
+  "cn": "嗨，爸爸。我打扰你了吗？",
+  "score": 0.78
+ },
+ {
+  "i": 46,
+  "en": "No, no, no, no.",
+  "cn": "不，不，不，不。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "What's up?",
+  "cn": "什么事？",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Can we talk?",
+  "cn": "我们能谈谈吗？",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "Sure.",
+  "cn": "当然.",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "I need some help.",
+  "cn": "我需要",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "Well, that's what fathers are for.",
+  "cn": "嗯，那正是父亲的作用。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "Well, before I go to college, I have the whole summer.",
+  "cn": "嗯，我上大学前，",
+  "score": 0.66
+ },
+ {
+  "i": 53,
+  "en": "Yes.",
+  "cn": "是的",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "And I'm planning to get a job for the summer.",
+  "cn": "我有一整个暑假……",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "What sort of job?",
+  "cn": "什么样的工作？",
+  "score": 0.85
+ },
+ {
+  "i": 56,
+  "en": "I applied for a job as a lifeguard at the community pool.",
+  "cn": "我申请了社区泳池的救生员。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Sounds pretty good.",
+  "cn": "听起来不错。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Yes.",
+  "cn": "是的?",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "I'll be earning pretty good money if I get it.",
+  "cn": "是的。如果得到的话，我能挣不少钱。",
+  "score": 0.94
+ },
+ {
+  "i": 60,
+  "en": "But right now, I'm kind of short of cash.",
+  "cn": "但现在，我有点缺现金。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "Who is it?",
+  "cn": "谁不缺呢？",
+  "score": 0.57
+ },
+ {
+  "i": 62,
+  "en": "I know my friend Alexander is going back to Greece.",
+  "cn": "我朋友亚历山德拉要回希腊了……",
+  "score": 0.78
+ },
+ {
+  "i": 63,
+  "en": "Nice girl.",
+  "cn": "好女孩。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "We'll all miss her.",
+  "cn": "我们都会想她。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "Mom says we can give her a going away surprise party.",
+  "cn": "妈妈说我们可以给她办个惊喜送别派对。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "And I'd like to get her a nice gift.",
+  "cn": "我想送她一份好礼物……",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "What'd you have in mind?",
+  "cn": "你有什么想法？",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "Well, a wristwatch.",
+  "cn": "嗯，一块手表，",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "So she'll think of me when she looks at the time.",
+  "cn": "这样她看时间时就会想到我。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "Nothing flashy or expensive.",
+  "cn": "不花哨，不贵。",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "Something simple, but a good one.",
+  "cn": "简单的——但要好的。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Sounds fine, Robbie.",
+  "cn": "听起来不错，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Well, I saw a nice watch.",
+  "cn": "嗯，我看中一块表。",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "But I'll need a loan.",
+  "cn": "但我需要借钱。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "If you could lend me the money, I could pay you back out of my lifeguard salary.",
+  "cn": "我可以从救生员工资里还你。",
+  "score": 0.72
+ },
+ {
+  "i": 76,
+  "en": "Well, I guess your mother and I can manage you.",
+  "cn": "嗯，我想你妈妈和我能应付。",
+  "score": 0.89
+ },
+ {
+  "i": 77,
+  "en": "When do you need the money?",
+  "cn": "你什么时候要钱？",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "Would tomorrow be okay?",
+  "cn": "明天行吗？",
+  "score": 0.81
+ },
+ {
+  "i": 79,
+  "en": "My pleasure, son.",
+  "cn": "我的荣幸，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "Oh, and Robbie?",
+  "cn": "哦，对了，罗比……",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Yes.",
+  "cn": "是的.",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "You'll probably want the family car so you can drive her home after the party.",
+  "cn": "派对后送她回家。",
+  "score": 0.67
+ },
+ {
+  "i": 83,
+  "en": "Could I?",
+  "cn": "我可以吗？",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "If you drive.",
+  "cn": "如果你小心驾驶。",
+  "score": 0.72
+ },
+ {
+  "i": 85,
+  "en": "Here.",
+  "cn": "这里",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "Thanks, Dad.",
+  "cn": "我会的。谢谢，爸爸。",
+  "score": 0.64
+ },
+ {
+  "i": 87,
+  "en": "My pleasure.",
+  "cn": "我的荣幸。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "You're okay, Dad.",
+  "cn": "你不错，爸爸。",
+  "score": 0.76
+ },
+ {
+  "i": 89,
+  "en": "You're not so bad yourself, son.",
+  "cn": "你也不赖，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "You ready for the next problem?",
+  "cn": "你准备好下一道题了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "You know what?",
+  "cn": "你知道吗？",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "I can't look at another number.",
+  "cn": "我都不想再看一个数字了。",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "How about a lemonade break?",
+  "cn": "休息一下喝点柠檬水怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "Sure.",
+  "cn": "当然.",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "Oh, by the way, when is your plane reservation for your flight to Athens?",
+  "cn": "你飞雅典的航班预订在什么时候？",
+  "score": 0.81
+ },
+ {
+  "i": 96,
+  "en": "Sunday, why?",
+  "cn": "星期天。怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "Would you be able to come over Saturday night?",
+  "cn": "你愿意",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "I should because packing by then.",
+  "cn": "你应该能收拾完行李。",
+  "score": 0.76
+ },
+ {
+  "i": 99,
+  "en": "My folks are giving me a little graduation party.",
+  "cn": "我父母给我办个小毕业派对。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "Terrific.",
+  "cn": "太好了！",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "I'll pick you up.",
+  "cn": "我去接你。",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "That isn't necessary.",
+  "cn": "不必了。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "My dad's letting me borrow the car.",
+  "cn": "我爸让我借车。",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Oh, well, very nice.",
+  "cn": "哦，那太好了。",
+  "score": 0.65
+ },
+ {
+  "i": 105,
+  "en": "About eight o'clock?",
+  "cn": "八点左右？",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "Eight o'clock is fine.",
+  "cn": "八点行。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Great. It's a date.",
+  "cn": "太好了！就这么定了。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "Who's going to be there?",
+  "cn": "谁会去？",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "Just my friend Mike and a few kids from school.",
+  "cn": "就我朋友迈克和几个学校同学。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "I'm going to miss all of you.",
+  "cn": "我会想你们所有人。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "You've been like a second family to me.",
+  "cn": "你们对我就像第二个家。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "We're going to miss you.",
+  "cn": "我们会想你的。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "Maybe you could come to visit me in Greece.",
+  "cn": "也许你能来希腊看我？",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "I'm counting on it.",
+  "cn": "我指望呢。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "Wonderful.",
+  "cn": "精彩!",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Are you excited about graduating from high school?",
+  "cn": "你对高中毕业激动吗？",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Sure.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "And a little scared.",
+  "cn": "当然",
+  "score": 0.85
+ },
+ {
+  "i": 119,
+  "en": "Scared? Why?",
+  "cn": "害怕？为什么？",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "Aren't you a little scared?",
+  "cn": "你不害怕吗？",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "I was when I first came to the United States.",
+  "cn": "我刚到美国时害怕。",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "I'd never been away from home and I didn't know what it would be like.",
+  "cn": "不知道会是什么样。",
+  "score": 0.67
+ },
+ {
+  "i": 123,
+  "en": "I found out that people are the same everywhere once you get to know them.",
+  "cn": "但后来我发现，一旦你了解他们，",
+  "score": 0.65
+ },
+ {
+  "i": 124,
+  "en": "I'm glad I got to know you.",
+  "cn": "很高兴我认识了你。",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "I'm glad I got to know you and your family.",
+  "cn": "很高兴我认识了你——还有你的家人。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Wouldn't it be nice if we could skip the examinations and get right to the graduation party?",
+  "cn": "如果我们能跳过考试",
+  "score": 0.69
+ },
+ {
+  "i": 128,
+  "en": "It would be very nice.",
+  "cn": "那确实很好。",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "But that isn't the way it works, so...",
+  "cn": "但事情不是那样运作的。",
+  "score": 0.92
+ },
+ {
+  "i": 130,
+  "en": "Night, Robbie. Good night, Mrs. Stewart. Thank you for dinner.",
+  "cn": "晚安，斯图尔特夫人。",
+  "score": 0.52
+ },
+ {
+  "i": 131,
+  "en": "Good night, Alexandra. We'll be all right.",
+  "cn": "晚安，亚历山德拉。",
+  "score": 0.58
+ },
+ {
+  "i": 132,
+  "en": "Yes, the Molinas are waiting for you.",
+  "cn": "是的。莫利纳一家在等我。",
+  "score": 0.86
+ },
+ {
+  "i": 133,
+  "en": "Good night, Alexandra. I'll pick you up on Saturday night, okay?",
+  "cn": "我周六晚去接你，好吗？",
+  "score": 0.71
+ },
+ {
+  "i": 134,
+  "en": "Yes, Ada.",
+  "cn": "是的.",
+  "score": 0.56
+ },
+ {
+  "i": 135,
+  "en": "Really a good friend.",
+  "cn": "她真是个好朋友，是吧？",
+  "score": 0.66
+ },
+ {
+  "i": 136,
+  "en": "Am I going to miss her?",
+  "cn": "我会想她吗？",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "That's what I said.",
+  "cn": "我说的就是这个！",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "You are going to miss her?",
+  "cn": "你会想她。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "I'm going to miss her.",
+  "cn": "她回希腊时",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "And my math teacher.",
+  "cn": "我的数学老师也会想她。",
+  "score": 0.53
+ },
+ {
+  "i": 141,
+  "en": "Right to her?",
+  "cn": "我会想她，",
+  "score": 0.46
+ },
+ {
+  "i": 142,
+  "en": "It's not the same.",
+  "cn": "那不一样。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "How does that look, Rob?",
+  "cn": "看起来怎么样，罗布？",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Great. Ask me the hammer. You got it.",
+  "cn": "太好了！递给我锤子。",
+  "score": 0.63
+ },
+ {
+  "i": 145,
+  "en": "You're sure Alexandra's going to be surprised?",
+  "cn": "你确定亚历山德拉会惊喜？",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "Absolutely. She has no idea that the party isn't her honor.",
+  "cn": "她完全不知道派对是为她办的。",
+  "score": 0.79
+ },
+ {
+  "i": 147,
+  "en": "Millie, did you bring the tapes for dancing?",
+  "cn": "米莉，你带跳舞的磁带了吗？",
+  "score": 0.95
+ },
+ {
+  "i": 148,
+  "en": "They're in my bag.",
+  "cn": "在我包里。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "What did you bring?",
+  "cn": "你带了什么？",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "The mackerel.",
+  "cn": "这mackerel.",
+  "score": 0.3
+ },
+ {
+  "i": 151,
+  "en": "Perfect. Alexandra will love it.",
+  "cn": "完美！亚历山德拉会喜欢的！",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "I can't wait to see her face when she walks in here tonight.",
+  "cn": "我等不及看她今晚走进来时的表情。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "But what about the cake?",
+  "cn": "蛋糕呢？",
+  "score": 0.86
+ },
+ {
+  "i": 154,
+  "en": "My mom's decorating it right now.",
+  "cn": "我妈妈正在装饰。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "Robbie, there's a phone call for you. It's Alexandra. She sounds upset.",
+  "cn": "罗比，有你电话。",
+  "score": 0.65
+ },
+ {
+  "i": 156,
+  "en": "Okay, thanks, Mom. I'll take it in there.",
+  "cn": "我在那里接。",
+  "score": 0.68
+ },
+ {
+  "i": 157,
+  "en": "Hi, Alexandra. Oh, no.",
+  "cn": "嗨，亚历山德拉。",
+  "score": 0.68
+ },
+ {
+  "i": 158,
+  "en": "Let's wait till Robbie gets back from the airport.",
+  "cn": "不，我们等罗比从机场回来。",
+  "score": 0.94
+ },
+ {
+  "i": 159,
+  "en": "Did she say why she had to leave today?",
+  "cn": "她说为什么她得今天走吗？",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "She told Robbie that her flight tomorrow was canceled,",
+  "cn": "她告诉罗比她明天的航班取消了，",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "so she had to take an earlier flight today.",
+  "cn": "所以她得搭今天更早的航班。",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "This is terrible.",
+  "cn": "太糟糕了。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "Well, that must be him.",
+  "cn": "嗯，那一定是他。",
+  "score": 1.0
+ },
+ {
+  "i": 164,
+  "en": "Why is he blowing this horn like that?",
+  "cn": "他为什么那样按喇叭？",
+  "score": 0.9
+ },
+ {
+  "i": 165,
+  "en": "I don't know. Maybe he's angry.",
+  "cn": "也许他生气了。",
+  "score": 0.63
+ },
+ {
+  "i": 166,
+  "en": "Do you think we should take down the decorations?",
+  "cn": "你觉得我们应该撤下装饰吗？",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "We'll just make him sad.",
+  "cn": "那只会让他难过。",
+  "score": 0.82
+ },
+ {
+  "i": 168,
+  "en": "Too late now. We should have done it sooner.",
+  "cn": "我们该早点撤的。",
+  "score": 0.76
+ },
+ {
+  "i": 169,
+  "en": "Oh, here he comes.",
+  "cn": "哦，他来了。",
+  "score": 1.0
+ },
+ {
+  "i": 170,
+  "en": "Hi. How'd it go?",
+  "cn": "怎么样？",
+  "score": 0.83
+ },
+ {
+  "i": 171,
+  "en": "Okay, I guess.",
+  "cn": "还行吧，我猜。",
+  "score": 0.75
+ },
+ {
+  "i": 172,
+  "en": "Especially when Alexandra gave me a surprise.",
+  "cn": "尤其是亚历山德拉给了我一个惊喜……",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "Yeah, what was it?",
+  "cn": "是吗？什么惊喜？",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "This.",
+  "cn": "这个！",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Hi. What happened?",
+  "cn": "嗨！发生什么了？",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "I called my parents from the airport.",
+  "cn": "我从机场给我父母打了电话。",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "When I told them my friends were giving me a party,",
+  "cn": "朋友们给我办派对，",
+  "score": 0.73
+ },
+ {
+  "i": 178,
+  "en": "they insisted that I stay.",
+  "cn": "他们坚持要我留下。",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "So now I'm taking a flight on Monday instead.",
+  "cn": "所以现在我改搭星期一的航班。",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "That's great. Terrific.",
+  "cn": "太好了！棒极了！",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "But how did you know the party was for you?",
+  "cn": "但你怎么知道派对是为我办的？",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "Well, Robbie told me when he gave me this.",
+  "cn": "嗯，罗比送我这个时告诉我的。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "Oh, so pretty.",
+  "cn": "哦，太漂亮了！",
+  "score": 0.8
+ },
+ {
+  "i": 184,
+  "en": "Lovely, Robbie.",
+  "cn": "很可爱，罗比。",
+  "score": 0.77
+ },
+ {
+  "i": 185,
+  "en": "All right. Now we can really start the party.",
+  "cn": "现在我们可以真正开始派对了！",
+  "score": 0.83
+ },
+ {
+  "i": 186,
+  "en": "No, would you mind? I'd like to say something first.",
+  "cn": "我想先说几句。",
+  "score": 0.7
+ },
+ {
+  "i": 187,
+  "en": "You're here.",
+  "cn": "嗯，既然你在这儿，",
+  "score": 0.53
+ },
+ {
+  "i": 188,
+  "en": "I would just like to thank all of you, my friends,",
+  "cn": "我只是想感谢你们所有人，",
+  "score": 0.85
+ },
+ {
+  "i": 189,
+  "en": "who have made my stay in the United States so wonderful,",
+  "cn": "让我的美国之行如此美好。",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "and to Robbie and the Stewart family",
+  "cn": "还有罗比和斯图尔特一家，",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "for opening their home to me.",
+  "cn": "对我敞开家门。",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "We should thank you. You're a real friend.",
+  "cn": "你是个真正的朋友！",
+  "score": 0.6
+ },
+ {
+  "i": 193,
+  "en": "And I also have a little surprise for you, Robbie.",
+  "cn": "我也给你一个小惊喜，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 194,
+  "en": "A little going away present.",
+  "cn": "一个小临别礼物。",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "Open it, please. I think you might be amused.",
+  "cn": "我认为",
+  "score": 0.74
+ },
+ {
+  "i": 197,
+  "en": "Okay. I can't believe it.",
+  "cn": "好。我真不敢相信！",
+  "score": 0.84
+ },
+ {
+  "i": 198,
+  "en": "I guess we were thinking of the same thought.",
+  "cn": "我想我们是想到了一起。",
+  "score": 0.93
+ },
+ {
+  "i": 199,
+  "en": "You had it engraved.",
+  "cn": "你刻了字！",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "Read it, Robbie.",
+  "cn": "念出来，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "In friendship always, Alexandra.",
+  "cn": "「友谊长存。亚历山德拉。」",
+  "score": 1.0
+ },
+ {
+  "i": 202,
+  "en": "I knew we thought alike, but this is too much.",
+  "cn": "我就知道我们想法一样，",
+  "score": 0.61
+ },
+ {
+  "i": 203,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "Right. Let's have some evening.",
+  "cn": "来点音乐吧！",
+  "score": 0.61
+ },
+ {
+  "i": 205,
+  "en": "All right.",
+  "cn": "好的!",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "Miss Hoppe.",
+  "cn": "想念Hoppe.",
+  "score": 0.3
+ },
+ {
+  "i": 207,
+  "en": "Mrs. Stewart.",
+  "cn": "斯图尔特先生……",
+  "score": 0.55
+ },
+ {
+  "i": 208,
+  "en": "May I understand?",
+  "cn": "May我理解",
+  "score": 0.3
+ },
+ {
+  "i": 209,
+  "en": "My pleasure, Doc.",
+  "cn": "我的荣幸，医生。",
+  "score": 0.75
+ }
+]
