@@ -1,0 +1,986 @@
+[
+ {
+  "i": 0,
+  "en": "What are you doing?",
+  "cn": "你在做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "I think I've got them.",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "You think you've got what?",
+  "cn": "你以为你找到了什么？",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "Performing arts.",
+  "cn": "表演艺术——表演艺术中心。",
+  "score": 0.6
+ },
+ {
+  "i": 4,
+  "en": "Performing arts centers.",
+  "cn": "在文化部分，",
+  "score": 0.69
+ },
+ {
+  "i": 5,
+  "en": "I think I've got them all, but I'm not sure.",
+  "cn": "我想我全都找到了，但我不确定。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "In center?",
+  "cn": "在中心",
+  "score": 0.3
+ },
+ {
+  "i": 7,
+  "en": "Home of the Metropolitan Opera, the New York City Ballet, the New York Philharmonic,",
+  "cn": "纽约市芭蕾舞团、纽约爱乐乐团所在地。",
+  "score": 0.7
+ },
+ {
+  "i": 8,
+  "en": "Shubert Alley, the center of the theater on Broadway, and Carnegie Hall, and Kennedy",
+  "cn": "舒伯特小巷，百老汇剧院的中心。",
+  "score": 0.72
+ },
+ {
+  "i": 9,
+  "en": "Center for the Performing Arts in Washington.",
+  "cn": "还有华盛顿的肯尼迪表演艺术中心。",
+  "score": 0.82
+ },
+ {
+  "i": 10,
+  "en": "And the Music Center in Los Angeles.",
+  "cn": "还有洛杉矶的音乐中心。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "And the others.",
+  "cn": "还有其他。我确实全都有了。",
+  "score": 0.52
+ },
+ {
+  "i": 12,
+  "en": "I do have it all.",
+  "cn": "拍摄城里的街头表演，",
+  "score": 0.49
+ },
+ {
+  "i": 13,
+  "en": "You have been working on this for some time, Richard.",
+  "cn": "你做这个有一阵子了，理查德。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "I'm glad you feel you've finally put it all together.",
+  "cn": "我很高兴你终于觉得把它们整合完成了。",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "What now?",
+  "cn": "现在呢？",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "All for the hard part.",
+  "cn": "现在是困难的部分。",
+  "score": 0.78
+ },
+ {
+  "i": 17,
+  "en": "Oh, you think you're going to have a hard time getting the album published?",
+  "cn": "哦，你觉得会很困难",
+  "score": 0.74
+ },
+ {
+  "i": 18,
+  "en": "Well, it won't be easy.",
+  "cn": "嗯，不会容易。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "So?",
+  "cn": "如此",
+  "score": 0.3
+ },
+ {
+  "i": 20,
+  "en": "What do you think you're going to do?",
+  "cn": "那你打算怎么做？",
+  "score": 0.93
+ },
+ {
+  "i": 21,
+  "en": "What was the name?",
+  "cn": "什么原本是这名字",
+  "score": 0.3
+ },
+ {
+  "i": 22,
+  "en": "Harvey Carlson ring a bell?",
+  "cn": "哈维·卡尔森这个名字有印象吗？",
+  "score": 0.72
+ },
+ {
+  "i": 23,
+  "en": "Oh, yes.",
+  "cn": "哦是",
+  "score": 0.3
+ },
+ {
+  "i": 24,
+  "en": "Harvey Carlson, I remember.",
+  "cn": "哦，对！哈维·卡尔森！我记得。",
+  "score": 0.79
+ },
+ {
+  "i": 25,
+  "en": "He said I should call him.",
+  "cn": "他说我应该给他打电话。",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "He is the publisher of the Carlson Publishing Company.",
+  "cn": "他是卡尔森出版公司的老板。",
+  "score": 0.85
+ },
+ {
+  "i": 27,
+  "en": "He said they need a new book of photographs, and he really liked my concept.",
+  "cn": "他说他们需要一本新的摄影集，",
+  "score": 0.7
+ },
+ {
+  "i": 28,
+  "en": "So why don't you call him in the morning?",
+  "cn": "那你何不早上给他打电话？",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "Do you think I have enough to show him?",
+  "cn": "你觉得我有足够的作品给他看吗？",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "I've been through every section with you, Richard.",
+  "cn": "我和你一起看过了每个部分，理查德。",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "It's quite complete.",
+  "cn": "相当完整了。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "And now that you're satisfied with the performing arts section, I think you should show it",
+  "cn": "既然你对表演艺术部分满意了，",
+  "score": 0.74
+ },
+ {
+  "i": 33,
+  "en": "to Mr. Carlson.",
+  "cn": "你好，卡尔森先生。",
+  "score": 0.7
+ },
+ {
+  "i": 34,
+  "en": "You're right.",
+  "cn": "你是对",
+  "score": 0.3
+ },
+ {
+  "i": 35,
+  "en": "My family album, USA, feels right.",
+  "cn": "你说得对。《走遍美国》感觉不错。",
+  "score": 0.68
+ },
+ {
+  "i": 36,
+  "en": "I'll call in the morning and set up an appointment to see him.",
+  "cn": "我早上就打电话，约个时间见他。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Get some sleep.",
+  "cn": "来吧。我们睡觉去。",
+  "score": 0.6
+ },
+ {
+  "i": 38,
+  "en": "Is it too early to call Mr. Carlson?",
+  "cn": "现在给卡尔森先生打电话太早了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "Seven after nine?",
+  "cn": "Sevenafternine?",
+  "score": 0.3
+ },
+ {
+  "i": 40,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 41,
+  "en": "I'm sure he's in his office.",
+  "cn": "九点零七分？不。我确定他在办公室。",
+  "score": 0.68
+ },
+ {
+  "i": 42,
+  "en": "The number is 555-7532.",
+  "cn": "这number是555-7532.",
+  "score": 0.3
+ },
+ {
+  "i": 43,
+  "en": "555-7532.",
+  "cn": "555-7532.",
+  "score": 0.3
+ },
+ {
+  "i": 44,
+  "en": "Hello, Mr. Carlson, please.",
+  "cn": "你好。请找卡尔森先生。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "Mr. Carlson is busy at the moment.",
+  "cn": "卡尔森先生此刻正忙。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "May I help you?",
+  "cn": "May我帮助你",
+  "score": 0.3
+ },
+ {
+  "i": 47,
+  "en": "I'd like to make an appointment with him.",
+  "cn": "我想和他约个时间。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "And your name is?",
+  "cn": "您叫……？",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "My name is Richard Stewart.",
+  "cn": "我叫理查德·斯图尔特。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "He told me to call him about my project, Family Album USA.",
+  "cn": "他让我打电话谈我的项目，",
+  "score": 0.79
+ },
+ {
+  "i": 51,
+  "en": "One moment, please.",
+  "cn": "《走遍美国》。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "I guess they're trying to set up an appointment for me.",
+  "cn": "怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "Mr. Stewart, I just spoke to Mr. Carlson.",
+  "cn": "我猜他们在试着给我约时间。",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "He would like to see you, but the only time he's available this week is tomorrow morning at 10 o'clock.",
+  "cn": "他想见你。",
+  "score": 0.51
+ },
+ {
+  "i": 55,
+  "en": "Thanks.",
+  "cn": "谢谢.",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "Thanks a lot.",
+  "cn": "谢谢",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Well, it's done tomorrow morning in a publisher's office.",
+  "cn": "谢谢。非常感谢。再见。",
+  "score": 0.9
+ },
+ {
+  "i": 58,
+  "en": "Oh, it's so exciting, isn't it, Richard?",
+  "cn": "哦它是如此exciting,不是它Richard?",
+  "score": 0.3
+ },
+ {
+  "i": 59,
+  "en": "Well, finally, a publisher will see my work.",
+  "cn": "嗯，搞定了。明天早上在出版商办公室。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "Good morning.",
+  "cn": "早上好.",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "Good morning.",
+  "cn": "星期一早上。",
+  "score": 0.59
+ },
+ {
+  "i": 62,
+  "en": "My name is Richard Stewart.",
+  "cn": "早上好。我叫理查德·斯图尔特。",
+  "score": 0.77
+ },
+ {
+  "i": 63,
+  "en": "I'm here to see Mr. Carlson.",
+  "cn": "我来见卡尔森先生。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "Please sit down, Mr. Stewart.",
+  "cn": "请坐，斯图尔特先生。卡尔森先生马上就见您。",
+  "score": 0.54
+ },
+ {
+  "i": 65,
+  "en": "Mr. Carlson will be with you shortly.",
+  "cn": "正如我说的，他马上就见您。",
+  "score": 0.56
+ },
+ {
+  "i": 66,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "Excuse me, Mr. Carlson, but Richard Stewart is here for his 10 o'clock appointment with you.",
+  "cn": "和您约了十点。",
+  "score": 0.49
+ },
+ {
+  "i": 68,
+  "en": "Okay, thank you.",
+  "cn": "好的。谢谢。",
+  "score": 0.75
+ },
+ {
+  "i": 69,
+  "en": "Like I said, he'll be with you shortly.",
+  "cn": "喜欢我说he'll是和你shortly.",
+  "score": 0.3
+ },
+ {
+  "i": 70,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "Yes, Mr. Carlson.",
+  "cn": "是的，卡尔森先生。是的，先生。",
+  "score": 0.77
+ },
+ {
+  "i": 72,
+  "en": "Yes, sir.",
+  "cn": "是先生",
+  "score": 0.3
+ },
+ {
+  "i": 73,
+  "en": "He's ready for you, Mr. Stewart.",
+  "cn": "他可以见您了，斯图尔特先生。",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "In there?",
+  "cn": "谢谢。在里面？",
+  "score": 0.57
+ },
+ {
+  "i": 76,
+  "en": "Yes, in there.",
+  "cn": "是的。在里面。祝您好运。",
+  "score": 0.66
+ },
+ {
+  "i": 77,
+  "en": "Good luck.",
+  "cn": "去干吧。再见。",
+  "score": 0.49
+ },
+ {
+  "i": 78,
+  "en": "This is a crazy morning.",
+  "cn": "今早真是忙疯了。你好，理查德。",
+  "score": 0.75
+ },
+ {
+  "i": 79,
+  "en": "Hello, Richard.",
+  "cn": "Hello,Richard.",
+  "score": 0.3
+ },
+ {
+  "i": 80,
+  "en": "Hello, Mr. Carlson.",
+  "cn": "打扰一下，卡尔森先生，",
+  "score": 0.56
+ },
+ {
+  "i": 81,
+  "en": "Sit down, sit down.",
+  "cn": "坐，坐。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Thank you for seeing me on such short notice.",
+  "cn": "谢谢你",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "I hope you've brought your pictures along.",
+  "cn": "我希望",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "I see that you have.",
+  "cn": "我看你带来了。我们直接看吧。",
+  "score": 0.58
+ },
+ {
+  "i": 85,
+  "en": "Let's get right to it.",
+  "cn": "让我们得到对去它",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "We need a new coffee table book.",
+  "cn": "我们需要一本新的咖啡桌书，",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "And a book of photos about the United States still feels right.",
+  "cn": "一本关于美国的摄影集仍然合适。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "Okay, let's take a look.",
+  "cn": "好的，我们看看。",
+  "score": 0.84
+ },
+ {
+  "i": 89,
+  "en": "Hamley Album USA.",
+  "cn": "《走遍美国》",
+  "score": 0.55
+ },
+ {
+  "i": 90,
+  "en": "It's an excellent time.",
+  "cn": "这个书名很好。",
+  "score": 0.8
+ },
+ {
+  "i": 91,
+  "en": "If you had to describe the book in one sentence, how would you do it?",
+  "cn": "如果让你用一句话描述这本书，",
+  "score": 0.78
+ },
+ {
+  "i": 92,
+  "en": "Well, I'd describe it as a book which is a portrait of the United States.",
+  "cn": "嗯，我会把它描述为一本……",
+  "score": 0.7
+ },
+ {
+  "i": 93,
+  "en": "The places, the people, mostly the people.",
+  "cn": "地方、人——主要是人。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "The things they do, the ways they live, the places they visit, the landmarks.",
+  "cn": "他们做的事，他们的生活方式，",
+  "score": 0.67
+ },
+ {
+  "i": 95,
+  "en": "A photographic journey.",
+  "cn": "一次摄影之旅。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "These are wonderful.",
+  "cn": "这些很棒——",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "These photos in your performing arts section.",
+  "cn": "你表演艺术部分的这些照片。",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "Carnegie Hall, Lincoln Center.",
+  "cn": "卡内基音乐厅，林肯中心。",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "I'm glad you like them.",
+  "cn": "我很高兴你喜欢。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "I do, but...",
+  "cn": "我确实喜欢，但是……",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "But?",
+  "cn": "但是？",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "There's something missing.",
+  "cn": "少了点什么。你眼光不错，理查德。",
+  "score": 0.51
+ },
+ {
+  "i": 103,
+  "en": "You've got a good eye, Richard.",
+  "cn": "干得漂亮！好作品，理查德！",
+  "score": 0.49
+ },
+ {
+  "i": 104,
+  "en": "You're a terrific photographer.",
+  "cn": "你是个出色的摄影师。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "But before I can publish your work, I need to meet with my marketing department.",
+  "cn": "我需要",
+  "score": 0.66
+ },
+ {
+  "i": 106,
+  "en": "And you've got to do one more thing.",
+  "cn": "我需要和市场部开会，",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "And what's that, Mr. Carlson?",
+  "cn": "而且你得再做一件事。",
+  "score": 0.87
+ },
+ {
+  "i": 108,
+  "en": "In the section on culture, you've included performing arts centers,",
+  "cn": "什么事，卡尔森先生？",
+  "score": 0.53
+ },
+ {
+  "i": 109,
+  "en": "but you've left out street performance.",
+  "cn": "你包括了表演艺术中心，",
+  "score": 0.83
+ },
+ {
+  "i": 110,
+  "en": "The musicians, the dancers, in the parks and on the streets.",
+  "cn": "但漏掉了街头表演。那些哑剧演员。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Richard, if you go out and photograph street performances in the city, you'll have it.",
+  "cn": "理查德，如果你出去，",
+  "score": 0.61
+ },
+ {
+  "i": 112,
+  "en": "That is a great idea.",
+  "cn": "你就成了。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "The performing arts centers and the street performances.",
+  "cn": "那是个好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "I'll do it.",
+  "cn": "表演艺术中心和街头表演。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "If you do it, I'll publish your work.",
+  "cn": "我会做的。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Are you serious?",
+  "cn": "如果你做了，我就出版你的作品。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "I've never been more serious.",
+  "cn": "你是认真的？",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "When do you think you can return with street performances?",
+  "cn": "我从没这么认真过。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Um, a couple of weeks.",
+  "cn": "你觉得什么时候能带着街头表演回来？",
+  "score": 0.87
+ },
+ {
+  "i": 120,
+  "en": "If they're as good as the rest of these pictures, it's a deal.",
+  "cn": "几周。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "You won't be disappointed, Mr. Carlson. Thanks.",
+  "cn": "如果它们和其余照片一样好，就成交。",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "Goodbye, Richard, and good luck. See you in two weeks.",
+  "cn": "你不会失望的，卡尔森先生。谢谢。",
+  "score": 0.92
+ },
+ {
+  "i": 123,
+  "en": "Goodbye, Mr. Carlson. Thanks.",
+  "cn": "再见，理查德，祝你好运。两周后见。",
+  "score": 0.79
+ },
+ {
+  "i": 124,
+  "en": "So, if you like the street performance photos, you'll really publish Family Album USA.",
+  "cn": "再见，卡尔森先生。谢谢。",
+  "score": 0.64
+ },
+ {
+  "i": 125,
+  "en": "When I say something, I mean it.",
+  "cn": "你真的会出版《走遍美国》？",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Go to work. Goodbye.",
+  "cn": "我说话算话。",
+  "score": 0.78
+ },
+ {
+  "i": 127,
+  "en": "Goodbye.",
+  "cn": "再见",
+  "score": 0.3
+ },
+ {
+  "i": 128,
+  "en": "It was two weeks, and I did it.",
+  "cn": "两周。我说过两周内能完成，我做到了。",
+  "score": 0.59
+ },
+ {
+  "i": 129,
+  "en": "The pictures you've taken are fabulous, Richard.",
+  "cn": "你拍的照片太棒了，理查德。",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "Mr. Carlson will love them.",
+  "cn": "卡尔森先生会喜欢的。",
+  "score": 1.0
+ },
+ {
+  "i": 131,
+  "en": "Monday morning.",
+  "cn": "星期一早晨",
+  "score": 0.3
+ },
+ {
+  "i": 132,
+  "en": "I'm going to show him the photos on Monday morning.",
+  "cn": "我星期一早上给他看照片。",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "I can't wait.",
+  "cn": "我等不及了！",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "I'm very proud of you. You really did a beautiful job.",
+  "cn": "我真为你骄傲。你做得真漂亮。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "I know he will love the new photographs for your book.",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 136,
+  "en": "Yeah. I really did do a good job, didn't I?",
+  "cn": "是啊。我确实做得不错，对吧？",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "Hey, you know, there's still some film left on this roll,",
+  "cn": "嘿，你知道吗？这卷胶卷还剩一些，",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "and there's one person I haven't photographed in a long time.",
+  "cn": "有个人我已经很久没拍过了。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "Who?",
+  "cn": "谁？",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "You.",
+  "cn": "你。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "Richard, I haven't brushed my...",
+  "cn": "理查德！我都没梳头。理查德，",
+  "score": 0.82
+ },
+ {
+  "i": 142,
+  "en": "You look great!",
+  "cn": "你看起来棒极了！",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "It's not fair, Richard. I'm not even ready.",
+  "cn": "这不公平，理查德。我都没准备好。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Oh, that's wonderful. That's wonderful.",
+  "cn": "哦，太棒了！太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "Thanks. Thanks.",
+  "cn": "谢谢.",
+  "score": 0.78
+ },
+ {
+  "i": 146,
+  "en": "They get better and better.",
+  "cn": "越来越好。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "Thanks a lot.",
+  "cn": "是明天早上十点。",
+  "score": 0.6
+ },
+ {
+  "i": 148,
+  "en": "This is sensational.",
+  "cn": "太惊人了！",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "Yeah, thanks.",
+  "cn": "是啊。谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "I'm so glad you like them so much.",
+  "cn": "我很高兴你这么喜欢。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Like them?",
+  "cn": "喜欢them?",
+  "score": 0.3
+ },
+ {
+  "i": 152,
+  "en": "They represent your best work.",
+  "cn": "喜欢？它们代表了你最好的作品。",
+  "score": 0.8
+ },
+ {
+  "i": 153,
+  "en": "Really?",
+  "cn": "真的？",
+  "score": 1.0
+ },
+ {
+  "i": 154,
+  "en": "Absolutely.",
+  "cn": "绝对。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "You do, payment waiting for you first thing in the morning.",
+  "cn": "明天一早就给你。",
+  "score": 0.58
+ },
+ {
+  "i": 156,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.3
+ },
+ {
+  "i": 157,
+  "en": "And while you're here, I would like to introduce you to your editor,",
+  "cn": "我想把你介绍给你的编辑。",
+  "score": 0.75
+ },
+ {
+  "i": 158,
+  "en": "and I want you to meet the people in the art department.",
+  "cn": "我也想让你见见美术部的人。",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "I'll set up an appointment with the marketing team.",
+  "cn": "我会和市场部的人约个时间。",
+  "score": 0.87
+ },
+ {
+  "i": 160,
+  "en": "When do you think we'll be through?",
+  "cn": "你觉得我们什么时候能结束？",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "About...",
+  "cn": "关于",
+  "score": 0.3
+ },
+ {
+  "i": 162,
+  "en": "I can't wait to tell Marilyn.",
+  "cn": "我等不及要告诉玛丽莲！",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "I can't wait to tell Marilyn.",
+  "cn": "我不能等去告诉Marilyn.",
+  "score": 0.3
+ }
+]
