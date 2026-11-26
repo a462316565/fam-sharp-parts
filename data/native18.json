@@ -1,0 +1,1448 @@
+[
+ {
+  "i": 0,
+  "en": "I don't believe it.",
+  "cn": "我真不敢相信！",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "What's wrong?",
+  "cn": "怎么了?",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "Carter Boswell.",
+  "cn": "卡特·博斯韦尔！",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "Who's Carter Boswell?",
+  "cn": "卡特·博斯韦尔是谁？",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "He's running for the school board,",
+  "cn": "他竞选教育委员会。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "the elections next month.",
+  "cn": "选举下个月。",
+  "score": 0.83
+ },
+ {
+  "i": 6,
+  "en": "What's wrong with wanting to be on the school board?",
+  "cn": "怎么了",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "Nothing.",
+  "cn": "没什么。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "But he wants to cut the school budget.",
+  "cn": "但他要削减学校预算！",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Maybe he needs cutting.",
+  "cn": "也许确实需要削减。",
+  "score": 0.79
+ },
+ {
+  "i": 10,
+  "en": "Cutting the budget is fine, but he wants to do it",
+  "cn": "削减预算可以，",
+  "score": 0.6
+ },
+ {
+  "i": 11,
+  "en": "by cutting all the cultural programs.",
+  "cn": "所有文化项目来实现。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "No music, no dance, no concert, no stage presentations.",
+  "cn": "没有音乐会，没有舞台演出。",
+  "score": 0.74
+ },
+ {
+  "i": 13,
+  "en": "Why does he want to do that?",
+  "cn": "他为什么要这么做？",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "He says it's to save the taxpayers money.",
+  "cn": "他说这是为了给纳税人省钱，",
+  "score": 0.9
+ },
+ {
+  "i": 15,
+  "en": "And I think he believes that the taxpayers will vote for him",
+  "cn": "如果他在文化项目上少花钱，",
+  "score": 0.68
+ },
+ {
+  "i": 16,
+  "en": "if he spends less on the cultural programs.",
+  "cn": "纳税人就会投他的票。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "He's probably right.",
+  "cn": "他可能是对的。",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Lots of people want their taxes used",
+  "cn": "很多人希望他们的税收",
+  "score": 0.9
+ },
+ {
+  "i": 19,
+  "en": "for new books and new paint jobs in the schoolrooms.",
+  "cn": "和教室的重新粉刷。",
+  "score": 0.7
+ },
+ {
+  "i": 20,
+  "en": "Maybe some of us would like to pay a little bit more",
+  "cn": "也许我们中有些人愿意多付一点，",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "and keep the cultural programs for our kids?",
+  "cn": "为孩子们保留文化项目。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "Well, I'm not sure, Ellen.",
+  "cn": "嗯，我不确定。埃伦。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "I hear it from my patients.",
+  "cn": "我从病人那里听到的。",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "Lots of people are tired of higher taxes.",
+  "cn": "很多人厌倦了越来越高的税。",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "I know.",
+  "cn": "我知道,",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "But if Boswell wins, he'll be an important decision maker",
+  "cn": "他就会成为教委里",
+  "score": 0.71
+ },
+ {
+  "i": 27,
+  "en": "on the school board.",
+  "cn": "重要的决策者，",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "And he doesn't know anything about our children's education.",
+  "cn": "而他对",
+  "score": 0.61
+ },
+ {
+  "i": 29,
+  "en": "Who's running against him?",
+  "cn": "谁和他竞选？",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "Nobody.",
+  "cn": "没人。",
+  "score": 0.3
+ },
+ {
+  "i": 31,
+  "en": "That's the problem.",
+  "cn": "没人。这就是问题所在。",
+  "score": 0.8
+ },
+ {
+  "i": 32,
+  "en": "Well, it sounds to me like Carter Boswell",
+  "cn": "嗯，听起来卡特·博斯韦尔",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "is going to win the seat on the board.",
+  "cn": "会赢得这个席位。",
+  "score": 0.93
+ },
+ {
+  "i": 34,
+  "en": "Not if I can stop him.",
+  "cn": "哦，只要我能阻止他！",
+  "score": 0.9
+ },
+ {
+  "i": 35,
+  "en": "And how are you going to stop him?",
+  "cn": "那你要怎么阻止他？",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Maybe I'll run against him.",
+  "cn": "也许我出来和他竞选。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Well, you've got my vote.",
+  "cn": "嗯，我投你一票。",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "I'm serious, Philip.",
+  "cn": "我是认真的，菲利普。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "Why shouldn't I run?",
+  "cn": "我为什么不应该竞选？",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "Why shouldn't you run for what, Mom?",
+  "cn": "你不应该竞选什么，妈妈？",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "Your mother is thinking of running for the school board.",
+  "cn": "竞选教委。",
+  "score": 0.6
+ },
+ {
+  "i": 42,
+  "en": "Hey, that's terrific, Mom.",
+  "cn": "嘿，太棒了，妈妈！",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "Against Carter Boswell?",
+  "cn": "对卡特·博斯韦尔？",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "Great.",
+  "cn": "太好了!",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "Well, if I run for office, the voters",
+  "cn": "嗯，如果我竞选，",
+  "score": 0.79
+ },
+ {
+  "i": 46,
+  "en": "will have a clear choice.",
+  "cn": "选民会有明确的选择。",
+  "score": 0.77
+ },
+ {
+  "i": 47,
+  "en": "I stand for everything Boswell doesn't.",
+  "cn": "我代表博斯韦尔所反对的一切。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "I think a lot of people will vote for you",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "against Boswell, Ellen.",
+  "cn": "反对博斯韦尔，会有很多人投你，埃伦。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "I'll vote for you.",
+  "cn": "我投你。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "Will you help me if I do run?",
+  "cn": "你会",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "Absolutely.",
+  "cn": "如果我竞选，你愿意帮我吗？",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "The trouble is, it takes a little bit of money",
+  "cn": "问题是，",
+  "score": 0.6
+ },
+ {
+  "i": 54,
+  "en": "to run a campaign.",
+  "cn": "在短期竞选里，",
+  "score": 0.5
+ },
+ {
+  "i": 55,
+  "en": "I think you can make a difference, Ellen.",
+  "cn": "竞选需要一些钱。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "And in a short campaign, you wouldn't need as much money.",
+  "cn": "你不需要那么多钱。",
+  "score": 0.65
+ },
+ {
+  "i": 57,
+  "en": "You know something, Ellen?",
+  "cn": "你知道吗，埃伦？",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Why not give the people of Riverdale a clear choice?",
+  "cn": "何不给里弗代尔的人一个明确的选择？",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "I'm with you.",
+  "cn": "我支持你。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "You can make a difference.",
+  "cn": "你能有所作为。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "Mr. Maxwell.",
+  "cn": "麦克斯韦先生？",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "Yes.",
+  "cn": "是的.",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "Charles Maxwell.",
+  "cn": "是的，查尔斯·麦克斯韦。",
+  "score": 0.8
+ },
+ {
+  "i": 64,
+  "en": "My name is Ellen Stewart.",
+  "cn": "我叫埃伦·斯图尔特。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "Hello.",
+  "cn": "你好.",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "Please, sit down.",
+  "cn": "请坐。",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "You asked to see me.",
+  "cn": "你要见我。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "What would you like to see me about?",
+  "cn": "你想和我谈什么？",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "I'd like your help.",
+  "cn": "我希望得到你的帮助。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "Editor of the most influential newspaper in Riverdale.",
+  "cn": "我是里弗代尔最有影响力的报纸的编辑。",
+  "score": 0.93
+ },
+ {
+  "i": 71,
+  "en": "Actually, it's the only newspaper.",
+  "cn": "其实，这是唯一的报纸。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "A lot of people would like my help.",
+  "cn": "很多人都想要我的帮助。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Do you have a story?",
+  "cn": "你有新闻吗？",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "I'm planning to run for the school board.",
+  "cn": "我打算竞选教委。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "Against Carter Boswell?",
+  "cn": "对卡特·博斯韦尔？",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Yes.",
+  "cn": "是的",
+  "score": 0.3
+ },
+ {
+  "i": 77,
+  "en": "Well, that is news.",
+  "cn": "嗯，这可是新闻。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "Will you announce that I'm running?",
+  "cn": "你会",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "Sure.",
+  "cn": "理查德：当然。",
+  "score": 0.5
+ },
+ {
+  "i": 80,
+  "en": "But I need some information.",
+  "cn": "但我需要一些信息。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Of course.",
+  "cn": "当然.",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Why will the voters vote for you against Boswell,",
+  "cn": "为什么选民会投你而不投博斯韦尔，",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "Mrs. Stewart?",
+  "cn": "斯图尔特夫人？",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "Because I care.",
+  "cn": "因为我关心。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "Vote for Ellen Stewart.",
+  "cn": "「投埃伦·斯图尔特一票。她关心。」",
+  "score": 0.76
+ },
+ {
+  "i": 86,
+  "en": "She cares.",
+  "cn": "她关心",
+  "score": 0.3
+ },
+ {
+  "i": 87,
+  "en": "Not a bad slogan.",
+  "cn": "口号不错。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "But what do you care about?",
+  "cn": "但你关心什么？",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "I care about the children of our town.",
+  "cn": "嗯，我关心镇上的孩子们。",
+  "score": 0.92
+ },
+ {
+  "i": 90,
+  "en": "I don't want them to grow up without cultural programs",
+  "cn": "我不想他们成长",
+  "score": 0.69
+ },
+ {
+  "i": 91,
+  "en": "in our school.",
+  "cn": "时学校没有文化项目。",
+  "score": 0.5
+ },
+ {
+  "i": 92,
+  "en": "Do you have a plan?",
+  "cn": "你有方案吗？",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "I want our children to learn more",
+  "cn": "我想要",
+  "score": 0.89
+ },
+ {
+  "i": 94,
+  "en": "than reading, writing, and arithmetic.",
+  "cn": "我希望我们的孩子学到的",
+  "score": 0.89
+ },
+ {
+  "i": 95,
+  "en": "I want to keep the after-school programs, the music,",
+  "cn": "不仅是阅读、写作和算术。",
+  "score": 0.89
+ },
+ {
+  "i": 96,
+  "en": "the concerts.",
+  "cn": "我想保留课后项目——",
+  "score": 0.69
+ },
+ {
+  "i": 97,
+  "en": "It's not a bad plan.",
+  "cn": "音乐、音乐会。",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "But who's going to pay for all of this?",
+  "cn": "方案不错。",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "We are.",
+  "cn": "但谁来为此付费？",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "The citizens of Riverdale, of course.",
+  "cn": "我们。",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "I plan to get help from the businessmen",
+  "cn": "当然是里弗代尔的市民。",
+  "score": 0.63
+ },
+ {
+  "i": 102,
+  "en": "and the corporations of Riverdale.",
+  "cn": "和这公司的Riverdale.",
+  "score": 0.3
+ },
+ {
+  "i": 103,
+  "en": "That's fair enough.",
+  "cn": "我打算寻求帮助。",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Exactly what do you want from me, Mrs. Stewart?",
+  "cn": "这很合理。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "You don't know me.",
+  "cn": "你究竟想从我这里得到什么，斯图尔特夫人？",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "I can't expect you to take my side against Boswell.",
+  "cn": "你不认识我。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "But I do need some publicity so that the people of our town",
+  "cn": "但我确实需要一些宣传，",
+  "score": 0.62
+ },
+ {
+  "i": 108,
+  "en": "know that I'm running for office",
+  "cn": "这样镇上的人",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "and that I care about our children.",
+  "cn": "就知道我在竞选，",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "Fair enough.",
+  "cn": "而且我关心我们的孩子。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "I certainly can print the news.",
+  "cn": "合理。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "And you are now making news.",
+  "cn": "我当然可以刊登这则新闻。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "Here are the flyers.",
+  "cn": "爷爷：传单来了，刚出炉！",
+  "score": 0.48
+ },
+ {
+  "i": 114,
+  "en": "Hot off the press.",
+  "cn": "热off这印刷",
+  "score": 0.3
+ },
+ {
+  "i": 115,
+  "en": "Looks good.",
+  "cn": "埃伦：看起来不错。简洁。",
+  "score": 0.56
+ },
+ {
+  "i": 116,
+  "en": "Simple.",
+  "cn": "简单",
+  "score": 0.3
+ },
+ {
+  "i": 117,
+  "en": "Right over here, Grandpa.",
+  "cn": "对越过这里Grandpa.",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "You fold the flyers.",
+  "cn": "爷爷：我折传单。",
+  "score": 0.52
+ },
+ {
+  "i": 119,
+  "en": "Richard and I will put them into the envelopes.",
+  "cn": "玛丽莲：就在那边，爷爷。你折传单，理查德和我把它们装进信封。",
+  "score": 0.59
+ },
+ {
+  "i": 120,
+  "en": "We finished addressing over 300 envelopes.",
+  "cn": "理查德：我们写完了三百多个信封的地址。",
+  "score": 0.68
+ },
+ {
+  "i": 121,
+  "en": "Need another box?",
+  "cn": "爷爷：再要一盒吗？",
+  "score": 0.78
+ },
+ {
+  "i": 122,
+  "en": "Good work, gang.",
+  "cn": "埃伦：干得好，伙计们。",
+  "score": 0.79
+ },
+ {
+  "i": 123,
+  "en": "Hi, this is Mike Johnson.",
+  "cn": "Hi,这是MikeJohnson.",
+  "score": 0.3
+ },
+ {
+  "i": 124,
+  "en": "Can I speak with Mr. and Mrs. Anderson?",
+  "cn": "迈克：嗨，我是迈克·约翰逊。能和安德森先生或夫人说话吗？谢谢。",
+  "score": 0.56
+ },
+ {
+  "i": 125,
+  "en": "Mr. Nelson?",
+  "cn": "Mr.Nelson?",
+  "score": 0.3
+ },
+ {
+  "i": 126,
+  "en": "Hi, this is Robbie Stewart.",
+  "cn": "Hi,这是RobbieStewart.",
+  "score": 0.3
+ },
+ {
+  "i": 127,
+  "en": "Did you know my mother is running for the school board?",
+  "cn": "罗比：纳尔逊先生。嗨。我是罗比·斯图尔特。您知道我妈妈竞选教委吗？",
+  "score": 0.69
+ },
+ {
+  "i": 128,
+  "en": "Yes, Miss Kim.",
+  "cn": "是想念Kim.",
+  "score": 0.3
+ },
+ {
+  "i": 129,
+  "en": "Ellen Stewart.",
+  "cn": "埃伦：我输了。",
+  "score": 0.48
+ },
+ {
+  "i": 130,
+  "en": "She cares.",
+  "cn": "她关心",
+  "score": 0.3
+ },
+ {
+  "i": 131,
+  "en": "See you at the polls.",
+  "cn": "看你在这投票站",
+  "score": 0.3
+ },
+ {
+  "i": 132,
+  "en": "Certainly.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 133,
+  "en": "I'll give you your best wishes, Mr. Nelson.",
+  "cn": "罗比：当然，我会转达您的祝福，纳尔逊先生。",
+  "score": 0.63
+ },
+ {
+  "i": 134,
+  "en": "Hi, this is Mike Johnson.",
+  "cn": "Hi,这是MikeJohnson.",
+  "score": 0.3
+ },
+ {
+  "i": 135,
+  "en": "Can I speak with Mr. and Mrs. Burns?",
+  "cn": "迈克：嗨，我是迈克·约翰逊。能和伯恩斯先生或夫人说话吗？谢谢。",
+  "score": 0.52
+ },
+ {
+  "i": 136,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.3
+ },
+ {
+  "i": 137,
+  "en": "We have done so much in such a short amount of time.",
+  "cn": "埃伦：我们在这么短的时间里做了这么多。我真不敢相信！等菲利普来看到我们的进展！",
+  "score": 0.54
+ },
+ {
+  "i": 138,
+  "en": "I can't believe it.",
+  "cn": "我不能相信它",
+  "score": 0.3
+ },
+ {
+  "i": 139,
+  "en": "Wait till Philip comes home and sees our progress.",
+  "cn": "等tillPhilip来home和看我们的进展",
+  "score": 0.3
+ },
+ {
+  "i": 140,
+  "en": "Everyone saw the story in the Riverdale newspaper.",
+  "cn": "罗比：大家都看到了里弗代尔报纸上的报道。",
+  "score": 0.88
+ },
+ {
+  "i": 141,
+  "en": "Mr. Maxwell was very kind to print my announcement.",
+  "cn": "埃伦：麦克斯韦先生很客气地刊登了我的声明。",
+  "score": 0.93
+ },
+ {
+  "i": 142,
+  "en": "It helps enormously.",
+  "cn": "它帮助enormously.",
+  "score": 0.3
+ },
+ {
+  "i": 143,
+  "en": "Everybody in Riverdale reads his paper.",
+  "cn": "爷爷：这帮助很大。里弗代尔每个人都读他的报纸。",
+  "score": 0.68
+ },
+ {
+  "i": 144,
+  "en": "Your photo went at help, too.",
+  "cn": "理查德：里面的照片也有帮助。",
+  "score": 0.57
+ },
+ {
+  "i": 145,
+  "en": "Thanks to you, Richard, it's a good picture.",
+  "cn": "埃伦：谢谢你，理查德，照片拍得不错。",
+  "score": 0.8
+ },
+ {
+  "i": 146,
+  "en": "Well, may I, uh, may I?",
+  "cn": "菲利普：我能……我能帮忙吗？",
+  "score": 0.5
+ },
+ {
+  "i": 147,
+  "en": "I phone the flyers.",
+  "cn": "我phone这flyers.",
+  "score": 0.3
+ },
+ {
+  "i": 148,
+  "en": "We stop them.",
+  "cn": "理查德：我们装信封。",
+  "score": 0.52
+ },
+ {
+  "i": 149,
+  "en": "And I lick the envelopes.",
+  "cn": "菲利普：我来舔信封。",
+  "score": 0.86
+ },
+ {
+  "i": 150,
+  "en": "Hey, everybody.",
+  "cn": "Hey,每个人",
+  "score": 0.3
+ },
+ {
+  "i": 151,
+  "en": "Mrs. Greenberg is on the phone.",
+  "cn": "Mrs.Greenberg是在这phone.",
+  "score": 0.3
+ },
+ {
+  "i": 152,
+  "en": "She says Carter Boswell is on the TV right now,",
+  "cn": "罗比：嘿，大家，格林伯格夫人来电话了。她说卡特·博斯韦尔现在正在电视上——做广告。",
+  "score": 0.55
+ },
+ {
+  "i": 153,
+  "en": "doing a commercial.",
+  "cn": "做一个广告",
+  "score": 0.3
+ },
+ {
+  "i": 154,
+  "en": "Oh, watch out.",
+  "cn": "哦watch出去",
+  "score": 0.3
+ },
+ {
+  "i": 155,
+  "en": "Five.",
+  "cn": "罗比：五频道。",
+  "score": 0.52
+ },
+ {
+  "i": 156,
+  "en": "Five?",
+  "cn": "菲利普：五频道？",
+  "score": 0.52
+ },
+ {
+  "i": 157,
+  "en": "A lot of people will agree with him.",
+  "cn": "埃伦：很多人会同意他。",
+  "score": 0.91
+ },
+ {
+  "i": 158,
+  "en": "I told you.",
+  "cn": "菲利普：我跟你说过了。",
+  "score": 0.74
+ },
+ {
+  "i": 159,
+  "en": "Too bad kids can't vote.",
+  "cn": "也bad开玩笑不能投票",
+  "score": 0.3
+ },
+ {
+  "i": 160,
+  "en": "It's our school, but we can't vote.",
+  "cn": "罗比：太糟糕了，孩子们不能投票。这是我们的学校，但我们不能投票。",
+  "score": 0.52
+ },
+ {
+  "i": 161,
+  "en": "There are people in favor of the cultural programs, Mom.",
+  "cn": "理查德：也有支持文化项目的人，妈妈。",
+  "score": 0.92
+ },
+ {
+  "i": 162,
+  "en": "There are, Ellen.",
+  "cn": "那里是Ellen.",
+  "score": 0.3
+ },
+ {
+  "i": 163,
+  "en": "Don't be upset by Boswell's commercial.",
+  "cn": "玛丽莲：有的，埃伦。别被博斯韦尔的广告影响。",
+  "score": 0.55
+ },
+ {
+  "i": 164,
+  "en": "You have to go on television, too.",
+  "cn": "菲利普：你也得上电视。",
+  "score": 0.89
+ },
+ {
+  "i": 165,
+  "en": "Boswell's a powerful speaker.",
+  "cn": "埃伦：博斯韦尔是个有感染力的演讲者。",
+  "score": 0.69
+ },
+ {
+  "i": 166,
+  "en": "Well, you can be, too.",
+  "cn": "好你能是也",
+  "score": 0.3
+ },
+ {
+  "i": 167,
+  "en": "Your ideas are good ones.",
+  "cn": "菲利普：你也可以。你的想法很好。",
+  "score": 0.61
+ },
+ {
+  "i": 168,
+  "en": "I'm not sure.",
+  "cn": "我是不当然",
+  "score": 0.3
+ },
+ {
+  "i": 169,
+  "en": "My slogan is, I care.",
+  "cn": "我的口号是我关心",
+  "score": 0.3
+ },
+ {
+  "i": 170,
+  "en": "I care about people, not things.",
+  "cn": "我关心关于人们不事情",
+  "score": 0.3
+ },
+ {
+  "i": 171,
+  "en": "Vote for me.",
+  "cn": "投票为了我",
+  "score": 0.3
+ },
+ {
+  "i": 172,
+  "en": "Ellen Stewart.",
+  "cn": "埃伦：是吗？",
+  "score": 0.47
+ },
+ {
+  "i": 173,
+  "en": "How was it?",
+  "cn": "如何原本是它",
+  "score": 0.3
+ },
+ {
+  "i": 174,
+  "en": "You're terrific.",
+  "cn": "理查德：你太棒了！",
+  "score": 0.5
+ },
+ {
+  "i": 175,
+  "en": "Uh, can I see it?",
+  "cn": "埃伦：我能看看吗？",
+  "score": 0.74
+ },
+ {
+  "i": 176,
+  "en": "Sure.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 177,
+  "en": "I like it.",
+  "cn": "我喜欢它",
+  "score": 0.3
+ },
+ {
+  "i": 178,
+  "en": "How can we possibly get it on so Riverdale will see it",
+  "cn": "菲利普：我喜欢，但现在怎么办？我们怎么才能让里弗代尔的人看到、听到？",
+  "score": 0.66
+ },
+ {
+  "i": 179,
+  "en": "and hear it?",
+  "cn": "和hear它",
+  "score": 0.3
+ },
+ {
+  "i": 180,
+  "en": "Leave it to me.",
+  "cn": "理查德：交给我。",
+  "score": 0.79
+ },
+ {
+  "i": 181,
+  "en": "Mom is now on television.",
+  "cn": "Mom是现在在television.",
+  "score": 0.3
+ },
+ {
+  "i": 182,
+  "en": "In every appliance store in Riverdale, except Hamlin's.",
+  "cn": "理查德：妈妈现在在里弗代尔每家电器店的电视上都出现了，除了哈姆林家。他是博斯韦尔的支持者。",
+  "score": 0.56
+ },
+ {
+  "i": 183,
+  "en": "He's a Boswell voter.",
+  "cn": "他是一个Boswellvoter.",
+  "score": 0.3
+ },
+ {
+  "i": 184,
+  "en": "That's a brilliant idea, Richard.",
+  "cn": "菲利普：这个主意太妙了，理查德！",
+  "score": 0.72
+ },
+ {
+  "i": 185,
+  "en": "You inherited your father's brain.",
+  "cn": "爷爷：你继承了你爸爸的脑子。",
+  "score": 0.65
+ },
+ {
+  "i": 186,
+  "en": "We got our brains from you, Dad.",
+  "cn": "菲利普：我们的脑子都是从你那来的，爸。",
+  "score": 0.79
+ },
+ {
+  "i": 187,
+  "en": "And guess what?",
+  "cn": "和猜什么",
+  "score": 0.3
+ },
+ {
+  "i": 188,
+  "en": "I called Channel 5.",
+  "cn": "我打电话频道5",
+  "score": 0.3
+ },
+ {
+  "i": 189,
+  "en": "Their TV news is going to cover it.",
+  "cn": "他们的TV新闻是将去封面它",
+  "score": 0.3
+ },
+ {
+  "i": 190,
+  "en": "Housewife campaigns in appliance stores.",
+  "cn": "Housewife竞选在电器商店",
+  "score": 0.3
+ },
+ {
+  "i": 191,
+  "en": "And I'll bet some magazine will pick up the story, too.",
+  "cn": "和我将bet某个magazine将pick上这报道也",
+  "score": 0.3
+ },
+ {
+  "i": 192,
+  "en": "Mom, you're going to win.",
+  "cn": "罗比：妈妈，你会赢的！我知道！",
+  "score": 0.56
+ },
+ {
+  "i": 193,
+  "en": "I know it.",
+  "cn": "我不知道.",
+  "score": 0.54
+ },
+ {
+  "i": 194,
+  "en": "Hold it, Robbie.",
+  "cn": "Hold它Robbie.",
+  "score": 0.3
+ },
+ {
+  "i": 195,
+  "en": "Just cool down.",
+  "cn": "刚刚cool下",
+  "score": 0.3
+ },
+ {
+  "i": 196,
+  "en": "I know we're getting some attention now,",
+  "cn": "我知道我们是getting某个关注现在",
+  "score": 0.3
+ },
+ {
+  "i": 197,
+  "en": "but in the end, the voters will have to decide.",
+  "cn": "菲利普：等等，罗比！冷静。我知道我们现在受到了一些关注，但最终还是要由选民决定。",
+  "score": 0.47
+ },
+ {
+  "i": 198,
+  "en": "Gonna win.",
+  "cn": "Gonnawin.",
+  "score": 0.3
+ },
+ {
+  "i": 199,
+  "en": "Trust me.",
+  "cn": "信任我",
+  "score": 0.3
+ },
+ {
+  "i": 200,
+  "en": "She's winning.",
+  "cn": "她是赢",
+  "score": 0.3
+ },
+ {
+  "i": 201,
+  "en": "Mom, you're winning.",
+  "cn": "罗比：她赢了！妈妈，你赢了！",
+  "score": 0.46
+ },
+ {
+  "i": 202,
+  "en": "It's too soon to know for certain.",
+  "cn": "埃伦：现在确定还为时过早。",
+  "score": 0.77
+ },
+ {
+  "i": 203,
+  "en": "Well, you're ahead.",
+  "cn": "好你是领先",
+  "score": 0.3
+ },
+ {
+  "i": 204,
+  "en": "That's better than being behind.",
+  "cn": "菲利普：你领先。这比落后好。",
+  "score": 0.58
+ },
+ {
+  "i": 205,
+  "en": "It's not over yet.",
+  "cn": "它是不越过yet.",
+  "score": 0.3
+ },
+ {
+  "i": 206,
+  "en": "Let's just all calm down and wait for the final results.",
+  "cn": "埃伦：还没结束。我们都冷静下来，等最终结果。",
+  "score": 0.71
+ },
+ {
+  "i": 207,
+  "en": "Ellen, I didn't get some fresh air.",
+  "cn": "Ellen,我不得到某个新鲜空气",
+  "score": 0.3
+ },
+ {
+  "i": 208,
+  "en": "Thank you, Grandpa.",
+  "cn": "埃伦：谢谢你，爷爷。我需要。",
+  "score": 0.56
+ },
+ {
+  "i": 209,
+  "en": "I need some.",
+  "cn": "我不能指望你站在我这边反对博斯韦尔。",
+  "score": 0.54
+ },
+ {
+  "i": 210,
+  "en": "You came very close, Ellen.",
+  "cn": "菲利普：你差一点就赢了，埃伦。",
+  "score": 0.86
+ },
+ {
+  "i": 211,
+  "en": "You lost by only 121 votes.",
+  "cn": "爷爷：你只输了一百二十一票。",
+  "score": 0.51
+ },
+ {
+  "i": 212,
+  "en": "You tried, Mom.",
+  "cn": "理查德：你尽力了，妈妈。",
+  "score": 0.76
+ },
+ {
+  "i": 213,
+  "en": "You lost by a very small number of votes.",
+  "cn": "玛丽莲：你只差很少的票数。",
+  "score": 0.91
+ },
+ {
+  "i": 214,
+  "en": "Only 121 votes.",
+  "cn": "只121投票",
+  "score": 0.3
+ },
+ {
+  "i": 215,
+  "en": "I'm sorry, Mom.",
+  "cn": "我是遗憾Mom.",
+  "score": 0.3
+ },
+ {
+  "i": 216,
+  "en": "Just wasn't enough time.",
+  "cn": "埃伦：只是时间不够。",
+  "score": 0.61
+ },
+ {
+  "i": 217,
+  "en": "Made a very strong impression on our community.",
+  "cn": "菲利普：看，你给社区留下了非常深刻的印象。下次选举你还有机会。",
+  "score": 0.5
+ },
+ {
+  "i": 218,
+  "en": "You'll have another chance next election.",
+  "cn": "你将有另一个chance下一个选举",
+  "score": 0.3
+ },
+ {
+  "i": 219,
+  "en": "Yes, yes, Mr. Maxwell.",
+  "cn": "菲利普：你好。哦，是的，是的，麦克斯韦先生。",
+  "score": 0.62
+ },
+ {
+  "i": 220,
+  "en": "Hello, Mr. Maxwell.",
+  "cn": "埃伦：你好，麦克斯韦先生。",
+  "score": 0.81
+ },
+ {
+  "i": 221,
+  "en": "How are you?",
+  "cn": "如何是你",
+  "score": 0.3
+ },
+ {
+  "i": 222,
+  "en": "I just called to tell you that you are very impressive.",
+  "cn": "麦克斯韦：你好吗？我打电话来是想告诉你，你给人留下了深刻印象。你输了选举，但赢得了里弗代尔居民、博斯韦尔和我自己的关注。",
+  "score": 0.45
+ },
+ {
+  "i": 223,
+  "en": "You lost the election, but you won the attention",
+  "cn": "你lost这选举但是你won这关注",
+  "score": 0.3
+ },
+ {
+  "i": 224,
+  "en": "of the residents of Riverdale, of Boswell, and of me.",
+  "cn": "的这residents的Riverdale,的Boswell,和的我",
+  "score": 0.3
+ },
+ {
+  "i": 225,
+  "en": "Thank you, Mr. Maxwell.",
+  "cn": "谢谢你Mr.Maxwell.",
+  "score": 0.3
+ },
+ {
+  "i": 226,
+  "en": "I appreciate your kind words.",
+  "cn": "埃伦：嗯，谢谢你，麦克斯韦先生。感谢你的好话。我需要这个。",
+  "score": 0.48
+ },
+ {
+  "i": 227,
+  "en": "I needed that.",
+  "cn": "我需要那",
+  "score": 0.3
+ },
+ {
+  "i": 228,
+  "en": "I hear Boswell wants to appoint you to a special arts",
+  "cn": "麦克斯韦：我听说博斯韦尔想任命你到一个特别艺术委员会。我早上派个记者来采访你。",
+  "score": 0.55
+ },
+ {
+  "i": 229,
+  "en": "committee, sending over a reporter in the morning",
+  "cn": "committee,sending越过一个记者在这早晨",
+  "score": 0.3
+ },
+ {
+  "i": 230,
+  "en": "to interview you.",
+  "cn": "去interview你",
+  "score": 0.3
+ },
+ {
+  "i": 231,
+  "en": "You are?",
+  "cn": "你是",
+  "score": 0.3
+ },
+ {
+  "i": 232,
+  "en": "I'm going to do an article on Ellen Stewart, She Cares.",
+  "cn": "麦克斯韦：我要写一篇关于「埃伦·斯图尔特——她关心」的文章。也许我们现在都会关心了。再见。",
+  "score": 0.6
+ },
+ {
+  "i": 233,
+  "en": "You will all care now.",
+  "cn": "你将all关心现在",
+  "score": 0.3
+ },
+ {
+  "i": 234,
+  "en": "Goodbye.",
+  "cn": "再见",
+  "score": 0.3
+ },
+ {
+  "i": 235,
+  "en": "And goodbye.",
+  "cn": "和再见",
+  "score": 0.3
+ },
+ {
+  "i": 236,
+  "en": "What was that about?",
+  "cn": "菲利普：怎么回事？",
+  "score": 0.83
+ },
+ {
+  "i": 237,
+  "en": "You were right, Phillip.",
+  "cn": "你原本是对Phillip.",
+  "score": 0.3
+ },
+ {
+  "i": 238,
+  "en": "I did make a difference in town.",
+  "cn": "埃伦：你说得对，菲利普。我确实在镇上有所作为。",
+  "score": 0.65
+ },
+ {
+  "i": 239,
+  "en": "And in this family.",
+  "cn": "罗比：在这个家里也是。",
+  "score": 0.82
+ },
+ {
+  "i": 240,
+  "en": "Oh, wow.",
+  "cn": "哦wow.",
+  "score": 0.3
+ }
+]
