@@ -1,0 +1,1454 @@
+[
+ {
+  "i": 0,
+  "en": "What's this for?",
+  "cn": "这是为什么？",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Just because.",
+  "cn": "不为什么。宝宝怎么样？",
+  "score": 0.53
+ },
+ {
+  "i": 2,
+  "en": "How's the baby?",
+  "cn": "宝宝怎么办？",
+  "score": 0.56
+ },
+ {
+  "i": 3,
+  "en": "Fast asleep.",
+  "cn": "睡得正香。",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "I'm sorry I missed him.",
+  "cn": "对不起",
+  "score": 0.64
+ },
+ {
+  "i": 5,
+  "en": "I had to work late.",
+  "cn": "我有去工作late.",
+  "score": 0.3
+ },
+ {
+  "i": 6,
+  "en": "What are the flowers for, Richard?",
+  "cn": "这花是为什么，理查德？",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "Five years of happiness.",
+  "cn": "五年的幸福。结婚纪念日快乐。",
+  "score": 0.7
+ },
+ {
+  "i": 8,
+  "en": "Happy anniversary.",
+  "cn": "已经很特别了。纪念日快乐。",
+  "score": 0.58
+ },
+ {
+  "i": 9,
+  "en": "Our anniversary isn't until Saturday.",
+  "cn": "可是我们的纪念日到星期六才到。",
+  "score": 0.9
+ },
+ {
+  "i": 10,
+  "en": "I couldn't wait.",
+  "cn": "我等不及了。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "Besides, we are not going to be here Saturday.",
+  "cn": "再说，星期六我们不在家。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "We're not?",
+  "cn": "不在家？",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "Uh-uh.",
+  "cn": "嗯哼。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "Where are we going to be?",
+  "cn": "我们要去哪儿？",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "If you had your choice, of all the places in the world,",
+  "cn": "如果在世界上所有地方中任你挑选，",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "where would you choose to spend our anniversary?",
+  "cn": "你会选在哪儿过我们的纪念日？",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "The Watermill Inn.",
+  "cn": "水车客栈。",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "I loved that place when we went on our honeymoon.",
+  "cn": "我们度蜜月时去过那里，我好喜欢那个地方。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "Perfect.",
+  "cn": "Perfect.",
+  "score": 0.3
+ },
+ {
+  "i": 20,
+  "en": "You picked the right place?",
+  "cn": "太好了！你选对了地方。",
+  "score": 0.85
+ },
+ {
+  "i": 21,
+  "en": "I don't understand.",
+  "cn": "我不明白.",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "You and I, Mrs. Stewart, are going",
+  "cn": "你和我，斯图尔特太太，",
+  "score": 0.77
+ },
+ {
+  "i": 23,
+  "en": "to spend the second honeymoon at the Watermill Inn.",
+  "cn": "要在水车客栈度过第二次蜜月。",
+  "score": 0.81
+ },
+ {
+  "i": 24,
+  "en": "Oh, Richard, that's wonderful.",
+  "cn": "哦，理查德！太棒了，可是——",
+  "score": 0.88
+ },
+ {
+  "i": 25,
+  "en": "But.",
+  "cn": "但是",
+  "score": 0.3
+ },
+ {
+  "i": 26,
+  "en": "No buts.",
+  "cn": "不",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "What about the baby?",
+  "cn": "什么关于这宝宝",
+  "score": 0.3
+ },
+ {
+  "i": 28,
+  "en": "Aren't we taking the baby on our honeymoon?",
+  "cn": "我们不带宝宝去度蜜月吗？",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "Absolutely not.",
+  "cn": "绝对不带。",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "The world's greatest grandmother, Mrs. Ellen Stewart,",
+  "cn": "世界上最棒的祖母，埃伦·斯图尔特夫人，",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "has agreed to take care of him for the weekend.",
+  "cn": "已经答应周末照顾他。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "Richard, isn't that too much to ask of your mother?",
+  "cn": "理查德，让你妈妈这么做是不是太过分了？",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "Too much?",
+  "cn": "谢谢你",
+  "score": 0.46
+ },
+ {
+  "i": 34,
+  "en": "She loves taking care of Max.",
+  "cn": "过分？她喜欢照顾马克斯。",
+  "score": 0.82
+ },
+ {
+  "i": 35,
+  "en": "I'll miss him.",
+  "cn": "可是……我会想他的。",
+  "score": 0.82
+ },
+ {
+  "i": 36,
+  "en": "Well, we'll phone every hour, and you can",
+  "cn": "嗯，我们每小时都打电话，",
+  "score": 0.74
+ },
+ {
+  "i": 37,
+  "en": "listen to him over the phone.",
+  "cn": "你可以通过电话听他的声音。",
+  "score": 0.76
+ },
+ {
+  "i": 38,
+  "en": "Come on, Mayor.",
+  "cn": "来吧，玛丽莲。",
+  "score": 0.75
+ },
+ {
+  "i": 39,
+  "en": "It's time you and I had a romantic weekend alone together.",
+  "cn": "该是你和我单独过一个浪漫周末的时候了。",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "We've earned it.",
+  "cn": "你说得对。我们辛苦赚来的。",
+  "score": 0.66
+ },
+ {
+  "i": 41,
+  "en": "What do you say?",
+  "cn": "我们辛苦赚来的。怎么样？",
+  "score": 0.62
+ },
+ {
+  "i": 42,
+  "en": "Does sound tempting.",
+  "cn": "听起来确实挺诱人。",
+  "score": 0.86
+ },
+ {
+  "i": 43,
+  "en": "You're right.",
+  "cn": "你说得对。当然。",
+  "score": 0.62
+ },
+ {
+  "i": 44,
+  "en": "We've earned it.",
+  "cn": "我们有earned它",
+  "score": 0.3
+ },
+ {
+  "i": 45,
+  "en": "Great.",
+  "cn": "太好了",
+  "score": 0.3
+ },
+ {
+  "i": 46,
+  "en": "I'll make a reservation right now.",
+  "cn": "太好了！我现在就预订。",
+  "score": 0.89
+ },
+ {
+  "i": 47,
+  "en": "Remember that wonderful little balcony",
+  "cn": "还记得那个美妙的小阳台吗？",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "where we had our meals with a view of the Hudson River?",
+  "cn": "能看到哈德逊河的景色？",
+  "score": 0.67
+ },
+ {
+  "i": 49,
+  "en": "Oh, could I forget?",
+  "cn": "我怎么会忘？",
+  "score": 0.79
+ },
+ {
+  "i": 50,
+  "en": "Hello, is Mrs. Monda Peoria there?",
+  "cn": "你好。蒙蒂菲奥里夫人在吗？",
+  "score": 0.73
+ },
+ {
+  "i": 51,
+  "en": "Ah.",
+  "cn": "Ah.",
+  "score": 0.3
+ },
+ {
+  "i": 52,
+  "en": "She's out.",
+  "cn": "啊。她出去了。",
+  "score": 0.78
+ },
+ {
+  "i": 53,
+  "en": "Yes, this is Richard Stewart.",
+  "cn": "是的。我是理查德·斯图尔特。",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "My wife and I spent our honeymoon at the inn.",
+  "cn": "我的妻子",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "No, we didn't leave anything in the room.",
+  "cn": "不，我们没在房间里留下什么东西。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "It was five years ago.",
+  "cn": "那是五年前的事了。",
+  "score": 0.74
+ },
+ {
+  "i": 57,
+  "en": "We'd like to make a reservation for this weekend.",
+  "cn": "我们想预订这个周末的房间。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Yes, a double room, please.",
+  "cn": "是的，请订一间双人房。什么？",
+  "score": 0.88
+ },
+ {
+  "i": 59,
+  "en": "Are you sure?",
+  "cn": "你确定吗？可是……好吧。",
+  "score": 0.7
+ },
+ {
+  "i": 60,
+  "en": "But I, OK.",
+  "cn": "但是我OK.",
+  "score": 0.3
+ },
+ {
+  "i": 61,
+  "en": "Nothing available.",
+  "cn": "没有空房。",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "Wait, don't hang up.",
+  "cn": "等等！别挂！",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "Can you recommend someplace nice, someplace nearby?",
+  "cn": "你能推荐个好地方吗——附近的地方？",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "Hold it.",
+  "cn": "Hold它",
+  "score": 0.3
+ },
+ {
+  "i": 65,
+  "en": "Country Inn and the phone number?",
+  "cn": "好的。电话号码是多少？",
+  "score": 0.68
+ },
+ {
+  "i": 66,
+  "en": "555-2420.",
+  "cn": "555-2420。谢谢。",
+  "score": 0.47
+ },
+ {
+  "i": 67,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "He says there's another inn just a half a mile down",
+  "cn": "他说水车客栈往南半英里",
+  "score": 0.62
+ },
+ {
+  "i": 69,
+  "en": "the road from the water mill.",
+  "cn": "还有另一家客栈。",
+  "score": 0.53
+ },
+ {
+  "i": 70,
+  "en": "It won't be the same, but what do you say?",
+  "cn": "虽然不一样，但你觉得呢？",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "My mom is available to babysit this weekend.",
+  "cn": "我妈这周末有空帮忙看孩子。",
+  "score": 0.87
+ },
+ {
+  "i": 72,
+  "en": "Well, OK.",
+  "cn": "嗯……",
+  "score": 0.64
+ },
+ {
+  "i": 73,
+  "en": "See if they have a room.",
+  "cn": "嗯，好吧。看看他们有没有房间。",
+  "score": 0.81
+ },
+ {
+  "i": 74,
+  "en": "Right.",
+  "cn": "对的!",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "Hello, is this the old country inn?",
+  "cn": "你好。是老乡村客栈吗？",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Yes, this is Richard Stewart.",
+  "cn": "是的。我是理查德·斯图尔特。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "The desk clerk at the water mill suggested your inn.",
+  "cn": "水车客栈的前台推荐了你们这儿。",
+  "score": 0.87
+ },
+ {
+  "i": 78,
+  "en": "Would you happen to have a room for two",
+  "cn": "你愿意",
+  "score": 0.89
+ },
+ {
+  "i": 79,
+  "en": "available this weekend?",
+  "cn": "这个周末",
+  "score": 0.69
+ },
+ {
+  "i": 80,
+  "en": "Something really nice.",
+  "cn": "你们有双人房吗？",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "My wife and I are celebrating our fifth anniversary.",
+  "cn": "我的妻子",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Yes, I'll hold.",
+  "cn": "是的。我等着。他去查了。有吗？",
+  "score": 0.5
+ },
+ {
+  "i": 83,
+  "en": "He's checking.",
+  "cn": "他是查看",
+  "score": 0.3
+ },
+ {
+  "i": 84,
+  "en": "You do?",
+  "cn": "你做",
+  "score": 0.3
+ },
+ {
+  "i": 85,
+  "en": "Great.",
+  "cn": "太好了",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "What is the daily rate?",
+  "cn": "太好了！每天多少钱？",
+  "score": 0.86
+ },
+ {
+  "i": 87,
+  "en": "That's fine.",
+  "cn": "可以。谢谢。",
+  "score": 0.61
+ },
+ {
+  "i": 88,
+  "en": "Thank you.",
+  "cn": "谢谢你，查尔斯。",
+  "score": 0.68
+ },
+ {
+  "i": 89,
+  "en": "Yes, we'll be arriving by car about 10 o'clock Friday night.",
+  "cn": "好的，我们星期五晚上十点左右开车到。",
+  "score": 0.91
+ },
+ {
+  "i": 90,
+  "en": "Stewart, S-T-E-W-A-R-T. Thank you.",
+  "cn": "斯图尔特。S-t-e-w-a-r-t。谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "You and I, Mr. Stewart, are going",
+  "cn": "搞定！你和我，斯图尔特太太。",
+  "score": 0.61
+ },
+ {
+  "i": 92,
+  "en": "to have a wonderful romantic weekend.",
+  "cn": "要度过一个美妙、浪漫的周末！",
+  "score": 0.83
+ },
+ {
+  "i": 93,
+  "en": "Richard, that's the baby.",
+  "cn": "理查德，宝宝醒了。",
+  "score": 0.91
+ },
+ {
+  "i": 94,
+  "en": "Right this way, Mr. Stewart.",
+  "cn": "对的",
+  "score": 0.8
+ },
+ {
+  "i": 95,
+  "en": "Well, it's small, but clean.",
+  "cn": "嗯，房间小，但干净。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "Clean?",
+  "cn": "干净",
+  "score": 0.3
+ },
+ {
+  "i": 97,
+  "en": "Call this clean.",
+  "cn": "干净？你管这叫干净？",
+  "score": 0.75
+ },
+ {
+  "i": 98,
+  "en": "Have a nice day.",
+  "cn": "祝你们住得愉快。",
+  "score": 0.78
+ },
+ {
+  "i": 99,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.49
+ },
+ {
+  "i": 100,
+  "en": "I don't believe this.",
+  "cn": "谢谢。我真不敢相信。",
+  "score": 0.75
+ },
+ {
+  "i": 101,
+  "en": "Well, it isn't a water mill inn, but let's",
+  "cn": "嗯，这不是水车客栈，",
+  "score": 0.62
+ },
+ {
+  "i": 102,
+  "en": "get a look at the view.",
+  "cn": "但我们看看风景吧。",
+  "score": 0.79
+ },
+ {
+  "i": 103,
+  "en": "How is the view?",
+  "cn": "风景怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Great.",
+  "cn": "太好了",
+  "score": 0.3
+ },
+ {
+  "i": 105,
+  "en": "If you enjoy looking at a parking lot.",
+  "cn": "好得很，如果你喜欢看停车场的话。",
+  "score": 0.91
+ },
+ {
+  "i": 106,
+  "en": "Well, maybe we'll see the view in the morning.",
+  "cn": "嗯，也许早上能看到风景。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Right now, we should clean up this room.",
+  "cn": "对的",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "Sorry, Marilyn.",
+  "cn": "对不起，玛丽莲。",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "Why should you be sorry?",
+  "cn": "你为什么要道歉？",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "The rain, the room, the view of the parking lot.",
+  "cn": "嗯，下雨，房间，停车场的风景。",
+  "score": 0.92
+ },
+ {
+  "i": 111,
+  "en": "It isn't the way I hoped it would be.",
+  "cn": "这和我希望的不一样。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "Stop blaming yourself.",
+  "cn": "别自责了。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "We're here.",
+  "cn": "我们是这里",
+  "score": 0.3
+ },
+ {
+  "i": 114,
+  "en": "We're alone.",
+  "cn": "我们是独自",
+  "score": 0.3
+ },
+ {
+  "i": 115,
+  "en": "We're together.",
+  "cn": "我们是一起",
+  "score": 0.3
+ },
+ {
+  "i": 116,
+  "en": "And I love you.",
+  "cn": "而且我爱你。这还不够吗？",
+  "score": 0.59
+ },
+ {
+  "i": 117,
+  "en": "Isn't that enough?",
+  "cn": "不是那足够",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "It is for me, but I wanted this weekend",
+  "cn": "但我希望这个周末对你来说特别。",
+  "score": 0.54
+ },
+ {
+  "i": 119,
+  "en": "to be special for you.",
+  "cn": "去是特别为了你",
+  "score": 0.3
+ },
+ {
+  "i": 120,
+  "en": "It is special.",
+  "cn": "对我来说够了，",
+  "score": 0.5
+ },
+ {
+  "i": 121,
+  "en": "Happy anniversary.",
+  "cn": "高兴周年纪念",
+  "score": 0.3
+ },
+ {
+  "i": 122,
+  "en": "It's a little raining.",
+  "cn": "它是一个little下雨",
+  "score": 0.3
+ },
+ {
+  "i": 123,
+  "en": "I want to play tennis.",
+  "cn": "还在下雨。我想打网球。",
+  "score": 0.66
+ },
+ {
+  "i": 124,
+  "en": "I want some breakfast.",
+  "cn": "我想要",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "Let's call room service or order a nice breakfast,",
+  "cn": "我们叫客房服务，点一份丰盛的早餐，",
+  "score": 0.89
+ },
+ {
+  "i": 126,
+  "en": "and then we'll figure out what to do today.",
+  "cn": "然后再想今天做什么。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Right.",
+  "cn": "对",
+  "score": 0.3
+ },
+ {
+  "i": 128,
+  "en": "Would you get me room service, please?",
+  "cn": "好的。请给我接客房服务。",
+  "score": 0.8
+ },
+ {
+  "i": 129,
+  "en": "I beg your pardon.",
+  "cn": "你说什么？哦，我明白了。",
+  "score": 0.74
+ },
+ {
+  "i": 130,
+  "en": "Oh, I see.",
+  "cn": "哦我看",
+  "score": 0.3
+ },
+ {
+  "i": 131,
+  "en": "They don't have room service at Old Country Inn.",
+  "cn": "老乡村客栈没有客房服务。",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "Well, let's go down to the coffee shop.",
+  "cn": "嗯，我们下楼去咖啡厅吧。",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "They don't have a coffee shop.",
+  "cn": "他们没有咖啡厅。",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "We can get our meals at Mrs. Monte Fiore's down the road.",
+  "cn": "我们可以在路边蒙蒂菲奥里夫人家吃饭。",
+  "score": 0.9
+ },
+ {
+  "i": 135,
+  "en": "Well, that's OK, honey.",
+  "cn": "没关系，亲爱的。",
+  "score": 0.81
+ },
+ {
+  "i": 136,
+  "en": "I love walking in the rain.",
+  "cn": "我喜欢在雨中散步。",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "Oh, you're being a really good sport about this, Marilyn,",
+  "cn": "哦，你对此真的很豁达，玛丽莲，",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "but I think we should face the truth.",
+  "cn": "但我想我们该面对现实。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "What's that?",
+  "cn": "什么现实？",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "This is not the way to spend our fifth anniversary.",
+  "cn": "这不是我们度五周年纪念日的方式。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "Well, what do you want to do?",
+  "cn": "嗯，你想怎么做？",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "Why don't we get in the car and drive home?",
+  "cn": "我们何不开车回家？",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "Oh, Richard, it really isn't that bad.",
+  "cn": "哦，理查德，其实没那么糟。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Do you want to stick it out for the whole weekend?",
+  "cn": "你想在这儿硬撑过整个周末吗？",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "Well, I'll admit, the room is uncomfortable.",
+  "cn": "嗯，我承认房间是不舒服。",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "Mm-hmm.",
+  "cn": "嗯",
+  "score": 0.3
+ },
+ {
+  "i": 147,
+  "en": "And I do feel bad about your mother",
+  "cn": "而且你妈妈整个周末都要照顾宝宝，",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "having to take care of the baby all weekend.",
+  "cn": "我确实过意不去。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "Why don't we just check out?",
+  "cn": "我们何不退房？",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Yes?",
+  "cn": "是的",
+  "score": 0.3
+ },
+ {
+  "i": 152,
+  "en": "Yes, this is she?",
+  "cn": "喂？是。是的，我就是。",
+  "score": 0.77
+ },
+ {
+  "i": 153,
+  "en": "Oh, hello.",
+  "cn": "哦hello.",
+  "score": 0.3
+ },
+ {
+  "i": 154,
+  "en": "How nice of you to remember us.",
+  "cn": "哦，你好！你记得我们，真好！",
+  "score": 0.83
+ },
+ {
+  "i": 155,
+  "en": "Yes, my husband did call.",
+  "cn": "是的，我丈夫打过电话。",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "You do?",
+  "cn": "你做",
+  "score": 0.3
+ },
+ {
+  "i": 157,
+  "en": "Really?",
+  "cn": "真的",
+  "score": 0.3
+ },
+ {
+  "i": 158,
+  "en": "It won't be any trouble?",
+  "cn": "有吗？真的？不会麻烦吧？",
+  "score": 0.71
+ },
+ {
+  "i": 159,
+  "en": "Oh, yes.",
+  "cn": "哦是",
+  "score": 0.3
+ },
+ {
+  "i": 160,
+  "en": "I think we'd like that very much.",
+  "cn": "哦，是的，我们非常愿意。",
+  "score": 0.85
+ },
+ {
+  "i": 161,
+  "en": "15 minutes.",
+  "cn": "15分钟",
+  "score": 0.3
+ },
+ {
+  "i": 162,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.3
+ },
+ {
+  "i": 163,
+  "en": "Goodbye.",
+  "cn": "再见",
+  "score": 0.3
+ },
+ {
+  "i": 164,
+  "en": "You will never guess.",
+  "cn": "你绝对猜不到。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "I give up.",
+  "cn": "嗯……我放弃。",
+  "score": 0.81
+ },
+ {
+  "i": 166,
+  "en": "Mrs. Monte Fiore, from the water mill in.",
+  "cn": "水车客栈的蒙蒂菲奥里夫人。",
+  "score": 0.69
+ },
+ {
+  "i": 167,
+  "en": "What is she calling about?",
+  "cn": "她打电话干什么？",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "They have an opening.",
+  "cn": "他们有一个空房。",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "Someone just checked out, and Mrs. Monte Fiore",
+  "cn": "有人刚退房。",
+  "score": 0.62
+ },
+ {
+  "i": 170,
+  "en": "has reserved the honeymoon suite for us.",
+  "cn": "蒙蒂菲奥里夫人给我们预留了蜜月套房。",
+  "score": 0.76
+ },
+ {
+  "i": 171,
+  "en": "You're kidding.",
+  "cn": "你开玩笑吧！",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 173,
+  "en": "Isn't it wonderful?",
+  "cn": "没有。是不是太棒了？",
+  "score": 0.85
+ },
+ {
+  "i": 174,
+  "en": "It's fantastic.",
+  "cn": "太奇妙了！",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Now all it has to do is stop raining.",
+  "cn": "哦。现在只盼着雨停了。",
+  "score": 0.94
+ },
+ {
+  "i": 176,
+  "en": "Let's go.",
+  "cn": "我们走吧.",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "The water mill in.",
+  "cn": "欢迎来到水车客栈。",
+  "score": 0.48
+ },
+ {
+  "i": 178,
+  "en": "Oh, Richard, it's exactly as it was when we were married.",
+  "cn": "和我们结婚时一模一样！",
+  "score": 0.86
+ },
+ {
+  "i": 179,
+  "en": "And when I got married.",
+  "cn": "也和我结婚时一样。",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "Even the old patchwork quilt is the same.",
+  "cn": "连那床旧拼花被都还在！",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "My great-grandmother made that quilt",
+  "cn": "我太奶奶做的这床被子，",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "when Teddy Roosevelt was president.",
+  "cn": "那时总统还是泰迪·罗斯福。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "In those days when they made quilts,",
+  "cn": "在那个年代，她们做被子时，",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "they cut patches from the old clothing of every member",
+  "cn": "他们cutpatches从这old衣服的every成员",
+  "score": 0.3
+ },
+ {
+  "i": 185,
+  "en": "in the family so that each one would be a part of it.",
+  "cn": "让每块布都成为其中的一部分。",
+  "score": 0.81
+ },
+ {
+  "i": 186,
+  "en": "A lovely tradition.",
+  "cn": "多可爱的传统！",
+  "score": 0.83
+ },
+ {
+  "i": 187,
+  "en": "Thank you for calling us.",
+  "cn": "谢谢你为了打电话us.",
+  "score": 0.3
+ },
+ {
+  "i": 188,
+  "en": "I remember you and your wife from the first time",
+  "cn": "我记得",
+  "score": 0.68
+ },
+ {
+  "i": 189,
+  "en": "you stayed with us.",
+  "cn": "你停留和us.",
+  "score": 0.3
+ },
+ {
+  "i": 190,
+  "en": "We were very young.",
+  "cn": "我们那时很年轻。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "And very much in love.",
+  "cn": "而且非常相爱。",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "We have a baby now.",
+  "cn": "我们现在有宝宝了。",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "How wonderful.",
+  "cn": "太好了！男孩还是女孩？",
+  "score": 0.5
+ },
+ {
+  "i": 194,
+  "en": "A boy or a girl?",
+  "cn": "男孩——马克斯。",
+  "score": 0.51
+ },
+ {
+  "i": 195,
+  "en": "A boy, Max.",
+  "cn": "一个boy,Max.",
+  "score": 0.3
+ },
+ {
+  "i": 196,
+  "en": "Do you have a picture?",
+  "cn": "你有照片吗？",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "Would a professional photographer",
+  "cn": "一个职业摄影师怎么会没照片？",
+  "score": 0.68
+ },
+ {
+  "i": 198,
+  "en": "be without a picture?",
+  "cn": "是without一个照片",
+  "score": 0.3
+ },
+ {
+  "i": 199,
+  "en": "Adorable.",
+  "cn": "哦，他真可爱！",
+  "score": 0.53
+ },
+ {
+  "i": 200,
+  "en": "And very bright.",
+  "cn": "而且很聪明。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "Like his father.",
+  "cn": "像他爸爸。一个真正的斯图尔特。",
+  "score": 0.6
+ },
+ {
+  "i": 202,
+  "en": "A real steward.",
+  "cn": "一个真正steward.",
+  "score": 0.3
+ },
+ {
+  "i": 203,
+  "en": "And very good looking like his mother.",
+  "cn": "而且很漂亮，像他妈妈。",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "Well, it's nice to have you with us again.",
+  "cn": "嗯，很高兴你们又来了。",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "Next time, bring the baby.",
+  "cn": "下次把宝宝也带来。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "You see, Richard, Max is welcome here.",
+  "cn": "你看，理查德？马克斯在这里很受欢迎。",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "Not on our anniversary.",
+  "cn": "我们的纪念日可不行。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "This vacation is for you and me.",
+  "cn": "这次度假是为你和我。",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "If there's anything you need, please call me.",
+  "cn": "如果有什么需要，请叫我。",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "I'll be in the front office all day.",
+  "cn": "我整天都在前台。",
+  "score": 1.0
+ },
+ {
+  "i": 211,
+  "en": "Oh, I took the liberty of ordering some breakfast for you.",
+  "cn": "哦，我冒昧为你们点了些早餐。",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "Put it over there, Charles.",
+  "cn": "放在那边吧，查尔斯。",
+  "score": 0.88
+ },
+ {
+  "i": 213,
+  "en": "Thank you, Charles.",
+  "cn": "谢谢你Charles.",
+  "score": 0.3
+ },
+ {
+  "i": 214,
+  "en": "Compliments of the water will end.",
+  "cn": "水车客栈赠送的。",
+  "score": 0.69
+ },
+ {
+  "i": 215,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.3
+ },
+ {
+  "i": 216,
+  "en": "Thank you so much.",
+  "cn": "谢谢你如此much.",
+  "score": 0.3
+ },
+ {
+  "i": 217,
+  "en": "Now, this is my idea of a good time.",
+  "cn": "现在，这就是我所谓的美好时光。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "Let's see.",
+  "cn": "我们吃吧！",
+  "score": 0.6
+ },
+ {
+  "i": 219,
+  "en": "Hotcakes and maple syrup with scrambled eggs.",
+  "cn": "让我看看",
+  "score": 0.85
+ },
+ {
+  "i": 220,
+  "en": "Smell that coffee.",
+  "cn": "嗯……闻那咖啡……肉桂和丁香。",
+  "score": 0.52
+ },
+ {
+  "i": 221,
+  "en": "Cinnamon and cloves.",
+  "cn": "肉桂和丁香",
+  "score": 0.3
+ },
+ {
+  "i": 222,
+  "en": "Homemade buttermilk biscuits.",
+  "cn": "自家制的酪乳饼干。",
+  "score": 1.0
+ },
+ {
+  "i": 223,
+  "en": "Slices of orange with burnt honey.",
+  "cn": "橙子片配焦糖蜂蜜。",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "Let's eat.",
+  "cn": "让我们eat.",
+  "score": 0.3
+ },
+ {
+  "i": 225,
+  "en": "First, I want to call home and check",
+  "cn": "首先我想给家里打个电话，",
+  "score": 0.8
+ },
+ {
+  "i": 226,
+  "en": "on your mother and the baby.",
+  "cn": "问问你妈妈和宝宝的情况。",
+  "score": 0.85
+ },
+ {
+  "i": 227,
+  "en": "Honey, if there were any problems, she would call us.",
+  "cn": "亲爱的，要是有问题，",
+  "score": 0.71
+ },
+ {
+  "i": 228,
+  "en": "She doesn't know we've changed hotels.",
+  "cn": "她不知道我们换了酒店。",
+  "score": 1.0
+ },
+ {
+  "i": 229,
+  "en": "You're right, of course.",
+  "cn": "你是对的课程",
+  "score": 0.3
+ },
+ {
+  "i": 230,
+  "en": "Hello, operator.",
+  "cn": "你好，接线员。",
+  "score": 1.0
+ },
+ {
+  "i": 231,
+  "en": "I'd like to call Riverdale, New York.",
+  "cn": "我要打到纽约里弗代尔。",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "Do you remember that old desk?",
+  "cn": "你记得那张旧书桌吗？",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "Mrs. Montefiore told me that George Washington",
+  "cn": "蒙蒂菲奥里夫人告诉我，",
+  "score": 0.74
+ },
+ {
+  "i": 234,
+  "en": "sat at that desk and wrote to his wife, Martha.",
+  "cn": "给妻子玛莎写信。",
+  "score": 0.7
+ },
+ {
+  "i": 235,
+  "en": "What do you want to do after breakfast?",
+  "cn": "你想要什么",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "Why don't we take a walk down to the river?",
+  "cn": "早餐后你想做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 237,
+  "en": "In the rain?",
+  "cn": "我们何不散步到河边？",
+  "score": 1.0
+ },
+ {
+  "i": 238,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 239,
+  "en": "Look out the window.",
+  "cn": "在雨中？",
+  "score": 0.58
+ },
+ {
+  "i": 240,
+  "en": "The sun is shining.",
+  "cn": "这sun是shining.",
+  "score": 0.3
+ },
+ {
+  "i": 241,
+  "en": "Now, this is my idea of a good time.",
+  "cn": "不。看窗外。太阳出来了！",
+  "score": 1.0
+ }
+]
