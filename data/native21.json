@@ -1,0 +1,1712 @@
+[
+ {
+  "i": 0,
+  "en": "I really like this one, Susan. Do you?",
+  "cn": "我非常喜欢这一件，苏珊。你喜欢吗？",
+  "score": 0.95
+ },
+ {
+  "i": 1,
+  "en": "Turn around, Michelle. Let me see the back of it.",
+  "cn": "转过去，米歇尔。让我看看后面。",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "I like it a lot. It fits well. It doesn't need any alterations.",
+  "cn": "我喜欢",
+  "score": 0.64
+ },
+ {
+  "i": 3,
+  "en": "We must have bought the right size.",
+  "cn": "它不需要任何修改。我们一定买对了尺码。",
+  "score": 0.53
+ },
+ {
+  "i": 4,
+  "en": "I like the color. She looks good in blue.",
+  "cn": "我喜欢这颜色。她穿蓝色好看。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "I like blue, too, Daddy.",
+  "cn": "我也喜欢蓝色，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "Try on the skirt and blouse outfit, Michelle.",
+  "cn": "试试裙子和衬衫那套，米歇尔——",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "The one that Daddy wanted you to wear.",
+  "cn": "爸爸想让你穿的那套。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "Okay.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 9,
+  "en": "Michelle has been a different kid since we've been married.",
+  "cn": "我们结婚以来，米歇尔就像变了个人。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "She's never been happier.",
+  "cn": "她从没这么开心过。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "And I've never been happier, Harry.",
+  "cn": "我也从没这么开心过，哈里。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "I love her very much.",
+  "cn": "我非常爱她。她是个快乐。",
+  "score": 0.64
+ },
+ {
+  "i": 13,
+  "en": "She's been a joy.",
+  "cn": "她是曾经一个joy.",
+  "score": 0.3
+ },
+ {
+  "i": 14,
+  "en": "We're very lucky, the three of us.",
+  "cn": "我们很幸运，我们三个……",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "And becoming part of the Stewart family, too.",
+  "cn": "而且也成为斯图尔特家的一员。",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "We couldn't ask for anything more, could we?",
+  "cn": "我们不能再奢求什么了，对吧？",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "Well...",
+  "cn": "嗯……",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Could we ask for anything more?",
+  "cn": "嗯……？我们还能再奢求什么？",
+  "score": 0.9
+ },
+ {
+  "i": 19,
+  "en": "No, we...",
+  "cn": "不我们",
+  "score": 0.3
+ },
+ {
+  "i": 20,
+  "en": "How do you like it, Daddy?",
+  "cn": "你觉得怎么样，爸爸？",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "It's my favorite outfit.",
+  "cn": "这是我最喜欢的套装。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "It's good for every day.",
+  "cn": "适合每天穿。上学也合适，米歇尔。",
+  "score": 0.54
+ },
+ {
+  "i": 23,
+  "en": "It will be good for school, Michelle.",
+  "cn": "它将是好为了学校Michelle.",
+  "score": 0.3
+ },
+ {
+  "i": 24,
+  "en": "I like it, too. I always like a skirt circle like this.",
+  "cn": "我也喜欢。我一直喜欢这种飘逸的裙子。",
+  "score": 0.71
+ },
+ {
+  "i": 25,
+  "en": "Do you want to see the winter jacket on me, Susan?",
+  "cn": "你想看我穿冬天的夹克吗，苏珊？",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "Yes, I do.",
+  "cn": "是的，亲爱的。",
+  "score": 0.45
+ },
+ {
+  "i": 27,
+  "en": "Change back into your jeans",
+  "cn": "是的，我想。换回你的牛仔裤，",
+  "score": 0.76
+ },
+ {
+  "i": 28,
+  "en": "and put on the new winter jacket we bought today.",
+  "cn": "然后穿上我们今天买的新冬装夹克。",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "Okay.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 30,
+  "en": "What did you mean by, well...",
+  "cn": "你说「嗯……」是什么意思？",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "You had something on your mind when I said",
+  "cn": "你说我们不能再奢求什么时，",
+  "score": 0.77
+ },
+ {
+  "i": 32,
+  "en": "we couldn't ask for anything more.",
+  "cn": "你心里有事。",
+  "score": 0.77
+ },
+ {
+  "i": 33,
+  "en": "Is everything all right?",
+  "cn": "一切都好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "Everything is fine, Michelle.",
+  "cn": "一切都好，米歇尔。",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "Let's take a look at the winter jacket.",
+  "cn": "我们看看冬装夹克吧。过来，亲爱的。",
+  "score": 0.7
+ },
+ {
+  "i": 36,
+  "en": "Come on over here, honey.",
+  "cn": "来在越过这里亲爱的",
+  "score": 0.3
+ },
+ {
+  "i": 37,
+  "en": "It's kind of warm.",
+  "cn": "有点暖和。",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "It is. That's why we bought it for you.",
+  "cn": "是的。所以我们要买给你。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "This will be a perfect jacket for the winter time",
+  "cn": "这会是一件完美的冬天夹克，",
+  "score": 0.88
+ },
+ {
+  "i": 40,
+  "en": "when it's very cold out.",
+  "cn": "天很冷的时候。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "But it's kind of small also.",
+  "cn": "但有点小。我们一定买错了尺码。",
+  "score": 0.57
+ },
+ {
+  "i": 42,
+  "en": "We must have bought the wrong size.",
+  "cn": "我们必须有bought这错尺寸",
+  "score": 0.3
+ },
+ {
+  "i": 43,
+  "en": "Looks like we should have bought a bigger one.",
+  "cn": "看来我们该买大一号的。",
+  "score": 0.85
+ },
+ {
+  "i": 44,
+  "en": "I guess we'll have to exchange it, too.",
+  "cn": "我想我们得去换。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "I'm sure the store has others.",
+  "cn": "我确定店里有其他的。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "I look silly. It is too small.",
+  "cn": "我看起来好笑！太小了！",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "You're growing so fast, Michelle.",
+  "cn": "你长得太快了，米歇尔。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Can I take it off? I'm hot.",
+  "cn": "我能",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "Sure.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 50,
+  "en": "Put it back in your room and we'll hang everything up later.",
+  "cn": "当然。把它放回你房间，我们一会儿再挂起来。",
+  "score": 0.94
+ },
+ {
+  "i": 51,
+  "en": "Are you going to tell me what's on your mind, Harry?",
+  "cn": "嗯，你要告诉我你在想什么吗，哈里？",
+  "score": 0.94
+ },
+ {
+  "i": 52,
+  "en": "I have been offered a job",
+  "cn": "我有",
+  "score": 0.61
+ },
+ {
+  "i": 53,
+  "en": "with a major accounting company in Los Angeles.",
+  "cn": "他在洛杉矶有个大玩具买家，",
+  "score": 0.56
+ },
+ {
+  "i": 54,
+  "en": "I have been offered a job",
+  "cn": "我有",
+  "score": 0.61
+ },
+ {
+  "i": 55,
+  "en": "with a major accounting company in Los Angeles.",
+  "cn": "而洛杉矶那家",
+  "score": 0.55
+ },
+ {
+  "i": 56,
+  "en": "Los Angeles?",
+  "cn": "在洛杉矶。",
+  "score": 0.79
+ },
+ {
+  "i": 57,
+  "en": "That's a big decision.",
+  "cn": "洛杉矶？这是个重大决定。",
+  "score": 0.65
+ },
+ {
+  "i": 58,
+  "en": "I know.",
+  "cn": "我知道.",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "It will also affect you and your job",
+  "cn": "我知道。如果我们决定去，也会影响你和你的工作。",
+  "score": 0.65
+ },
+ {
+  "i": 60,
+  "en": "if we decide to go.",
+  "cn": "如果我们决定去去",
+  "score": 0.3
+ },
+ {
+  "i": 61,
+  "en": "Well, it sure will.",
+  "cn": "好它当然将",
+  "score": 0.3
+ },
+ {
+  "i": 62,
+  "en": "But first, tell me about the job, Harry.",
+  "cn": "哇！确实会。但先告诉我工作的事，哈里。",
+  "score": 0.75
+ },
+ {
+  "i": 63,
+  "en": "If it's a good one, then we'll make it work for us.",
+  "cn": "如果是好工作，那我们就想办法。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "I have a client in the garment business on 7th Avenue.",
+  "cn": "我有",
+  "score": 0.9
+ },
+ {
+  "i": 65,
+  "en": "I do his taxes every year.",
+  "cn": "我每年给他做税务。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "He has a big sales office in Los Angeles,",
+  "cn": "他在洛杉矶有个大销售办事处，",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "and the company in Los Angeles",
+  "cn": "在洛杉矶。",
+  "score": 0.58
+ },
+ {
+  "i": 68,
+  "en": "that does his major accounting work",
+  "cn": "给他做主要会计工作的公司",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "is looking for an executive,",
+  "cn": "正在找一位高管。他推荐了我。",
+  "score": 0.65
+ },
+ {
+  "i": 70,
+  "en": "and he recommended me.",
+  "cn": "和他recommended我",
+  "score": 0.3
+ },
+ {
+  "i": 71,
+  "en": "That's wonderful, Harry.",
+  "cn": "那太好了，哈里。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Yes, but it would mean that we'd have to move to L.A.",
+  "cn": "是的，但那意味着我们得搬到洛杉矶。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "What about the salary?",
+  "cn": "薪水呢？",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "The real discussion comes tomorrow.",
+  "cn": "真正的谈判在明天。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "Susan, I plan to make any decisions",
+  "cn": "苏珊，我不打算做任何决定，",
+  "score": 0.86
+ },
+ {
+  "i": 76,
+  "en": "until I have a chance to talk with you about it.",
+  "cn": "等我有机会和你谈过。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "I understand, Harry.",
+  "cn": "我明白，哈里。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "And I don't have to make a quick decision.",
+  "cn": "而且我不需要急着做决定。",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "They know that I'm married and that I have a family.",
+  "cn": "他们知道我已婚，有家庭。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "Well, there's a lot to think about.",
+  "cn": "嗯，有很多要考虑的。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "If it's a good job,",
+  "cn": "如果是份好工作，",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "then I've got to do some thinking",
+  "cn": "那我就得想想",
+  "score": 0.9
+ },
+ {
+  "i": 83,
+  "en": "about my career opportunities in Los Angeles.",
+  "cn": "我在洛杉矶的职业机会。",
+  "score": 0.9
+ },
+ {
+  "i": 84,
+  "en": "Is everything okay?",
+  "cn": "一切都好吗？",
+  "score": 0.76
+ },
+ {
+  "i": 85,
+  "en": "Yes, honey.",
+  "cn": "是亲爱的",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "Are you ready for lunch with your grandpa?",
+  "cn": "你准备好和爷爷吃午饭了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Oh, hi, grandpa.",
+  "cn": "谢谢，爷爷。",
+  "score": 0.5
+ },
+ {
+  "i": 88,
+  "en": "Yes, of course I am, but my mind isn't.",
+  "cn": "哦！嗨，爷爷。是的，当然，但我心不在焉。",
+  "score": 0.8
+ },
+ {
+  "i": 89,
+  "en": "What's the matter, Susan?",
+  "cn": "怎么了，苏珊？",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "A real dilemma.",
+  "cn": "一个真正的两难。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "Does it have anything to do with you and Harry?",
+  "cn": "和你与哈里有关吗？",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "Yes, but I don't know where to start.",
+  "cn": "是的，但我不知道从何说起。",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "Maybe I can help.",
+  "cn": "也许我能帮上忙。告诉我，苏珊。",
+  "score": 0.5
+ },
+ {
+  "i": 94,
+  "en": "Tell me what it is, Susan.",
+  "cn": "告诉我什么它是Susan.",
+  "score": 0.3
+ },
+ {
+  "i": 95,
+  "en": "Yes, grandpa.",
+  "cn": "是grandpa.",
+  "score": 0.3
+ },
+ {
+  "i": 96,
+  "en": "Please sit down.",
+  "cn": "谢谢，爷爷。请坐。",
+  "score": 0.64
+ },
+ {
+  "i": 97,
+  "en": "Oh.",
+  "cn": "哦",
+  "score": 0.3
+ },
+ {
+  "i": 98,
+  "en": "Harry has been offered a job in Los Angeles.",
+  "cn": "哦！哈里得到了一份洛杉矶的工作。",
+  "score": 0.94
+ },
+ {
+  "i": 99,
+  "en": "Well, this is something to think about.",
+  "cn": "嗯，这确实值得考虑。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "There are so many things to consider.",
+  "cn": "有那么多事情要考虑。还有米歇尔。",
+  "score": 0.8
+ },
+ {
+  "i": 101,
+  "en": "There's Michelle.",
+  "cn": "哦，没怎么，米歇尔。",
+  "score": 0.55
+ },
+ {
+  "i": 102,
+  "en": "I wonder if a move would be a bad thing for her.",
+  "cn": "我想知道搬家对她是不是坏事。还有我的工作。",
+  "score": 0.85
+ },
+ {
+  "i": 103,
+  "en": "And my job.",
+  "cn": "和我的工作",
+  "score": 0.3
+ },
+ {
+  "i": 104,
+  "en": "I don't know if I can get a good job in Los Angeles.",
+  "cn": "我不知道在洛杉矶能否找到好工作。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "And what about our family?",
+  "cn": "那我们的家人呢？",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "Can I tell you what I think?",
+  "cn": "我能告诉你我的想法吗？",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Tell me.",
+  "cn": "告诉我。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "I think that you're very successful",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "and that you have a fantastic reputation in the toy industry.",
+  "cn": "而且你在玩具行业名声很好。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "I think you could talk to Mr. Marchetta.",
+  "cn": "我觉得你可以和马凯塔先生谈谈，",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "And I think he could help you find a real good job",
+  "cn": "他能帮你在洛杉矶找一份真正的好工作。",
+  "score": 0.68
+ },
+ {
+  "i": 112,
+  "en": "in Los Angeles.",
+  "cn": "在洛杉矶也能。",
+  "score": 0.81
+ },
+ {
+  "i": 113,
+  "en": "He was very helpful to me, remember?",
+  "cn": "他帮过我很多，记得吗？",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "I suppose I could call him.",
+  "cn": "我想我可以给他打电话。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "But I'm not so sure that I want to leave New York,",
+  "cn": "但我不太确定我想离开纽约，",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "you and the rest of our family.",
+  "cn": "离开你和我们家其他人。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Well, I'm not going to kid you, Susan.",
+  "cn": "嗯，我不骗你，苏珊。",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "You know we'd all miss you.",
+  "cn": "你知道我们都会想你。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "But this should be your decision.",
+  "cn": "但这应该是你的决定。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "It's something that only you and Harry can work out.",
+  "cn": "这是只有你和哈里才能解决的事。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "If moving to LA is in Harry's best interest,",
+  "cn": "如果搬到洛杉矶对哈里最有利，",
+  "score": 0.88
+ },
+ {
+  "i": 122,
+  "en": "I have to do what I can do to support him.",
+  "cn": "我有",
+  "score": 1.0
+ },
+ {
+  "i": 123,
+  "en": "In every marriage, sacrifices have to be made",
+  "cn": "在任何婚姻里，",
+  "score": 0.48
+ },
+ {
+  "i": 124,
+  "en": "by one partner from time to time.",
+  "cn": "一方时不时得做出牺牲。",
+  "score": 0.66
+ },
+ {
+  "i": 125,
+  "en": "And what about Michelle?",
+  "cn": "那米歇尔怎么办？",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Well, what do you think?",
+  "cn": "嗯，你怎么想？",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "I think Michelle is better off staying where she is.",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "What does she think?",
+  "cn": "她怎么想？",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "I don't know for sure.",
+  "cn": "我不确定。",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "Well, you'll have to ask her.",
+  "cn": "嗯，你得问她。",
+  "score": 1.0
+ },
+ {
+  "i": 131,
+  "en": "I think I'm going to have a talk with Mr. Marchetta",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "and get his feelings about my leaving",
+  "cn": "他对我的离开有什么感觉。",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "and about helping me find a job in Los Angeles.",
+  "cn": "还有帮我在洛杉矶找工作。",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "Good idea.",
+  "cn": "好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "I'll call him right now, no point in delaying.",
+  "cn": "我现在就给他打电话。没必要拖延。",
+  "score": 1.0
+ },
+ {
+  "i": 136,
+  "en": "Thanks, Grandpa.",
+  "cn": "谢谢Grandpa.",
+  "score": 0.3
+ },
+ {
+  "i": 137,
+  "en": "Harry, it's the perfect job for you.",
+  "cn": "哈里，这是最适合你的工作。你会喜欢的。",
+  "score": 0.74
+ },
+ {
+  "i": 138,
+  "en": "You'll love it.",
+  "cn": "你将爱它",
+  "score": 0.3
+ },
+ {
+  "i": 139,
+  "en": "It's a big decision for me, Bill.",
+  "cn": "对我来说是个大决定，比尔。",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "And I have to discuss it with my wife.",
+  "cn": "我得和我妻子商量。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "I don't know if it's right for her.",
+  "cn": "我不知道对她是否合适。",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "She'll love it.",
+  "cn": "She'll爱它",
+  "score": 0.3
+ },
+ {
+  "i": 143,
+  "en": "It's a once in a lifetime offer, Harry.",
+  "cn": "她会喜欢的。这是一生一次的机会，哈里。",
+  "score": 0.78
+ },
+ {
+  "i": 144,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "Tell it to me again.",
+  "cn": "好。再和我说一遍。",
+  "score": 0.89
+ },
+ {
+  "i": 146,
+  "en": "Oh, the company is Kraft and Kraft,",
+  "cn": "公司是克拉夫特和克拉夫特，",
+  "score": 0.76
+ },
+ {
+  "i": 147,
+  "en": "the biggest accounting company in the country.",
+  "cn": "全国最大的会计公司。",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "I know the company well.",
+  "cn": "我知道",
+  "score": 0.79
+ },
+ {
+  "i": 149,
+  "en": "It's big.",
+  "cn": "它是大",
+  "score": 0.3
+ },
+ {
+  "i": 150,
+  "en": "The biggest.",
+  "cn": "最大的。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Yeah, yeah, the biggest.",
+  "cn": "是啊，我知道。最大的。",
+  "score": 0.7
+ },
+ {
+  "i": 152,
+  "en": "When do I have to let you know?",
+  "cn": "是啊，是啊。最大的。我什么时候要给你答复？",
+  "score": 0.73
+ },
+ {
+  "i": 153,
+  "en": "I'll talk it over, think it over.",
+  "cn": "商量一下。考虑一下。本周末前给我答复。",
+  "score": 0.46
+ },
+ {
+  "i": 154,
+  "en": "Let me know by the end of the week.",
+  "cn": "本周末前让我知道。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "When would we have to move?",
+  "cn": "我们什么时候得搬？",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "As soon as possible.",
+  "cn": "尽快。",
+  "score": 1.0
+ },
+ {
+  "i": 157,
+  "en": "I also have my daughter to consider.",
+  "cn": "我还得考虑我女儿。",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "I don't want to interrupt her school year.",
+  "cn": "我不想打断她的学年。",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "Let me know by the end of the week.",
+  "cn": "Let我知道被这end的这星期",
+  "score": 0.3
+ },
+ {
+  "i": 160,
+  "en": "It's a great opportunity for you, Harry, believe me.",
+  "cn": "这对你是个大好机会，哈里。",
+  "score": 0.84
+ },
+ {
+  "i": 161,
+  "en": "I know.",
+  "cn": "我知道",
+  "score": 0.3
+ },
+ {
+  "i": 162,
+  "en": "Kraft and Kraft is the biggest in the country.",
+  "cn": "克拉夫特和克拉夫特是全国最大的。",
+  "score": 0.75
+ },
+ {
+  "i": 163,
+  "en": "Yeah, I know.",
+  "cn": "是我知道",
+  "score": 0.3
+ },
+ {
+  "i": 164,
+  "en": "The biggest.",
+  "cn": "这biggest.",
+  "score": 0.3
+ },
+ {
+  "i": 165,
+  "en": "I think Michelle is asleep now.",
+  "cn": "我认为",
+  "score": 0.81
+ },
+ {
+  "i": 166,
+  "en": "Let's talk.",
+  "cn": "让我们谈话",
+  "score": 0.3
+ },
+ {
+  "i": 167,
+  "en": "I met with Bill York today.",
+  "cn": "我今天见了比尔·约克。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "And I talked with Mr. Marchetta.",
+  "cn": "我和马凯塔先生谈了。",
+  "score": 0.74
+ },
+ {
+  "i": 169,
+  "en": "Did York make the offer?",
+  "cn": "你接受工作了吗？",
+  "score": 0.55
+ },
+ {
+  "i": 170,
+  "en": "Yep, he asked me if I want the job.",
+  "cn": "嗯。他问我要不要这份工作。",
+  "score": 0.9
+ },
+ {
+  "i": 171,
+  "en": "That's exciting, Harry.",
+  "cn": "那真令人激动，哈里。什么工作？",
+  "score": 0.67
+ },
+ {
+  "i": 172,
+  "en": "What was it?",
+  "cn": "什么？",
+  "score": 0.45
+ },
+ {
+  "i": 173,
+  "en": "A vice presidency with the biggest accounting",
+  "cn": "全国最大的会计公司——",
+  "score": 0.5
+ },
+ {
+  "i": 174,
+  "en": "company in the country, Kraft and Kraft.",
+  "cn": "这是全国最大的公司。",
+  "score": 0.54
+ },
+ {
+  "i": 175,
+  "en": "Aren't you excited about that?",
+  "cn": "你不激动吗？",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "Mm-hmm, sure I am, but there's so much more to consider.",
+  "cn": "当然",
+  "score": 0.89
+ },
+ {
+  "i": 177,
+  "en": "I talked to Mr. Marchetta.",
+  "cn": "通过马凯塔先生，",
+  "score": 0.54
+ },
+ {
+  "i": 178,
+  "en": "What did he say?",
+  "cn": "他说什么？你告诉他我的事了吗？",
+  "score": 0.5
+ },
+ {
+  "i": 179,
+  "en": "Did you tell him about me?",
+  "cn": "你何不告诉我们你今天的事。",
+  "score": 0.46
+ },
+ {
+  "i": 180,
+  "en": "Of course, Harry.",
+  "cn": "真的，哈里。",
+  "score": 0.46
+ },
+ {
+  "i": 181,
+  "en": "I want what's best for you.",
+  "cn": "当然，哈里。我希望你得到最好的，",
+  "score": 0.73
+ },
+ {
+  "i": 182,
+  "en": "And I think I can get a good job through Mr. Marchetta",
+  "cn": "而且我觉得我能找到好工作，",
+  "score": 0.74
+ },
+ {
+  "i": 183,
+  "en": "in Los Angeles also.",
+  "cn": "我怎么能在洛杉矶生活，",
+  "score": 0.49
+ },
+ {
+  "i": 184,
+  "en": "You're kidding.",
+  "cn": "你开玩笑吧。",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "No, I'm not kidding.",
+  "cn": "不，我没开玩笑。",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "I talked with him, and he understands completely.",
+  "cn": "我和他谈过，他完全理解。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "He has a major toy buyer in Los Angeles,",
+  "cn": "他有一个major玩具采购在LosAngeles,",
+  "score": 0.3
+ },
+ {
+  "i": 188,
+  "en": "and he's pretty sure that I can get a good job there.",
+  "cn": "他相当确定我能在那里找到好工作。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "Unbelievable.",
+  "cn": "难以置信！",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "But I think we should talk to Michelle about all of this.",
+  "cn": "但我觉得我们应该和米歇尔谈谈这些。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "You're right.",
+  "cn": "你是对",
+  "score": 0.3
+ },
+ {
+  "i": 192,
+  "en": "We'll talk to her about it.",
+  "cn": "你说得对。我们和她谈。",
+  "score": 0.78
+ },
+ {
+  "i": 193,
+  "en": "And how do you feel about taking the job in Los Angeles?",
+  "cn": "那对于接受洛杉矶的工作，你觉得怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 194,
+  "en": "How should I feel?",
+  "cn": "我该觉得怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "It's the biggest company in the country.",
+  "cn": "我真的想为全国最大的公司工作吗？",
+  "score": 0.59
+ },
+ {
+  "i": 196,
+  "en": "Well, then you feel good about taking it.",
+  "cn": "嗯，那你觉得接受挺好？",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "Well, I feel fine about it.",
+  "cn": "嗯……我觉得挺好。为什么不呢？",
+  "score": 0.75
+ },
+ {
+  "i": 198,
+  "en": "Why shouldn't I?",
+  "cn": "为什么不应该我",
+  "score": 0.3
+ },
+ {
+  "i": 199,
+  "en": "I love my school.",
+  "cn": "我也爱你们。",
+  "score": 0.49
+ },
+ {
+  "i": 200,
+  "en": "I have so many good friends there now.",
+  "cn": "我爱我的学校。我现在有那么多好朋友。",
+  "score": 0.78
+ },
+ {
+  "i": 201,
+  "en": "I wouldn't miss a day, even if I were really sick.",
+  "cn": "就算我真病了也不愿缺课一天。",
+  "score": 1.0
+ },
+ {
+  "i": 202,
+  "en": "Come and sit down for a minute, Michelle.",
+  "cn": "过来坐一会儿，米歇尔。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "I'd like to talk to you about something, something important.",
+  "cn": "我想和你谈件事。",
+  "score": 0.83
+ },
+ {
+  "i": 204,
+  "en": "What's wrong, Susan?",
+  "cn": "怎么了，苏珊？",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "Oh, there's nothing wrong, Michelle.",
+  "cn": "哦有没有事错Michelle.",
+  "score": 0.3
+ },
+ {
+  "i": 206,
+  "en": "But your daddy and I are talking about something",
+  "cn": "但你爸爸和我正在谈一件事，",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "that I'd like your opinion about.",
+  "cn": "我想听听你的意见。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "I know.",
+  "cn": "我知道",
+  "score": 0.3
+ },
+ {
+  "i": 209,
+  "en": "I heard you talking about it the other night",
+  "cn": "我知道。我听到你们谈过了，",
+  "score": 0.67
+ },
+ {
+  "i": 210,
+  "en": "when I was trying out my new clothes.",
+  "cn": "那天晚上我试新衣服的时候。",
+  "score": 0.7
+ },
+ {
+  "i": 211,
+  "en": "It's about moving to Los Angeles.",
+  "cn": "是关于搬到洛杉矶。",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "You're right.",
+  "cn": "你是对",
+  "score": 0.3
+ },
+ {
+  "i": 213,
+  "en": "How do you feel about it?",
+  "cn": "你说得对。你觉得怎么样？",
+  "score": 0.77
+ },
+ {
+  "i": 214,
+  "en": "Well, I really wouldn't want to move.",
+  "cn": "嗯，我真的不想搬家，但是……",
+  "score": 0.92
+ },
+ {
+  "i": 215,
+  "en": "But if you and daddy wanted to, I",
+  "cn": "但如果你和爸爸想搬，",
+  "score": 0.93
+ },
+ {
+  "i": 216,
+  "en": "guess you know what's best for the family and for me.",
+  "cn": "我想你们最清楚什么对家庭和我最好。",
+  "score": 0.95
+ },
+ {
+  "i": 217,
+  "en": "That's very considerate of you, Michelle.",
+  "cn": "你真体贴，米歇尔。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "But what about your friends?",
+  "cn": "但你的朋友们呢？",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "I'd miss them a lot.",
+  "cn": "我会很想他们，",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "But I know what it feels like to miss someone.",
+  "cn": "但我知道想念一个人是什么感觉。",
+  "score": 1.0
+ },
+ {
+  "i": 221,
+  "en": "Honey, we don't have to move if you're not",
+  "cn": "亲爱的，我们不必搬家，",
+  "score": 0.74
+ },
+ {
+  "i": 222,
+  "en": "going to be happy about it.",
+  "cn": "如果你不高兴的话。",
+  "score": 0.74
+ },
+ {
+  "i": 223,
+  "en": "Does daddy want to move?",
+  "cn": "爸爸想搬吗？",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "I think so.",
+  "cn": "我觉得",
+  "score": 0.6
+ },
+ {
+  "i": 225,
+  "en": "He's going to tell us tonight about the job offer.",
+  "cn": "我想是的。他今晚会告诉我们工作的事。",
+  "score": 0.85
+ },
+ {
+  "i": 226,
+  "en": "How was everybody's day today?",
+  "cn": "嗯，大家今天过得怎么样？",
+  "score": 0.89
+ },
+ {
+  "i": 227,
+  "en": "Michelle was chosen to do the school poster",
+  "cn": "米歇尔被选中",
+  "score": 0.72
+ },
+ {
+  "i": 228,
+  "en": "for the play this year.",
+  "cn": "做今年学校话剧的海报。",
+  "score": 0.71
+ },
+ {
+  "i": 229,
+  "en": "Congratulations, Michelle.",
+  "cn": "恭喜，米歇尔！真了不起！",
+  "score": 0.64
+ },
+ {
+  "i": 230,
+  "en": "That's something.",
+  "cn": "那是某事",
+  "score": 0.3
+ },
+ {
+  "i": 231,
+  "en": "And how was your day, Susan?",
+  "cn": "那你今天怎么样，苏珊？",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "I see you're in a good mood.",
+  "cn": "我明白了",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "Why don't you tell us about your day?",
+  "cn": "好。现在，告诉我们你和约克先生的谈话。",
+  "score": 0.46
+ },
+ {
+  "i": 234,
+  "en": "I met with Bill York.",
+  "cn": "我见了比尔·约克。",
+  "score": 1.0
+ },
+ {
+  "i": 235,
+  "en": "It's OK to talk about it, Harry.",
+  "cn": "可以说，哈里。",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "Michelle knows all about it.",
+  "cn": "米歇尔都知道了。",
+  "score": 0.91
+ },
+ {
+  "i": 237,
+  "en": "Really?",
+  "cn": "真的？",
+  "score": 1.0
+ },
+ {
+  "i": 238,
+  "en": "Really, Harry.",
+  "cn": "我们是一家人，哈里。",
+  "score": 0.49
+ },
+ {
+  "i": 239,
+  "en": "Michelle and I have all kinds of feelings",
+  "cn": "米歇尔和我对离开纽约、家人和朋友",
+  "score": 0.94
+ },
+ {
+  "i": 240,
+  "en": "about leaving New York, the family and friends.",
+  "cn": "有各种各样的感受。",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "But if you think you should take the job, we're behind you.",
+  "cn": "但如果你觉得应该接受这份工作，我们支持你。",
+  "score": 1.0
+ },
+ {
+  "i": 242,
+  "en": "What about Michelle's school?",
+  "cn": "米歇尔的学校呢？",
+  "score": 1.0
+ },
+ {
+  "i": 243,
+  "en": "We'll move after the school turn.",
+  "cn": "我们等学期结束再搬。",
+  "score": 0.85
+ },
+ {
+  "i": 244,
+  "en": "What about her new friends?",
+  "cn": "她的新朋友呢？",
+  "score": 1.0
+ },
+ {
+  "i": 245,
+  "en": "I'll make new friends, wherever we are,",
+  "cn": "只要我们在一起，无论去哪我都会交到新朋友。",
+  "score": 0.7
+ },
+ {
+  "i": 246,
+  "en": "as long as we're together.",
+  "cn": "作为长作为我们是一起",
+  "score": 0.3
+ },
+ {
+  "i": 247,
+  "en": "We're a family, Harry.",
+  "cn": "我们是一个家庭Harry.",
+  "score": 0.3
+ },
+ {
+  "i": 248,
+  "en": "Whatever you think is right for you is right for us.",
+  "cn": "无论你觉得什么对你好，对我们也都好。",
+  "score": 1.0
+ },
+ {
+  "i": 249,
+  "en": "I am so touched.",
+  "cn": "我是如此touched.",
+  "score": 0.3
+ },
+ {
+  "i": 250,
+  "en": "The two of you are really something.",
+  "cn": "我太感动了。你们俩真是了不起。",
+  "score": 0.74
+ },
+ {
+  "i": 251,
+  "en": "We love you, daddy.",
+  "cn": "我们爱你，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 252,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 253,
+  "en": "Now, tell us about your talk with Mr. York.",
+  "cn": "现在告诉us关于你的谈话和Mr.York.",
+  "score": 0.3
+ },
+ {
+  "i": 254,
+  "en": "Did you take the job?",
+  "cn": "对，我没接受这份工作。",
+  "score": 0.68
+ },
+ {
+  "i": 255,
+  "en": "Nope.",
+  "cn": "没。",
+  "score": 1.0
+ },
+ {
+  "i": 256,
+  "en": "What?",
+  "cn": "什么",
+  "score": 0.3
+ },
+ {
+  "i": 257,
+  "en": "No?",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 258,
+  "en": "You didn't take it?",
+  "cn": "不？你没接受？",
+  "score": 0.87
+ },
+ {
+  "i": 259,
+  "en": "No, I did not take the job.",
+  "cn": "不我做不拿这工作",
+  "score": 0.3
+ },
+ {
+  "i": 260,
+  "en": "But daddy, I thought...",
+  "cn": "但是，爸爸，我以为……",
+  "score": 1.0
+ },
+ {
+  "i": 261,
+  "en": "Harry, you didn't turn it down because of me.",
+  "cn": "哈里，你不会是因为我……",
+  "score": 0.96
+ },
+ {
+  "i": 262,
+  "en": "Or me.",
+  "cn": "或者我？",
+  "score": 1.0
+ },
+ {
+  "i": 263,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 264,
+  "en": "No, I turned it down because of me.",
+  "cn": "不，不。我是因为我自己拒绝的。",
+  "score": 0.97
+ },
+ {
+  "i": 265,
+  "en": "How's that?",
+  "cn": "怎么说？",
+  "score": 1.0
+ },
+ {
+  "i": 266,
+  "en": "Well, I began to think about you and about Michelle.",
+  "cn": "嗯，我开始想你、想米歇尔，",
+  "score": 1.0
+ },
+ {
+  "i": 267,
+  "en": "And then I asked myself, do I really",
+  "cn": "然后我问自己，",
+  "score": 0.76
+ },
+ {
+  "i": 268,
+  "en": "want to work for the biggest company in the country?",
+  "cn": "想要去工作为了这biggest公司在这country?",
+  "score": 0.3
+ },
+ {
+  "i": 269,
+  "en": "And I don't.",
+  "cn": "我不想。",
+  "score": 1.0
+ },
+ {
+  "i": 270,
+  "en": "I went into business for myself because I",
+  "cn": "我自己做生意",
+  "score": 0.86
+ },
+ {
+  "i": 271,
+  "en": "like being my own boss.",
+  "cn": "是因为我喜欢自己当老板。",
+  "score": 0.77
+ },
+ {
+  "i": 272,
+  "en": "I run my own company.",
+  "cn": "我经营自己的公司。我是小池塘里的大鱼。",
+  "score": 0.5
+ },
+ {
+  "i": 273,
+  "en": "I'm a big fish in a little pond.",
+  "cn": "我不太确定我想成为大池塘里的小鱼。",
+  "score": 0.52
+ },
+ {
+  "i": 274,
+  "en": "I'm not really sure I want to be a little fish in a big pond.",
+  "cn": "我是不真当然我想要去是一个littlefish在一个大pond.",
+  "score": 0.3
+ },
+ {
+  "i": 275,
+  "en": "Oh, daddy, does that mean we don't have to move?",
+  "cn": "哦，爸爸，那是说我们不用搬了？",
+  "score": 1.0
+ },
+ {
+  "i": 276,
+  "en": "That's right, sweetheart.",
+  "cn": "对，亲爱的。",
+  "score": 1.0
+ },
+ {
+  "i": 277,
+  "en": "Are you sure?",
+  "cn": "你确定？",
+  "score": 1.0
+ },
+ {
+  "i": 278,
+  "en": "I couldn't be more sure, Susan.",
+  "cn": "再确定不过了，苏珊。",
+  "score": 1.0
+ },
+ {
+  "i": 279,
+  "en": "I'm glad if you are, Harry.",
+  "cn": "你确定我就高兴了，哈里。",
+  "score": 1.0
+ },
+ {
+  "i": 280,
+  "en": "Besides, how could I live in Los Angeles",
+  "cn": "Besides,如何能我生活在LosAngeles",
+  "score": 0.3
+ },
+ {
+  "i": 281,
+  "en": "when all my favorite people live here?",
+  "cn": "当所有我最喜欢的人都在这里？",
+  "score": 1.0
+ },
+ {
+  "i": 282,
+  "en": "Your favorite people?",
+  "cn": "你最喜欢的人？",
+  "score": 1.0
+ },
+ {
+  "i": 283,
+  "en": "Who's that?",
+  "cn": "谁？",
+  "score": 1.0
+ },
+ {
+  "i": 284,
+  "en": "The Stewart family, of course.",
+  "cn": "当然是斯图尔特一家。",
+  "score": 1.0
+ }
+]
