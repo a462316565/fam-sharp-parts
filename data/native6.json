@@ -1,0 +1,1658 @@
+[
+ {
+  "i": 0,
+  "en": "OK, Philip.",
+  "cn": "Philip！",
+  "score": 0.68
+ },
+ {
+  "i": 1,
+  "en": "This is your third cup of coffee.",
+  "cn": "好了，Philip，这是你的第三杯咖啡了。",
+  "score": 0.83
+ },
+ {
+  "i": 2,
+  "en": "We should get to work,",
+  "cn": "我们该干活了，",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "or we won't be finished by dinnertime.",
+  "cn": "不然晚饭前做不完了。",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "I guess we must.",
+  "cn": "我想我们必须开始了。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "We must.",
+  "cn": "我们必须。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "The beginning of my famous Thanksgiving apple pie.",
+  "cn": "好，开始做我著名的感恩节苹果派。",
+  "score": 0.94
+ },
+ {
+  "i": 8,
+  "en": "One apple.",
+  "cn": "一个苹果。",
+  "score": 0.3
+ },
+ {
+  "i": 9,
+  "en": "Two apples.",
+  "cn": "苹果？",
+  "score": 0.61
+ },
+ {
+  "i": 10,
+  "en": "Three apples.",
+  "cn": "三个苹果。",
+  "score": 0.3
+ },
+ {
+  "i": 11,
+  "en": "Four apples.",
+  "cn": "四点。",
+  "score": 0.52
+ },
+ {
+  "i": 12,
+  "en": "Come on,",
+  "cn": "快点，Philip！",
+  "score": 0.67
+ },
+ {
+  "i": 13,
+  "en": "Philip!",
+  "cn": "怎么了，Philip。",
+  "score": 0.65
+ },
+ {
+  "i": 14,
+  "en": "Get busy with your famous apple pie.",
+  "cn": "快做你著名的苹果派吧。",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "There's much more to be done.",
+  "cn": "还有很多事要做。",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "Now, the ingredients.",
+  "cn": "现在，配料。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "What goes into my apple pie besides apples?",
+  "cn": "除了苹果，我的苹果派里还放什么？",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Ah,",
+  "cn": "啊，",
+  "score": 0.3
+ },
+ {
+  "i": 19,
+  "en": "yes.",
+  "cn": "是的",
+  "score": 0.3
+ },
+ {
+  "i": 20,
+  "en": "Flour,",
+  "cn": "面粉，",
+  "score": 0.3
+ },
+ {
+  "i": 21,
+  "en": "sugar,",
+  "cn": "糖，",
+  "score": 0.3
+ },
+ {
+  "i": 22,
+  "en": "butter.",
+  "cn": "黄油。",
+  "score": 0.3
+ },
+ {
+  "i": 23,
+  "en": "Butter,",
+  "cn": "黄油，",
+  "score": 0.3
+ },
+ {
+  "i": 24,
+  "en": "nice and cold and hard.",
+  "cn": "黄油，又冷又硬才好。",
+  "score": 0.84
+ },
+ {
+  "i": 25,
+  "en": "OK, here are the walnuts.",
+  "cn": "好，核桃在这里。",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "Last but-",
+  "cn": "最后但同样重要的，",
+  "score": 0.57
+ },
+ {
+  "i": 27,
+  "en": "not least, the reason my apple pie is famous-cinnamon.",
+  "cn": "我的苹果派出名的原因——肉桂。",
+  "score": 0.86
+ },
+ {
+  "i": 28,
+  "en": "Cinnamon... Ellen, where's the cinnamon?",
+  "cn": "Ellen，肉桂在哪儿？",
+  "score": 0.91
+ },
+ {
+  "i": 29,
+  "en": "If there's any cinnamon,",
+  "cn": "如果还有肉桂的话，",
+  "score": 0.76
+ },
+ {
+  "i": 30,
+  "en": "it's in the cabinet with the salt and pepper.",
+  "cn": "就在盐和胡椒那个橱柜里。",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "Salt, pepper, dill weed, garlic powder, cinnamon.",
+  "cn": "盐、胡椒、莳萝、蒜粉、肉桂。Ellen？",
+  "score": 0.91
+ },
+ {
+  "i": 32,
+  "en": "Ellen?",
+  "cn": "好的，Ellen。",
+  "score": 0.6
+ },
+ {
+  "i": 33,
+  "en": "Yes, Philip.",
+  "cn": "叫我 Philip。",
+  "score": 0.5
+ },
+ {
+  "i": 34,
+  "en": "Is it possible that we forgot to buy cinnamon?",
+  "cn": "我们有没有可能忘了买肉桂？",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "Yes, it is possible that we forgot to buy cinnamon.",
+  "cn": "是的，有可能我们忘了买肉桂。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Well, how can I make my famous apple pie without cinnamon?",
+  "cn": "嗯，没有肉桂我怎么做我著名的苹果派？",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Good morning.",
+  "cn": "早上好.",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "Oh, hi, Robbie.",
+  "cn": "哦，Robbie！",
+  "score": 0.78
+ },
+ {
+  "i": 39,
+  "en": "Good morning.",
+  "cn": "早上好，Robbie。",
+  "score": 0.73
+ },
+ {
+  "i": 40,
+  "en": "Good morning, Robbie.",
+  "cn": "大家早上好！",
+  "score": 0.68
+ },
+ {
+  "i": 41,
+  "en": "Can you do me a favor?",
+  "cn": "能帮我个忙吗？",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "Sure, Dad.",
+  "cn": "当然，爸爸，什么事？",
+  "score": 0.72
+ },
+ {
+  "i": 43,
+  "en": "What?",
+  "cn": "发生了什么?",
+  "score": 0.48
+ },
+ {
+  "i": 44,
+  "en": "Remember my apple pie on Thanksgiving?",
+  "cn": "还记得感恩节上我的苹果派吗？",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "What do you love about it?",
+  "cn": "你最喜欢它什么？",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "The apples?",
+  "cn": "这苹果？",
+  "score": 0.3
+ },
+ {
+  "i": 47,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 48,
+  "en": "The sssss...",
+  "cn": "不，是嘶嘶……",
+  "score": 0.78
+ },
+ {
+  "i": 49,
+  "en": "Cinnamon!",
+  "cn": "肉桂……",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "Right.",
+  "cn": "好的.",
+  "score": 0.63
+ },
+ {
+  "i": 51,
+  "en": "We don't have any cinnamon.",
+  "cn": "对，我们没肉桂了。",
+  "score": 0.87
+ },
+ {
+  "i": 52,
+  "en": "I'll go down to Henry's grocery.",
+  "cn": "我去 Henry 的杂货店，他总是开着门。",
+  "score": 0.74
+ },
+ {
+  "i": 53,
+  "en": "He's always open.",
+  "cn": "他是总是开着的。",
+  "score": 0.3
+ },
+ {
+  "i": 54,
+  "en": "I'll get some for you.",
+  "cn": "我去给你买一些。",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "That's my boy!",
+  "cn": "真是我的好儿子！",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "Oh, put your heavy jacket on, Robbie.",
+  "cn": "哦，把厚外套穿上，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "It's cold outside.",
+  "cn": "外面冷。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Alexandra might call.",
+  "cn": "Alexandra 可能会打电话来。",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "Tell her I'll call her right back.",
+  "cn": "告诉她我会马上回她电话。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "Thanks, Son.",
+  "cn": "谢谢，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "Uh, why does he always have to slam the door?",
+  "cn": "唉，他怎么总是摔门？",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "Hello... Hello, Alexandra.",
+  "cn": "你好，Alexandra。",
+  "score": 0.9
+ },
+ {
+  "i": 64,
+  "en": "How are you?",
+  "cn": "你好吗？……妈妈在。",
+  "score": 0.64
+ },
+ {
+  "i": 65,
+  "en": "Fine.",
+  "cn": "哦，好的。",
+  "score": 0.64
+ },
+ {
+  "i": 66,
+  "en": "Robbie just went to the store.",
+  "cn": "Robbie 刚才去商店了。",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "He'll be back soon.",
+  "cn": "他很快就回来。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "He said he'll call you...",
+  "cn": "他说他会给你打电话。",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "Oh, oh, I see...",
+  "cn": "……哦，哦，我明白了……哦……当然……",
+  "score": 0.68
+ },
+ {
+  "i": 70,
+  "en": "Oh... certainly.",
+  "cn": "哦，爷爷！",
+  "score": 0.46
+ },
+ {
+  "i": 71,
+  "en": "Well, do you have the phone number there?",
+  "cn": "嗯，你有那边的电话号码吗？",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Oh... I see...",
+  "cn": "哦我知道了",
+  "score": 0.3
+ },
+ {
+  "i": 73,
+  "en": "Please, I know he wants to talk to you...",
+  "cn": "……哦……我明白了……拜托，我知道他想和你说话……",
+  "score": 0.85
+ },
+ {
+  "i": 74,
+  "en": "Thank you, and happy Thanksgiving to you and your family, too.",
+  "cn": "也祝你和你家人感恩节快乐。",
+  "score": 0.9
+ },
+ {
+  "i": 75,
+  "en": "Try to come by later for dessert...",
+  "cn": "待会儿过来吃甜点吧……再见。",
+  "score": 0.91
+ },
+ {
+  "i": 76,
+  "en": "Bye.",
+  "cn": "再见。",
+  "score": 0.53
+ },
+ {
+  "i": 77,
+  "en": "That was Alexandra.",
+  "cn": "是 Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "She and the Molinas are going to spend Thanksgiving with their cousins.",
+  "cn": "要去和表亲们一起过感恩节。",
+  "score": 0.77
+ },
+ {
+  "i": 79,
+  "en": "She doesn't have the phone number.",
+  "cn": "她没有电话号码。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "Oh, Robbie will be disappointed.",
+  "cn": "哦，Robbie 会失望的。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "He'll be grouchy.",
+  "cn": "他会发脾气的。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Maybe she'll call back.",
+  "cn": "也许她会回电话，她答应过。",
+  "score": 0.73
+ },
+ {
+  "i": 83,
+  "en": "She promised.",
+  "cn": "她答应了",
+  "score": 0.3
+ },
+ {
+  "i": 84,
+  "en": "Here's your cinnamon,",
+  "cn": "肉桂来了，老爸。",
+  "score": 0.85
+ },
+ {
+  "i": 85,
+  "en": "Pop.",
+  "cn": "爸爸",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "It was a dollar and sixty cents.",
+  "cn": "一美元六十美分。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "You forgot to ask me for the change.",
+  "cn": "你忘了找我要找零。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "Or did you forget to give it to me?",
+  "cn": "还是你忘了给我？",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "Thanks, Son.",
+  "cn": "谢谢，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "Alexandra called.",
+  "cn": "Alexandra 打过电话来。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "I'll call her back.",
+  "cn": "我回她电话。",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "She said she'll call you later.",
+  "cn": "她说她晚点打给你。",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "She's not at home.",
+  "cn": "她不在家。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "You should have your breakfast,",
+  "cn": "你该吃早餐了，儿子。",
+  "score": 0.9
+ },
+ {
+  "i": 95,
+  "en": "Son.",
+  "cn": "孩子",
+  "score": 0.3
+ },
+ {
+  "i": 96,
+  "en": "Make you feel better.",
+  "cn": "会让你舒服些。",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "Protein, vitamins.",
+  "cn": "蛋白质、维生素。",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "She said she'll call back?",
+  "cn": "她说她会回电话？",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Yes, she did.",
+  "cn": "是的，她说了。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "Good morning,",
+  "cn": "哦，嗨，Robbie，早上好。",
+  "score": 0.55
+ },
+ {
+  "i": 101,
+  "en": "everyone!",
+  "cn": "各位",
+  "score": 0.3
+ },
+ {
+  "i": 102,
+  "en": "Happy Turkey Day?",
+  "cn": "火鸡节快乐！",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "What's wrong?",
+  "cn": "怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Nothing.",
+  "cn": "没什么。绝对没什么。",
+  "score": 0.45
+ },
+ {
+  "i": 105,
+  "en": "Absolutely nothing.",
+  "cn": "绝对没什么",
+  "score": 0.3
+ },
+ {
+  "i": 106,
+  "en": "What's gotten into him?",
+  "cn": "他怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "He missed a phone call.",
+  "cn": "他错过了一个电话。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "From...?",
+  "cn": "从……？",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "Yes, Alexandra.",
+  "cn": "是的，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "It's nice to see young love...",
+  "cn": "看到年轻的爱情真好……哦，要是再年轻一次就好了！",
+  "score": 0.7
+ },
+ {
+  "i": 111,
+  "en": "Oh, to be young again!",
+  "cn": "哦去是年轻再",
+  "score": 0.3
+ },
+ {
+  "i": 112,
+  "en": "Where's the coffee?",
+  "cn": "咖啡在哪儿？",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "I love parades.",
+  "cn": "我爱游行。",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "The Thanksgiving Day parade is always such great fun.",
+  "cn": "感恩节游行总是这么有趣。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "Look at that Superman balloon!",
+  "cn": "看",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Wowee!",
+  "cn": "哇",
+  "score": 0.3
+ },
+ {
+  "i": 117,
+  "en": "Just floating along high above Central Park West.",
+  "cn": "哇哦！就在中央公园西路上空飘过。",
+  "score": 0.92
+ },
+ {
+  "i": 118,
+  "en": "Don't you just love it?",
+  "cn": "你不喜欢吗？",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Oh, and the bands and the music.",
+  "cn": "哦，还有乐队和音乐。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "John Philip Sousa.",
+  "cn": "John Philip Sousa。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "I love his music.",
+  "cn": "我喜欢他的音乐。",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "Da dadadas da da dada da da da dada.",
+  "cn": "哒 哒哒 哒 哒 哒哒 哒 哒 哒 哒 哒 哒 哒 哒哒。",
+  "score": 0.77
+ },
+ {
+  "i": 123,
+  "en": "Oh, look at that float,",
+  "cn": "哦，看那个花车，Robbie。",
+  "score": 0.85
+ },
+ {
+  "i": 124,
+  "en": "Robbie.",
+  "cn": "不，Robbie。",
+  "score": 0.68
+ },
+ {
+  "i": 125,
+  "en": "Look at those funny-looking clowns.",
+  "cn": "看那些滑稽的小丑。",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "It's for kids.",
+  "cn": "那是给小孩子看的。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Maybe so,",
+  "cn": "也许如此",
+  "score": 0.3
+ },
+ {
+  "i": 128,
+  "en": "but parades always make me feel like a kid.",
+  "cn": "也许是吧，但游行总让我感觉像个小孩子。",
+  "score": 0.87
+ },
+ {
+  "i": 129,
+  "en": "Remember when you and your dad and I went to the Thanksgiving Day parade?",
+  "cn": "还记得你和你爸爸还有我",
+  "score": 0.62
+ },
+ {
+  "i": 130,
+  "en": "You were four or five years old,",
+  "cn": "你那时大概四五岁。",
+  "score": 0.84
+ },
+ {
+  "i": 131,
+  "en": "I think.",
+  "cn": "让我想想。",
+  "score": 0.48
+ },
+ {
+  "i": 132,
+  "en": "Hello, hello...",
+  "cn": "你好，Susan。",
+  "score": 0.53
+ },
+ {
+  "i": 133,
+  "en": "Oh hi, Susan.",
+  "cn": "嗨，Susan。",
+  "score": 0.77
+ },
+ {
+  "i": 134,
+  "en": "How are you?...",
+  "cn": "你好……你好，Alexandra，你好吗？……很好。",
+  "score": 0.47
+ },
+ {
+  "i": 135,
+  "en": "Here's Mom.",
+  "cn": "这里是妈妈",
+  "score": 0.3
+ },
+ {
+  "i": 136,
+  "en": "Hello, Susan.",
+  "cn": "你好，你好……哦，嗨，Susan。",
+  "score": 0.59
+ },
+ {
+  "i": 137,
+  "en": "Yes, Yes, he missed a phone call from Alexandra.",
+  "cn": "是的，他错过了 Alexandra 的电话。",
+  "score": 0.97
+ },
+ {
+  "i": 138,
+  "en": "Yes, I know, but he'll get over it.",
+  "cn": "是的，我知道，但他会过去的。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "Good.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 140,
+  "en": "Then you'll be here about five?",
+  "cn": "好，那你五点左右到？",
+  "score": 0.9
+ },
+ {
+  "i": 141,
+  "en": "Oh, fine.",
+  "cn": "哦好",
+  "score": 0.3
+ },
+ {
+  "i": 142,
+  "en": "I look forward to seeing you and Harry and Michelle.",
+  "cn": "我期待见到你、Harry 和 Michelle。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "Drive carefully.",
+  "cn": "开车小心。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Good-bye.",
+  "cn": "再见",
+  "score": 0.3
+ },
+ {
+  "i": 145,
+  "en": "Taste Ellen's turkey dressing.",
+  "cn": "尝尝 Ellen 的火鸡填料。",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "It's delicious.",
+  "cn": "很美味。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "I'm not surprised.",
+  "cn": "我不意外。",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "It's Grandma's recipe.",
+  "cn": "这是奶奶的配方。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "It's my favourite part of the meal.",
+  "cn": "这是这顿饭里我最喜欢的部分。",
+  "score": 0.89
+ },
+ {
+  "i": 150,
+  "en": "What about my famous apple pie?",
+  "cn": "那我著名的苹果派呢？",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Dad, your apple pie is my favorite dessert.",
+  "cn": "爸爸，你的苹果派是我最喜欢的甜点。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "How's the parade?",
+  "cn": "游行怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 154,
+  "en": "Mom!",
+  "cn": "妈妈",
+  "score": 0.3
+ },
+ {
+  "i": 155,
+  "en": "Is it for me?",
+  "cn": "妈妈！是找我的吗？",
+  "score": 0.83
+ },
+ {
+  "i": 156,
+  "en": "No, Robbie.",
+  "cn": "不用，亲爱的。",
+  "score": 0.49
+ },
+ {
+  "i": 157,
+  "en": "Who was it?",
+  "cn": "谁打来的？",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "Wrong number.",
+  "cn": "错的",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "Philip, would you join me in the kitchen, please?",
+  "cn": "Philip，请到厨房来一下好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "It's getting late.",
+  "cn": "时间不早了。",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "We have vegetables to prepare.",
+  "cn": "我们还要准备蔬菜。",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "Can I help with anything?",
+  "cn": "我能帮什么忙吗？",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "No, honey, you just relax with Grandpa.",
+  "cn": "你和爷爷休息就好。",
+  "score": 0.8
+ },
+ {
+  "i": 164,
+  "en": "I'll get you to help serve later.",
+  "cn": "待会儿我再让你帮忙上菜。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "Ellen reminds me so much of Grandma.",
+  "cn": "Ellen 真让我想起奶奶。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "What time does the Michigan football game come on?",
+  "cn": "密歇根橄榄球赛几点开始？",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "I'll be back to see the game.",
+  "cn": "我会回来看比赛的。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "Grandpa, when did Dad graduate from Michigan?",
+  "cn": "爷爷，爸爸什么时候从密歇根毕业的？",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "Let me think.",
+  "cn": "让我想。",
+  "score": 0.3
+ },
+ {
+  "i": 170,
+  "en": "They graduated from medical school in 1960,",
+  "cn": "他 1960 年从医学院毕业，",
+  "score": 0.89
+ },
+ {
+  "i": 171,
+  "en": "and from the University of Michigan in 1956.",
+  "cn": "1956 年从密歇根大学毕业。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "Did you go to Michigan, Grandpa?",
+  "cn": "爷爷，你也上密歇根吗？",
+  "score": 0.91
+ },
+ {
+  "i": 173,
+  "en": "Yep, I graduated in 1937.",
+  "cn": "对，我 1937 年毕业。",
+  "score": 0.84
+ },
+ {
+  "i": 174,
+  "en": "I've got to start thinking about college soon.",
+  "cn": "我得开始考虑上大学的事了。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Okay, everybody,",
+  "cn": "好了，大家。",
+  "score": 0.69
+ },
+ {
+  "i": 176,
+  "en": "I want to welcome Harry and his daughter Michelle to Thanksgiving with us.",
+  "cn": "我想要",
+  "score": 0.78
+ },
+ {
+  "i": 177,
+  "en": "Thank you, Dr. Stewart.",
+  "cn": "谢谢你，Stewart 医生。",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "But first, I think we should take a moment and remember the meaning of Thanksgiving.",
+  "cn": "但首先，我觉得我们应该花点时间",
+  "score": 0.64
+ },
+ {
+  "i": 179,
+  "en": "Philip, I took Michelle to a school play about the first Thanksgiving.",
+  "cn": "Philip，我带 Michelle 看了一场学校剧，",
+  "score": 0.7
+ },
+ {
+  "i": 180,
+  "en": "Well, why don't you tell us about that, Michelle?",
+  "cn": "嗯，Michelle，你何不给我们讲讲？",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "Thanksgiving was about the Pilgrims,",
+  "cn": "感恩节是关于清教徒的，",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "the first settlers in America.",
+  "cn": "美国最早的定居者。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "They shared the first harvest with the Indians and gave thanks.",
+  "cn": "他们和印第安人分享第一次丰收，",
+  "score": 0.79
+ },
+ {
+  "i": 184,
+  "en": "All right.",
+  "cn": "好！",
+  "score": 0.67
+ },
+ {
+  "i": 185,
+  "en": "Then in that spirit let's each of us give thanks.",
+  "cn": "那么本着这种精神，让我们每个人献上感恩。",
+  "score": 0.91
+ },
+ {
+  "i": 186,
+  "en": "Each in his own way.",
+  "cn": "每个人用自己的方式。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "Who wants to begin?",
+  "cn": "谁想先来？",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "I will.",
+  "cn": "我来。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "I give thanks for being here with my family and for being well,",
+  "cn": "我感恩能和家人在一起、身体健康，",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "so I can enjoy you all.",
+  "cn": "这样我就能享受你们所有人。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "All right!",
+  "cn": "好的",
+  "score": 0.3
+ },
+ {
+  "i": 192,
+  "en": "We love you, Grandpa.",
+  "cn": "我们爱你，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "I'd like to give thanks for a healthy year,",
+  "cn": "我要感恩这一年健康、有一份好工作，",
+  "score": 0.86
+ },
+ {
+  "i": 194,
+  "en": "a good job,",
+  "cn": "一个好工作，",
+  "score": 0.3
+ },
+ {
+  "i": 195,
+  "en": "and for meeting Harry and Michelle.",
+  "cn": "还有遇见 Harry 和 Michelle。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "We'd like to give thanks for meeting Susan and the Stewart family.",
+  "cn": "我们要感恩遇见 Susan",
+  "score": 0.74
+ },
+ {
+  "i": 197,
+  "en": "I love you, Daddy.",
+  "cn": "我爱你，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "Thanks, Harry.",
+  "cn": "谢谢，Harry。",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "That was very kind of you.",
+  "cn": "你太客气了。",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "I'd like to give thanks for Grandpa coming to live with us.",
+  "cn": "我要感恩爷爷来和我们一起住。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "And I'd also like to thank my math teacher for giving me a passing grade.",
+  "cn": "我还要感谢我的数学老师",
+  "score": 0.68
+ },
+ {
+  "i": 202,
+  "en": "And call me, Alexandra.",
+  "cn": "还有打电话给我，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "Oh, Robbie!",
+  "cn": "噢，Robbie！",
+  "score": 0.3
+ },
+ {
+  "i": 204,
+  "en": "She'll call.",
+  "cn": "她会打来的。",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "You go first, Marilyn.",
+  "cn": "你先来，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "I'm thinking.",
+  "cn": "我在想。",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "You go first.",
+  "cn": "你先来。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "Well, you all know I'm working on my photo album.",
+  "cn": "嗯，你们都知道我在做我的相册。",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "It's not finished yet.",
+  "cn": "还没完成。",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "And I'd like to thank Marilyn for being so patient.",
+  "cn": "我要感谢 Marilyn 这么有耐心。",
+  "score": 1.0
+ },
+ {
+  "i": 211,
+  "en": "Thanks, Richard.",
+  "cn": "谢谢，Richard。",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "I should thank you for encouraging me to keep working on my fashion designs.",
+  "cn": "我应该谢谢你鼓励我",
+  "score": 0.6
+ },
+ {
+  "i": 213,
+  "en": "I'm lucky to have a husband with an artistic eye.",
+  "cn": "我很幸运有一个有艺术眼光的丈夫。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "Oh, we have a lot to be thankful for.",
+  "cn": "哦，我们有很多值得感恩的事。",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "For the food on this table.",
+  "cn": "为桌上的食物。",
+  "score": 1.0
+ },
+ {
+  "i": 216,
+  "en": "Just like the Pilgrims.",
+  "cn": "就像清教徒一样。",
+  "score": 1.0
+ },
+ {
+  "i": 217,
+  "en": "I'll go along with that, Ellen.",
+  "cn": "我同意，Ellen。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "Well, help me serve, Robbie.",
+  "cn": "嗯，帮我上菜吧，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "It was a wonderful meal, Mrs. Stewart.",
+  "cn": "这顿饭太棒了，Stewart 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "Thank you.",
+  "cn": "谢谢你,",
+  "score": 1.0
+ },
+ {
+  "i": 221,
+  "en": "And now to see the end of the football game.",
+  "cn": "现在去看橄榄球赛的最后部分。",
+  "score": 1.0
+ },
+ {
+  "i": 222,
+  "en": "Exactly.",
+  "cn": "正是。",
+  "score": 1.0
+ },
+ {
+  "i": 223,
+  "en": "Where are you going, Philip?",
+  "cn": "你去哪儿，Philip？",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "Remember, the Michigan football game?",
+  "cn": "记得吗，密歇根橄榄球赛？",
+  "score": 1.0
+ },
+ {
+  "i": 225,
+  "en": "And Michigan needs a touchdown.",
+  "cn": "密歇根需要一个达阵。",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "Did you forget something?",
+  "cn": "你忘了什么吗？",
+  "score": 1.0
+ },
+ {
+  "i": 227,
+  "en": "Dad, your famous apple pie.",
+  "cn": "爸爸，你著名的苹果派。",
+  "score": 1.0
+ },
+ {
+  "i": 228,
+  "en": "Just let me see the score, Ellen.",
+  "cn": "让我看看比分，Ellen。",
+  "score": 1.0
+ },
+ {
+  "i": 229,
+  "en": "Go ahead, Philip.",
+  "cn": "去吧，Philip。",
+  "score": 1.0
+ },
+ {
+  "i": 230,
+  "en": "We should all take a little break before dessert.",
+  "cn": "吃甜点前我们都该休息一下。",
+  "score": 1.0
+ },
+ {
+  "i": 231,
+  "en": "Oh, who could that be?",
+  "cn": "哦，会是谁呢？",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "Oh, it must be Alexandra.",
+  "cn": "哦，一定是 Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "I invited her to come by for dessert.",
+  "cn": "我请她来吃甜点。",
+  "score": 1.0
+ },
+ {
+  "i": 234,
+  "en": "You did?",
+  "cn": "你请了？",
+  "score": 1.0
+ },
+ {
+  "i": 235,
+  "en": "I like Ellen.",
+  "cn": "我喜欢 Ellen。",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "You know everyone, Alexandra.",
+  "cn": "大家都认识 Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 237,
+  "en": "No, she doesn't know Harry Bennett and his daughter Michelle.",
+  "cn": "不，她不认识 Harry Bennett 和他女儿 Michelle。",
+  "score": 1.0
+ },
+ {
+  "i": 238,
+  "en": "Nice to meet you.",
+  "cn": "很高兴认识你.",
+  "score": 1.0
+ },
+ {
+  "i": 239,
+  "en": "Hi.",
+  "cn": "嗨.",
+  "score": 1.0
+ },
+ {
+  "i": 240,
+  "en": "Hello, Alexandra.",
+  "cn": "你好，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "Hi, Marilyn.",
+  "cn": "嗨，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 242,
+  "en": "Hi, Susa...",
+  "cn": "嗨，Susa……",
+  "score": 0.3
+ },
+ {
+  "i": 243,
+  "en": "Happy Thanksgiving.",
+  "cn": "感恩节快乐。",
+  "score": 1.0
+ },
+ {
+  "i": 244,
+  "en": "And Alexandra brought us a pumpkin pie.",
+  "cn": "Alexandra 还给我们带来了一个南瓜派。",
+  "score": 1.0
+ },
+ {
+  "i": 245,
+  "en": "Please sit down, Alexandra.",
+  "cn": "请坐，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 246,
+  "en": "Dad, Richard-Alexandra's here.",
+  "cn": "爸爸，Richard——Alexandra 来了。",
+  "score": 1.0
+ },
+ {
+  "i": 247,
+  "en": "Michigan needs a touchdown.",
+  "cn": "密歇根需要一次达阵。",
+  "score": 1.0
+ },
+ {
+  "i": 248,
+  "en": "Three minutes to play.",
+  "cn": "还剩三分钟。",
+  "score": 1.0
+ },
+ {
+  "i": 249,
+  "en": "Hi, Alexandra.",
+  "cn": "嗨，Alexandra，欢迎。",
+  "score": 0.72
+ },
+ {
+  "i": 250,
+  "en": "Welcome.",
+  "cn": "欢迎。",
+  "score": 0.3
+ },
+ {
+  "i": 251,
+  "en": "Hello, Alexandra.",
+  "cn": "你好，Alexandra。",
+  "score": 0.3
+ },
+ {
+  "i": 252,
+  "en": "Yes, Michigan needs a touchdown.",
+  "cn": "是的，密歇根需要一次达阵。",
+  "score": 1.0
+ },
+ {
+  "i": 253,
+  "en": "One tiny little touchdown, with just three minutes to play.",
+  "cn": "只要一个小小的达阵，只剩三分钟了。",
+  "score": 1.0
+ },
+ {
+  "i": 254,
+  "en": "You want Michigan to win.",
+  "cn": "你想让密歇根赢。",
+  "score": 1.0
+ },
+ {
+  "i": 255,
+  "en": "How'd you guess?",
+  "cn": "你怎么知道？",
+  "score": 1.0
+ },
+ {
+  "i": 256,
+  "en": "And Alexandra brought us a pumpkin pie.",
+  "cn": "Alexandra 还给我们带来了一个南瓜派。",
+  "score": 1.0
+ },
+ {
+  "i": 257,
+  "en": "What happened?",
+  "cn": "什么发生了？",
+  "score": 0.3
+ },
+ {
+  "i": 258,
+  "en": "We forgot to turn the oven on.",
+  "cn": "我们忘了开烤箱。",
+  "score": 1.0
+ },
+ {
+  "i": 259,
+  "en": "Philip.",
+  "cn": "Philip。",
+  "score": 0.3
+ },
+ {
+  "i": 260,
+  "en": "Why don't you go watch the last three minutes of game?",
+  "cn": "看最后三分钟比赛。",
+  "score": 0.72
+ },
+ {
+  "i": 261,
+  "en": "I will serve coffee and pumpkin pie.",
+  "cn": "我来上咖啡和南瓜派。",
+  "score": 1.0
+ },
+ {
+  "i": 262,
+  "en": "Okay, I'll be back in a few minutes.",
+  "cn": "好，我几分钟后回来。",
+  "score": 0.89
+ },
+ {
+  "i": 263,
+  "en": "Robbie, would you bring the dessert plates?",
+  "cn": "Robbie，你拿甜点盘来。",
+  "score": 1.0
+ },
+ {
+  "i": 264,
+  "en": "And Marilyn, would you pour coffee?",
+  "cn": "Marilyn，请你倒咖啡。",
+  "score": 0.89
+ },
+ {
+  "i": 265,
+  "en": "Sure, Ellen.",
+  "cn": "当然，Ellen。",
+  "score": 0.3
+ },
+ {
+  "i": 266,
+  "en": "How is your Thanksgiving dinner, Alexandra?",
+  "cn": "你的感恩节晚餐怎么样，Alexandra？",
+  "score": 0.86
+ },
+ {
+  "i": 267,
+  "en": "Just wonderful, Mr. Stewart.",
+  "cn": "太棒了，Stewart 先生。",
+  "score": 1.0
+ },
+ {
+  "i": 268,
+  "en": "The Molinas are a large family.",
+  "cn": "Molina 是个大家庭。",
+  "score": 1.0
+ },
+ {
+  "i": 269,
+  "en": "I love being with them.",
+  "cn": "我喜欢和他们在一起。",
+  "score": 1.0
+ },
+ {
+  "i": 270,
+  "en": "I'm glad you came by.",
+  "cn": "很高兴你能来，Alexandra。",
+  "score": 0.81
+ },
+ {
+  "i": 271,
+  "en": "Great Thanksgiving.",
+  "cn": "太好了",
+  "score": 1.0
+ },
+ {
+  "i": 272,
+  "en": "Lots to be thankful for.",
+  "cn": "有很多值得感恩的事。",
+  "score": 1.0
+ },
+ {
+  "i": 273,
+  "en": "Michigan scored a touchdown!",
+  "cn": "密歇根得了一次达阵。",
+  "score": 1.0
+ },
+ {
+  "i": 274,
+  "en": "Alexandra came by,",
+  "cn": "Alexandra 来了。",
+  "score": 1.0
+ },
+ {
+  "i": 275,
+  "en": "and nobody misses Philip's famous apple pie.",
+  "cn": "而且没人错过 Philip 著名的苹果派。",
+  "score": 1.0
+ }
+]
