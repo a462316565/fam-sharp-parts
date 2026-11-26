@@ -1,0 +1,1622 @@
+[
+ {
+  "i": 0,
+  "en": "Excuse me.",
+  "cn": "失陪一下。",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Can you help me?",
+  "cn": "打扰一下，你能帮帮我吗？",
+  "score": 0.77
+ },
+ {
+  "i": 2,
+  "en": "Sure, what do you want?",
+  "cn": "当然，你需要什么？",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "Where is 83 Wooster Street?",
+  "cn": "Wooster 大街 83 号在哪里？",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "That's easy.",
+  "cn": "很简单，走到街角。",
+  "score": 0.46
+ },
+ {
+  "i": 5,
+  "en": "Walk to the corner.",
+  "cn": "走到街角然后左转？",
+  "score": 0.48
+ },
+ {
+  "i": 6,
+  "en": "Then make a left turn.",
+  "cn": "然后左转。",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "Then walk two blocks to the traffic light.",
+  "cn": "再走过两个街区到红绿灯。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "Make another left to Wooster.",
+  "cn": "再左转就到 Wooster 大街了。",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Thank you.",
+  "cn": "谢谢你。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "To the corner and then a left?",
+  "cn": "去这角落和然后 一个左？",
+  "score": 0.3
+ },
+ {
+  "i": 11,
+  "en": "Yeah.",
+  "cn": "对，左转。",
+  "score": 0.45
+ },
+ {
+  "i": 12,
+  "en": "A left.",
+  "cn": "一个左。",
+  "score": 0.3
+ },
+ {
+  "i": 13,
+  "en": "Hot dog?",
+  "cn": "热狗？",
+  "score": 0.3
+ },
+ {
+  "i": 14,
+  "en": "Only seventy-five cents. ",
+  "cn": "热狗？只要七十五美分。",
+  "score": 0.78
+ },
+ {
+  "i": 15,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 16,
+  "en": "Thank you.",
+  "cn": "谢谢你。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "I have a dinner date.",
+  "cn": "不，谢谢。我有个晚餐约会。",
+  "score": 0.7
+ },
+ {
+  "i": 18,
+  "en": "555-9470...and it's busy.",
+  "cn": "555-9470……占线了……",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "Try again.",
+  "cn": "再试一次。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "555-9470...and it's still busy.",
+  "cn": "555-9470……还是占线。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "Excuse me, ma'am.",
+  "cn": "打扰一下，女士。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "I'm looking for 83 Wooster Street.",
+  "cn": "我在找 Wooster 大街 83 号。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "Yes.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "Wooster Street is two blocks, and 83 is to the right about two houses.",
+  "cn": "83 号在右边，大概两栋房子的距离。",
+  "score": 0.74
+ },
+ {
+  "i": 25,
+  "en": "Thank you, thank you!",
+  "cn": "谢谢，太感谢了！",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "You're welcome.",
+  "cn": "不客气。",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "Who is it? ",
+  "cn": "哪位？",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "Harry Bennett.",
+  "cn": "没错，Harry Bennett，",
+  "score": 0.61
+ },
+ {
+  "i": 29,
+  "en": "Is this Susan?",
+  "cn": "Harry Bennett。是 Susan 吗？",
+  "score": 0.63
+ },
+ {
+  "i": 30,
+  "en": "Yes, it is.",
+  "cn": "是的，是我。上来吧。",
+  "score": 0.66
+ },
+ {
+  "i": 31,
+  "en": "Come up.",
+  "cn": "来上。",
+  "score": 0.3
+ },
+ {
+  "i": 32,
+  "en": "I'm on the top floor.",
+  "cn": "我在顶层。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "Hello, Harry.",
+  "cn": "Harry？",
+  "score": 0.57
+ },
+ {
+  "i": 34,
+  "en": "It's nice to meet you.",
+  "cn": "你好，Harry，很高兴见到你。",
+  "score": 0.75
+ },
+ {
+  "i": 35,
+  "en": "Nice to meet you, Susan.",
+  "cn": "很高兴见到你，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Sorry I'm late.",
+  "cn": "抱歉我迟到了。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "What pretty flowers!",
+  "cn": "好漂亮的花！谢谢你。",
+  "score": 0.71
+ },
+ {
+  "i": 38,
+  "en": "Thank you.",
+  "cn": "很好，谢谢。",
+  "score": 0.74
+ },
+ {
+  "i": 39,
+  "en": "Oh, please come in.",
+  "cn": "哦，请进。",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "Don't worry about being late.",
+  "cn": "别担心迟到，没关系的。",
+  "score": 0.79
+ },
+ {
+  "i": 41,
+  "en": "It's fine.",
+  "cn": "已经午夜了。",
+  "score": 0.52
+ },
+ {
+  "i": 42,
+  "en": "Excuse the mess.",
+  "cn": "家里乱，请见谅，我刚搬来。",
+  "score": 0.55
+ },
+ {
+  "i": 43,
+  "en": "I just moved here.",
+  "cn": "我刚刚搬这里。",
+  "score": 0.3
+ },
+ {
+  "i": 44,
+  "en": "Oh, I'd like you to meet my sister-in-law Marilyn.",
+  "cn": "哦，我想让你见见我的嫂子 Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "Marilyn Stewart, this is Harry Bennett.",
+  "cn": "Marilyn Stewart，这是 Harry Bennett。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "Pleased to meet you.",
+  "cn": "很高兴认识你。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "Nice to meet you, Harry.",
+  "cn": "很高兴认识你，Harry。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Are we too late for our dinner reservation?",
+  "cn": "我们的晚餐预约会不会太晚了？",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "No,the restaurant will hold our table.",
+  "cn": "不会，餐厅会给我们留位子的。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "I know the owner very well.",
+  "cn": "我和老板很熟。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "I eat there a lot.",
+  "cn": "我常去那里吃饭。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "Do you know the phone number of the restaurant?",
+  "cn": "你知道那家餐厅的电话吗？",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "I'd like to call home and leave the number with the baby-sitter.",
+  "cn": "把号码留给看孩子的保姆。",
+  "score": 0.71
+ },
+ {
+  "i": 54,
+  "en": "Sure.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 55,
+  "en": "The number is... five five five... seventeen twenty.",
+  "cn": "当然，号码是……555……1720。",
+  "score": 0.91
+ },
+ {
+  "i": 56,
+  "en": "May I use the Phone?",
+  "cn": "我可以用一下电话吗？",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Five five five...one seven two oh, Hello?",
+  "cn": "555……1720。喂？",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Hi, Michelle.",
+  "cn": "Michelle。",
+  "score": 0.71
+ },
+ {
+  "i": 59,
+  "en": "It's Daddy.",
+  "cn": "嗨，Michelle，是爸爸。",
+  "score": 0.57
+ },
+ {
+  "i": 60,
+  "en": "Can I speak to Betty?",
+  "cn": "我能和 Betty 说话吗？",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "I want to leave the phone number of the restaurant....",
+  "cn": "我想把餐厅的电话号码留给你……",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "Hi, Betty.",
+  "cn": "嗨，Betty。",
+  "score": 0.3
+ },
+ {
+  "i": 63,
+  "en": "I'll be at five five five...seventeen twenty. ",
+  "cn": "嗨，Betty，我在 555……1720。",
+  "score": 0.84
+ },
+ {
+  "i": 64,
+  "en": "OK.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 65,
+  "en": "Thanks.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "See you later.",
+  "cn": "好的，谢谢，回头见。",
+  "score": 0.67
+ },
+ {
+  "i": 67,
+  "en": "Well, that's done.",
+  "cn": "好了，打完了。我们走吧？",
+  "score": 0.64
+ },
+ {
+  "i": 68,
+  "en": "Shall we go?",
+  "cn": "将我们去？",
+  "score": 0.3
+ },
+ {
+  "i": 69,
+  "en": "I'm ready.",
+  "cn": "我是准备好的。",
+  "score": 0.3
+ },
+ {
+  "i": 70,
+  "en": "See you later, Marilyn.",
+  "cn": "我准备好了，回头见，Marilyn。",
+  "score": 0.75
+ },
+ {
+  "i": 71,
+  "en": "Have a nice evening.",
+  "cn": "祝你们晚上愉快。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Bye, Marilyn.",
+  "cn": "再见，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Hope Hope to see you again.",
+  "cn": "再见，Marilyn，希望能再见到你。",
+  "score": 0.75
+ },
+ {
+  "i": 74,
+  "en": "Me, too.",
+  "cn": "我也是，Harry。",
+  "score": 0.67
+ },
+ {
+  "i": 75,
+  "en": "Have fun!",
+  "cn": "我也希望，玩得开心！",
+  "score": 0.62
+ },
+ {
+  "i": 76,
+  "en": "Thanks.",
+  "cn": "谢谢",
+  "score": 0.3
+ },
+ {
+  "i": 77,
+  "en": "After you.",
+  "cn": "您先请。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "Ah!",
+  "cn": "啊！",
+  "score": 0.3
+ },
+ {
+  "i": 79,
+  "en": "Miss Stewart!",
+  "cn": "啊！Stewart 小姐！欢迎！",
+  "score": 0.61
+ },
+ {
+  "i": 80,
+  "en": "Welcome!",
+  "cn": "欢迎！",
+  "score": 0.3
+ },
+ {
+  "i": 81,
+  "en": "How are you?",
+  "cn": "你好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Fine, Somsak. ",
+  "cn": "很好，Somsak，你呢？",
+  "score": 0.64
+ },
+ {
+  "i": 83,
+  "en": "And you?",
+  "cn": "所以……",
+  "score": 0.59
+ },
+ {
+  "i": 84,
+  "en": "Fine, thank you.",
+  "cn": "谢谢你，Susan。",
+  "score": 0.57
+ },
+ {
+  "i": 85,
+  "en": "This is my friend Harry Bennett.",
+  "cn": "这是我的朋友 Harry Bennett。",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "Pleased to meet you.",
+  "cn": "很高兴认识你。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Very nice to meet you.",
+  "cn": "非常高兴认识你。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "Any friend of Miss Stewart's is welcome at Somsak's.",
+  "cn": "Stewart 小姐的朋友在 Somsak 餐厅都是受欢迎的。",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "Follow me, please.",
+  "cn": "请跟我来。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "I like it here.",
+  "cn": "我喜欢这里。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "I do, too.",
+  "cn": "我也是，我常来。",
+  "score": 0.48
+ },
+ {
+  "i": 92,
+  "en": "I come here often.",
+  "cn": "我来这里经常。",
+  "score": 0.3
+ },
+ {
+  "i": 93,
+  "en": "A special place for special people.",
+  "cn": "为特别的人准备的特别之地。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "Thank you, Somsak.",
+  "cn": "谢谢你，Somsak。",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "Well!",
+  "cn": "嗯，我……",
+  "score": 0.68
+ },
+ {
+  "i": 96,
+  "en": "Nice restaurant.",
+  "cn": "哇！不错的餐厅。",
+  "score": 0.78
+ },
+ {
+  "i": 97,
+  "en": "Would you like something to drink?",
+  "cn": "您想喝点什么吗？",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "Yes, I'd like a glass of ginger ale with ice.",
+  "cn": "好的，我要一杯加冰的姜汁汽水。",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Harry, what would you like?",
+  "cn": "Harry，你想喝什么？",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "Do you have a dry white wine?",
+  "cn": "有干白葡萄酒吗？",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "How about a California chablis?",
+  "cn": "加州夏布利葡萄酒怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "Chablis is fine.",
+  "cn": "夏布利就行。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "What would you like to eat?",
+  "cn": "您想吃点什么？",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "I'd like the mee krob.",
+  "cn": "我要一份脆米粉。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "Harry, would you like to see a menu?",
+  "cn": "Harry，你想看看菜单吗？",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "No, it's OK.",
+  "cn": "不用了，没关系。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "I'll have the mee krob also.",
+  "cn": "我也要脆米粉。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "What is it?",
+  "cn": "那是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "Crispy fried noodles.",
+  "cn": "脆炸面条，我很喜欢。",
+  "score": 0.66
+ },
+ {
+  "i": 110,
+  "en": "I love them.",
+  "cn": "我喜欢数字。",
+  "score": 0.58
+ },
+ {
+  "i": 111,
+  "en": "May I bring you a salad?",
+  "cn": "给您来份沙拉好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "Oh yes.",
+  "cn": "哦，好的。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "What do you recommend today?",
+  "cn": "今天您推荐什么？",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "I recommend rose petal salad.",
+  "cn": "我推荐玫瑰花瓣沙拉。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "Special for new friends.",
+  "cn": "专门为新朋友准备的。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Rose-petal salad?",
+  "cn": "玫瑰花瓣沙拉？",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Why not?",
+  "cn": "为什么不试试？",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "I'll take care of everything.",
+  "cn": "一切交给我。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "I hope you're hungry.",
+  "cn": "希望你们饿了。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "What?",
+  "cn": "什么？",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "Oh, yes.",
+  "cn": "怎么了？",
+  "score": 0.6
+ },
+ {
+  "i": 122,
+  "en": "Starving.",
+  "cn": "饿极了。",
+  "score": 0.3
+ },
+ {
+  "i": 123,
+  "en": "Well, I...",
+  "cn": "好，我……",
+  "score": 0.3
+ },
+ {
+  "i": 124,
+  "en": "Well , I...",
+  "cn": "好，我……",
+  "score": 0.3
+ },
+ {
+  "i": 125,
+  "en": "What do you do at Universe Toy Company?",
+  "cn": "你在宇宙玩具公司做什么工作？",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "I 'm the vice-president of new toy development.",
+  "cn": "我是新玩具开发部的副总裁。",
+  "score": 0.87
+ },
+ {
+  "i": 127,
+  "en": "Terrific!",
+  "cn": "太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "I know you're a CPA.",
+  "cn": "我知道你是注册会计师。",
+  "score": 0.81
+ },
+ {
+  "i": 129,
+  "en": "That's true.",
+  "cn": "那是真的。",
+  "score": 0.3
+ },
+ {
+  "i": 130,
+  "en": "Harry Bennet, Certified public accountant.",
+  "cn": "注册会计师。",
+  "score": 0.72
+ },
+ {
+  "i": 131,
+  "en": "I love numbers.",
+  "cn": "我爱数字。",
+  "score": 0.3
+ },
+ {
+  "i": 132,
+  "en": "I do some work for Smith and Dale, your company's accounting firm.",
+  "cn": "我为 Smith and Dale 做一些工作，",
+  "score": 0.67
+ },
+ {
+  "i": 133,
+  "en": "And so...",
+  "cn": "而所以……",
+  "score": 0.3
+ },
+ {
+  "i": 134,
+  "en": "Here we are.",
+  "cn": "我们到了。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "Yes.",
+  "cn": "是的",
+  "score": 0.3
+ },
+ {
+  "i": 136,
+  "en": "I have ɑ: daughter.",
+  "cn": "我有一个女儿。",
+  "score": 0.86
+ },
+ {
+  "i": 137,
+  "en": "I know.",
+  "cn": "我知道",
+  "score": 0.3
+ },
+ {
+  "i": 138,
+  "en": "How old is she?",
+  "cn": "我知道，她多大了？",
+  "score": 0.75
+ },
+ {
+  "i": 139,
+  "en": "She's nine years old.",
+  "cn": "她九岁。",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "That's a nice age.",
+  "cn": "这个年纪真好，她叫什么名字？",
+  "score": 0.64
+ },
+ {
+  "i": 141,
+  "en": "What's her name?",
+  "cn": "怎么了？",
+  "score": 0.5
+ },
+ {
+  "i": 142,
+  "en": "Michelle.",
+  "cn": "Michelle。",
+  "score": 0.3
+ },
+ {
+  "i": 143,
+  "en": "Do you have a picture of her?",
+  "cn": "你有她的照片吗？",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "She's very pretty.",
+  "cn": "她很漂亮。",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.3
+ },
+ {
+  "i": 146,
+  "en": "Rose petal salad.",
+  "cn": "玫瑰花瓣沙拉。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "And there's a phone call for you, Mr.Bennett.",
+  "cn": "Bennett 先生，有您的电话。",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "Excuse  me, Susan.",
+  "cn": "失陪一下，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "I hope nothing is wrong.",
+  "cn": "希望没出什么事。",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "I'll get the rest of the dinner.",
+  "cn": "我去把剩下的菜端上来。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Excuse me.",
+  "cn": "抱歉我。",
+  "score": 0.3
+ },
+ {
+  "i": 152,
+  "en": "Please forgive me,Susan, but...I have to leave.",
+  "cn": "请原谅我，Susan，但是……",
+  "score": 0.69
+ },
+ {
+  "i": 153,
+  "en": "I feel terrible, but...",
+  "cn": "我得走了，我感觉很糟糕，但是……",
+  "score": 0.65
+ },
+ {
+  "i": 154,
+  "en": "What's the matter?",
+  "cn": "怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "My daughter isn't feeling well.",
+  "cn": "我女儿不舒服。",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "Oh no!",
+  "cn": "哦不！",
+  "score": 0.3
+ },
+ {
+  "i": 157,
+  "en": "Is it serious?",
+  "cn": "哦不！严重吗？",
+  "score": 0.73
+ },
+ {
+  "i": 158,
+  "en": "I don't know.",
+  "cn": "我不知道。",
+  "score": 0.3
+ },
+ {
+  "i": 159,
+  "en": "The baby-sitter says she has a stomachache, and she's crying.",
+  "cn": "我不知道，保姆说她肚子疼，",
+  "score": 0.67
+ },
+ {
+  "i": 160,
+  "en": "I'll have to go home.",
+  "cn": "我得回家了。",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "Will you forgive me?",
+  "cn": "你能原谅我吗？",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "Of course.",
+  "cn": "当然。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "I'm so sorry for Michelle.",
+  "cn": "当然，我很为 Michelle 担心。",
+  "score": 0.79
+ },
+ {
+  "i": 164,
+  "en": "And you didn't have a chance to eat.",
+  "cn": "而且你都没来得及吃东西。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "Oh, it's OK.",
+  "cn": "哦，没关系。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "Let me take you home first.",
+  "cn": "让我先送你回家吧。",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "No,no. Please, go ahead.",
+  "cn": "不不，你快去吧。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "It's our first date.",
+  "cn": "这是我们的第一次约会。",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "We'll make another.",
+  "cn": "我们再约一次。",
+  "score": 1.0
+ },
+ {
+  "i": 170,
+  "en": "Please don't worry.",
+  "cn": "请别担心。",
+  "score": 1.0
+ },
+ {
+  "i": 171,
+  "en": "I'll phone you.",
+  "cn": "我会打电话给你。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "I hope your daughter is all right.",
+  "cn": "希望你女儿没事，再见。",
+  "score": 0.84
+ },
+ {
+  "i": 173,
+  "en": "Good-bye.",
+  "cn": "再见。",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "Good-bye.",
+  "cn": "再见。",
+  "score": 0.3
+ },
+ {
+  "i": 175,
+  "en": "What happened?",
+  "cn": "发生什么事了？",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "The baby-sitter called.",
+  "cn": "保姆打来电话。",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "His daughter is sick.",
+  "cn": "他女儿生病了。",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "What's wrong?",
+  "cn": "什么是错的？",
+  "score": 0.3
+ },
+ {
+  "i": 179,
+  "en": "I think she has a stomachache.",
+  "cn": "我想她是肚子疼。",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "He's a good father.",
+  "cn": "他是个好父亲。",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "So...what do you think of him?",
+  "cn": "那么……你觉得他怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "He's very nice.",
+  "cn": "他很好。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "But I think he was nervous tonight.",
+  "cn": "不过我觉得他今晚有点紧张。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "It was his first date in two years.",
+  "cn": "这是他两年来第一次约会。",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "Will you see him again?",
+  "cn": "你还会再见他吗？",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "I hope so.",
+  "cn": "我希望会。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "This food is delicious.",
+  "cn": "这菜真好吃。",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "He didn't get a thing to eat.",
+  "cn": "他一口都没吃上。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "You ordered enough for three or four people,",
+  "cn": "你点的够三四个人吃的，",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "but I'm not complaining.",
+  "cn": "不过我不是在抱怨。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "The food is delicious.",
+  "cn": "菜确实好吃。",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "Who is that?",
+  "cn": "那是谁？",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "Do you think it's...",
+  "cn": "你认为是……",
+  "score": 1.0
+ },
+ {
+  "i": 194,
+  "en": "No. You won't believe it, Marilyn!",
+  "cn": "不，你不会相信的，Marilyn！",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "I believe it.",
+  "cn": "我相信，即使不看也知道。",
+  "score": 0.52
+ },
+ {
+  "i": 196,
+  "en": "Even without looking.",
+  "cn": "甚至没有看。",
+  "score": 0.3
+ },
+ {
+  "i": 197,
+  "en": "Hi!",
+  "cn": "嗨！",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "How...?",
+  "cn": "怎么……？",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "Your downstairs neighbor let me in.",
+  "cn": "你楼下的邻居让我进来的。",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "Did you go home?",
+  "cn": "你回家了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "I did, but everything is OK, so I decided to come back.",
+  "cn": "回去了，但一切都好，",
+  "score": 0.62
+ },
+ {
+  "i": 202,
+  "en": "To apologize  for leaving so early, I brought you a little gift.",
+  "cn": "为这么早离开道歉，",
+  "score": 0.62
+ },
+ {
+  "i": 203,
+  "en": "It's a bonsai tree for your new apartment.",
+  "cn": "送给你新公寓的。",
+  "score": 0.62
+ },
+ {
+  "i": 204,
+  "en": "Hi, Marilyn.",
+  "cn": "晚安，Marilyn。",
+  "score": 0.49
+ },
+ {
+  "i": 205,
+  "en": "I hope it's not too late.",
+  "cn": "嗨，Marilyn，希望不算太晚。",
+  "score": 0.79
+ },
+ {
+  "i": 206,
+  "en": "Oh, not at all.",
+  "cn": "哦，一点也不晚，我们还在吃。",
+  "score": 0.58
+ },
+ {
+  "i": 207,
+  "en": "We're still eating.",
+  "cn": "我们是还吃。",
+  "score": 0.3
+ },
+ {
+  "i": 208,
+  "en": "Please, come in.",
+  "cn": "请进，一起吃吧。",
+  "score": 0.71
+ },
+ {
+  "i": 209,
+  "en": "Join us.",
+  "cn": "加入我们。",
+  "score": 0.3
+ },
+ {
+  "i": 210,
+  "en": "It's our meal form the restaurant.",
+  "cn": "这是我们在餐厅点的菜。",
+  "score": 0.87
+ },
+ {
+  "i": 211,
+  "en": "And how is your daughter?",
+  "cn": "你女儿怎么样了？",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "Oh, she's fine.",
+  "cn": "哦，她没事了。",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "It was only a tummy ache.",
+  "cn": "只是肚子疼了一下。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "It's good that you went back.",
+  "cn": "你回去是对的。",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "Yes, I think it's important for me to be there since her mother died.",
+  "cn": "是的，我觉得我在那里很重要，",
+  "score": 0.77
+ },
+ {
+  "i": 216,
+  "en": "I agree.",
+  "cn": "我同意。",
+  "score": 0.3
+ },
+ {
+  "i": 217,
+  "en": "Aren't you hungry?",
+  "cn": "我同意，你不饿吗？",
+  "score": 0.73
+ },
+ {
+  "i": 218,
+  "en": "As a matter of fact...I am hungry.",
+  "cn": "事实上……我确实饿了。",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "There's lots of food left.",
+  "cn": "还剩很多菜。",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "Mmm,this is delicious!",
+  "cn": "嗯，真好吃！",
+  "score": 1.0
+ },
+ {
+  "i": 221,
+  "en": "Enjoy!",
+  "cn": "慢慢享用！",
+  "score": 1.0
+ },
+ {
+  "i": 222,
+  "en": "I'm going to excuse myself.",
+  "cn": "我先失陪了。",
+  "score": 1.0
+ },
+ {
+  "i": 223,
+  "en": "I have a lot of work to do to get ready for tomorrow.",
+  "cn": "我还有很多事要做，为明天做准备。",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "Good night, Harry.",
+  "cn": "晚安，Harry，",
+  "score": 1.0
+ },
+ {
+  "i": 225,
+  "en": "It was nice meeting you.",
+  "cn": "晚安，Harry，很高兴认识你。",
+  "score": 0.69
+ },
+ {
+  "i": 226,
+  "en": "Bye, Marilyn.",
+  "cn": "再见，Marilyn。",
+  "score": 0.3
+ },
+ {
+  "i": 227,
+  "en": "Good night, Susan.",
+  "cn": "晚安，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 228,
+  "en": "Good night, Marilyn.",
+  "cn": "晚安，Harry。",
+  "score": 0.69
+ },
+ {
+  "i": 229,
+  "en": "She's going to a fashion show here in the city tomorrow.",
+  "cn": "她明天要参加城里的时装秀。",
+  "score": 1.0
+ },
+ {
+  "i": 230,
+  "en": "She is sleeping here so she won't have to travel from Riverdale in the morning.",
+  "cn": "这样她早上就不用从 Riverdale 赶过来了。",
+  "score": 0.82
+ },
+ {
+  "i": 231,
+  "en": "You two must be close.",
+  "cn": "你们俩一定很亲近。",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "We are.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "The whole Stewart family is close.",
+  "cn": "整个 Stewart 家都很亲密。",
+  "score": 1.0
+ },
+ {
+  "i": 234,
+  "en": "Stewart...",
+  "cn": "Stewart……",
+  "score": 0.3
+ },
+ {
+  "i": 235,
+  "en": "I like that.",
+  "cn": "我喜欢这样。",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "And then, two years ago, my wife died.",
+  "cn": "后来，两年前，我妻子去世了。",
+  "score": 1.0
+ },
+ {
+  "i": 237,
+  "en": "You miss her.",
+  "cn": "你想念她。",
+  "score": 1.0
+ },
+ {
+  "i": 238,
+  "en": "I do...yes,",
+  "cn": "是的……但我还有 Michelle……",
+  "score": 0.47
+ },
+ {
+  "i": 239,
+  "en": "but I have Michelle...and with time...",
+  "cn": "随着时间推移……",
+  "score": 0.51
+ },
+ {
+  "i": 240,
+  "en": "Is there anyone else in your life?",
+  "cn": "你生活中还有其他人吗？",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "No, not yet.",
+  "cn": "不，还没有，你呢？",
+  "score": 0.54
+ },
+ {
+  "i": 242,
+  "en": "What about you?",
+  "cn": "什么关于你？",
+  "score": 0.3
+ },
+ {
+  "i": 243,
+  "en": "Oh, I date occasionally, but my work keeps me busy.",
+  "cn": "但工作让我很忙。",
+  "score": 0.65
+ },
+ {
+  "i": 244,
+  "en": "Oh, speaking of keeping busy I have an early start tomorrow,",
+  "cn": "我明天要早起，",
+  "score": 0.63
+ },
+ {
+  "i": 245,
+  "en": "and the baby-sitter has to gett home.",
+  "cn": "保姆也该回家了。",
+  "score": 0.9
+ },
+ {
+  "i": 246,
+  "en": "Where did th time go?",
+  "cn": "时间都去哪儿了？",
+  "score": 0.85
+ },
+ {
+  "i": 247,
+  "en": "It's midnight.",
+  "cn": "它是午夜。",
+  "score": 0.3
+ },
+ {
+  "i": 248,
+  "en": "Thank you, Susan.I had a nice evening.",
+  "cn": "我今晚过得很愉快。",
+  "score": 0.68
+ },
+ {
+  "i": 249,
+  "en": "Me, too, Harry.",
+  "cn": "我，也，Harry。",
+  "score": 0.3
+ },
+ {
+  "i": 250,
+  "en": "Harry?",
+  "cn": "Harry？",
+  "score": 0.3
+ },
+ {
+  "i": 251,
+  "en": "Yes?",
+  "cn": "是的",
+  "score": 0.3
+ },
+ {
+  "i": 252,
+  "en": "I'd like to meet your daughter someday.",
+  "cn": "我希望有一天能见见你女儿。",
+  "score": 1.0
+ },
+ {
+  "i": 253,
+  "en": "Does that mean that I can see you again?",
+  "cn": "那意思是说我可以再见到你吗？",
+  "score": 1.0
+ },
+ {
+  "i": 254,
+  "en": "Of course.",
+  "cn": "当然",
+  "score": 0.3
+ },
+ {
+  "i": 255,
+  "en": "Wonderful.",
+  "cn": "太好了。",
+  "score": 0.3
+ },
+ {
+  "i": 256,
+  "en": "I'll call you, and we'll go out to dinner.",
+  "cn": "我们再出去吃晚饭。",
+  "score": 0.74
+ },
+ {
+  "i": 257,
+  "en": "Please do.",
+  "cn": "请一定打来。",
+  "score": 1.0
+ },
+ {
+  "i": 258,
+  "en": "I promise I won't leave early.",
+  "cn": "我保证不会早退。",
+  "score": 1.0
+ },
+ {
+  "i": 259,
+  "en": "It was for a good reason.",
+  "cn": "那是出于正当理由。",
+  "score": 1.0
+ },
+ {
+  "i": 260,
+  "en": "You know something?",
+  "cn": "你知道吗？",
+  "score": 1.0
+ },
+ {
+  "i": 261,
+  "en": "What?",
+  "cn": "什么？",
+  "score": 0.3
+ },
+ {
+  "i": 262,
+  "en": "I think we're going to be good friends.",
+  "cn": "我觉得我们会成为好朋友的。",
+  "score": 1.0
+ },
+ {
+  "i": 263,
+  "en": "Good night, Susan.",
+  "cn": "晚安，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 264,
+  "en": "Good night, Harry.",
+  "cn": "好夜，Harry。",
+  "score": 0.3
+ },
+ {
+  "i": 265,
+  "en": "Have a safe trip home.",
+  "cn": "回家路上注意安全。",
+  "score": 1.0
+ },
+ {
+  "i": 266,
+  "en": "Are you all right?",
+  "cn": "你没事吧？",
+  "score": 1.0
+ },
+ {
+  "i": 267,
+  "en": "Sorry.",
+  "cn": "对不起。",
+  "score": 1.0
+ },
+ {
+  "i": 268,
+  "en": "I never liked that umbrella stand.",
+  "cn": "我从不喜欢那个伞架。",
+  "score": 1.0
+ },
+ {
+  "i": 269,
+  "en": "Good night, Harry.",
+  "cn": "好夜，Harry。",
+  "score": 0.3
+ }
+]
