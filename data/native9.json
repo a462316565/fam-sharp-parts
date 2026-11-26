@@ -1,0 +1,1484 @@
+[
+ {
+  "i": 0,
+  "en": "Who is it?",
+  "cn": "谁呀？",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Dad.",
+  "cn": "爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "Come on in, Dad.",
+  "cn": "来吧",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "I thought you might be hungry.",
+  "cn": "我想你可能饿了。",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "I brought you a chicken sandwich and a glass of milk.",
+  "cn": "我给你带了鸡肉三明治和一杯牛奶。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "I am hungry. Thanks, Dad.",
+  "cn": "我是饿了。",
+  "score": 0.64
+ },
+ {
+  "i": 6,
+  "en": "What time is it, anyway?",
+  "cn": "现在几点了？",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "Ten o'clock. What are you working on?",
+  "cn": "你在写什么？",
+  "score": 0.76
+ },
+ {
+  "i": 8,
+  "en": "I'm writing a story for the high school paper.",
+  "cn": "我在给校报写一篇文章。",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Can't you finish it tomorrow?",
+  "cn": "你不能明天再写完吗？",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "No. I have to turn it in in the morning.",
+  "cn": "不行，我早上得交。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "What's it about?",
+  "cn": "写什么的？",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "I'm writing an article on the feelings about graduation.",
+  "cn": "我在写一篇关于毕业感受的文章。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "And how do you feel?",
+  "cn": "那……你感觉怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "Me?",
+  "cn": "我？",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "A little scared and excited, too.",
+  "cn": "有点害怕。",
+  "score": 0.59
+ },
+ {
+  "i": 16,
+  "en": "I felt the same way.",
+  "cn": "我那时也一样。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "The scary part is leaving home and moving to college.",
+  "cn": "可怕的是离家上大学。",
+  "score": 0.87
+ },
+ {
+  "i": 18,
+  "en": "Oh, leaving home is part of growing up.",
+  "cn": "哦，离家是成长的一部分。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "Don't work all night.",
+  "cn": "嗯，别熬通宵。",
+  "score": 0.85
+ },
+ {
+  "i": 20,
+  "en": "I don't mind. I enjoy writing.",
+  "cn": "我喜欢写作。",
+  "score": 0.66
+ },
+ {
+  "i": 21,
+  "en": "Maybe you should think about becoming a writer.",
+  "cn": "也许你该考虑当个作家。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "Maybe I should.",
+  "cn": "也许我应该。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "You have lots of time to decide.",
+  "cn": "你有很多时间来决定。",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "That's the worst part, making decisions.",
+  "cn": "最难的就是——做决定。",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "You'll be okay. Good night, son.",
+  "cn": "晚安，儿子。",
+  "score": 0.59
+ },
+ {
+  "i": 26,
+  "en": "Good night, Dad.",
+  "cn": "晚安，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "Good morning, Robbie. Good morning, Dad.",
+  "cn": "早上好，爸爸。",
+  "score": 0.67
+ },
+ {
+  "i": 28,
+  "en": "How's my grandson?",
+  "cn": "我孙子怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "Fine, Grandpa. Fine.",
+  "cn": "很好，爷爷，很好！",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "What's all the cheering about?",
+  "cn": "都在欢呼什么？",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "Did the University of Michigan win another football game?",
+  "cn": "密歇根大学又赢了橄榄球赛吗？",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "Better than that. Tell me, Philip.",
+  "cn": "比那还好。",
+  "score": 0.61
+ },
+ {
+  "i": 33,
+  "en": "I just spoke with Charlie Raefer.",
+  "cn": "我刚和 Charley Rafer 通过话。",
+  "score": 0.77
+ },
+ {
+  "i": 34,
+  "en": "Who's Charlie Raefer?",
+  "cn": "Charley Rafer 是谁？",
+  "score": 0.63
+ },
+ {
+  "i": 35,
+  "en": "He's the Dean of Admissions for the University of Michigan.",
+  "cn": "他是密歇根大学的招生处长。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "And it turns out he's a classmate of Philip's.",
+  "cn": "原来他是 Philip 的同学。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Yeah, we were both on the tennis team.",
+  "cn": "我们都在网球队。",
+  "score": 0.91
+ },
+ {
+  "i": 38,
+  "en": "Great.",
+  "cn": "太好了!",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "It is great. He's going to be in New York tomorrow to interview applicants for admission.",
+  "cn": "他明天来纽约，",
+  "score": 0.57
+ },
+ {
+  "i": 40,
+  "en": "And he's agreed to fit you into his schedule.",
+  "cn": "他同意把你加进他的日程。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "But I may not want to go to Michigan.",
+  "cn": "但我可能不想去密歇根。",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "It's one of the best schools in the country, Robbie.",
+  "cn": "那是全国最好的学校之一，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "I studied medicine there. Your grandfather went to the engineering school there.",
+  "cn": "你爷爷在那里的工学院。",
+  "score": 0.78
+ },
+ {
+  "i": 44,
+  "en": "I know that, but...",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "You said you wanted to be a doctor like your father.",
+  "cn": "你说过想当医生，像你爸爸一样。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "Not exactly.",
+  "cn": "也不完全是这样。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "But you couldn't pick a finer medical school than Michigan.",
+  "cn": "你找不到比密歇根更好的医学院了。",
+  "score": 0.94
+ },
+ {
+  "i": 48,
+  "en": "Yes, I know that.",
+  "cn": "是的，我知道。",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "Let's meet with Charlie at the University Club.",
+  "cn": "我们在大学俱乐部和 Charley 见面吧。",
+  "score": 0.9
+ },
+ {
+  "i": 50,
+  "en": "10 o'clock tomorrow morning.",
+  "cn": "明天早上十点。",
+  "score": 0.79
+ },
+ {
+  "i": 51,
+  "en": "It doesn't mean you're going to Michigan.",
+  "cn": "这不意味着你要去密歇根。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "It doesn't mean you have to be a doctor.",
+  "cn": "也不意味着你必须当医生。",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "But the interview will be good experience for you.",
+  "cn": "但这次面试对你来说会是很好的经验。",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "In that case, it's okay.",
+  "cn": "那样的话，没问题。",
+  "score": 0.84
+ },
+ {
+  "i": 55,
+  "en": "Dad, growing up means making my own decisions, doesn't it?",
+  "cn": "自己做决定，对吗？",
+  "score": 0.7
+ },
+ {
+  "i": 56,
+  "en": "You're right, Robbie.",
+  "cn": "你说得对，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "But, like your grandpa suggested, have the interview.",
+  "cn": "但，正如你爷爷建议的，",
+  "score": 0.71
+ },
+ {
+  "i": 58,
+  "en": "And then make your own decision.",
+  "cn": "然后自己做决定。",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "That sounds fine.",
+  "cn": "听起来不错。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "I know it's sudden, Robbie, but this is an important opportunity.",
+  "cn": "但这是个重要的机会。",
+  "score": 0.66
+ },
+ {
+  "i": 61,
+  "en": "We'll head down there first thing tomorrow morning, okay?",
+  "cn": "我们明天一早就去。",
+  "score": 0.93
+ },
+ {
+  "i": 62,
+  "en": "Sure, Dad.",
+  "cn": "好的，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "I want you to know something, son.",
+  "cn": "我想要",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "Thanks, Dad.",
+  "cn": "谢谢，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "I've got an appointment at the hospital.",
+  "cn": "嗯，我在医院有个预约。",
+  "score": 0.91
+ },
+ {
+  "i": 66,
+  "en": "I'll see you all at dinner time.",
+  "cn": "晚饭时见。",
+  "score": 0.84
+ },
+ {
+  "i": 67,
+  "en": "Bye, Dad.",
+  "cn": "再见，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "Is something still wrong, Robbie?",
+  "cn": "还有问题吗，Robbie？",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "I'll be okay.",
+  "cn": "我会没事的。",
+  "score": 0.75
+ },
+ {
+  "i": 70,
+  "en": "Going away to college for the first time",
+  "cn": "第一次离家上大学",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "always makes one a little nervous.",
+  "cn": "总让人有点紧张。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "I guess so.",
+  "cn": "我想是吧。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "I'll be okay.",
+  "cn": "你会没事的。",
+  "score": 0.53
+ },
+ {
+  "i": 74,
+  "en": "I just need time to think.",
+  "cn": "我会没事的，我只是需要时间想想。",
+  "score": 0.76
+ },
+ {
+  "i": 75,
+  "en": "Oh, sorry, Robbie.",
+  "cn": "哦,抱歉,Robbie.",
+  "score": 0.3
+ },
+ {
+  "i": 76,
+  "en": "Sorry to be late this morning, but, uh,",
+  "cn": "对不起，Robbie，对不起今早迟到，",
+  "score": 0.71
+ },
+ {
+  "i": 77,
+  "en": "well, we've still got some time for a cup of coffee.",
+  "cn": "不过，我们还有时间喝杯咖啡。",
+  "score": 0.94
+ },
+ {
+  "i": 78,
+  "en": "I can't wait to see my old pal, Charlie Raper.",
+  "cn": "我等不及要见老朋友 Charley Rafer。",
+  "score": 0.84
+ },
+ {
+  "i": 79,
+  "en": "Neither can I.",
+  "cn": "我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "So you thought about it, huh?",
+  "cn": "你考虑过了，嗯？",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Yes, I have, Dad.",
+  "cn": "是的，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Well, I'm glad.",
+  "cn": "嗯，我很高兴。",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "I knew you'd realize that this interview",
+  "cn": "我就知道你会意识到",
+  "score": 0.63
+ },
+ {
+  "i": 84,
+  "en": "could be an important experience for you.",
+  "cn": "这次面试对你来说可能是重要的经历。",
+  "score": 0.76
+ },
+ {
+  "i": 85,
+  "en": "I came to that conclusion.",
+  "cn": "我得出了这个结论。",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "That's very wise, Robbie.",
+  "cn": "这很明智，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Very wise.",
+  "cn": "非常明智。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "Now let's, uh, let's head off to the city and university club.",
+  "cn": "现在我们出发去城里、去大学俱乐部吧。",
+  "score": 0.82
+ },
+ {
+  "i": 89,
+  "en": "Thanks, Dad.",
+  "cn": "谢谢，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "Thanks? For what?",
+  "cn": "谢谢……谢什么？",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "Thanks for hearing me out.",
+  "cn": "谢谢你听我说完。还有……",
+  "score": 0.89
+ },
+ {
+  "i": 92,
+  "en": "And...",
+  "cn": "还有……？",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "And?",
+  "cn": "而?",
+  "score": 0.3
+ },
+ {
+  "i": 94,
+  "en": "And thanks for being such an understanding father.",
+  "cn": "谢谢您这么理解我。",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "Well, thank you, Robbie.",
+  "cn": "嗯，谢谢你，Robbie，谢谢你。",
+  "score": 0.88
+ },
+ {
+  "i": 96,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "Philip Stewart.",
+  "cn": "Philip Stewart！",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "It's great to see you.",
+  "cn": "见到你太好了！",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Charlie Raper, you look as young as ever.",
+  "cn": "Charley Rafer——你看起来和以前一样年轻。",
+  "score": 0.79
+ },
+ {
+  "i": 100,
+  "en": "Ha, ha, ha, ha.",
+  "cn": "哈,哈,哈,哈.",
+  "score": 0.3
+ },
+ {
+  "i": 101,
+  "en": "Ha, ha, ha.",
+  "cn": "哈,哈,哈.",
+  "score": 0.3
+ },
+ {
+  "i": 102,
+  "en": "You must be Robbie.",
+  "cn": "你一定是 Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "Hi.",
+  "cn": "嗨.",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Yes, this is my younger son, Robbie.",
+  "cn": "是的，这是我小儿子 Robbie。",
+  "score": 0.87
+ },
+ {
+  "i": 105,
+  "en": "Robbie, I want you to meet",
+  "cn": "Robbie，我想让你见见",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "one of the best tennis players on the Michigan team.",
+  "cn": "密歇根网球队最棒的球员之一——",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Charlie Raper.",
+  "cn": "Charley Rafer。",
+  "score": 0.51
+ },
+ {
+  "i": 108,
+  "en": "Nice to meet you, Dean Raper.",
+  "cn": "很高兴认识你，Rafer 主任。",
+  "score": 0.86
+ },
+ {
+  "i": 109,
+  "en": "Well, are you as good a tennis player as your dad?",
+  "cn": "嗯，你网球打得和你爸爸一样好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "No, I'm not very good at it.",
+  "cn": "不，我不太擅长。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Frankly, neither was I.",
+  "cn": "坦白说，我也不太行。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "Charlie was the star of the team.",
+  "cn": "Charley 是队里的明星。",
+  "score": 0.87
+ },
+ {
+  "i": 113,
+  "en": "Yeah, thanks.",
+  "cn": "是啊，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "Well, how have you been, Philip?",
+  "cn": "嗯，你最近怎么样，Philip？",
+  "score": 0.76
+ },
+ {
+  "i": 115,
+  "en": "Oh, working too hard.",
+  "cn": "哦，工作太累。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Doesn't show.",
+  "cn": "看不出来。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "How's Ellen?",
+  "cn": "Ellen 怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "Fine, thank you.",
+  "cn": "很好，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "And how's Marge?",
+  "cn": "Marge 怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "She's still giving the toughest English history exams in the school",
+  "cn": "她还在出学校里最难的英国史考题，",
+  "score": 0.85
+ },
+ {
+  "i": 121,
+  "en": "and loving every minute of it.",
+  "cn": "而且乐此不疲。",
+  "score": 0.75
+ },
+ {
+  "i": 122,
+  "en": "Ha, ha, ha.",
+  "cn": "哈,哈,哈.",
+  "score": 0.3
+ },
+ {
+  "i": 123,
+  "en": "And speaking of minutes,",
+  "cn": "说到时间，",
+  "score": 1.0
+ },
+ {
+  "i": 124,
+  "en": "I have interviews until noon,",
+  "cn": "我面试要到中午，",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "so why don't we get right to work?",
+  "cn": "那我们为什么不直接开始呢？",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Can you have lunch with us later?",
+  "cn": "您待会儿能和我们一起午餐吗？",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "I'd love to, Philip, but I'm afraid I can't.",
+  "cn": "我很想，Philip，但恐怕不行。",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "I'm only here two days,",
+  "cn": "我只待两天，",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "and I have interviews with 26 applicants.",
+  "cn": "要面试 26 位申请者。",
+  "score": 0.78
+ },
+ {
+  "i": 130,
+  "en": "I understand. Well, thanks.",
+  "cn": "我理解.",
+  "score": 0.6
+ },
+ {
+  "i": 131,
+  "en": "I'll wait outside.",
+  "cn": "我在外面等。",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "Good luck, son.",
+  "cn": "祝你好运，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "Did you bring your transcript from high school?",
+  "cn": "你带高中的成绩单了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "Yes, sir, right here.",
+  "cn": "就在这里。",
+  "score": 0.63
+ },
+ {
+  "i": 135,
+  "en": "Thank you.",
+  "cn": "谢谢你",
+  "score": 0.3
+ },
+ {
+  "i": 136,
+  "en": "Please, sit down.",
+  "cn": "请坐下.",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "I see under activities that you've been writing for the school paper.",
+  "cn": "你一直在为校报写稿。",
+  "score": 0.68
+ },
+ {
+  "i": 138,
+  "en": "Yes, sir.",
+  "cn": "带了，先生。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "What kind of articles have you written?",
+  "cn": "你写过哪类文章？",
+  "score": 0.89
+ },
+ {
+  "i": 140,
+  "en": "All kinds, sports,",
+  "cn": "各种——体育、社论、戏剧评论。",
+  "score": 0.53
+ },
+ {
+  "i": 141,
+  "en": "um, editorials, theater reviews.",
+  "cn": "嗯,社论,戏剧评论.",
+  "score": 0.3
+ },
+ {
+  "i": 142,
+  "en": "You name it, I've written it.",
+  "cn": "你能想到的我都写过。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "Have you ever thought of becoming a journalist?",
+  "cn": "嗯，你有没有想过当记者？",
+  "score": 0.92
+ },
+ {
+  "i": 144,
+  "en": "Professional writer?",
+  "cn": "职业作家？",
+  "score": 0.84
+ },
+ {
+  "i": 145,
+  "en": "Not until recently.",
+  "cn": "直到最近才想过。",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "Michigan has a fine school of journalism.",
+  "cn": "密歇根有很好的新闻学院。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "Yes, I know that.",
+  "cn": "是的，我知道。",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "You seem to have some reservations.",
+  "cn": "你似乎有些保留。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "I'm a little uncertain.",
+  "cn": "我有点不确定。",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "And it's been very nice talking to you.",
+  "cn": "和你谈话很愉快。",
+  "score": 0.92
+ },
+ {
+  "i": 151,
+  "en": "Nice talking to you, sir.",
+  "cn": "和您谈话很愉快，先生。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "One piece of advice.",
+  "cn": "一个建议。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "Most important thing is for you to decide your own future.",
+  "cn": "最重要的是你自己决定未来。",
+  "score": 0.95
+ },
+ {
+  "i": 154,
+  "en": "Yes, sir.",
+  "cn": "是的，先生。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "Goodbye, Dean Rayford.",
+  "cn": "再见，Rafer 主任。",
+  "score": 0.59
+ },
+ {
+  "i": 156,
+  "en": "Goodbye, Robbie.",
+  "cn": "再见，Robbie，祝你好运。",
+  "score": 0.51
+ },
+ {
+  "i": 157,
+  "en": "Good luck.",
+  "cn": "好运气.",
+  "score": 0.3
+ },
+ {
+  "i": 158,
+  "en": "I had an interview today, too.",
+  "cn": "我今天也有个面试。",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "I had a great interview with admissions at Columbia University.",
+  "cn": "是哥伦比亚大学招生办。",
+  "score": 0.66
+ },
+ {
+  "i": 160,
+  "en": "Really? What did they say?",
+  "cn": "他们怎么说？",
+  "score": 0.82
+ },
+ {
+  "i": 161,
+  "en": "Will you get into the school?",
+  "cn": "你会",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "Well, they didn't say anything for sure,",
+  "cn": "嗯，他们没说准。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "but I figured that with my grades and with my personality,",
+  "cn": "但我想凭我的成绩和性格，",
+  "score": 0.91
+ },
+ {
+  "i": 164,
+  "en": "I'll have no problem.",
+  "cn": "应该没问题。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "Columbia's a terrific school.",
+  "cn": "哥伦比亚是个很棒的学校。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "What are you going to do?",
+  "cn": "你打算怎么办？",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "Do? I don't know.",
+  "cn": "怎么办？我不知道。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "I also applied to NYU.",
+  "cn": "我也申请了 NYU。",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "You sound excited about Columbia.",
+  "cn": "你听起来对哥伦比亚很兴奋。",
+  "score": 1.0
+ },
+ {
+  "i": 170,
+  "en": "What's your problem, Mike?",
+  "cn": "你怎么了，Mike？",
+  "score": 1.0
+ },
+ {
+  "i": 171,
+  "en": "Indecision.",
+  "cn": "犹豫不决，犹豫不决。",
+  "score": 0.79
+ },
+ {
+  "i": 172,
+  "en": "Indecision.",
+  "cn": "犹豫不决.",
+  "score": 0.3
+ },
+ {
+  "i": 173,
+  "en": "It's not easy, and this is an important decision we have to make.",
+  "cn": "而这是个我们得做的重要决定。",
+  "score": 0.83
+ },
+ {
+  "i": 174,
+  "en": "And what about you?",
+  "cn": "你呢？",
+  "score": 0.83
+ },
+ {
+  "i": 175,
+  "en": "How was your interview with Michigan?",
+  "cn": "你密歇根面试怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "The interview was fine.",
+  "cn": "面试很好。",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "It was a great college.",
+  "cn": "是个很棒的大学。",
+  "score": 0.74
+ },
+ {
+  "i": 178,
+  "en": "It is.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "My father would like me to go there.",
+  "cn": "我的父亲",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "He and my grandpa both went there.",
+  "cn": "他和我爷爷都去过那里。",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "Great medical school, too.",
+  "cn": "太好了",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "I know.",
+  "cn": "我知道.",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "You can follow in your father's footsteps.",
+  "cn": "你可以走你爸爸的路。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "I'd like to follow in my own footsteps, Mike.",
+  "cn": "啊！我想走自己的路，Mike。",
+  "score": 0.94
+ },
+ {
+  "i": 185,
+  "en": "What do you want to study?",
+  "cn": "你想要什么",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "I've been thinking.",
+  "cn": "我一直在想。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "I think I want to study journalism,",
+  "cn": "我认为我想要",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "to be a reporter, a newspaper man.",
+  "cn": "当记者——当个报人。",
+  "score": 0.82
+ },
+ {
+  "i": 189,
+  "en": "You do a pretty good job on the Riverdale High School paper.",
+  "cn": "你在 Riverdale 高中校报上做得很好。",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "And I've been thinking about it a lot lately.",
+  "cn": "我最近一直在想这件事。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "Have you discussed it with your parents?",
+  "cn": "你和父母讨论过吗？",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "No, but I have to.",
+  "cn": "没有，但我必须。",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "Okay. Let's talk.",
+  "cn": "好，我们聊聊。",
+  "score": 0.76
+ },
+ {
+  "i": 194,
+  "en": "Hi, son.",
+  "cn": "嗨,儿子.",
+  "score": 0.3
+ },
+ {
+  "i": 195,
+  "en": "Hi, Dad. Everything's fine.",
+  "cn": "嗨，爸爸，一切都好。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "I was just waiting for you to get home so we could talk.",
+  "cn": "我就在等你回家，",
+  "score": 0.77
+ },
+ {
+  "i": 197,
+  "en": "Anything special you want to talk about?",
+  "cn": "有什么特别想聊的吗？",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "There is, Dad.",
+  "cn": "有的，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "I'm listening.",
+  "cn": "我听着。",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "Well, I know you and Mom have given up a lot",
+  "cn": "嗯，我知道你和妈妈付出了很多，",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "to save money for my college tuition.",
+  "cn": "为我存大学学费。",
+  "score": 1.0
+ },
+ {
+  "i": 202,
+  "en": "We want you to go to college, Robbie.",
+  "cn": "我们想让你上大学，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "I know. I do.",
+  "cn": "我知道，我会上。",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "Thought a lot about which college.",
+  "cn": "嗯，我考虑了很多上哪所大学，",
+  "score": 0.82
+ },
+ {
+  "i": 205,
+  "en": "And one of them is Columbia.",
+  "cn": "其中之一是哥伦比亚。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "Columbia? Why Columbia?",
+  "cn": "哥伦比亚？为什么是哥伦比亚？",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "First, they have an excellent school of journalism.",
+  "cn": "首先，他们有出色的新闻学院。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "Mm-hmm. They do.",
+  "cn": "是的。",
+  "score": 0.6
+ },
+ {
+  "i": 209,
+  "en": "And your friends are planning to go to Columbia?",
+  "cn": "你朋友们也打算去哥伦比亚？",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "That's only part of it.",
+  "cn": "那只是一部分原因。",
+  "score": 1.0
+ },
+ {
+  "i": 211,
+  "en": "It's complicated. I'll try to explain.",
+  "cn": "我试着解释。",
+  "score": 0.68
+ },
+ {
+  "i": 212,
+  "en": "Mike and I had a hamburger this afternoon and we talked.",
+  "cn": "Mike 和我今天下午吃了汉堡，聊了聊。",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "Yes?",
+  "cn": "是的?",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "Well, we talked about a lot of things.",
+  "cn": "然后呢？",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "He applied to Columbia and his interview was very successful.",
+  "cn": "他申请了哥伦比亚，",
+  "score": 0.7
+ },
+ {
+  "i": 216,
+  "en": "He thinks he'll be accepted and he really wants to go there.",
+  "cn": "他觉得他会被录取，",
+  "score": 0.67
+ },
+ {
+  "i": 217,
+  "en": "Dean Rayfer called me today.",
+  "cn": "他真的很想去那里。",
+  "score": 0.86
+ },
+ {
+  "i": 218,
+  "en": "He told me he was very impressed with you.",
+  "cn": "Rafer 主任今天给我打电话了。",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "He's a nice man. He was very kind.",
+  "cn": "他是个好人。",
+  "score": 0.6
+ },
+ {
+  "i": 220,
+  "en": "He told me you had some doubts about wanting to go to Michigan.",
+  "cn": "他告诉我",
+  "score": 0.84
+ },
+ {
+  "i": 221,
+  "en": "Yes, I do.",
+  "cn": "你对上密歇根有些疑虑。",
+  "score": 1.0
+ },
+ {
+  "i": 222,
+  "en": "I'm just not sure about what I want to do.",
+  "cn": "是的，我有。",
+  "score": 1.0
+ },
+ {
+  "i": 223,
+  "en": "It's okay.",
+  "cn": "不容易，",
+  "score": 0.54
+ },
+ {
+  "i": 224,
+  "en": "You understand?",
+  "cn": "没关系。",
+  "score": 1.0
+ },
+ {
+  "i": 225,
+  "en": "Let me tell you something, Robbie.",
+  "cn": "你理解？",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "Something that might be surprising to you.",
+  "cn": "我告诉你一件事，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 227,
+  "en": "What? Tell me.",
+  "cn": "可能让你惊讶的事。",
+  "score": 1.0
+ },
+ {
+  "i": 228,
+  "en": "Grandpa wanted me to study engineering like him.",
+  "cn": "什么？告诉我。",
+  "score": 0.93
+ },
+ {
+  "i": 229,
+  "en": "I wasn't clear about my future, but I knew engineering was not for me.",
+  "cn": "嗯，我对未来不明确，",
+  "score": 0.67
+ },
+ {
+  "i": 230,
+  "en": "What did you tell Grandpa?",
+  "cn": "但我知道工程不适合我。",
+  "score": 1.0
+ },
+ {
+  "i": 231,
+  "en": "The truth.",
+  "cn": "你怎么和爷爷说的？",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "Then you're not upset about my not wanting to go into medicine?",
+  "cn": "那你不会因为",
+  "score": 0.76
+ },
+ {
+  "i": 233,
+  "en": "I'm not upset at all.",
+  "cn": "我不想从医而难过？",
+  "score": 1.0
+ },
+ {
+  "i": 234,
+  "en": "I'm just happy that we're able to talk about it.",
+  "cn": "我一点也不难过。",
+  "score": 1.0
+ },
+ {
+  "i": 235,
+  "en": "I am too, Dad.",
+  "cn": "我很高兴我们能谈这件事。",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "I suppose you want to apply to Columbia.",
+  "cn": "我也是，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 237,
+  "en": "Yes, but I also want to apply to several other colleges.",
+  "cn": "我想你要申请哥伦比亚。",
+  "score": 1.0
+ },
+ {
+  "i": 238,
+  "en": "I thought you wanted to go to Columbia.",
+  "cn": "是的，但我也想申请其他几所学校。",
+  "score": 1.0
+ },
+ {
+  "i": 239,
+  "en": "Well, I might want to go to Columbia, and I might not.",
+  "cn": "我以为你想去哥伦比亚。",
+  "score": 0.8
+ },
+ {
+  "i": 240,
+  "en": "I just want to be able to make my own decision.",
+  "cn": "也可能不想。",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "You're a real steward.",
+  "cn": "我只是想能自己做决定。",
+  "score": 0.81
+ },
+ {
+  "i": 242,
+  "en": "And if I think about it long enough, you never know.",
+  "cn": "你真是个 Stewart！",
+  "score": 1.0
+ },
+ {
+  "i": 243,
+  "en": "Never know what?",
+  "cn": "如果我考虑得够久，谁知道呢……",
+  "score": 1.0
+ },
+ {
+  "i": 244,
+  "en": "If I make my own decision, I might choose Michigan.",
+  "cn": "不知道什么？",
+  "score": 0.67
+ },
+ {
+  "i": 245,
+  "en": "Robbie, you're something.",
+  "cn": "我可能选密歇根。",
+  "score": 1.0
+ },
+ {
+  "i": 246,
+  "en": "You know, when I was your age, I said exactly the same thing to Grandpa.",
+  "cn": "你知道吗，我在你这个年纪，",
+  "score": 0.67
+ }
+]
