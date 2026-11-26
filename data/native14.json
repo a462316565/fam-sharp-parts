@@ -1,0 +1,764 @@
+[
+ {
+  "i": 0,
+  "en": "You like living in New York don't you? Oh, I love it. It's so convenient",
+  "cn": "你喜欢住在纽约，对吧？",
+  "score": 0.62
+ },
+ {
+  "i": 1,
+  "en": "I can take the bus to work or the subway or a taxi and there's so much to do",
+  "cn": "我可以坐公交上班……",
+  "score": 0.48
+ },
+ {
+  "i": 2,
+  "en": "Lots of movie houses and the theater. I know what you mean",
+  "cn": "很多电影院，还有剧院。",
+  "score": 0.7
+ },
+ {
+  "i": 3,
+  "en": "I'd like to live in the city, but living in New Jersey in the suburbs is better for Michelle trees grass",
+  "cn": "但住在新泽西的郊区",
+  "score": 0.47
+ },
+ {
+  "i": 4,
+  "en": "There's a lot of good things about suburban living I grew up in Riverdale remember so I know but",
+  "cn": "郊区生活有很多好处。",
+  "score": 0.61
+ },
+ {
+  "i": 5,
+  "en": "As a working woman, I think New York has all the conveniences including the best tomatoes",
+  "cn": "我认为",
+  "score": 0.59
+ },
+ {
+  "i": 6,
+  "en": "The truth is I'd like to live in the city Michelle's the right age",
+  "cn": "事实上，我想住在城里。",
+  "score": 0.76
+ },
+ {
+  "i": 7,
+  "en": "There are lots of things for her here",
+  "cn": "这里有好多适合她的东西。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "You're right. Harry today is the perfect example",
+  "cn": "今天就是个最好的例子。",
+  "score": 0.7
+ },
+ {
+  "i": 9,
+  "en": "Michelle and her friends are at the aquarium in Brooklyn",
+  "cn": "米歇尔和她的朋友们在布鲁克林的水族馆。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "They come back here for lunch then go uptown to the Museum of Natural History",
+  "cn": "然后去城北的自然历史博物馆。",
+  "score": 0.69
+ },
+ {
+  "i": 11,
+  "en": "There's so much for young people to see and do it's just incredible just for young people. What about me?",
+  "cn": "年轻人有那么多可以看和做的事情。",
+  "score": 0.62
+ },
+ {
+  "i": 12,
+  "en": "I've never been to the aquarium or the Museum of Natural History have you oh, yes",
+  "cn": "也没去过自然历史博物馆。",
+  "score": 0.5
+ },
+ {
+  "i": 13,
+  "en": "Harry my mother and father often took us somewhere in the city on the weekends",
+  "cn": "周末经常带我们在城里到处转。",
+  "score": 0.73
+ },
+ {
+  "i": 14,
+  "en": "Dad was a busy doctor, but he usually managed to squeeze a Sunday in with Richard Robbie and me",
+  "cn": "但他通常总能挤出星期天",
+  "score": 0.59
+ },
+ {
+  "i": 15,
+  "en": "I used to love to go to the Metropolitan Museum of Art. I've been there several times twice with Michelle",
+  "cn": "我以前最喜欢去大都会艺术博物馆。",
+  "score": 0.63
+ },
+ {
+  "i": 16,
+  "en": "You ought to think about spending more time with Michelle at all the great places in this city",
+  "cn": "你应该考虑多花点时间陪米歇尔",
+  "score": 0.68
+ },
+ {
+  "i": 17,
+  "en": "well",
+  "cn": "嗯，",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "perhaps",
+  "cn": "嗯，也许，",
+  "score": 0.64
+ },
+ {
+  "i": 19,
+  "en": "You'll help me select some of the great places",
+  "cn": "你能帮我挑几个好地方。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "And perhaps you'll join us",
+  "cn": "也许，你愿意和我们一起去？",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "Perhaps I will well there we are all set for lunch Harry looks inviting. I wish Michelle and her friends would get here",
+  "cn": "我希望米歇尔和她的朋友们快点到。",
+  "score": 0.5
+ },
+ {
+  "i": 22,
+  "en": "I'm starving aren't you I can't wait to take a bite of the pumpernickel. It smells so delicious",
+  "cn": "我迫不及待想咬一口黑麦面包。",
+  "score": 0.62
+ },
+ {
+  "i": 23,
+  "en": "Come in Michelle and bring your friends along. We're on the fifth floor. Oh, you've been here before",
+  "cn": "来在Michelle和bring你的friendsalong.我们是在这fifthfloor.哦你有曾经这里以前",
+  "score": 0.3
+ },
+ {
+  "i": 24,
+  "en": "Susan I yeah, I really appreciate you doing this for Michelle and her friends. Oh, please Harry. It's nothing",
+  "cn": "你为米歇尔和她的朋友们做的一切。",
+  "score": 0.49
+ },
+ {
+  "i": 25,
+  "en": "I'm not just doing it for Michelle. I'm doing it for you. Thank you. I'm",
+  "cn": "我不只是为米歇尔做的。",
+  "score": 0.71
+ },
+ {
+  "i": 26,
+  "en": "Doing it for us Harry. Well, it's it's important for Michelle to see us together more often. That's true",
+  "cn": "让米歇尔看到我们更经常在一起，这很重要。",
+  "score": 0.71
+ },
+ {
+  "i": 27,
+  "en": "It's important for Michelle and me to get to know each other better",
+  "cn": "让米歇尔和我彼此更了解。",
+  "score": 0.86
+ },
+ {
+  "i": 28,
+  "en": "That's important for us",
+  "cn": "那对我们很重要。",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "That makes me feel good",
+  "cn": "这让我感觉很好。",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "What Harry what makes you feel good? Well, but that you care about Michelle that you care about me and",
+  "cn": "你关心我，这也让我感觉很好。",
+  "score": 0.59
+ },
+ {
+  "i": 31,
+  "en": "That you care about us. Well Harry that that's because I do I",
+  "cn": "嗯，哈里，那是因为我确实关心。",
+  "score": 0.62
+ },
+ {
+  "i": 32,
+  "en": "Do care they'll be here any minute Susan",
+  "cn": "她们随时都可能到。",
+  "score": 0.72
+ },
+ {
+  "i": 33,
+  "en": "I'd like to",
+  "cn": "我很乐意。",
+  "score": 0.7
+ },
+ {
+  "i": 34,
+  "en": "Continue this conversation later",
+  "cn": "苏珊，我想稍后继续这个谈话。",
+  "score": 0.67
+ },
+ {
+  "i": 35,
+  "en": "Of course Harry we'll finish the conversation when they go to the museum",
+  "cn": "等她们去博物馆后我们再谈完。",
+  "score": 0.83
+ },
+ {
+  "i": 36,
+  "en": "I'd like that",
+  "cn": "比如什么？",
+  "score": 0.54
+ },
+ {
+  "i": 37,
+  "en": "So would I",
+  "cn": "我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "It's a real shark I could almost touch it. I'm so glad",
+  "cn": "我几乎能摸到它。",
+  "score": 0.53
+ },
+ {
+  "i": 39,
+  "en": "Hi, Michelle. Why don't you introduce everybody to Susan? Hi, Susan",
+  "cn": "你怎么不把大家介绍给苏珊？",
+  "score": 0.79
+ },
+ {
+  "i": 40,
+  "en": "I'd like to meet Audrey and her mother mrs. Cooper. Hello, Audrey. Nice to meet you mrs. Cooper. I'm Susan Stewart",
+  "cn": "我想让你见见奥德丽和她妈妈库珀夫人。",
+  "score": 0.64
+ },
+ {
+  "i": 41,
+  "en": "And this is Shirley and the call. Hi girls",
+  "cn": "这是雪莉和妮可。",
+  "score": 0.6
+ },
+ {
+  "i": 42,
+  "en": "Come on in. Come on. This is super. Come on in everybody. The aquarium was so exciting",
+  "cn": "水族馆太好玩了。",
+  "score": 0.47
+ },
+ {
+  "i": 43,
+  "en": "I had never been there before the girls learned a great deal",
+  "cn": "女孩们学到了很多东西。",
+  "score": 0.6
+ },
+ {
+  "i": 44,
+  "en": "Frankly, so did I please sit down and tell us all about it during lunch. We prepared some tuna fish and cheese sandwiches for lunch",
+  "cn": "坦白地如此做我pleasesit下和告诉usall关于它during午餐我们准备某个金枪鱼fish和cheese三明治为了午餐",
+  "score": 0.3
+ },
+ {
+  "i": 45,
+  "en": "I",
+  "cn": "我",
+  "score": 0.3
+ },
+ {
+  "i": 46,
+  "en": "Love tuna fish don't you Audrey hmm? I remember when I used to be a girl scout. My mother would take us everywhere, too",
+  "cn": "我记得",
+  "score": 0.47
+ },
+ {
+  "i": 47,
+  "en": "Susan I understand you're in the toy business",
+  "cn": "苏珊，我听说你是做玩具生意的。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Yes, I am my company manufactures toys and games for children",
+  "cn": "我们公司生产儿童玩具和游戏。",
+  "score": 0.84
+ },
+ {
+  "i": 49,
+  "en": "Susan's vice president in charge of new toys and games and the marketing of new toys and games",
+  "cn": "苏珊是负责新玩具和游戏的副总裁。",
+  "score": 0.77
+ },
+ {
+  "i": 50,
+  "en": "That's an excellent idea Michelle I happen to have a game which I brought home to study",
+  "cn": "一个带回家研究的游戏。",
+  "score": 0.56
+ },
+ {
+  "i": 51,
+  "en": "Nicole Shirley Audrey",
+  "cn": "妮可？雪莉？奥德丽？",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "We tested it last week on 12 to 15 year olds and they found it to be too easy in other words boring",
+  "cn": "我们上周让十二到十五岁的孩子测试过，",
+  "score": 0.47
+ },
+ {
+  "i": 53,
+  "en": "We think it might be just right for 10 to 12 year olds",
+  "cn": "我们觉得它可能正好适合十到十二岁的孩子。",
+  "score": 0.82
+ },
+ {
+  "i": 54,
+  "en": "First you shuffle the deck and lay them face down",
+  "cn": "首先，洗牌，",
+  "score": 0.62
+ },
+ {
+  "i": 55,
+  "en": "Then you select the leader",
+  "cn": "然后选出队长。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "I'll be the leader",
+  "cn": "我来当队长。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "The leader takes the first 10 cards and lays them face up on this fan",
+  "cn": "面朝上放在这个架子上。",
+  "score": 0.56
+ },
+ {
+  "i": 58,
+  "en": "H",
+  "cn": "H",
+  "score": 0.3
+ },
+ {
+  "i": 59,
+  "en": "T C",
+  "cn": "TC",
+  "score": 0.3
+ },
+ {
+  "i": 60,
+  "en": "Z everyone gets a turn going counterclockwise left to right",
+  "cn": "每个人按逆时针方向轮流，",
+  "score": 0.75
+ },
+ {
+  "i": 61,
+  "en": "you have",
+  "cn": "你去过吗？",
+  "score": 0.7
+ },
+ {
+  "i": 62,
+  "en": "30 seconds to make a word using as many letters as possible",
+  "cn": "尽量用最多的字母。",
+  "score": 0.61
+ },
+ {
+  "i": 63,
+  "en": "You get one point for each letter",
+  "cn": "每个字母得一分，",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "plus",
+  "cn": "plus",
+  "score": 0.3
+ },
+ {
+  "i": 65,
+  "en": "The person with the longest word gets 10 extra points the first one to get 100 points wins",
+  "cn": "拼出最长单词的人额外加十分。",
+  "score": 0.6
+ },
+ {
+  "i": 66,
+  "en": "Okay, let's go around the table",
+  "cn": "好，我们绕桌子来。",
+  "score": 0.87
+ },
+ {
+  "i": 67,
+  "en": "You first Audrey points",
+  "cn": "你先来，奥德丽。",
+  "score": 0.79
+ },
+ {
+  "i": 68,
+  "en": "Next Nicole. Okay, that's five points. Also, it's your turn Shirley creep",
+  "cn": "下一个Nicole.好那是five分也它是你的turnShirleycreep",
+  "score": 0.3
+ },
+ {
+  "i": 69,
+  "en": "That's another five-letter word five points so far. You're all tied",
+  "cn": "又是一个五个字母的单词。",
+  "score": 0.57
+ },
+ {
+  "i": 70,
+  "en": "sheet",
+  "cn": "sheet",
+  "score": 0.3
+ },
+ {
+  "i": 71,
+  "en": "H e e t sheet sheet is a five-letter word",
+  "cn": "Sheet 是一个五个字母的单词。",
+  "score": 0.74
+ },
+ {
+  "i": 72,
+  "en": "Michelle your turn",
+  "cn": "米歇尔，轮到你了。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Terrific",
+  "cn": "太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "Michelle wins with a six-letter word plus she gets an additional 10 points for a total of 16 points",
+  "cn": "米歇尔以一个六个字母的单词获胜，",
+  "score": 0.48
+ },
+ {
+  "i": 75,
+  "en": "How are you enjoying the game so far?",
+  "cn": "你好吗",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Too easy",
+  "cn": "我觉得太简单了。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "Michelle it's okay. Harry Michelle is quite right. She just said it's",
+  "cn": "没关系，哈里。",
+  "score": 0.47
+ },
+ {
+  "i": 78,
+  "en": "Too easy. Well, I liked the game. I",
+  "cn": "她刚才说太简单了。",
+  "score": 0.66
+ },
+ {
+  "i": 79,
+  "en": "Enjoyed lunch season. Thank you so much",
+  "cn": "午餐很愉快，苏珊。",
+  "score": 0.6
+ },
+ {
+  "i": 80,
+  "en": "But we have to get going to meet the rest of the troop at two o'clock at the museum",
+  "cn": "但我们得走了，",
+  "score": 0.76
+ },
+ {
+  "i": 81,
+  "en": "Oh, it was nice meeting all of you. I hope you have a wonderful time at the Museum of Natural History",
+  "cn": "两点钟在博物馆和其他队员会合。",
+  "score": 0.47
+ },
+ {
+  "i": 82,
+  "en": "Goodbye everybody. Have a good time. See you in front of the museum",
+  "cn": "再见",
+  "score": 0.5
+ },
+ {
+  "i": 83,
+  "en": "Thanks, mr. Bennett, that'll be fine and thanks again for the lunch and for the game",
+  "cn": "再次感谢你的午餐和游戏。",
+  "score": 0.67
+ },
+ {
+  "i": 84,
+  "en": "Bye",
+  "cn": "再见.",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "It's not a bad thing",
+  "cn": "这游戏不差。",
+  "score": 0.76
+ },
+ {
+  "i": 86,
+  "en": "It's just slow just slow",
+  "cn": "只是……慢了点。",
+  "score": 0.84
+ },
+ {
+  "i": 87,
+  "en": "You help save our company a lot of money. Bye. Bye. You are wonderful with kids. I",
+  "cn": "你帮我们公司省了一大笔钱。",
+  "score": 0.6
+ },
+ {
+  "i": 88,
+  "en": "Am",
+  "cn": "我是的。",
+  "score": 0.6
+ },
+ {
+  "i": 89,
+  "en": "Isn't there a",
+  "cn": "不是吗？",
+  "score": 0.45
+ },
+ {
+  "i": 90,
+  "en": "Conversation that we have to finish. There's a conversation we have to finish",
+  "cn": "我们有个谈话要谈完。",
+  "score": 0.76
+ },
+ {
+  "i": 91,
+  "en": "What was it about?",
+  "cn": "关于什么的？",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "It was about caring. Yes, Carrie. I",
+  "cn": "关于关心。",
+  "score": 0.68
+ },
+ {
+  "i": 93,
+  "en": "Said that it makes me feel good that you care about Michelle",
+  "cn": "我说过，你关心米歇尔",
+  "score": 0.63
+ },
+ {
+  "i": 94,
+  "en": "Well, I do care about Michelle and it makes me feel good that you care about me",
+  "cn": "嗯，我确实关心米歇尔。",
+  "score": 0.5
+ },
+ {
+  "i": 95,
+  "en": "You know I do",
+  "cn": "你知道我关心。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "Your wonderful friend and it makes me feel good that you care about",
+  "cn": "你关心我们，",
+  "score": 0.51
+ },
+ {
+  "i": 97,
+  "en": "Us well, I do Harry. It's it's only natural that if I care about Michelle and I care about you",
+  "cn": "如果我爱米歇尔，",
+  "score": 0.65
+ },
+ {
+  "i": 98,
+  "en": "Then I care about us. It's okay Susie",
+  "cn": "那我也关心我们，这是很自然的。",
+  "score": 0.68
+ },
+ {
+  "i": 99,
+  "en": "We had this part of the conversation before Michelle and her friends arrived now comes the good part like what?",
+  "cn": "这部分谈话",
+  "score": 0.45
+ },
+ {
+  "i": 100,
+  "en": "well",
+  "cn": "嗯……嗯，",
+  "score": 0.77
+ },
+ {
+  "i": 101,
+  "en": "Assume that if you care about Michelle and you care about me and you care about us",
+  "cn": "嗯，假设你关心米歇尔，",
+  "score": 0.62
+ },
+ {
+  "i": 102,
+  "en": "That we can talk about us. I mean you and me isn't that right? What are you trying to say Harry?",
+  "cn": "你想说什么，哈里？",
+  "score": 0.45
+ },
+ {
+  "i": 103,
+  "en": "What I'm trying to say since this is so easy",
+  "cn": "我想说的是……",
+  "score": 0.6
+ },
+ {
+  "i": 104,
+  "en": "Here ten letters",
+  "cn": "这里ten字母",
+  "score": 0.3
+ },
+ {
+  "i": 105,
+  "en": "That express my feelings for you",
+  "cn": "这里有十个字母，表达我对你的感情。",
+  "score": 0.69
+ },
+ {
+  "i": 106,
+  "en": "Don't be silly Harry. Oh, you want a hint? It's two words",
+  "cn": "别傻了，哈里。",
+  "score": 0.46
+ },
+ {
+  "i": 107,
+  "en": "You're making the game harder",
+  "cn": "你把游戏搞得更难了。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "What?",
+  "cn": "什么，哈里？",
+  "score": 0.54
+ },
+ {
+  "i": 109,
+  "en": "Can't you figure it out?",
+  "cn": "你猜不出来吗？",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "Seven letters two words that express the feelings that I feel for you in my heart",
+  "cn": "表达我心里对你的感情。",
+  "score": 0.79
+ },
+ {
+  "i": 111,
+  "en": "Harry I get it. Does that mean you marry me is?",
+  "cn": "嗯？那意思是你愿意嫁给我吗？",
+  "score": 0.59
+ },
+ {
+  "i": 112,
+  "en": "That a proposal or are we just playing the game sit down Susan? There's something I have to ask",
+  "cn": "这是求婚，还是我们只是在玩游戏？",
+  "score": 0.55
+ },
+ {
+  "i": 113,
+  "en": "Susan will you marry me?",
+  "cn": "苏珊，你愿意嫁给我吗？",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "It's such an important decision",
+  "cn": "这是个很重要的决定。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "There are so many things to talk about",
+  "cn": "有那么多事情要谈。",
+  "score": 0.82
+ },
+ {
+  "i": 116,
+  "en": "There are three things that have to be done first Harry",
+  "cn": "有三件事得先做，哈里。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Three things",
+  "cn": "三件事？",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "First we have to decide where to live. Well, that's easy. We talked about that earlier. We'll live in New York",
+  "cn": "第一，我们得决定住哪儿。",
+  "score": 0.47
+ },
+ {
+  "i": 119,
+  "en": "Alright",
+  "cn": "好的.",
+  "score": 0.53
+ },
+ {
+  "i": 120,
+  "en": "Second we have to talk to Michelle together about being married. We'll do that immediately",
+  "cn": "我们得一起和米歇尔谈谈结婚的事。",
+  "score": 0.72
+ },
+ {
+  "i": 121,
+  "en": "What's the third thing?",
+  "cn": "第三件事是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "You have to ask for my father's permission",
+  "cn": "你得征求我父亲的同意。",
+  "score": 1.0
+ },
+ {
+  "i": 123,
+  "en": "Absolutely",
+  "cn": "当然！",
+  "score": 1.0
+ },
+ {
+  "i": 124,
+  "en": "But first things first, we have to go pick up Michelle. Oh",
+  "cn": "我们得去接米歇尔。",
+  "score": 0.67
+ },
+ {
+  "i": 125,
+  "en": "I'm so happy",
+  "cn": "哦，我太高兴了，哈里！",
+  "score": 0.68
+ },
+ {
+  "i": 126,
+  "en": "Not as happy as I am",
+  "cn": "没我高兴。",
+  "score": 1.0
+ }
+]
