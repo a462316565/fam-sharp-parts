@@ -1,0 +1,1550 @@
+[
+ {
+  "i": 0,
+  "en": "Robbie, this new Walkman is absolutely wonderful.",
+  "cn": "Robbie，这个新随身听真是太棒了。",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Richard and Marilyn bought it for me for my birthday.",
+  "cn": "Richard 和 Marilyn 买给我的生日礼物。",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "They're so thoughtful.",
+  "cn": "他们真体贴。",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "You are very lucky, Robbie, to have such a nice family.",
+  "cn": "Robbie，你真幸运，有这么好的一家人。",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "Is something wrong, Alexandra?",
+  "cn": "怎么了，Alexandra？",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "No, nothing.",
+  "cn": "没，没什么。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "Yes, there is.",
+  "cn": "不对，有事。",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "I can tell.",
+  "cn": "我看得出来。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "What's the matter?",
+  "cn": "怎么了?",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Come on, you can tell me.",
+  "cn": "来吧，你可以告诉我。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "What's up?",
+  "cn": "怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "I don't know.",
+  "cn": "我不知道.",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "Something's wrong.",
+  "cn": "出事了。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "OK, let's talk.",
+  "cn": "好，我们聊聊。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "I received a letter from my parents this morning.",
+  "cn": "我今天早上收到父母的信了。",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "Did they write some bad news?",
+  "cn": "他们写了什么坏消息吗？",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "No.",
+  "cn": "不.",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "Well, then why are you so sad?",
+  "cn": "那你怎么这么难过？",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "I miss them.",
+  "cn": "我想他们。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "I miss them very much.",
+  "cn": "我非常想他们。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "I'm sorry, Alexandra.",
+  "cn": "对不起，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "But I understand.",
+  "cn": "但我理解。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "The Molinas treat me so nicely, and I love being with your family so much ...",
+  "cn": "我也很喜欢和你家人在一起……",
+  "score": 0.69
+ },
+ {
+  "i": 23,
+  "en": "but when I received the letter with photographs of my family, I cried.",
+  "cn": "和我家人的照片时，我哭了。",
+  "score": 0.66
+ },
+ {
+  "i": 24,
+  "en": "I cried because I miss them all.",
+  "cn": "我哭是因为我想他们所有人。",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "You really miss your family, don't you?",
+  "cn": "你真的想家了，是吗？",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "Yes.",
+  "cn": "是的.",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "I know I must seem silly.",
+  "cn": "是的，我知道我看上去一定很傻。",
+  "score": 0.89
+ },
+ {
+  "i": 28,
+  "en": "It's not like I have nobody.",
+  "cn": "我又不是没有亲人。",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "I like the Molinas very much, and they're so kind to me.",
+  "cn": "我非常喜欢 Molina 一家，",
+  "score": 0.61
+ },
+ {
+  "i": 30,
+  "en": "Hey, why don't we go out for a cheeseburger and french fries?",
+  "cn": "吃个芝士汉堡和薯条？",
+  "score": 0.65
+ },
+ {
+  "i": 31,
+  "en": "That'll cheer you up.",
+  "cn": "那会让你开心起来。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "And you can use my Walkman.",
+  "cn": "你可以用我的随身听。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "That's a good idea.",
+  "cn": "好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "But if we go out, please don't complain about your math teacher or your math homework.",
+  "cn": "关于你的数学老师或数学作业。",
+  "score": 0.59
+ },
+ {
+  "i": 35,
+  "en": "I want to have fun.",
+  "cn": "我想要开心点。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "So do I.",
+  "cn": "我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "I have to turn off the lights, or else my father will get really angry.",
+  "cn": "不然我爸爸会真的生气。",
+  "score": 0.65
+ },
+ {
+  "i": 38,
+  "en": "He says I never turn them out when I leave.",
+  "cn": "他说我离开时从来不关灯。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "If they come home and they're on...",
+  "cn": "如果他们回家时灯还开着……",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "Do you hear something?",
+  "cn": "你听到什么了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "Yes?",
+  "cn": "是的?",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "What was that?",
+  "cn": "那是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "It sounded like a dog barking.",
+  "cn": "听起来像狗叫。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "It sounded like a dog barking right here.",
+  "cn": "就像狗就在这儿叫。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "Yeah.",
+  "cn": "是啊。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "A dog!",
+  "cn": "一只狗！",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "A springer spaniel!",
+  "cn": "一只英国激飞猎犬！",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Come on in!",
+  "cn": "来吧",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "Make yourself at home.",
+  "cn": "当自己家一样。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "Oh, you poor little thing.",
+  "cn": "哦，可怜的小家伙。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "Come on.",
+  "cn": "来吧.",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "Poor baby.",
+  "cn": "可怜的宝贝。",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "Where did you come from?",
+  "cn": "你从哪儿来的？",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "Her name's Gemma, and she belongs to Mr.",
+  "cn": "是 Levinson 夫妇的狗。",
+  "score": 0.53
+ },
+ {
+  "i": 55,
+  "en": "and Mrs.",
+  "cn": "和夫人.",
+  "score": 0.3
+ },
+ {
+  "i": 56,
+  "en": "Levinson.",
+  "cn": "Levinson.",
+  "score": 0.3
+ },
+ {
+  "i": 57,
+  "en": "There's a phone number -- five five five ...",
+  "cn": "有电话号码——",
+  "score": 0.77
+ },
+ {
+  "i": 58,
+  "en": "eight four four eight.",
+  "cn": "555……8448。",
+  "score": 0.71
+ },
+ {
+  "i": 59,
+  "en": "Robbie, maybe you should call them and tell the Levinsons we have their cute little spaniel.",
+  "cn": "告诉 Levinson 一家我们找到了他们可爱的小猎犬。",
+  "score": 0.71
+ },
+ {
+  "i": 60,
+  "en": "I've always wanted a springer spaniel.",
+  "cn": "我一直想要一只英国激飞猎犬。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "She's so cute.",
+  "cn": "她真可爱。",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "The number you are calling -- 555-8448 -- is no longer in service.",
+  "cn": "您拨打的号码——555-8448——",
+  "score": 0.68
+ },
+ {
+  "i": 63,
+  "en": "The number's no longer in service.",
+  "cn": "号码已停止服务。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "Oh, you poor, poor baby.",
+  "cn": "哦，可怜的小宝贝。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "You've lost your family.",
+  "cn": "你失去了家人。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "We'll find them.",
+  "cn": "我们会找到他们的。",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "Don't worry, Alexandra.",
+  "cn": "别担心，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "Don't worry, Alexandra.",
+  "cn": "别担心，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "We'll find the owner.",
+  "cn": "我们会找到主人的。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "How, Robbie?",
+  "cn": "怎么找，Robbie？",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "Let me think.",
+  "cn": "让我想想。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Gemma, sit.",
+  "cn": "Gemma，坐下。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Good Gemma.",
+  "cn": "好 Gemma。",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "Give me your paw.",
+  "cn": "把爪子给我。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "Good Gemma.",
+  "cn": "好 Gemma。",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "This dog is well trained.",
+  "cn": "这狗训练得很好。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "She likes you, too.",
+  "cn": "她也喜欢你。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "So how are we going to find the owners?",
+  "cn": "那我们怎么找主人？",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "With a little help from the ASPCA, the American Society for the Prevention of Cruelty to Animals.",
+  "cn": "美国防止虐待动物协会。",
+  "score": 0.71
+ },
+ {
+  "i": 80,
+  "en": "They're the ones.",
+  "cn": "就是他们。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "We once found a cat.",
+  "cn": "我们曾经捡到过一只猫。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "She was caught in the branches of our tree.",
+  "cn": "她被卡在我们家树的树枝上。",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "And Dad called the ASPCA.",
+  "cn": "爸爸给 ASPCA 打了电话。",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "They came and solved the problem.",
+  "cn": "他们来解决了问题。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "Robbie, let's call them.",
+  "cn": "Robbie，我们打电话给他们吧。",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "Let me see-ASPCA....",
+  "cn": "让我看看——ASPCA……",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Here it is.",
+  "cn": "在这儿。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "ASPCA Animal Shelter.",
+  "cn": "ASPCA 动物收容所。",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "555-7700.",
+  "cn": "555-7700。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "Hello, ASPCA.",
+  "cn": "你好，ASPCA。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "Hello, my name is Robbie Stewart.",
+  "cn": "你好，我叫 Robbie Stewart。",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "I have a lost dog I'd like to bring to you.",
+  "cn": "我有",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "How late are you open?",
+  "cn": "多晚关门？",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "We're open till nine P.M.",
+  "cn": "我们开到晚上九点。",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "I'll bring the dog over by nine.",
+  "cn": "我九点前把狗送过去。",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "Thanks.",
+  "cn": "谢谢.",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "Bye.",
+  "cn": "再见.",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Thanks.",
+  "cn": "谢谢.",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "Good-bye.",
+  "cn": "再见。",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "They're still open?",
+  "cn": "他们还开着？",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "They're open until nine o'clock.",
+  "cn": "他们开到九点。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "We have two and a half hours.",
+  "cn": "我们还有两个半小时。",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Let's take Gemma by there now.",
+  "cn": "我们现在就把 Gemma 送过去吧。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "They'll find the owner.",
+  "cn": "他们会找到主人的。",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "I hope so.",
+  "cn": "我希望",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "I'm so sad to see this little dog without her family.",
+  "cn": "看到这小狗没了家人，我很难过。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "I'm sure they'll find the owner.",
+  "cn": "我确定他们会找到主人。",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "But if they don't, I'll adopt her.",
+  "cn": "但如果找不到，我就收养她。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "She's so cute.",
+  "cn": "她真可爱。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Look at those eyes.",
+  "cn": "看",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "She's hard to resist.",
+  "cn": "她让人难以抗拒。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "Don't you just love her?",
+  "cn": "你不喜欢她吗？",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "I'd like to keep her, too.",
+  "cn": "我也想留下她。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "But I'll be going home to Greece at the end of the semester.",
+  "cn": "但我要回希腊了",
+  "score": 0.66
+ },
+ {
+  "i": 116,
+  "en": "She just wants love and affection.",
+  "cn": "她只是想要爱和关怀。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Come on, Robbie.",
+  "cn": "来吧，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "Let's get her to the animal shelter, so they can find her owners quickly.",
+  "cn": "我们把她送到动物收容所，",
+  "score": 0.61
+ },
+ {
+  "i": 119,
+  "en": "Don't worry, Gemma.",
+  "cn": "别担心，Gemma。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "We'll get you home.",
+  "cn": "我们会送你回家。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "It's not easy being away from home.",
+  "cn": "离开家不容易。",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "Come on, Poochie.",
+  "cn": "来吧，小家伙。",
+  "score": 1.0
+ },
+ {
+  "i": 123,
+  "en": "Atta girl!",
+  "cn": "乖女孩！",
+  "score": 1.0
+ },
+ {
+  "i": 124,
+  "en": "Let's go.",
+  "cn": "我们走吧.",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "We're off to the animal shelter.",
+  "cn": "我们去动物收容所了。",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Your name?",
+  "cn": "你的名字？",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Robbie Stewart.",
+  "cn": "Robbie Stewart。",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "And this is Alexandra Pappas.",
+  "cn": "这是 Alexandra Pappas。",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "Your name will do, Mr.",
+  "cn": "Stewart 先生，您的名字就够了。",
+  "score": 0.83
+ },
+ {
+  "i": 130,
+  "en": "Stewart.",
+  "cn": "Stewart 家。",
+  "score": 0.55
+ },
+ {
+  "i": 131,
+  "en": "Your address?",
+  "cn": "您的地址？",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "46 Linden Street, Riverdale,",
+  "cn": "Riverdale，林登大街 46 号。",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "Where did you find the dog?",
+  "cn": "你在哪儿找到这狗的？",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "She found us.",
+  "cn": "她找到我们的。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "You tried calling the number on the collar?",
+  "cn": "您试过打项圈上的电话吗？",
+  "score": 1.0
+ },
+ {
+  "i": 136,
+  "en": "Yes, but the number's no longer in service.",
+  "cn": "试过，但号码已停止服务。",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "And there's no address on the dog tag?",
+  "cn": "狗牌上没有地址吗？",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "There's no other information.",
+  "cn": "没有其他信息。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "No ID number.",
+  "cn": "不",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "Without that, it's hard.",
+  "cn": "没有就难办了。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "You will try to find the dog's owner.",
+  "cn": "你们会尽力找狗的主人。",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "Oh, we'll try, believe me.",
+  "cn": "哦，我们会尽力的，相信我。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "And if you don't?",
+  "cn": "如果找不到呢？",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Yes.",
+  "cn": "是的.",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "If you don't ...",
+  "cn": "如果你不...",
+  "score": 0.3
+ },
+ {
+  "i": 146,
+  "en": "can I ...",
+  "cn": "能我...",
+  "score": 0.3
+ },
+ {
+  "i": 147,
+  "en": "can I adopt the dog?",
+  "cn": "如果找不到……我能……我能收养这狗吗？",
+  "score": 0.65
+ },
+ {
+  "i": 148,
+  "en": "Why, yes.",
+  "cn": "哦，可以。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "If the owners don't claim the dog in forty-eight hours, then you can apply for adoption.",
+  "cn": "如果主人 48 小时内不来认领，",
+  "score": 0.71
+ },
+ {
+  "i": 150,
+  "en": "How do I do that?",
+  "cn": "怎么申请？",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "You really want to?",
+  "cn": "您真的想？",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "Yes, I'm serious.",
+  "cn": "是的，我是认真的。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "If no one comes to claim Gemma, I'd like to adopt her.",
+  "cn": "如果没人来认领 Gemma，",
+  "score": 0.69
+ },
+ {
+  "i": 154,
+  "en": "It's not difficult.",
+  "cn": "这并不难。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "OK.",
+  "cn": "好的.",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "If you want to adopt an animal, first we need to know some references.",
+  "cn": "首先我们需要了解一些担保人。",
+  "score": 0.64
+ },
+ {
+  "i": 157,
+  "en": "References?",
+  "cn": "担保人？",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "People we know?",
+  "cn": "我们认识的人？",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "Friends, teachers....",
+  "cn": "朋友、老师……",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "We need to talk to some people about you.",
+  "cn": "我们需要和一些人谈谈你的情况。",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "We want to be sure that you're responsible and that you can take good care of an animal.",
+  "cn": "能好好照顾动物。",
+  "score": 0.64
+ },
+ {
+  "i": 162,
+  "en": "Then you have to fill out this form about your family background.",
+  "cn": "然后你得填这张表，",
+  "score": 0.69
+ },
+ {
+  "i": 163,
+  "en": "Is that it?",
+  "cn": "就这些？",
+  "score": 1.0
+ },
+ {
+  "i": 164,
+  "en": "No, there's more.",
+  "cn": "不，还有。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "We need to know about your history with animals.",
+  "cn": "我们需要了解你和动物相处的经历。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "Have you ever owned an animal?",
+  "cn": "你养过动物吗？",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "Yes.",
+  "cn": "是的，Linda。",
+  "score": 0.5
+ },
+ {
+  "i": 168,
+  "en": "We had a cat when I was eight years old.",
+  "cn": "我八岁时养过一只猫。",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "I love cats.",
+  "cn": "我喜欢猫。",
+  "score": 1.0
+ },
+ {
+  "i": 170,
+  "en": "Do you have any animals now?",
+  "cn": "你现在有养动物吗？",
+  "score": 1.0
+ },
+ {
+  "i": 171,
+  "en": "Unfortunately, no.",
+  "cn": "很遗憾，没有。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "Anything else?",
+  "cn": "还有别的吗？",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "We also like to know your reasons for wanting an animal.",
+  "cn": "你想养动物的原因。",
+  "score": 0.68
+ },
+ {
+  "i": 174,
+  "en": "Just to hold it and cuddle with it.",
+  "cn": "就想抱着它，和它依偎。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Just to have as a pet.",
+  "cn": "就想把它当宠物。",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "I love animals.",
+  "cn": "我爱动物。",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "To have a friend -- a pal.",
+  "cn": "想有个朋友——一个伙伴。",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "You know, man's best friend is his dog.",
+  "cn": "你知道，人类最好的朋友就是他的狗。",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "And one thing more.",
+  "cn": "还有一件事。",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "If you're under twenty-one years of age ...",
+  "cn": "如果您未满二十一岁……",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "That's me.",
+  "cn": "那就是我。",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "Then an adult must sign for you.",
+  "cn": "那必须有一位成年人为您签字。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "Uh-oh.",
+  "cn": "哎呀。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "No problem.",
+  "cn": "不",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "My parents will think it's a good idea.",
+  "cn": "我的父母",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "I'll be back with them.",
+  "cn": "我会带他们一起来。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "If the real owners don't come to claim Gemma ...",
+  "cn": "如果真正的主人没来认领 Gemma……",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "After forty-eight hours.",
+  "cn": "48 小时之后。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "But please call first.",
+  "cn": "但请先打电话。",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "Thanks for your information and for being so helpful.",
+  "cn": "谢谢",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "It's my pleasure.",
+  "cn": "很荣幸。",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "Nice talking to both of you.",
+  "cn": "和你们俩谈话很愉快。",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "Thanks again.",
+  "cn": "谢谢",
+  "score": 1.0
+ },
+ {
+  "i": 194,
+  "en": "Bye.",
+  "cn": "再见.",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "Maybe the real owners will come to claim her.",
+  "cn": "也许真正的主人会来认领她。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "Her eyes look so sad.",
+  "cn": "她的眼睛看起来那么悲伤。",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "She must really miss them.",
+  "cn": "她一定很想他们。",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "I see you're both animal lovers.",
+  "cn": "我明白了",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "We are.",
+  "cn": "我们是。",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "Good-bye, Miss Aborn.",
+  "cn": "再见，Aborn 小姐。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "We'll call in a couple of days.",
+  "cn": "我们过几天再打电话。",
+  "score": 1.0
+ },
+ {
+  "i": 202,
+  "en": "Good-bye, and thanks for bringing Gemma in.",
+  "cn": "再见，谢谢你们把 Gemma 送来。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "Bye.",
+  "cn": "再见.",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "I keep thinking about the dog -- about Gemma, alone in the animal shelter.",
+  "cn": "我一直在想那只狗——Gemma，",
+  "score": 0.7
+ },
+ {
+  "i": 205,
+  "en": "I know.",
+  "cn": "我知道.",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "But I promise you, Alexandra, the dog is just fine.",
+  "cn": "但我向你保证，Alexandra，",
+  "score": 0.63
+ },
+ {
+  "i": 207,
+  "en": "They're very kind to the animals.",
+  "cn": "他们对动物很好。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "I know they are.",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "I mean about her being alone.",
+  "cn": "我说的是她独自一个。",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "Even if they are kind to Gemma, she's still alone, without her family.",
+  "cn": "她还是独自一个，没有家人。",
+  "score": 0.6
+ },
+ {
+  "i": 211,
+  "en": "Ready, folks?",
+  "cn": "准备好了吗，二位？",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "Are you ready, Alexandra?",
+  "cn": "你准备好了吗，Alexandra？",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "Yes, I'm ready.",
+  "cn": "是的，我准备好了。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "I'll have the chef's salad, please.",
+  "cn": "请给我来一份主厨沙拉。",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "I will have a cheeseburger, medium rare, with raw onion, and french fries, please.",
+  "cn": "我要一份三分熟的芝士汉堡，",
+  "score": 0.6
+ },
+ {
+  "i": 216,
+  "en": "Anything to drink?",
+  "cn": "喝点什么？",
+  "score": 1.0
+ },
+ {
+  "i": 217,
+  "en": "A diet cola, please.",
+  "cn": "请给我一杯健怡可乐。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "Ginger ale with lots of ice for me, thank you.",
+  "cn": "我要加大量冰的姜汁汽水，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "I've got it.",
+  "cn": "我记下了。",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "Thanks.",
+  "cn": "谢谢.",
+  "score": 1.0
+ },
+ {
+  "i": 221,
+  "en": "Aren't you surprised that the animal shelter is so careful about finding homes for the animals?",
+  "cn": "动物收容所在为动物找家时",
+  "score": 0.53
+ },
+ {
+  "i": 222,
+  "en": "No, I'm not.",
+  "cn": "不，我不惊讶。",
+  "score": 1.0
+ },
+ {
+  "i": 223,
+  "en": "And a cheeseburger, medium rare, with onion and french fries.",
+  "cn": "一份三分熟芝士汉堡，",
+  "score": 0.63
+ },
+ {
+  "i": 224,
+  "en": "And a ginger ale with lots of ice.",
+  "cn": "一杯加大量冰的姜汁汽水。",
+  "score": 1.0
+ },
+ {
+  "i": 225,
+  "en": "Salad dressing?",
+  "cn": "沙拉酱？",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "Hey, I wanted you to hear my new sound system when the dog scratched on the front door.",
+  "cn": "嘿，我本想让你听我的新音响，",
+  "score": 0.64
+ },
+ {
+  "i": 227,
+  "en": "Let's finish eating, and then we'll go back to my house.",
+  "cn": "然后回我家。",
+  "score": 0.75
+ },
+ {
+  "i": 228,
+  "en": "I want you to hear my new tapes.",
+  "cn": "我想要",
+  "score": 1.0
+ },
+ {
+  "i": 229,
+  "en": "I've got some great new dance music.",
+  "cn": "我有些超棒的新舞曲。",
+  "score": 1.0
+ },
+ {
+  "i": 230,
+  "en": "Hello.",
+  "cn": "你好.",
+  "score": 1.0
+ },
+ {
+  "i": 231,
+  "en": "Stewart residence.",
+  "cn": "Stewart住所.",
+  "score": 0.3
+ },
+ {
+  "i": 232,
+  "en": "Hello.",
+  "cn": "你好.",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "Is Robbie Stewart there?",
+  "cn": "Robbie Stewart 在吗？",
+  "score": 1.0
+ },
+ {
+  "i": 234,
+  "en": "This is he.",
+  "cn": "我就是。",
+  "score": 1.0
+ },
+ {
+  "i": 235,
+  "en": "Who's this?",
+  "cn": "哪位？",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "This is Linda Aborn from the animal shelter.",
+  "cn": "我是动物收容所的 Linda Aborn。",
+  "score": 1.0
+ },
+ {
+  "i": 237,
+  "en": "It's Linda from the animal shelter.",
+  "cn": "是动物收容所的 Linda。",
+  "score": 1.0
+ },
+ {
+  "i": 238,
+  "en": "Yes, Linda.",
+  "cn": "谢谢，Linda。",
+  "score": 0.53
+ },
+ {
+  "i": 239,
+  "en": "Hi.",
+  "cn": "嗨.",
+  "score": 1.0
+ },
+ {
+  "i": 240,
+  "en": "We have good news and bad news, Robbie.",
+  "cn": "我们有好消息和坏消息，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "Oh?",
+  "cn": "哦？",
+  "score": 1.0
+ },
+ {
+  "i": 242,
+  "en": "The good news is that the Levinsons have come by to pick up the dog.",
+  "cn": "好消息是 Levinson 一家已经来",
+  "score": 0.78
+ },
+ {
+  "i": 243,
+  "en": "The bad news is, you won't be able to adopt the dog.",
+  "cn": "坏消息是，你不能收养这只狗了。",
+  "score": 1.0
+ },
+ {
+  "i": 244,
+  "en": "That's OK.",
+  "cn": "没关系。",
+  "score": 1.0
+ },
+ {
+  "i": 245,
+  "en": "Come by one day and look at some of the other dogs.",
+  "cn": "改天来看看其他狗吧。",
+  "score": 1.0
+ },
+ {
+  "i": 246,
+  "en": "I'm sure there's one for you.",
+  "cn": "我确定有一只适合你。",
+  "score": 1.0
+ },
+ {
+  "i": 247,
+  "en": "Thanks, Robbie.",
+  "cn": "谢谢，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 248,
+  "en": "And the Levinsons thank you for bringing their dog to us.",
+  "cn": "Levinson 一家也谢谢你把他们的狗送来。",
+  "score": 1.0
+ },
+ {
+  "i": 249,
+  "en": "Thanks, Linda.",
+  "cn": "谢谢,Linda.",
+  "score": 0.3
+ },
+ {
+  "i": 250,
+  "en": "Bye.",
+  "cn": "再见.",
+  "score": 1.0
+ },
+ {
+  "i": 251,
+  "en": "The owners claimed Gemma?",
+  "cn": "主人认领了 Gemma？",
+  "score": 1.0
+ },
+ {
+  "i": 252,
+  "en": "That's right.",
+  "cn": "对的.",
+  "score": 1.0
+ },
+ {
+  "i": 253,
+  "en": "I'm glad for the dog.",
+  "cn": "我为这狗高兴。",
+  "score": 1.0
+ },
+ {
+  "i": 254,
+  "en": "I guess I am, too.",
+  "cn": "我想我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 255,
+  "en": "She said if I come by, she'll help me find another dog.",
+  "cn": "她会帮我找另一只狗。",
+  "score": 0.64
+ },
+ {
+  "i": 256,
+  "en": "Come on.",
+  "cn": "来吧，我们跳舞。",
+  "score": 0.52
+ },
+ {
+  "i": 257,
+  "en": "Let's dance.",
+  "cn": "让我们跳舞.",
+  "score": 0.3
+ }
+]
