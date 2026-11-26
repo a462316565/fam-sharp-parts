@@ -1,0 +1,1124 @@
+[
+ {
+  "i": 0,
+  "en": "Hi, Grandpa.",
+  "cn": "嗨，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Hi, Robbie.",
+  "cn": "嗨，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "Can I help?",
+  "cn": "我能",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "Yes, indeed. Hand me two eggs from the refrigerator, and I'll make you two fried eggs.",
+  "cn": "从冰箱递给我两个鸡蛋，",
+  "score": 0.58
+ },
+ {
+  "i": 4,
+  "en": "How about some bacon?",
+  "cn": "来点培根怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "I made enough for an army.",
+  "cn": "我做的够一支军队吃的了。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "You going to the baseball game today?",
+  "cn": "你今天去看棒球比赛吗？",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "It's a perfect day for it- a little cloudy but nice and warm.",
+  "cn": "今天天气真好——有点多云但很暖和。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "Dad and I were planning to go to the game, but he has to work today,",
+  "cn": "爸爸和我本来计划去看比赛，",
+  "score": 0.72
+ },
+ {
+  "i": 9,
+  "en": "and my friends don't want to go.",
+  "cn": "而我朋友们又不想去。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "It's not an important game, anyway.",
+  "cn": "反正也不是什么重要的比赛。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "Do you have any other plans for the day?",
+  "cn": "你今天还有别的安排吗？",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "I'll work on my computer.",
+  "cn": "我要用电脑干活。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "I have a new math program, and I want to use it.",
+  "cn": "我有个新的数学程序，想学学怎么用。",
+  "score": 0.86
+ },
+ {
+  "i": 14,
+  "en": "Maybe you can teach me how to work on a computer someday.",
+  "cn": "怎么用电脑。",
+  "score": 0.68
+ },
+ {
+  "i": 15,
+  "en": "Anytime.",
+  "cn": "任何时间。",
+  "score": 0.3
+ },
+ {
+  "i": 16,
+  "en": "It's really easy, but, like anything, you need to work at it,",
+  "cn": "随时都行，真的很容易，但和任何事一样，",
+  "score": 0.6
+ },
+ {
+  "i": 17,
+  "en": "Grandpa.",
+  "cn": "我知道，爷爷。",
+  "score": 0.53
+ },
+ {
+  "i": 18,
+  "en": "This bacon is great.",
+  "cn": "这培根真棒。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "I love crispy bacon.",
+  "cn": "我喜欢脆培根。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "Oh, what are you doing tomorrow?",
+  "cn": "哦，你明天做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "Nothing much.",
+  "cn": "没什么特别的。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "Well, maybe your dad and I could take you fishing with us.",
+  "cn": "嗯，也许你爸爸和我可以带你一起去钓鱼。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "I'd like that, but...",
+  "cn": "我很愿意，但是……",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "But what?",
+  "cn": "但是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "But Dad is always so busy.",
+  "cn": "但爸爸总是那么忙。",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "Well, can you come fishing with me tomorrow?",
+  "cn": "嗯，你明天能和我一起去钓鱼吗？",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "Sure, I can.",
+  "cn": "当然能。",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "Robbie says you can't take him to the game today.",
+  "cn": "Robbie 说你今天不能带他去看比赛了。",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "I really feel bad about it, but they need me at the hospital today, in the children's ward.",
+  "cn": "但医院今天需要我，",
+  "score": 0.55
+ },
+ {
+  "i": 30,
+  "en": "I understand.",
+  "cn": "我理解.",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "Maybe we can spend some time together next weekend.",
+  "cn": "也许下个周末我们可以一起待会儿。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "Definitely.",
+  "cn": "一定。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "We should.",
+  "cn": "我们应该的。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "You and Robbie and me.",
+  "cn": "你、Robbie 还有我。",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "Remember our first fishing trip?",
+  "cn": "还记得我们第一次钓鱼吗？",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "I sure do... Well, I've got to run, Dad.",
+  "cn": "嗯，我得走了，爸爸。",
+  "score": 0.76
+ },
+ {
+  "i": 37,
+  "en": "See you later.",
+  "cn": "再见",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "Going fishing?",
+  "cn": "去钓鱼？",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "I'm thinking about it...So, how's work?",
+  "cn": "我在考虑……",
+  "score": 0.68
+ },
+ {
+  "i": 40,
+  "en": "Oh, the usual problems.",
+  "cn": "哦，老问题。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "You're working pretty hard these days.",
+  "cn": "你最近工作挺拼命的。",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "I guess I am.",
+  "cn": "我想是吧。",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "When did you last go fishing with Robbie?",
+  "cn": "你上次和 Robbie 钓鱼是什么时候？",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "I remember exactly.",
+  "cn": "我记得很清楚。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "It was on his birthday, June second, two years ago.",
+  "cn": "是在他生日那天，两年前的六月二日。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "We didn't catch  anything.",
+  "cn": "我们什么也没钓到。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "Remember our fishing trips?",
+  "cn": "还记得我们的钓鱼之旅吗？",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Yes.I loved them .",
+  "cn": "是的，我很喜欢。",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "Remember catching your first fish?",
+  "cn": "记得你钓到第一条鱼吗？",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "How can I forget?",
+  "cn": "怎么会忘？",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "I fell out of the boat!",
+  "cn": "我从船上掉下去了！",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "We had some good times  together.",
+  "cn": "我们一起度过了很多美好时光。",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "Yes,we did.",
+  "cn": "是的，确实如此。",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "Maybe we should do it again.",
+  "cn": "也许我们该再来一次。",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "How about tomorrow? ",
+  "cn": "明天怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "Don't you have to work?",
+  "cn": "你不用工作吗？",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "My paper work will wait.",
+  "cn": "我的文书工作可以等等。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Oh, Robbie will be thrilled.",
+  "cn": "哦，Robbie 会高兴坏的。",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "I am, too, Son.",
+  "cn": "我也是，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "I want to spend more time with Robbie.",
+  "cn": "我想多花时间陪 Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "Tomorrow.",
+  "cn": "明天.",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "It'll be like old times for you and me.",
+  "cn": "对你和我来说就像旧日时光。",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "And Robbie will love it.",
+  "cn": "Robbie 也会喜欢的。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "Well, what's the weather going to be like?",
+  "cn": "嗯，明天天气怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "Radio says sunny and mild.",
+  "cn": "广播说晴朗温和。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "Well, I'll tell Robbie.",
+  "cn": "嗯，我去告诉 Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "And thanks, Dad.",
+  "cn": "谢谢你，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "Don't thank me.",
+  "cn": "别谢我。",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "I'm just being a grandfather.",
+  "cn": "我只是在尽一个爷爷的本分。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "This is really neat! When do we eat?",
+  "cn": "这真不错！",
+  "score": 0.63
+ },
+ {
+  "i": 71,
+  "en": "First, we have to catch some fish.",
+  "cn": "首先，我们得先钓到鱼。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "In order to catch fish, you have to do this.",
+  "cn": "要钓到鱼，你得这样做。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "Here we go. That's it. Then drop it into the water.",
+  "cn": "然后把它放进水里。",
+  "score": 0.67
+ },
+ {
+  "i": 74,
+  "en": "All of this comes before eating. OK?",
+  "cn": "这些都做完才能吃，明白吗？",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "How do you know so much about fishing?",
+  "cn": "你怎么知道这么多钓鱼的事？",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Grandpa taught me.",
+  "cn": "爷爷教我的。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "We spent a lot of time fishing together.",
+  "cn": "我们以前经常一起钓鱼。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "Now, the important thing is to get the hook close to the fish.",
+  "cn": "现在，重要的是把鱼钩靠近鱼。",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "All right? Like this.",
+  "cn": "好的?",
+  "score": 0.59
+ },
+ {
+  "i": 80,
+  "en": "I think I see some fish right under us, Dad.",
+  "cn": "我觉得我看到我们正下方有鱼，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Oh, not a chance!",
+  "cn": "哦，不可能！",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "I just saw a big one!",
+  "cn": "我刚看到一条大的！",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "Hi, there!",
+  "cn": "嗨！",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "Hi.",
+  "cn": "嗨.",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "What's your name?",
+  "cn": "你叫什么名字?",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "Albert.",
+  "cn": "Albert。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Are you all alone?",
+  "cn": "你一个人吗？",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "Yes, sir.",
+  "cn": "是的，先生。",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "How old are you, Albert?",
+  "cn": "你多大了，Albert？",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "I'm ten.",
+  "cn": "我十岁。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "Where's your father?",
+  "cn": "你爸爸呢？",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "He's up there at the lodge.",
+  "cn": "他在上面的小屋里。",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "Does he know you're here?",
+  "cn": "他知道你在这儿吗？",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "Yes, sir.",
+  "cn": "知道，先生。",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "OK, Robbie, maybe you should watch him.",
+  "cn": "好，Robbie，也许你该看着他。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "The water's pretty deep here.",
+  "cn": "这里水挺深的。",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "I'll watch him, Dad.",
+  "cn": "我会看着他的，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "What-time is it?",
+  "cn": "几点了?",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "It's almost lunchtime, and no fish yet.",
+  "cn": "快到午饭时间了，还没钓到鱼。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "I can go up to the lodge for some hot dogs and drinks.",
+  "cn": "我可以去上面小屋买热狗和饮料。",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "No way! We're here to catch our lunch.",
+  "cn": "我们就是来钓午饭的。",
+  "score": 0.84
+ },
+ {
+  "i": 102,
+  "en": "To catch fish, you need the right magic.",
+  "cn": "要钓到鱼，你需要正确的魔法。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "That's right. I forgot! The right magic. Do it for Robbie, Dad.",
+  "cn": "为 Robbie 做一次吧，爸爸。",
+  "score": 0.49
+ },
+ {
+  "i": 104,
+  "en": "You remember?",
+  "cn": "你记得吗？",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "Sure. Come on.",
+  "cn": "当然，来吧。",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "Well, first, you have to turn your hat around like this. Then you close your eyes and say the magic words.",
+  "cn": "嗯，首先，你得把帽子这样转过来。",
+  "score": 0.64
+ },
+ {
+  "i": 107,
+  "en": "Fish, fish, send me a fish.",
+  "cn": "鱼啊鱼啊，给我一条鱼。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "Fish, fish, send me a fish...I got one!",
+  "cn": "鱼啊鱼啊，给我一条鱼……我钓到了！",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "See, it works!",
+  "cn": "看，灵吧！",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "It's a big one!",
+  "cn": "是条大的！",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Well, it always worked for me, too.",
+  "cn": "嗯，这招对我也一直管用。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "Grandpa, get the net, please!",
+  "cn": "爷爷，请拿网来！",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "Dad, you got one, too!",
+  "cn": "爸爸，你也钓到一条！",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "You bet I have!",
+  "cn": "那当然！",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "Easy, Philip, easy.",
+  "cn": "慢慢来，Philip，慢慢来。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Sorry,Dad.",
+  "cn": "对不起，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Well, one more and I've got a pair of boots.",
+  "cn": "嗯，再来一条我就有一双靴子了。",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "You didn't say the magic words.",
+  "cn": "你没念咒语。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Robbie's right.",
+  "cn": "Robbie 说得对。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "Yes, but you did, and we've got our lunch. Let's build a fire and cook it!",
+  "cn": "是，但你念了，我们也有午饭吃了。",
+  "score": 0.67
+ },
+ {
+  "i": 121,
+  "en": "Come on, Albert, you can help us.",
+  "cn": "来吧，Albert，你可以帮我们！",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "I want to stay here and fish.",
+  "cn": "我想要",
+  "score": 1.0
+ },
+ {
+  "i": 123,
+  "en": "All right, but be careful.",
+  "cn": "好的，但要小心。",
+  "score": 1.0
+ },
+ {
+  "i": 124,
+  "en": "Is it finished yet?",
+  "cn": "好了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "I think so. I hope you like your fish well done.",
+  "cn": "希望你喜欢全熟的鱼。",
+  "score": 0.84
+ },
+ {
+  "i": 126,
+  "en": "Burned, you mean.",
+  "cn": "你是说烤焦的。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Hey, I'm a doctor, not a chef.",
+  "cn": "嘿，我是医生，不是厨师。",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "Help! Help! I can't swim.",
+  "cn": "救命！救命！我不会游泳！",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "Dad! Grandpa! He fell in.",
+  "cn": "爸爸！爷爷！他掉水里了！",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "Easy does it, Robbie. That's a boy. That's it.",
+  "cn": "容易",
+  "score": 0.6
+ },
+ {
+  "i": 131,
+  "en": "He's not breathing, Philip!",
+  "cn": "他没呼吸了，Philip！",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "Robbie, run to the car. Bring a blanket and my medical bag.",
+  "cn": "拿毯子和我的医药包来。",
+  "score": 0.69
+ },
+ {
+  "i": 133,
+  "en": "Yes, Dad.",
+  "cn": "好的，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "Now, come on, son. Come on, son.",
+  "cn": "来吧，孩子。来吧，孩子。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "Breathe, Albert!",
+  "cn": "呼吸，Albert！",
+  "score": 1.0
+ },
+ {
+  "i": 136,
+  "en": "Here's the bag. Will he be OK, Dad?",
+  "cn": "他会没事吧，爸爸？",
+  "score": 0.67
+ },
+ {
+  "i": 137,
+  "en": "I hope so. That's it. That's the way. That's it. There.",
+  "cn": "我希望是这样。 这是它。这是方式。 这是它。 那里。",
+  "score": 0.3
+ },
+ {
+  "i": 138,
+  "en": "Oh, it's going to be all right.",
+  "cn": "哦，会没事的。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "That's it. Wrap him in the blanket. Dad! That's it.",
+  "cn": "用毯子把他裹起来，爸爸！",
+  "score": 0.74
+ },
+ {
+  "i": 140,
+  "en": "That's it. It's all right, Albert. You're going to be OK.",
+  "cn": "你会没事的。",
+  "score": 0.52
+ },
+ {
+  "i": 141,
+  "en": "I want my daddy!",
+  "cn": "我想要",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "We'll take you to him. Easy now. Easy does it. That's it.",
+  "cn": "慢慢来，慢慢来，好了。",
+  "score": 0.64
+ },
+ {
+  "i": 143,
+  "en": "Your dad is quite a guy.",
+  "cn": "你爸爸真是个好人。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "I know, Grandpa.",
+  "cn": "我知道.",
+  "score": 0.63
+ },
+ {
+  "i": 145,
+  "en": "How is he, Philip?",
+  "cn": "他怎么样了，Philip？",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "He's asleep. He's going to be fine.",
+  "cn": "他会没事的。",
+  "score": 0.8
+ },
+ {
+  "i": 147,
+  "en": "How can I thank all of you?",
+  "cn": "我该怎么感谢你们？",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "Thank my son Robbie. He pulled him out of the water.",
+  "cn": "是他把他从水里拉上来的。",
+  "score": 0.7
+ },
+ {
+  "i": 149,
+  "en": "I'm very grateful, Robbie.",
+  "cn": "我非常感激，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "Dad saved him, not me.",
+  "cn": "是爸爸救了他，不是我。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "I'm so thankful to all of you.",
+  "cn": "我太感谢你们所有人了。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "So long.",
+  "cn": "再见。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "He's a lucky boy. Well, what do you say we get back to our fishing?",
+  "cn": "嗯，我们回去继续钓鱼怎么样？",
+  "score": 0.8
+ },
+ {
+  "i": 154,
+  "en": "That's a great idea. Uh-oh, It's probably the hospital. I have to get to a phone.",
+  "cn": "哎呀，可能是医院。",
+  "score": 0.51
+ },
+ {
+  "i": 155,
+  "en": "It probably means we can't stay.",
+  "cn": "恐怕我们不能待了。",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "That's OK.",
+  "cn": "没关系。",
+  "score": 1.0
+ },
+ {
+  "i": 157,
+  "en": "One of my patients has a high fever, and I have to go to the hospital.",
+  "cn": "我的一个病人发高烧，",
+  "score": 0.62
+ },
+ {
+  "i": 158,
+  "en": "I'm sorry, Robbie. I guess I ruined your day.",
+  "cn": "我想我毁了你的这一天。",
+  "score": 0.7
+ },
+ {
+  "i": 159,
+  "en": "You didn't ruin my day, Dad. I understand. I really do.",
+  "cn": "你没毁我的一天，爸爸。",
+  "score": 0.65
+ },
+ {
+  "i": 160,
+  "en": "Why are you back so early?",
+  "cn": "你怎么这么早就回来了？",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "Philip had to go back to the hospital.",
+  "cn": "Philip 不得不回医院。",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "He had an emergency.",
+  "cn": "他有急诊。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "Oh, that's too bad, Robbie. Did it spoil your fun?",
+  "cn": "哦，太糟糕了，Robbie。",
+  "score": 0.61
+ },
+ {
+  "i": 164,
+  "en": "No, Mom. We had a great time.",
+  "cn": "没有，妈妈，我们玩得很开心。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "Well, did you do any fishing?",
+  "cn": "那你们钓鱼了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "Yeah, we caught lots of them. Look! They had a special on frozen fish down at the supermarket.",
+  "cn": "超市的冷冻鱼特价。",
+  "score": 0.71
+ },
+ {
+  "i": 167,
+  "en": "Oh, you really had a bad day.",
+  "cn": "哦，你们这一天可真糟。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "We had a good day. Robbie pulled a boy out of the water.",
+  "cn": "Robbie 从水里救了一个男孩。",
+  "score": 0.75
+ },
+ {
+  "i": 169,
+  "en": "And Dad saved his life. He's a terrific doctor, Mom.",
+  "cn": "他是个很棒的医生，妈妈。",
+  "score": 0.62
+ },
+ {
+  "i": 170,
+  "en": "I know.",
+  "cn": "现在我知道了。",
+  "score": 0.72
+ },
+ {
+  "i": 171,
+  "en": "Hi, Pop. Hi, Son.",
+  "cn": "嗨，老爸。嗨，儿子。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "Hello, Dad.",
+  "cn": "你好，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "What a day!",
+  "cn": "这一天！",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "How about a cp of cffee, Son?",
+  "cn": "来杯咖啡怎么样，儿子？",
+  "score": 0.8
+ },
+ {
+  "i": 175,
+  "en": "I'd love a cp of coffee...",
+  "cn": "我很想来一杯。",
+  "score": 0.87
+ },
+ {
+  "i": 176,
+  "en": "How was the patient?",
+  "cn": "病人怎么样了？",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "She'll be fine.",
+  "cn": "她会没事的。",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "Was it serious?",
+  "cn": "严重吗？",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "No.",
+  "cn": "不.",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "Until today, I was never really interested in medicine.",
+  "cn": "直到今天，我从未真正对医学感兴趣过。",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "Well, it's hard work.",
+  "cn": "嗯，这是辛苦的工作。",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "Now I know.",
+  "cn": "现在我知道了。",
+  "score": 0.3
+ },
+ {
+  "i": 183,
+  "en": "I had a good time today, Robbie.",
+  "cn": "我今天过得很开心，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "Me, too.",
+  "cn": "我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "Why don't we do it again?",
+  "cn": "我们何不再来一次？",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "Can we? When?",
+  "cn": "可以吗？什么时候？",
+  "score": 1.0
+ }
+]
