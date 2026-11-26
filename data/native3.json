@@ -1,0 +1,1454 @@
+[
+ {
+  "i": 0,
+  "en": "Marilyn, you want coffee or tea?",
+  "cn": "Marilyn，你要咖啡还是茶？",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Coffee, please.",
+  "cn": "请给我咖啡。",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "I am so excited!",
+  "cn": "我太激动了！",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "At this time tomorrow morning, Grandpa will be sitting in the kitchen with us.",
+  "cn": "爷爷就会和我们一起坐在厨房里了。",
+  "score": 0.71
+ },
+ {
+  "i": 4,
+  "en": "When does he arrive?",
+  "cn": "他什么时候到？",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "At six O'clock this evening.",
+  "cn": "今晚六点。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "By plane?",
+  "cn": "坐飞机吗？",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "No, by train.",
+  "cn": "不，坐火车。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "Are we picking him up at the station?",
+  "cn": "我们要去车站接他吗？",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Not Grandpa.",
+  "cn": "不用接爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "He doesn't want anybody picking him up.",
+  "cn": "他不想让任何人去接他。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "He likes to be independent.",
+  "cn": "他喜欢独立。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "Huh.",
+  "cn": "嗯。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "Oh, let's go upstairs and prepare Grandpa's room.",
+  "cn": "哦，我们上楼去收拾爷爷的房间吧。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "Great!",
+  "cn": "太好了",
+  "score": 0.3
+ },
+ {
+  "i": 15,
+  "en": "Let's do it!",
+  "cn": "好！说干就干！",
+  "score": 0.77
+ },
+ {
+  "i": 16,
+  "en": "Good Morning.",
+  "cn": "早上好，妈妈。",
+  "score": 0.78
+ },
+ {
+  "i": 17,
+  "en": "Morning.",
+  "cn": "早。",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Well, hi,fellas.",
+  "cn": "嗨，伙计们。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "Hello.",
+  "cn": "你好。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "Hi,honey.",
+  "cn": "嗨，亲爱的。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "Hi, honey.",
+  "cn": "嗨，亲爱的。",
+  "score": 0.3
+ },
+ {
+  "i": 22,
+  "en": "Morning, Marilyn.",
+  "cn": "早，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "We're going upstairs to set up Grandpa's room.",
+  "cn": "我们要上楼去布置爷爷的房间。",
+  "score": 0.86
+ },
+ {
+  "i": 24,
+  "en": "There's coffee ready.",
+  "cn": "咖啡煮好了。",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "I'm really excited about seeing Granpa.",
+  "cn": "想到要见到爷爷，我真的很激动。",
+  "score": 0.88
+ },
+ {
+  "i": 26,
+  "en": "Me, too.",
+  "cn": "我也是，请给我加奶。",
+  "score": 0.5
+ },
+ {
+  "i": 27,
+  "en": "Milk, please.",
+  "cn": "牛奶，请。",
+  "score": 0.3
+ },
+ {
+  "i": 28,
+  "en": "He's so funny.",
+  "cn": "他真有趣。",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "He always makes me laugh.",
+  "cn": "他总是逗我笑。",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "I hope Grandpa's going to like living with us.",
+  "cn": "希望爷爷会喜欢和我们一起住。",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "I think he will.",
+  "cn": "我想他会的。",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "It just takes time to feel comfortable in a new place.",
+  "cn": "在新地方感到自在只是需要时间。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "Won't he miss being in Florida?",
+  "cn": "他不会想念佛罗里达吗？",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "Well, he will.",
+  "cn": "嗯，他会想。",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "But I think he'll like being here with the family.",
+  "cn": "但我想他会喜欢和家人待在这里的。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Are you sure aboutthat?",
+  "cn": "你确定吗？",
+  "score": 0.79
+ },
+ {
+  "i": 37,
+  "en": "It's crazy here most of the time.",
+  "cn": "这里大多数时候都很吵。",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "But it's fun.",
+  "cn": "但很有意思。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "That's for sure.",
+  "cn": "那是肯定的。",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "You know, maybe I'll put together together some photos of Grandpa as a \"welcome\" present.",
+  "cn": "也许我可以整理一些爷爷的照片，",
+  "score": 0.65
+ },
+ {
+  "i": 41,
+  "en": "That's a neat idea.",
+  "cn": "这个主意真不错。",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "What can I do?",
+  "cn": "我能做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "I've got it!",
+  "cn": "我有办法了！",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "I've got it! I have a picture of Grandpa and Dad and me in my wallet.",
+  "cn": "我钱包里有一张爷爷、爸爸和我的合影。",
+  "score": 0.86
+ },
+ {
+  "i": 45,
+  "en": "It's from the Fathers and Son's Breakfast at my junior high school graduation.",
+  "cn": "那是父子早餐时拍的，",
+  "score": 0.58
+ },
+ {
+  "i": 46,
+  "en": "Oh, I remember this picture.",
+  "cn": "哦，我记得这张照片。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "I'd really like to pick up Grandpa at the railroad station.",
+  "cn": "我真的很想去火车站接爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Railroad stations or airports Grandpa always tells us he'll get here by himself.",
+  "cn": "爷爷总说他自己能到。",
+  "score": 0.74
+ },
+ {
+  "i": 49,
+  "en": "He's something!",
+  "cn": "他真了不起！",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "Is this all Grandpa's stuff?",
+  "cn": "这都是爷爷的东西吗？",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "That's it.",
+  "cn": "就这些。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "But I'm sure he has a few bags with him on the train.",
+  "cn": "但我肯定他在火车上还带了几个包。",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "What's inside?",
+  "cn": "里面是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "I don't know.",
+  "cn": "不知道，锁着呢。",
+  "score": 0.64
+ },
+ {
+  "i": 55,
+  "en": "It's locked.",
+  "cn": "锁着呢。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "Hi.",
+  "cn": "嗨。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Oh, hi, darling.",
+  "cn": "哦，嗨，亲爱的。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Morning, Philip.",
+  "cn": "早，Philip。",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "I want to put some of my good hangers in Grandpa's closet.",
+  "cn": "我想把我的一些好衣架放到爷爷的衣柜里。",
+  "score": 1.0
+ },
+ {
+  "i": 60,
+  "en": "You know I'm very excited about his arrival.",
+  "cn": "你知道他对要来这件事我很激动。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "We are, too.",
+  "cn": "我们也是。",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "Susan called early this morning.",
+  "cn": "Susan 今早很早就打来电话。",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "She's unhappy because she's had to go to Chicago on a business trip and can't leave till tonight.",
+  "cn": "因为她得去芝加哥出差，",
+  "score": 0.68
+ },
+ {
+  "i": 64,
+  "en": "She wants to be here for Grandpa.",
+  "cn": "她想在这儿等爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "Well, Grandpa will be disappointed, too.",
+  "cn": "嗯，爷爷也会失望的。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "He loves Susan.",
+  "cn": "他很喜欢 Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 67,
+  "en": "She always reminds him of Grandma.",
+  "cn": "她总让他想起奶奶。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "Well, how's everything here?",
+  "cn": "那么，这里怎么样了？",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "Fine.",
+  "cn": "好的。",
+  "score": 0.3
+ },
+ {
+  "i": 70,
+  "en": "We were just wondering about this trunk.",
+  "cn": "还好，我们正琢磨这个箱子呢。",
+  "score": 0.91
+ },
+ {
+  "i": 71,
+  "en": "It's looked.",
+  "cn": "它是锁住的。",
+  "score": 0.3
+ },
+ {
+  "i": 72,
+  "en": "Oh.",
+  "cn": "哦",
+  "score": 0.3
+ },
+ {
+  "i": 73,
+  "en": "I have the key.",
+  "cn": "我寄错钥匙了。",
+  "score": 0.59
+ },
+ {
+  "i": 74,
+  "en": "Grandpa sent it to me.",
+  "cn": "哦，我有钥匙，爷爷寄给我的。",
+  "score": 0.62
+ },
+ {
+  "i": 75,
+  "en": "Excuse me.",
+  "cn": "抱歉我。",
+  "score": 0.3
+ },
+ {
+  "i": 76,
+  "en": "Is this seat taken?",
+  "cn": "打扰一下，这个座位有人吗？",
+  "score": 0.74
+ },
+ {
+  "i": 77,
+  "en": "No, it's not taken.",
+  "cn": "没有，没人坐。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "Oh, thank you.",
+  "cn": "哦，谢谢你。",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "Oh, let me help you with this.",
+  "cn": "哦，我帮你拿这个吧。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "Oh, thank you.",
+  "cn": "哦，谢谢你。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Do you want to sit by the window?",
+  "cn": "你想坐靠窗的位置吗？",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "No, no,no.",
+  "cn": "不了，谢谢。",
+  "score": 0.48
+ },
+ {
+  "i": 83,
+  "en": "I like the aisle seat better.",
+  "cn": "不不不，我更喜欢靠过道的座位。",
+  "score": 0.86
+ },
+ {
+  "i": 84,
+  "en": "Please, you sit by the window.",
+  "cn": "请便，你坐靠窗吧。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "My name is Stewart...Malcolm Stewart.",
+  "cn": "我姓 Stewart……Malcolm Stewart。",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "Pleased to meet you.",
+  "cn": "很高兴认识你。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "I'm Elsa Tobin.",
+  "cn": "我是 Elsa Tobin，你好。",
+  "score": 0.6
+ },
+ {
+  "i": 88,
+  "en": "How do you do?",
+  "cn": "你是做什么的？",
+  "score": 0.69
+ },
+ {
+  "i": 89,
+  "en": "Do you live in New York?",
+  "cn": "你住在纽约吗？",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "No,no.I'm from Florida.",
+  "cn": "不不，我从佛罗里达来。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "I am, too.",
+  "cn": "我是，也。",
+  "score": 0.3
+ },
+ {
+  "i": 92,
+  "en": "But didn't you just get on?",
+  "cn": "我也是，但你不是刚上车吗？",
+  "score": 0.78
+ },
+ {
+  "i": 93,
+  "en": "No,no.I just changed my seat.",
+  "cn": "不不，我只是换了个座位。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "A man next to me was smoking,",
+  "cn": "我旁边的人一直在抽烟，",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "and smoke really bothers me.",
+  "cn": "烟味真让我受不了。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "Where are you from in Florida?",
+  "cn": "你从佛罗里达哪里来？",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "Titusville.",
+  "cn": "Titusville。",
+  "score": 0.3
+ },
+ {
+  "i": 98,
+  "en": "It's near Orlando.",
+  "cn": "Titusville，在奥兰多附近。",
+  "score": 0.75
+ },
+ {
+  "i": 99,
+  "en": "Small world.",
+  "cn": "小的世界。",
+  "score": 0.3
+ },
+ {
+  "i": 100,
+  "en": "I'm from Titusville,too.",
+  "cn": "世界真小，我也从 Titusville 来。",
+  "score": 0.74
+ },
+ {
+  "i": 101,
+  "en": "Really?",
+  "cn": "真的吗？哪一带？",
+  "score": 0.46
+ },
+ {
+  "i": 102,
+  "en": "What part?",
+  "cn": "什么部分？",
+  "score": 0.3
+ },
+ {
+  "i": 103,
+  "en": "My husband and I live near Spaceport.",
+  "cn": "我和丈夫住在 Spaceport 附近。",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "I know that area.",
+  "cn": "我知道那个地方。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "My house is only a few miles from Spaceport.",
+  "cn": "我家离 Spaceport 只有几英里。",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "Do you still live there?",
+  "cn": "你还住在那儿吗？",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Oh yes, yes.",
+  "cn": "是的。",
+  "score": 0.48
+ },
+ {
+  "i": 108,
+  "en": "My husband's there now.",
+  "cn": "哦，是的，是的，我丈夫现在就在那里。",
+  "score": 0.75
+ },
+ {
+  "i": 109,
+  "en": "He couldn't take time off to come to New York with me.",
+  "cn": "他抽不出时间和我一起来纽约。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "Do you still live there?",
+  "cn": "你还住在那儿吗？",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "No.I sold the house and the furniture, put a few personal things in an old trunk,",
+  "cn": "把几件私人物品放进一个旧箱子，",
+  "score": 0.64
+ },
+ {
+  "i": 112,
+  "en": "and shipped it to my children in New York.",
+  "cn": "运到纽约我孩子们那里。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "That's my destination.",
+  "cn": "那就是我的目的地。",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "Are you married?",
+  "cn": "你结婚了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "My wife died four years ago.",
+  "cn": "我妻子四年前去世了。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "She was a wonderful woman.",
+  "cn": "她是个很棒的女人，一个真正的朋友。",
+  "score": 0.75
+ },
+ {
+  "i": 117,
+  "en": "A real friend.",
+  "cn": "一个真正的朋友。",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "I'm sorry.Really, I'm sorry.",
+  "cn": "我很遗憾，真的，很遗憾。",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Lots of wonderful memories.",
+  "cn": "有很多美好的回忆。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "We were married almost fifty years.",
+  "cn": "我们结婚快五十年了。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "Well, forty-seven, to be exact.",
+  "cn": "嗯，准确说，四十七年。",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "John and I celebrate our fortieth anniversary next month.",
+  "cn": "John 和我下个月庆祝结婚四十周年。",
+  "score": 1.0
+ },
+ {
+  "i": 123,
+  "en": "Oh, congratulations!",
+  "cn": "哦，恭喜！真好。",
+  "score": 0.65
+ },
+ {
+  "i": 124,
+  "en": "That's nice.",
+  "cn": "那是好的。",
+  "score": 0.3
+ },
+ {
+  "i": 125,
+  "en": "What does John do?",
+  "cn": "John 做什么工作？",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "He's an aerospace engineer and works for Orlando Aircraft Corporation.",
+  "cn": "在奥兰多飞机公司工作。",
+  "score": 0.69
+ },
+ {
+  "i": 127,
+  "en": "He started with them almost forty years ago.",
+  "cn": "他在那里干了快四十年了。",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "What do you do?",
+  "cn": "什么做你做？",
+  "score": 0.3
+ },
+ {
+  "i": 129,
+  "en": "I just retired.",
+  "cn": "不过我刚把它卖了，退休了。",
+  "score": 0.55
+ },
+ {
+  "i": 130,
+  "en": "Had my own company.",
+  "cn": "我刚退休，之前有自己的公司。",
+  "score": 0.65
+ },
+ {
+  "i": 131,
+  "en": "A construction company.",
+  "cn": "一家建筑公司，修路、建桥，都是大工程。",
+  "score": 0.56
+ },
+ {
+  "i": 132,
+  "en": "Roads, bridges, big stuff.",
+  "cn": "道路，桥梁，大的 东西。",
+  "score": 0.3
+ },
+ {
+  "i": 133,
+  "en": "But I just sold it and retired.",
+  "cn": "但是我刚刚卖了 它而退休。",
+  "score": 0.3
+ },
+ {
+  "i": 134,
+  "en": "Excuse me, ma'am.",
+  "cn": "打扰一下，女士，请出示车票。",
+  "score": 0.65
+ },
+ {
+  "i": 135,
+  "en": "Ticket, please.",
+  "cn": "车票，请。",
+  "score": 0.3
+ },
+ {
+  "i": 136,
+  "en": "Would you kindly hold these keys, please?",
+  "cn": "麻烦您帮我拿一下这些钥匙好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "I have a ticket, I know.",
+  "cn": "我有车票，我知道。",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "I was in the smoking seetion.",
+  "cn": "我之前在吸烟区。",
+  "score": 0.86
+ },
+ {
+  "i": 139,
+  "en": "It's OK, lady.",
+  "cn": "没关系，女士，慢慢来。",
+  "score": 0.57
+ },
+ {
+  "i": 140,
+  "en": "Take your time.",
+  "cn": "慢慢来。",
+  "score": 0.3
+ },
+ {
+  "i": 141,
+  "en": "I'm sure it's in your purse, Mrs.Tobin.",
+  "cn": "我确定就在您包里，Tobin 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "Oh,here it is.",
+  "cn": "哦，在这儿。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "And here are your keys.",
+  "cn": "这是您的钥匙。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Thank you.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "Do you-have family in New York?",
+  "cn": "您在纽约有家人吗？",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "No, no.",
+  "cn": "不，不。",
+  "score": 0.3
+ },
+ {
+  "i": 147,
+  "en": "But I do have very close friends in New York City.",
+  "cn": "没有，但我在纽约市有非常亲密的朋友。",
+  "score": 0.93
+ },
+ {
+  "i": 148,
+  "en": "We like to go to the theater together.",
+  "cn": "我们喜欢一起去剧院。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "You said you have family in New York.",
+  "cn": "你说你在纽约有家人。",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "Yes,indeed.",
+  "cn": "是的，没错。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "A son and his wife and their three children.",
+  "cn": "一个儿子、他妻子和他们的三个孩子——",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "My grandchildren.",
+  "cn": "我的孙辈们。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "You must-be excited.",
+  "cn": "您一定很激动。",
+  "score": 1.0
+ },
+ {
+  "i": 154,
+  "en": "I can't wait to see them!",
+  "cn": "我等不及要见他们了！",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "Are you going to live with them?",
+  "cn": "您要和他们一起住吗？",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "Yes.",
+  "cn": "是的",
+  "score": 0.3
+ },
+ {
+  "i": 157,
+  "en": "Permanently?",
+  "cn": "长期住吗？",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "Well...they want me to, but it's too early to know for sure.",
+  "cn": "但现在还不好说。",
+  "score": 0.73
+ },
+ {
+  "i": 159,
+  "en": "I'm pretty independent.",
+  "cn": "我很独立。",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "I tried to teach my kids the importance of independence,",
+  "cn": "我努力教导孩子们独立的重要性，",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "but I'm not sure I want to be alone.",
+  "cn": "但我不确定自己想一个人住。",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "Some people don't mind being alone.",
+  "cn": "有些人不介意独处，我介意。",
+  "score": 0.86
+ },
+ {
+  "i": 163,
+  "en": "I do.",
+  "cn": "我愿意",
+  "score": 0.3
+ },
+ {
+  "i": 164,
+  "en": "I understand. But-tell me. Why did you stop-working?",
+  "cn": "我理解，不过告诉我，",
+  "score": 0.59
+ },
+ {
+  "i": 165,
+  "en": "I retired because... I wanted to be with my family. I didn't want to be alone anymore!",
+  "cn": "我退休是因为……我想和家人在一起。",
+  "score": 0.72
+ },
+ {
+  "i": 166,
+  "en": "Ladies and gentlemen, Amtrak is happy to announce our arrival in New York City.",
+  "cn": "美铁很高兴地通知您，我们即将到达纽约市。",
+  "score": 0.82
+ },
+ {
+  "i": 167,
+  "en": "The train will be stopping in five Minutes.",
+  "cn": "列车将在五分钟后停靠。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "Please cheek to be sure you have your belongings.",
+  "cn": "请确认您带好了随身物品。",
+  "score": 0.91
+ },
+ {
+  "i": 169,
+  "en": "And have a good stay in the Big Apple.",
+  "cn": "祝您在大苹果城（纽约）过得愉快。",
+  "score": 1.0
+ },
+ {
+  "i": 170,
+  "en": "Thank you.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 171,
+  "en": "Well, here we are.",
+  "cn": "嗯，我们到了。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "It was so nice meeting you, Mr.Stewart.",
+  "cn": "认识您真高兴，Stewart 先生。",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "And nice meeting you,too.Mrs.Tobin.",
+  "cn": "我也很高兴认识您，Tobin 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "Please look us up.",
+  "cn": "请和我们联系。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "We're in the phone book.",
+  "cn": "我们在电话簿里。",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "Dr.Philip Stewart, in Riverdale.",
+  "cn": "Philip Stewart 医生，在 Riverdale。",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "Your son?",
+  "cn": "您儿子？",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "That's right.",
+  "cn": "没错",
+  "score": 0.3
+ },
+ {
+  "i": 179,
+  "en": "And have a good time in New York.",
+  "cn": "对，祝您在纽约玩得开心。",
+  "score": 0.82
+ },
+ {
+  "i": 180,
+  "en": "And don't be so independent.",
+  "cn": "也别太独立了。",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "You're very lucky to have a caring family.",
+  "cn": "您有这样一个体贴的家人，真幸运。",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "When can we go fishing?",
+  "cn": "我们什么时候去钓鱼？",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "Robbie, we'll go fishing soon,",
+  "cn": "Robbie，我们很快就去钓鱼，",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "and we'll take your dad with us.",
+  "cn": "而且带你爸爸一起去。",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "I'm ready, Grandpa.",
+  "cn": "我准备好了，爷爷，你定日子吧。",
+  "score": 0.57
+ },
+ {
+  "i": 186,
+  "en": "You name the day.",
+  "cn": "你还记得那天吗，Robbie？",
+  "score": 0.47
+ },
+ {
+  "i": 187,
+  "en": "That's a great idea, Grandpa!",
+  "cn": "这主意真好，爷爷！",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "Philip needs a day off.",
+  "cn": "Philip 需要休息一天。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "Let's give him our presents...now.",
+  "cn": "我们把礼物送给他吧——就现在。",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "Good idea.",
+  "cn": "好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "Presents......for me?",
+  "cn": "礼物——给我的？",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "From me and Marilyn.",
+  "cn": "这是我和 Marilyn 送的。",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "And this one's from me.",
+  "cn": "这个是我送的。",
+  "score": 1.0
+ },
+ {
+  "i": 194,
+  "en": "I looked all over the house to find it.",
+  "cn": "我翻遍了整个房子才找到它。",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "Richard, these are terrific pictures.",
+  "cn": "Richard，这些照片太棒了。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "This one really brings back memories.",
+  "cn": "这张真的勾起了回忆。",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "You remember that day, Robbie?",
+  "cn": "你记得那个 天，Robbie？",
+  "score": 0.3
+ },
+ {
+  "i": 198,
+  "en": "I sure do.",
+  "cn": "我当然记得，那天很开心。",
+  "score": 0.57
+ },
+ {
+  "i": 199,
+  "en": "It was fun.",
+  "cn": "它是有趣的。",
+  "score": 0.3
+ },
+ {
+  "i": 200,
+  "en": "Oh, I'm sorry Susan isn't here.",
+  "cn": "哦，很遗憾 Susan 不在这里。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "I miss her very much.",
+  "cn": "我很想她。",
+  "score": 1.0
+ },
+ {
+  "i": 202,
+  "en": "She feels bad, too, Grandpa.",
+  "cn": "她也很难过，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "She called to say the plane was delayed.",
+  "cn": "她打电话来说飞机晚点了。",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "You know airports.",
+  "cn": "你知道机场的。",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "I can't wait to see her.",
+  "cn": "我等不及要见她了。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "She looks just like Grandma at that age.",
+  "cn": "她那个年纪长得简直和奶奶一模一样。",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "I'd better unpack.",
+  "cn": "我最好去 unpack 了。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "I started traveling twenty-four hours ago.",
+  "cn": "我从二十四小时前就开始赶路了。",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "I'm not so young anymore.",
+  "cn": "我不再年轻了。",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "Don't you want something to eat?",
+  "cn": "你不想吃点什么吗？",
+  "score": 1.0
+ },
+ {
+  "i": 211,
+  "en": "No, thanks.",
+  "cn": "不，谢谢。",
+  "score": 0.3
+ },
+ {
+  "i": 212,
+  "en": "After a good night's sleep, I'll enjoy breakfast even more.",
+  "cn": "好好睡一觉之后，我会更享受早餐的。",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "Well, come on, Dad.",
+  "cn": "嗯，走吧，爸爸。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "Ellen and I'll take you to your room.",
+  "cn": "Ellen 和我带你去你的房间。",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "I'm sure glad you're here, Grandpa.",
+  "cn": "很高兴你在这儿，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 216,
+  "en": "Good night, Grandpa.",
+  "cn": "晚安，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 217,
+  "en": "Pleasant dreams.",
+  "cn": "好梦。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "Philip, do you have the key to the trunk?",
+  "cn": "Philip，你有箱子的钥匙吗？",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "I have the key, but it doesn't work.",
+  "cn": "我有钥匙，但打不开。",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "I sent the wrong key.",
+  "cn": "我寄这错的 钥匙。",
+  "score": 0.3
+ },
+ {
+  "i": 221,
+  "en": "I have something for you.",
+  "cn": "我有东西送给你，我自己做的。",
+  "score": 0.69
+ },
+ {
+  "i": 222,
+  "en": "I made it my self.",
+  "cn": "我做它 我自己。",
+  "score": 0.3
+ },
+ {
+  "i": 223,
+  "en": "I think you'll enjoy it.",
+  "cn": "我想你会喜欢的。",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "I researched it for over a year.",
+  "cn": "我研究了一年多。",
+  "score": 1.0
+ },
+ {
+  "i": 225,
+  "en": "It's our family tree.",
+  "cn": "这是我们的家谱。",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "Oh, Grandpa!",
+  "cn": "爷爷！爷爷！",
+  "score": 0.58
+ },
+ {
+  "i": 227,
+  "en": "How exciting!",
+  "cn": "哦，爷爷！太令人激动了！",
+  "score": 0.61
+ },
+ {
+  "i": 228,
+  "en": "Fabulous!",
+  "cn": "太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 229,
+  "en": "Why, I didn't know that your grandfather was born in Germany?",
+  "cn": "哎呀，我都不知道你祖父出生在德国。",
+  "score": 1.0
+ },
+ {
+  "i": 230,
+  "en": "Lots of interesting information about our family.",
+  "cn": "关于我们家有很多有趣的信息。",
+  "score": 1.0
+ },
+ {
+  "i": 231,
+  "en": "A gift from me.",
+  "cn": "这是我送的礼物。",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "Thank you so much.",
+  "cn": "太感谢了。",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "Grandpa!",
+  "cn": "祖父！",
+  "score": 0.3
+ },
+ {
+  "i": 234,
+  "en": "Grandpa!",
+  "cn": "祖父！",
+  "score": 0.3
+ },
+ {
+  "i": 235,
+  "en": "Oh, Grandpa, I'm so happy to see you!",
+  "cn": "哦，爷爷，见到你太高兴了！",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "Oh, you look so beautiful, Susan.",
+  "cn": "哦，你真漂亮，Susan，我的孙女。",
+  "score": 0.77
+ },
+ {
+  "i": 237,
+  "en": "My granddaughter.",
+  "cn": "我的孙女。",
+  "score": 0.3
+ },
+ {
+  "i": 238,
+  "en": "Like I always said, you look just-like Grandma.",
+  "cn": "就像我常说的，你长得和奶奶一模一样。",
+  "score": 1.0
+ },
+ {
+  "i": 239,
+  "en": "I think you're going to be very happy here with us.",
+  "cn": "我想你和我们在一起会非常开心的。",
+  "score": 1.0
+ },
+ {
+  "i": 240,
+  "en": "I know you will.",
+  "cn": "我知道你会的。",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "I don't feel alone anymore.",
+  "cn": "我不再感到孤单了。",
+  "score": 1.0
+ }
+]
