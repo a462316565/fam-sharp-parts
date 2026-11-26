@@ -1,0 +1,1310 @@
+[
+ {
+  "i": 0,
+  "en": "Ellen, I'd like your opinion.",
+  "cn": "Ellen，我想听听你的意见。",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "About what?",
+  "cn": "关于什么？",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "Well, Richard and I feel that with a baby coming,",
+  "cn": "嗯，Richard 和我觉得有了宝宝之后",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "we need to have our own place to live.",
+  "cn": "我们需要有自己的地方住。",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "Well, what do you think about Richard and me looking for a small house",
+  "cn": "你觉得我和 Richard",
+  "score": 0.72
+ },
+ {
+  "i": 5,
+  "en": "or an apartment at this point in our lives?",
+  "cn": "去找个小房子或公寓怎么样？",
+  "score": 0.73
+ },
+ {
+  "i": 6,
+  "en": "We love having you here.",
+  "cn": "我们很喜欢你住在这儿，",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "And there is room, and when the baby comes,",
+  "cn": "而且……等宝宝出生后，",
+  "score": 0.73
+ },
+ {
+  "i": 8,
+  "en": "the baby can stay in your room for a while.",
+  "cn": "宝宝可以暂时住你房间。",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Richard feels we need to find a small house.",
+  "cn": "Richard 觉得我们需要找一栋小房子。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "I remember when I was pregnant with Richard.",
+  "cn": "我记得",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "Philip and I were living with Grandma and Grandpa.",
+  "cn": "Philip 和我当时跟爷爷奶奶住在一起。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "Philip was a young doctor,",
+  "cn": "Philip 是个年轻医生，",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "and he kept talking about having a house of our own.",
+  "cn": "他总念叨着要拥有自己的房子。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "It's natural.",
+  "cn": "这是人之常情。",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "What did you do?",
+  "cn": "你们怎么做？",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "We looked at a lot of houses.",
+  "cn": "我们看了很多房子。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "Did you find one?",
+  "cn": "找到了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Not at first, but we couldn't afford it.",
+  "cn": "我们买不起。",
+  "score": 0.63
+ },
+ {
+  "i": 19,
+  "en": "Grandpa wanted to lend us the money to buy one.",
+  "cn": "爷爷想借钱给我们买，",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "But Philip is too independent.",
+  "cn": "但 Philip 太独立了。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "He didn't want to borrow any money.",
+  "cn": "他不想借任何钱。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "Sounds like Richard.",
+  "cn": "听起来像 Richard。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "Well, they're all alike.",
+  "cn": "他们都一个样。",
+  "score": 0.82
+ },
+ {
+  "i": 24,
+  "en": "Richard is a real steward.",
+  "cn": "Richard 是个十足的 Stewart 家的人。",
+  "score": 0.84
+ },
+ {
+  "i": 25,
+  "en": "He's independent and sometimes just stubborn.",
+  "cn": "有时候就是倔。",
+  "score": 0.72
+ },
+ {
+  "i": 26,
+  "en": "When did you buy a house?",
+  "cn": "你们什么时候买的房子？",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "After Richard was born.",
+  "cn": "Richard 出生之后。",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "He was teaching music, and Philip was opening his first medical office.",
+  "cn": "Philip 也刚开他的第一个诊所。",
+  "score": 0.78
+ },
+ {
+  "i": 29,
+  "en": "Where was the house?",
+  "cn": "房子在哪儿？",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "Right here in Riverdale.",
+  "cn": "对的",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "Of course, it was a small house, but just right for us.",
+  "cn": "当然，那是个小房子，",
+  "score": 0.67
+ },
+ {
+  "i": 32,
+  "en": "It's funny. History repeats itself.",
+  "cn": "真有趣，历史总是惊人的相似。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "Now, Richard and I are having a baby,",
+  "cn": "现在 Richard 和我有了宝宝，",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "and we probably won't be able to afford a house right away either.",
+  "cn": "我们可能也",
+  "score": 0.61
+ },
+ {
+  "i": 35,
+  "en": "Why don't you look at some houses, Marilyn?",
+  "cn": "Marilyn，你们不如去看看一些房子？",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Good idea.",
+  "cn": "这个想法不错。",
+  "score": 0.6
+ },
+ {
+  "i": 37,
+  "en": "Look in the real estate section of Sunday's Times.",
+  "cn": "翻翻《周日泰晤士报》的房地产版。",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "You'll learn a lot.",
+  "cn": "你会学到不少东西。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "Maybe we should speak to a real estate agent about a house.",
+  "cn": "和...说话",
+  "score": 0.79
+ },
+ {
+  "i": 40,
+  "en": "And a bank about a mortgage?",
+  "cn": "找房地产经纪人聊聊房子的事。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "I'll talk to Richard about it.",
+  "cn": "再找银行问问抵押贷款。",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "I think it's a good idea, Ellen.",
+  "cn": "我会跟 Richard 谈谈。",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "We can learn a lot by asking.",
+  "cn": "问问就能学到很多。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "And if I can be of any help, let me know.",
+  "cn": "如果我能帮上什么忙，",
+  "score": 0.78
+ },
+ {
+  "i": 45,
+  "en": "As a matter of fact,",
+  "cn": "事实上，",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "my friend Virginia Martinelli is a real estate agent.",
+  "cn": "我的朋友",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "Good.",
+  "cn": "好的。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "I don't believe this, but she sold us our first house and this one.",
+  "cn": "我们的第一栋房子和这栋都是她卖给我们的。",
+  "score": 0.79
+ },
+ {
+  "i": 49,
+  "en": "I'll tell Richard, and we'll go to see her.",
+  "cn": "我们去找她看看。",
+  "score": 0.7
+ },
+ {
+  "i": 50,
+  "en": "Do you think the skirt length is right, Ellen?",
+  "cn": "Ellen，你觉得裙子长度合适吗？",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "Do you think it's too long?",
+  "cn": "你觉得太长了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "I think the skirt is just right.",
+  "cn": "我觉得裙子长度刚刚好。",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "Are you planning to attach a train to it?",
+  "cn": "你打算加裙拖吗？",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "No. No train. Just the dress.",
+  "cn": "不，不要裙拖。就是这条裙子。",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "But I am going to make a headpiece of lace.",
+  "cn": "不过我会做一个蕾丝头饰。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "That dress is gorgeous.",
+  "cn": "这条裙子太美了。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Thanks, Ellen.",
+  "cn": "谢谢，Ellen。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "And thanks for the advice about the house.",
+  "cn": "也谢谢你关于房子的建议。",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "I'll talk to Richard about it the minute he comes home.",
+  "cn": "他一回家",
+  "score": 0.64
+ },
+ {
+  "i": 60,
+  "en": "And remember, we love having you here.",
+  "cn": "我们很喜欢你住在这儿。",
+  "score": 0.75
+ },
+ {
+  "i": 61,
+  "en": "There's no need to rush.",
+  "cn": "不用着急。",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "I remember your parents' first house very well.",
+  "cn": "我记得",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "It was on Spring Avenue near the park.",
+  "cn": "在 Spring 大道，公园附近。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "I grew up in that house.",
+  "cn": "我就是在那栋房子里长大的。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "Yes, and you were such a cute baby.",
+  "cn": "是的，你当时是个特别可爱的宝宝。",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "I've seen pictures of him. He had blond hair.",
+  "cn": "我看过他的照片。",
+  "score": 0.66
+ },
+ {
+  "i": 67,
+  "en": "I've been friendly with the Stewart family for a long time,",
+  "cn": "我和 Stewart 一家交情",
+  "score": 0.76
+ },
+ {
+  "i": 68,
+  "en": "so it's my pleasure to help you find a house now.",
+  "cn": "能帮你们找房子是我的荣幸。",
+  "score": 0.7
+ },
+ {
+  "i": 69,
+  "en": "Well, we're not sure we can afford one.",
+  "cn": "嗯，我们不太确定能不能买得起。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "But we'd like to find out about the possibilities,",
+  "cn": "但我们想了解",
+  "score": 0.67
+ },
+ {
+  "i": 71,
+  "en": "and that's a good idea.",
+  "cn": "而且我觉得",
+  "score": 0.63
+ },
+ {
+  "i": 72,
+  "en": "I love your house on Linden Street.",
+  "cn": "我喜欢你们林登街的房子。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "I sold your father that house 17 years ago.",
+  "cn": "十七年前我把那栋房子卖给你父亲的。",
+  "score": 0.85
+ },
+ {
+  "i": 74,
+  "en": "Really? Yes.",
+  "cn": "真的？",
+  "score": 0.65
+ },
+ {
+  "i": 75,
+  "en": "Mom was pregnant with Robbie then, and they needed the extra room.",
+  "cn": "他们需要更大的空间。",
+  "score": 0.58
+ },
+ {
+  "i": 76,
+  "en": "I hear you're expecting a baby, Mrs. Stewart.",
+  "cn": "听说您要有宝宝了，Stewart 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "Mm-hmm. So we will be needing more room.",
+  "cn": "所以我们以后会需要更多空间。",
+  "score": 0.85
+ },
+ {
+  "i": 78,
+  "en": "Oh, so you don't need something immediately?",
+  "cn": "哦，那您不是马上需要？",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "No, but in five or six months.",
+  "cn": "不急。但五六个月后……",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "And time passes so quickly.",
+  "cn": "时间过得很快。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Yes, it does.",
+  "cn": "是啊。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Well, when you called, you gave me enough information",
+  "cn": "告诉了我",
+  "score": 0.69
+ },
+ {
+  "i": 83,
+  "en": "about your salaries and your savings,",
+  "cn": "你们的工资和存款情况。",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "so I have a good idea about your financial situation.",
+  "cn": "所以我对您的财务状况有大概了解。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "Let me show you some pictures of houses with two bedrooms.",
+  "cn": "我给您看一些房子的照片。",
+  "score": 0.78
+ },
+ {
+  "i": 86,
+  "en": "Yes, I think I can show you some.",
+  "cn": "是的，我想我能给您看一些。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Of course, they won't be in Riverdale.",
+  "cn": "当然，这些不会在 Riverdale。",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "The cost of housing's too high for you here.",
+  "cn": "这边的房价对您来说太高了。",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "I haven't thought about living anywhere else.",
+  "cn": "我没想过住别的地方。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "We've always lived in this area.",
+  "cn": "我们一直住在这个地区。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "Where should we look for a house, Mrs. Martinelli?",
+  "cn": "我们该去哪儿找房子，Martinelli 太太？",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "Well, we have an office in Mount Kisco.",
+  "cn": "嗯，我们在 Mount Kisco 有个办事处。",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "It's a lovely area, and it's only about an hour's drive from here.",
+  "cn": "从这儿开车只要一小时。",
+  "score": 0.8
+ },
+ {
+  "i": 94,
+  "en": "Here, I have a book with photos of some homes in that area.",
+  "cn": "我有",
+  "score": 0.94
+ },
+ {
+  "i": 95,
+  "en": "Now, let's see.",
+  "cn": "来，看看。这儿。",
+  "score": 0.8
+ },
+ {
+  "i": 96,
+  "en": "Here, this is a lovely two-bedroom house in your price range.",
+  "cn": "这是栋可爱的两居室，在您的预算范围内。",
+  "score": 0.94
+ },
+ {
+  "i": 97,
+  "en": "It's pretty, but I prefer a two-story home.",
+  "cn": "但我更喜欢两层的房子。",
+  "score": 0.81
+ },
+ {
+  "i": 98,
+  "en": "I do, too. I don't care for a ranch type.",
+  "cn": "我不喜欢平房。",
+  "score": 0.83
+ },
+ {
+  "i": 99,
+  "en": "Okay. Oh, this is a wonderful house.",
+  "cn": "哦，这栋房子真好。",
+  "score": 0.89
+ },
+ {
+  "i": 100,
+  "en": "I know it well. I sold it to the present owners.",
+  "cn": "我把它卖给了现在的房主。",
+  "score": 0.79
+ },
+ {
+  "i": 101,
+  "en": "It looks wonderful.",
+  "cn": "看起来很棒。",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "This is a two-bedroom, two-bath house.",
+  "cn": "这是两居室、两卫的房子。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "It has a full basement, and it is on a half-acre lot.",
+  "cn": "占地半英亩。",
+  "score": 0.72
+ },
+ {
+  "i": 104,
+  "en": "You can probably afford this one.",
+  "cn": "这栋您大概买得起。",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "Mmm. I like this house.",
+  "cn": "我喜欢这栋房子。",
+  "score": 0.86
+ },
+ {
+  "i": 106,
+  "en": "So do I.",
+  "cn": "我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "And the price is right. Would you like to go see it?",
+  "cn": "你愿意",
+  "score": 0.65
+ },
+ {
+  "i": 108,
+  "en": "Yes. We're planning to talk to someone at the bank next week.",
+  "cn": "下周去跟银行的人谈谈。",
+  "score": 0.78
+ },
+ {
+  "i": 109,
+  "en": "Perhaps we could see the house this weekend.",
+  "cn": "也许这个周末我们可以去看看房子。",
+  "score": 1.0
+ },
+ {
+  "i": 110,
+  "en": "If someone doesn't buy it before then.",
+  "cn": "如果在那之前没人买走的话。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "But let's keep looking just to get an idea of some other possibilities.",
+  "cn": "只是了解一下其他可能。",
+  "score": 0.76
+ },
+ {
+  "i": 112,
+  "en": "This is very helpful, Mrs. Martinelli.",
+  "cn": "这很有帮助，Martinelli 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "Here, this is a wonderful example of a Spanish-style architecture.",
+  "cn": "这是西班牙风格建筑的绝佳范例。",
+  "score": 0.93
+ },
+ {
+  "i": 114,
+  "en": "Oh, I love the roof tiles on a Spanish-style house.",
+  "cn": "我喜欢西班牙风格房子上的屋顶瓦。",
+  "score": 0.94
+ },
+ {
+  "i": 115,
+  "en": "It looks like the house is in Hollywood.",
+  "cn": "看起来像好莱坞的房子。",
+  "score": 0.85
+ },
+ {
+  "i": 116,
+  "en": "It's interesting. A house like this in Riverdale costs double the price.",
+  "cn": "在 Riverdale，这样的房子价格要翻倍。",
+  "score": 0.85
+ },
+ {
+  "i": 117,
+  "en": "Here's a real buy.",
+  "cn": "这栋很划算。",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "It's a bargain. This house just came on the market.",
+  "cn": "这栋房子刚上市。",
+  "score": 0.77
+ },
+ {
+  "i": 119,
+  "en": "It's quite lovely. Is it a two-bedroom house?",
+  "cn": "是两居室吗？",
+  "score": 0.71
+ },
+ {
+  "i": 120,
+  "en": "No. It has three bedrooms and three baths.",
+  "cn": "不是。三居室三卫。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "I know the house. It has a brand-new kitchen",
+  "cn": "全新的厨房。",
+  "score": 0.69
+ },
+ {
+  "i": 122,
+  "en": "and a living room with a 12-foot ceiling.",
+  "cn": "客厅有十二英尺的挑高天花板。",
+  "score": 0.85
+ },
+ {
+  "i": 123,
+  "en": "And there's a two-car garage.",
+  "cn": "还有个双车位车库。",
+  "score": 1.0
+ },
+ {
+  "i": 124,
+  "en": "Then why don't we go look at this house, too?",
+  "cn": "那我们不如也去看看这栋？",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "It's a good investment.",
+  "cn": "是个好投资。",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Thank you, Mrs. Martinelli.",
+  "cn": "谢谢您，Martinelli 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Thanks so much. My pleasure.",
+  "cn": "谢谢",
+  "score": 0.66
+ },
+ {
+  "i": 128,
+  "en": "Give my best to your parents.",
+  "cn": "代我向你父母问好。",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "Your father's a wonderful doctor, Richard.",
+  "cn": "你父亲是位出色的医生，Richard。",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "He took care of my daughter when she was a child.",
+  "cn": "他照顾过",
+  "score": 0.65
+ },
+ {
+  "i": 131,
+  "en": "He's the best pediatrician in Westchester.",
+  "cn": "他是 Westchester 最好的儿科医生。",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "Thanks, Mrs. Martinelli. I'll give them your regards.",
+  "cn": "我会转达您的问候。",
+  "score": 0.68
+ },
+ {
+  "i": 133,
+  "en": "We really appreciate your advice.",
+  "cn": "非常感谢您的建议。",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "I do think you should go see the houses and talk to the bank.",
+  "cn": "我真的觉得你们应该去看看房子，",
+  "score": 0.75
+ },
+ {
+  "i": 135,
+  "en": "Here, let me give you some information about the houses.",
+  "cn": "我给您一些这些房子的资料。",
+  "score": 0.86
+ },
+ {
+  "i": 136,
+  "en": "They're both very goodbyes.",
+  "cn": "两栋都很划算。",
+  "score": 0.77
+ },
+ {
+  "i": 137,
+  "en": "Well, thanks so much for your help and your time, Mrs. Martinelli.",
+  "cn": "嗯，非常感谢您的帮助和时间，",
+  "score": 0.84
+ },
+ {
+  "i": 138,
+  "en": "We've got a lot to talk about.",
+  "cn": "我们有很多要讨论的。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "Mm-hmm. Thanks.",
+  "cn": "嗯哼。谢谢。",
+  "score": 0.78
+ },
+ {
+  "i": 140,
+  "en": "I'm Richard Stewart, and this is my wife, Marilyn.",
+  "cn": "我是 Richard Stewart，这是我妻子 Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "Pleased to meet you. Likewise, Mr. Riley.",
+  "cn": "很高兴认识你.",
+  "score": 0.64
+ },
+ {
+  "i": 142,
+  "en": "Please. Sit down. What can I do for you?",
+  "cn": "请坐。我能为你们做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "We'd like to discuss a mortgage.",
+  "cn": "我们想咨询一下抵押贷款。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "For a house. Fine.",
+  "cn": "买房用的。",
+  "score": 0.79
+ },
+ {
+  "i": 145,
+  "en": "Are you buying a house or are you refinancing your present home?",
+  "cn": "还是为现在的房子重新融资？",
+  "score": 0.75
+ },
+ {
+  "i": 146,
+  "en": "We're planning to buy a house.",
+  "cn": "我们打算买房。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "And we'd like to find out about a mortgage.",
+  "cn": "我们想了解一下抵押贷款。",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "We are customers at the bank.",
+  "cn": "我们是银行的客户。",
+  "score": 0.84
+ },
+ {
+  "i": 149,
+  "en": "As a matter of fact, my whole family bank's here.",
+  "cn": "事实上，我们全家都在这家银行开户。",
+  "score": 0.92
+ },
+ {
+  "i": 150,
+  "en": "I have some questions to ask.",
+  "cn": "我有",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "Do you own your house or do you rent?",
+  "cn": "你们是自有住房还是租房？",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "Neither. We live with my parents, Dr. and Mrs. Phillip Stewart.",
+  "cn": "我们和我父母住在一起，Philip Stewart 医生夫妇。",
+  "score": 0.85
+ },
+ {
+  "i": 153,
+  "en": "And how old are you?",
+  "cn": "你们多大了？",
+  "score": 1.0
+ },
+ {
+  "i": 154,
+  "en": "I'm 29. I'm 30.",
+  "cn": "我是29。我是30。",
+  "score": 0.3
+ },
+ {
+  "i": 155,
+  "en": "And Mr. Stewart, what is your occupation?",
+  "cn": "Stewart 先生，您的职业是什么？",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "I'm a freelance photographer.",
+  "cn": "我是自由摄影师。",
+  "score": 1.0
+ },
+ {
+  "i": 157,
+  "en": "And Mrs. Stewart, are you working?",
+  "cn": "Stewart 太太，您工作吗？",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "Yes, I'm a designer. And I work in a boutique.",
+  "cn": "是的。我是设计师，在一家精品店工作。",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "Did you bring any savings or salary information?",
+  "cn": "你们带存款或工资证明了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "Last year's tax forms? Yes.",
+  "cn": "去年的税表？",
+  "score": 0.87
+ },
+ {
+  "i": 161,
+  "en": "Here they are.",
+  "cn": "带了。在这儿。",
+  "score": 0.82
+ },
+ {
+  "i": 162,
+  "en": "What kind of house did you have in mind?",
+  "cn": "好的。你们……你们想买什么样的房子？",
+  "score": 0.9
+ },
+ {
+  "i": 163,
+  "en": "Well, we're talking about buying a two-bedroom house in Mount Kisco.",
+  "cn": "在 Mount Kisco 买一栋两居室。",
+  "score": 0.64
+ },
+ {
+  "i": 164,
+  "en": "Here are the financial details on the house.",
+  "cn": "这是房子的财务细节。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "Thank you. Are you prepared to make a 10% down payment?",
+  "cn": "你们准备付一成首付吗？",
+  "score": 0.73
+ },
+ {
+  "i": 166,
+  "en": "Yes, we are.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "Payment's over 30 years? Yes.",
+  "cn": "分三十年还款？",
+  "score": 0.57
+ },
+ {
+  "i": 168,
+  "en": "Do you think we can get a loan?",
+  "cn": "您觉得我们能拿到贷款吗？",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "Well, it depends.",
+  "cn": "好，它依靠。",
+  "score": 0.3
+ },
+ {
+  "i": 170,
+  "en": "Do you own any other property?",
+  "cn": "嗯，要看情况。你们有其他不动产吗？",
+  "score": 0.74
+ },
+ {
+  "i": 171,
+  "en": "Any stocks or bonds?",
+  "cn": "股票或债券呢？",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "No.",
+  "cn": "不.",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "Perhaps you could get a guarantor.",
+  "cn": "也许您可以找一位担保人——",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "Someone to sign for the loan for you?",
+  "cn": "就是有人为你们的贷款签字担保。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Why is that necessary?",
+  "cn": "为什么需要担保人？",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "Since you don't have enough income and you don't already own any property,",
+  "cn": "也没有已有不动产，",
+  "score": 0.67
+ },
+ {
+  "i": 177,
+  "en": "the bank needs to be sure you can pay the mortgage every month.",
+  "cn": "你们每月能还贷。",
+  "score": 0.67
+ },
+ {
+  "i": 178,
+  "en": "A guarantor is responsible for the loan if you can't make the payments.",
+  "cn": "担保人在你们还不上时",
+  "score": 0.66
+ },
+ {
+  "i": 179,
+  "en": "I see.",
+  "cn": "我看见。",
+  "score": 0.3
+ },
+ {
+  "i": 180,
+  "en": "Well, the idea of buying a house is exciting.",
+  "cn": "我明白了。买房的想法令人兴奋。",
+  "score": 0.89
+ },
+ {
+  "i": 181,
+  "en": "Thank you, Mr. Riley. We'll read this over carefully.",
+  "cn": "谢谢您，Riley 先生。我们会仔细阅读这些。",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "Goodbye. Thanks.",
+  "cn": "再见。谢谢。",
+  "score": 0.68
+ },
+ {
+  "i": 184,
+  "en": "Goodbye. And hope to see you soon?",
+  "cn": "再见。希望很快再见。",
+  "score": 0.86
+ },
+ {
+  "i": 185,
+  "en": "I hope so too.",
+  "cn": "我希望",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "Take care.",
+  "cn": "保重.",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "It all sounded so easy until they mentioned needing collateral or a guarantor.",
+  "cn": "直到他们提到需要抵押品或担保人。",
+  "score": 0.74
+ },
+ {
+  "i": 188,
+  "en": "We have no collateral.",
+  "cn": "我们没有抵押品。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "And I don't think it's a good idea to ask Dad to sign as a guarantor.",
+  "cn": "让爸爸做担保人签字不太好。",
+  "score": 0.59
+ },
+ {
+  "i": 190,
+  "en": "I don't feel right about it.",
+  "cn": "我觉得这样不合适。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "I understand your feelings about it, Richard.",
+  "cn": "我理解",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "Now tell me. What's the problem?",
+  "cn": "现在告诉我。什么是这",
+  "score": 0.3
+ },
+ {
+  "i": 193,
+  "en": "We can get a loan from the bank if we can put up some collateral.",
+  "cn": "我们可以从银行贷款，",
+  "score": 0.64
+ },
+ {
+  "i": 194,
+  "en": "Then we don't own anything to use as collateral.",
+  "cn": "但我们没有任何东西可以作抵押。",
+  "score": 0.89
+ },
+ {
+  "i": 195,
+  "en": "Or someone can sign with us as a guarantor.",
+  "cn": "或者有人可以和我们一起签字做担保人。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "Why don't you speak to Dad?",
+  "cn": "你怎么不和爸爸谈谈？",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "No. If we buy a house, I want to be able to handle it alone.",
+  "cn": "不。如果买房，我想自己能搞定。",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "Everybody needs help sometimes, Richard.",
+  "cn": "每个人有时都需要帮助，Richard。",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "I understand Richard's feelings about it, Ellen.",
+  "cn": "我理解",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "In two or three months, I'll have an advance on my book and be able to put more money down.",
+  "cn": "两三个月后，我会拿到书的预付款，",
+  "score": 0.69
+ },
+ {
+  "i": 201,
+  "en": "What about the house in Mount Kisco? Somebody else will buy it by then.",
+  "cn": "Mount Kisco 那栋房子怎么办？",
+  "score": 0.6
+ },
+ {
+  "i": 202,
+  "en": "Then there'll be other houses, Marilyn.",
+  "cn": "还会有其他房子的，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "Oh, Richard has a point. You're just beginning to look.",
+  "cn": "Richard 说得有道理。你们才刚开始看。",
+  "score": 0.9
+ },
+ {
+  "i": 204,
+  "en": "We're in no great rush. It's true.",
+  "cn": "我们不太着急。确实。",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "This has been a great learning experience for us, Marilyn.",
+  "cn": "这对我们是一次很好的学习经历，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "Talking to the real estate agent, looking at the houses,",
+  "cn": "和房地产经纪人谈。",
+  "score": 0.71
+ },
+ {
+  "i": 207,
+  "en": "talking to the loan officer at the bank.",
+  "cn": "和银行的贷款专员谈。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "It has been a learning experience. That's true.",
+  "cn": "确实是次学习经历。没错。",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "I think you're doing the right thing.",
+  "cn": "我觉得你们做得对。慢慢来。",
+  "score": 0.77
+ },
+ {
+  "i": 210,
+  "en": "Taking your time, looking around, especially with the purchase of this kind.",
+  "cn": "多看看。尤其这种大额购买。",
+  "score": 0.75
+ },
+ {
+  "i": 211,
+  "en": "You're talking about a lot of money.",
+  "cn": "你们说的可是一大笔钱。",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "We'll call Mrs. Martinelli and tell her to keep looking for us.",
+  "cn": "我们会给 Martinelli 太太打电话，让她继续帮我们留意。",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "And I'll call Mr. Riley at the bank and tell him we'll see him in a couple of months.",
+  "cn": "告诉他我们过两个月再找他。",
+  "score": 0.67
+ },
+ {
+  "i": 214,
+  "en": "And if you ever need that or me to help you...",
+  "cn": "如果你们需要爸爸或我帮忙……",
+  "score": 0.89
+ },
+ {
+  "i": 215,
+  "en": "We know.",
+  "cn": "我们知道。",
+  "score": 1.0
+ },
+ {
+  "i": 216,
+  "en": "You know we'll be there for you.",
+  "cn": "你知道我们随时都在。",
+  "score": 1.0
+ },
+ {
+  "i": 217,
+  "en": "It's a steward tradition. We're a family.",
+  "cn": "这是 Stewart 家的传统。我们是一家人。",
+  "score": 0.87
+ }
+]
