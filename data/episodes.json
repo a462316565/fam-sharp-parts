@@ -290,9 +290,14 @@
   {
     "ep": 25,
     "title": "Country Music",
-    "video": "media/ep25.mp4",
+    "video": "media/ep25v2.mp4",
     "subs": "data/ep25.json",
-    "ready": false
+    "ready": true,
+    "size": 57320106,
+    "parts": 7,
+    "partLen": 8388608,
+    "partDir": "ep25v2",
+    "partBase": "https://cdn.jsdelivr.net/gh/a462316565/fam-sharp-parts@main/parts"
   },
   {
     "ep": 26,
