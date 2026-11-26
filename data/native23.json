@@ -1,0 +1,1418 @@
+[
+ {
+  "i": 0,
+  "en": "Morning, Grandpa.",
+  "cn": "早上好，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "Something the matter, Grandpa?",
+  "cn": "出什么事了吗，爷爷？",
+  "score": 0.89
+ },
+ {
+  "i": 2,
+  "en": "I have a tutorial in this paper that has my friend Matt Baker a real upset.",
+  "cn": "这份报纸的社论让我朋友纳特·贝克很不安。",
+  "score": 0.7
+ },
+ {
+  "i": 3,
+  "en": "Ah, I'll read it to you.",
+  "cn": "啊！我念给你听。",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "The old library building on Chestnut Street,",
+  "cn": "「栗子街上的旧图书馆建筑，",
+  "score": 0.94
+ },
+ {
+  "i": 5,
+  "en": "which has been vacant for over a year now,",
+  "cn": "已经空置一年多了，",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "is supposed to be made into a community center",
+  "cn": "本应被改建成社区中心，",
+  "score": 0.9
+ },
+ {
+  "i": 7,
+  "en": "to serve the senior citizens as well as the younger people of Riverdale.",
+  "cn": "和年轻人服务。",
+  "score": 0.7
+ },
+ {
+  "i": 8,
+  "en": "Due to lack of funds for the repainting of the interior of the building,",
+  "cn": "用于建筑内部的重新粉刷",
+  "score": 0.74
+ },
+ {
+  "i": 9,
+  "en": "and for the furniture needed,",
+  "cn": "和所需家具，",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "the plans for the community center have been postponed indefinitely.",
+  "cn": "社区中心的计划",
+  "score": 0.63
+ },
+ {
+  "i": 11,
+  "en": "Who's coming over to talk about it?",
+  "cn": "他要过来谈这件事。",
+  "score": 0.87
+ },
+ {
+  "i": 12,
+  "en": "That serious a problem, Grandpa?",
+  "cn": "有这么严重吗，爷爷？",
+  "score": 0.83
+ },
+ {
+  "i": 13,
+  "en": "It is.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "See, Matt's not as lucky as I am, Robbie. He doesn't have any family with him.",
+  "cn": "他没有家人陪伴。",
+  "score": 0.57
+ },
+ {
+  "i": 15,
+  "en": "He lives alone, and depends on places like a community center to be with people,",
+  "cn": "依赖像社区中心这样的地方",
+  "score": 0.65
+ },
+ {
+  "i": 16,
+  "en": "people his own age.",
+  "cn": "与人在一起——和他同龄的人。",
+  "score": 0.63
+ },
+ {
+  "i": 17,
+  "en": "But there's the whole community center on Elm Street?",
+  "cn": "但榆树街有老社区中心。",
+  "score": 0.9
+ },
+ {
+  "i": 18,
+  "en": "It's small, and the problem is it's set up primarily for kids to play.",
+  "cn": "问题是它主要是为孩子们玩耍设的。",
+  "score": 0.87
+ },
+ {
+  "i": 19,
+  "en": "Ping pong tables, soda machines, and lots of music.",
+  "cn": "乒乓球桌、汽水机，还有大量音乐。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "It's too noisy for some older people like Matt.",
+  "cn": "对像纳特这样的老人来说太吵了。",
+  "score": 0.9
+ },
+ {
+  "i": 21,
+  "en": "I never realized that.",
+  "cn": "我从没意识到。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "It's hard for some older people to take all that noise.",
+  "cn": "有些老人很难承受那些噪音。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "That's why the new community center is a good idea.",
+  "cn": "所以新社区中心是个好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "Part of the building for older people, part of the building for younger people.",
+  "cn": "一部分给年轻人。",
+  "score": 0.75
+ },
+ {
+  "i": 25,
+  "en": "I see what you mean.",
+  "cn": "我明白了",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "Well, that must be Matt.",
+  "cn": "那一定是纳特。",
+  "score": 0.67
+ },
+ {
+  "i": 27,
+  "en": "It could be Alexandra. She's coming over this morning to help me with my Matt.",
+  "cn": "她今早过来帮我学数学。",
+  "score": 0.74
+ },
+ {
+  "i": 28,
+  "en": "Tony, something cold to drink?",
+  "cn": "你想喝点凉的饮料吗？",
+  "score": 0.68
+ },
+ {
+  "i": 29,
+  "en": "I'd love some cola, please.",
+  "cn": "我想来点可乐，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "Cola, coming up.",
+  "cn": "可乐来啦。",
+  "score": 1.0
+ },
+ {
+  "i": 31,
+  "en": "I really appreciate you coming over to help me with my Matt.",
+  "cn": "真的很感谢你过来帮我学数学。",
+  "score": 0.93
+ },
+ {
+  "i": 32,
+  "en": "My final exam is next Tuesday.",
+  "cn": "我下周二期末考试。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "You're so good in all your other subjects.",
+  "cn": "你其他科目都那么好。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "I just can't understand why you have so many problems with Matt.",
+  "cn": "你为什么数学有这么多问题。",
+  "score": 0.66
+ },
+ {
+  "i": 35,
+  "en": "Hi, Alexandra.",
+  "cn": "嗨，亚历山德拉。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Hi, Mr. Stewart.",
+  "cn": "嗨，斯图尔特先生。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "I thought that was Matt Baker who rang the front door bell.",
+  "cn": "我以为是纳特·贝克按了门铃。",
+  "score": 0.84
+ },
+ {
+  "i": 38,
+  "en": "Don't let me interrupt you.",
+  "cn": "别让我打断你们。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "No problem, Grandpa.",
+  "cn": "不",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "We're just having some cola before getting to the tough stuff.",
+  "cn": "然后开始难的部分——数学。",
+  "score": 0.6
+ },
+ {
+  "i": 41,
+  "en": "Matt.",
+  "cn": "Matt.",
+  "score": 0.3
+ },
+ {
+  "i": 42,
+  "en": "You'll do anything to avoid getting down to math lessons, Mr. Stewart.",
+  "cn": "他什么借口都用得上，就是不愿意开始学数学，",
+  "score": 0.79
+ },
+ {
+  "i": 43,
+  "en": "I was the same way.",
+  "cn": "我也是这样。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "Really, Grandpa?",
+  "cn": "真的吗，爷爷？",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "Really.",
+  "cn": "真的",
+  "score": 0.3
+ },
+ {
+  "i": 46,
+  "en": "I didn't like math.",
+  "cn": "真的。我不喜欢数学。",
+  "score": 0.82
+ },
+ {
+  "i": 47,
+  "en": "I wasn't good at it, and I didn't like studying it.",
+  "cn": "我不擅长，也不喜欢学。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "But you had to be good at math.",
+  "cn": "但你必须擅长数学。",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "You graduated from engineering school.",
+  "cn": "你可是工程学院毕业的。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "I was, but not in high school.",
+  "cn": "我是。但高中不是。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "For some reason, I couldn't get a handle on it.",
+  "cn": "不知什么原因，我抓不到窍门。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "Then in college.",
+  "cn": "后来大学时，我变得擅长了。",
+  "score": 0.51
+ },
+ {
+  "i": 53,
+  "en": "I became good at it.",
+  "cn": "我became好在它",
+  "score": 0.3
+ },
+ {
+  "i": 54,
+  "en": "Then there's hope for Robbie.",
+  "cn": "那罗比还有希望。",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "I can't wait.",
+  "cn": "我等不及。",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "Do you think I can just skip it now and get to it at college?",
+  "cn": "你觉得我现在能跳过它，等大学再学吗？",
+  "score": 0.96
+ },
+ {
+  "i": 57,
+  "en": "You'll never get to college to find out, Robbie, if you skip it now.",
+  "cn": "你永远到不了大学去验证，罗比，",
+  "score": 0.74
+ },
+ {
+  "i": 58,
+  "en": "That must be it.",
+  "cn": "那一定是纳特。",
+  "score": 0.78
+ },
+ {
+  "i": 59,
+  "en": "I'd like you to meet my friend Matt Baker.",
+  "cn": "我想让你见见我的朋友纳特·贝克。",
+  "score": 0.9
+ },
+ {
+  "i": 60,
+  "en": "This is Alexandra Pappas, and this is my friend, son Robbie,",
+  "cn": "这是亚历山德拉·帕帕斯，这是我孙子罗比，",
+  "score": 0.85
+ },
+ {
+  "i": 61,
+  "en": "whom I think you've met once or twice before.",
+  "cn": "我想你见过他一两次。",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "Nice to meet you, Mr. Baker.",
+  "cn": "很高兴认识你，贝克先生。",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "Hi, Mr. Baker.",
+  "cn": "嗨，斯图尔特先生。",
+  "score": 0.6
+ },
+ {
+  "i": 64,
+  "en": "We met before.",
+  "cn": "嗨，贝克先生。我们见过。",
+  "score": 0.61
+ },
+ {
+  "i": 65,
+  "en": "Where?",
+  "cn": "在哪？",
+  "score": 1.0
+ },
+ {
+  "i": 66,
+  "en": "In town.",
+  "cn": "在城镇",
+  "score": 0.3
+ },
+ {
+  "i": 67,
+  "en": "At the hardware store.",
+  "cn": "在镇上。在五金店。",
+  "score": 0.77
+ },
+ {
+  "i": 68,
+  "en": "I remember now.",
+  "cn": "我现在想起来了。对。嗨。",
+  "score": 0.69
+ },
+ {
+  "i": 69,
+  "en": "Right.",
+  "cn": "对的.",
+  "score": 0.55
+ },
+ {
+  "i": 70,
+  "en": "Hi.",
+  "cn": "嗨",
+  "score": 0.3
+ },
+ {
+  "i": 71,
+  "en": "Hello, Alexandra.",
+  "cn": "你好，亚历山德拉。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "But don't let us keep you from your math tutoring, Robbie.",
+  "cn": "别让我们耽误你学数学，罗比。",
+  "score": 0.94
+ },
+ {
+  "i": 73,
+  "en": "I know you want to get to it.",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "Stay, stay.",
+  "cn": "留下……留下。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "I told you, he'll use any excuse to avoid math.",
+  "cn": "我说了吧。他用任何借口逃避数学。",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Did you read the story in the paper, Malcolm?",
+  "cn": "你看了报纸上的报道了吗，马尔科姆？",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "I did.",
+  "cn": "看了。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "It's a serious matter for the father.",
+  "cn": "对我们很多人来说是件严肃的事。",
+  "score": 0.68
+ },
+ {
+  "i": 79,
+  "en": "It's a serious matter.",
+  "cn": "严肃的事。",
+  "score": 0.82
+ },
+ {
+  "i": 80,
+  "en": "It is.",
+  "cn": "它是",
+  "score": 0.3
+ },
+ {
+  "i": 81,
+  "en": "Come on out to the patio.",
+  "cn": "是的。出来到露台。",
+  "score": 0.83
+ },
+ {
+  "i": 82,
+  "en": "We'll talk about it out there.",
+  "cn": "我们在外面谈。",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "Thanks.",
+  "cn": "谢谢",
+  "score": 0.3
+ },
+ {
+  "i": 84,
+  "en": "It's nice to meet you again.",
+  "cn": "谢谢。很高兴又认识你。",
+  "score": 0.82
+ },
+ {
+  "i": 85,
+  "en": "Come on.",
+  "cn": "来吧",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "You'll hear about it.",
+  "cn": "来吧！你会听到的。",
+  "score": 0.77
+ },
+ {
+  "i": 87,
+  "en": "There is a way, Matt.",
+  "cn": "有办法的，马尔科姆。",
+  "score": 0.76
+ },
+ {
+  "i": 88,
+  "en": "Get our friends to roll their sleeves up and get to work.",
+  "cn": "我们让朋友们卷起袖子开始干活。",
+  "score": 0.95
+ },
+ {
+  "i": 89,
+  "en": "It's certainly a good idea.",
+  "cn": "确实是个好主意。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "If I could take a look at the place,",
+  "cn": "如果我能看看那地方，",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "I could probably tell what it requires to fix it up.",
+  "cn": "我大概能说出翻修需要什么。",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "How much paint?",
+  "cn": "多少油漆，多少工时……",
+  "score": 0.5
+ },
+ {
+  "i": 93,
+  "en": "How many hours of work?",
+  "cn": "如何许多hours的工作",
+  "score": 0.3
+ },
+ {
+  "i": 94,
+  "en": "That's what I came to ask you to do, Malcolm.",
+  "cn": "这正是我来请你做的，马尔科姆。",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "If you would supervise the refurbishing,",
+  "cn": "如果你监督翻修，",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "I'll find the people to help do it.",
+  "cn": "我来找人帮忙做。",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "I'll help too, Mr. Baker.",
+  "cn": "我也帮忙，贝克先生。",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "I can get some of my friends to go around the neighborhood",
+  "cn": "我能叫一些朋友在邻里间走访，",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "and collect the furniture we need.",
+  "cn": "收集我们需要的家具。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "I'll help.",
+  "cn": "我帮忙。",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "We'll meet tomorrow morning right here.",
+  "cn": "明天。是的。我们明早在这里碰面。",
+  "score": 0.86
+ },
+ {
+  "i": 102,
+  "en": "Can we help?",
+  "cn": "我们能帮忙吗？",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "I'd really like to.",
+  "cn": "我真的很想。",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Sure.",
+  "cn": "当然.",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "We might need you to come through with your friends, Robbie.",
+  "cn": "我们可能需要你和朋友帮忙，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "Not just to go around the neighborhood asking for furniture,",
+  "cn": "不仅在邻里间收集家具，",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "but to help with the paint job work,",
+  "cn": "还要帮忙粉刷。",
+  "score": 0.9
+ },
+ {
+  "i": 108,
+  "en": "and maybe too much for us.",
+  "cn": "那是累人的活，对我们可能太难。",
+  "score": 0.58
+ },
+ {
+  "i": 109,
+  "en": "I'll do it.",
+  "cn": "我来做。我和他们谈。",
+  "score": 0.52
+ },
+ {
+  "i": 110,
+  "en": "I'll talk to them.",
+  "cn": "我们以后有机会和他们谈。",
+  "score": 0.46
+ },
+ {
+  "i": 111,
+  "en": "And tomorrow morning, we'll all meet here to discuss the plan.",
+  "cn": "明早我们都来这里讨论计划？",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "Tomorrow morning it is.",
+  "cn": "明天",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "I'd like you to meet my friend, Malcolm Stewart.",
+  "cn": "我想让你见见我的朋友马尔科姆·斯图尔特。",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "Malcolm, this is Joanne Thompson.",
+  "cn": "马尔科姆，这是乔安妮·汤普森。",
+  "score": 0.93
+ },
+ {
+  "i": 115,
+  "en": "Hello, Joanne.",
+  "cn": "说吧，乔安妮。",
+  "score": 0.5
+ },
+ {
+  "i": 116,
+  "en": "Nice to meet you.",
+  "cn": "你好，乔安妮。很高兴认识你。",
+  "score": 0.69
+ },
+ {
+  "i": 117,
+  "en": "My pleasure, Malcolm.",
+  "cn": "我的荣幸，马尔科姆。",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "And this is Abe Lucas.",
+  "cn": "这是乔安妮·汤普森——还有阿贝·卢卡斯，",
+  "score": 0.69
+ },
+ {
+  "i": 119,
+  "en": "You must remember Abe.",
+  "cn": "这是阿贝·卢卡斯。你一定记得阿贝。",
+  "score": 0.59
+ },
+ {
+  "i": 120,
+  "en": "He ran the drugstore and used to play drums",
+  "cn": "他经营那家药店，",
+  "score": 0.56
+ },
+ {
+  "i": 121,
+  "en": "with the jazz band on weekends.",
+  "cn": "周末常和爵士乐队打鼓。",
+  "score": 0.65
+ },
+ {
+  "i": 122,
+  "en": "Sure I do.",
+  "cn": "哦，当然记得。嗨，阿贝。",
+  "score": 0.59
+ },
+ {
+  "i": 123,
+  "en": "Hi, Abe.",
+  "cn": "嗨，罗比。",
+  "score": 0.53
+ },
+ {
+  "i": 124,
+  "en": "Hello, Mrs. Stewart.",
+  "cn": "你好，斯图尔特先生。",
+  "score": 0.78
+ },
+ {
+  "i": 125,
+  "en": "Malcolm, please.",
+  "cn": "叫我马尔科姆。",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Hello, Malcolm.",
+  "cn": "你好，马尔科姆。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Sit down.",
+  "cn": "Sit下",
+  "score": 0.3
+ },
+ {
+  "i": 128,
+  "en": "Sit down.",
+  "cn": "Sit下",
+  "score": 0.3
+ },
+ {
+  "i": 129,
+  "en": "Have some coffee.",
+  "cn": "坐，坐。喝点咖啡。",
+  "score": 0.62
+ },
+ {
+  "i": 130,
+  "en": "And I've got some delicious Danish pastry for you.",
+  "cn": "我给你们准备了美味的丹麦酥。",
+  "score": 1.0
+ },
+ {
+  "i": 131,
+  "en": "Where's your grandson Robbie and his friend Alexandra?",
+  "cn": "你孙子罗比和他朋友亚历山德拉呢？",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "Weren't they going to be here this morning?",
+  "cn": "他们不是今早要来吗？",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "I thought so too.",
+  "cn": "我也这么想。",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "I'm surprised they're not here.",
+  "cn": "我很惊讶他们没来。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "Bobby left early this morning to meet Alexandra.",
+  "cn": "罗比今早很早就去见亚历山德拉了。",
+  "score": 0.84
+ },
+ {
+  "i": 136,
+  "en": "Frankly, I thought they'd be here.",
+  "cn": "坦白说，我以为他们会来，但是……",
+  "score": 0.91
+ },
+ {
+  "i": 137,
+  "en": "But it's okay.",
+  "cn": "但是它是好",
+  "score": 0.3
+ },
+ {
+  "i": 138,
+  "en": "I'm sure they met well, but they probably had other things on their minds.",
+  "cn": "但他们可能心里有其他事。",
+  "score": 0.76
+ },
+ {
+  "i": 139,
+  "en": "I understand you used to be in the construction business, Malcolm.",
+  "cn": "我理解",
+  "score": 0.92
+ },
+ {
+  "i": 140,
+  "en": "I was indeed.",
+  "cn": "确实是。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "I wonder if you would take a look at the old library",
+  "cn": "我不知道你能不能去看看旧图书馆，",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "and make sure that it is in good condition",
+  "cn": "确保它结构良好，",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "so that we don't have to worry about any structural problems.",
+  "cn": "这样我们就不用担心结构问题。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "Well, when can I do that?",
+  "cn": "我什么时候能去？我很乐意。",
+  "score": 0.58
+ },
+ {
+  "i": 145,
+  "en": "I'd be happy to.",
+  "cn": "我将是高兴去",
+  "score": 0.3
+ },
+ {
+  "i": 146,
+  "en": "We've got a mission to go inside the old building during the week.",
+  "cn": "我们获准在工作日——",
+  "score": 0.74
+ },
+ {
+  "i": 147,
+  "en": "Tuesday or Wednesday?",
+  "cn": "进入旧建筑。",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "That's fine with me.",
+  "cn": "我都可以。两天都行。",
+  "score": 0.53
+ },
+ {
+  "i": 149,
+  "en": "I can do it either day.",
+  "cn": "我能做它either天",
+  "score": 0.3
+ },
+ {
+  "i": 150,
+  "en": "That would be very helpful.",
+  "cn": "那太好了。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "I think the building just needs a good cleaning.",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "And a good paint job.",
+  "cn": "还有好好粉刷。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "Then we have to furnish it.",
+  "cn": "然后我们得布置家具。",
+  "score": 1.0
+ },
+ {
+  "i": 154,
+  "en": "I wish Robbie and Alexandra had come to this meeting.",
+  "cn": "真希望罗比和亚历山德拉来参加这次会议。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "They had some ideas about getting the place fixed up.",
+  "cn": "他们对翻修那地方有些想法。",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "Perhaps they'll show up.",
+  "cn": "也许他们会出现的。同时，",
+  "score": 0.67
+ },
+ {
+  "i": 157,
+  "en": "In the meantime, let me give you some additional thoughts and ideas I have.",
+  "cn": "让我给你们一些我额外的想法和主意。",
+  "score": 0.84
+ },
+ {
+  "i": 158,
+  "en": "Okay.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 159,
+  "en": "Go ahead, Joanne.",
+  "cn": "去领先Joanne.",
+  "score": 0.3
+ },
+ {
+  "i": 160,
+  "en": "As I said, mostly the building just needs a good cleaning.",
+  "cn": "如我所说，建筑主要需要好好清洁。",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "This place can be developed with one real intergenerational program.",
+  "cn": "成一个真正的代际项目。",
+  "score": 0.64
+ },
+ {
+  "i": 162,
+  "en": "That's an idea I like.",
+  "cn": "这个想法我喜欢。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "A community center with the kinds of programs that fit everything.",
+  "cn": "有适合所有人的项目。",
+  "score": 0.7
+ },
+ {
+  "i": 164,
+  "en": "And programs that don't leave anyone out.",
+  "cn": "不让任何人被排除在外的项目。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "It's asking a lot.",
+  "cn": "这要求很高。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "But we can't do it without talking to the young people,",
+  "cn": "但不和年轻人谈，我们做不到。",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "finding out what they want.",
+  "cn": "了解他们想要什么。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "If only Robbie and Alexandra were here.",
+  "cn": "要是罗比和亚历山德拉在这里就好了。",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "Don't be upset now.",
+  "cn": "别难过，马尔科姆。",
+  "score": 0.72
+ },
+ {
+  "i": 170,
+  "en": "We'll have a chance to talk to them later.",
+  "cn": "我们将有一个chance去谈话去them待会",
+  "score": 0.3
+ },
+ {
+  "i": 171,
+  "en": "It's not like Robbie.",
+  "cn": "这不像是罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "If he says he's going to be here, he's here.",
+  "cn": "如果他说会来，他就会来。",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "I wonder what's the problem.",
+  "cn": "我想知道是什么问题。",
+  "score": 0.77
+ },
+ {
+  "i": 174,
+  "en": "Joanne, sorry I'm late.",
+  "cn": "嗨，大家。对不起我迟到了。",
+  "score": 0.66
+ },
+ {
+  "i": 175,
+  "en": "Alexandra and I have been busy at work this morning on the community center project.",
+  "cn": "今早一直在忙",
+  "score": 0.54
+ },
+ {
+  "i": 176,
+  "en": "And we brought someone along who can help.",
+  "cn": "我们带了个能帮忙的人来。",
+  "score": 1.0
+ },
+ {
+  "i": 177,
+  "en": "You remember Charles Maxwell, grandpa?",
+  "cn": "你记得查尔斯·麦克斯韦吧，爷爷？",
+  "score": 1.0
+ },
+ {
+  "i": 178,
+  "en": "He's the editor of the Riverdale paper.",
+  "cn": "他是里弗代尔报纸的编辑。",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "He wrote some nice articles on Mom when she was running for the school board.",
+  "cn": "他写过一些不错的文章。",
+  "score": 0.63
+ },
+ {
+  "i": 180,
+  "en": "Yes, I remember. You were a great help.",
+  "cn": "是的，我记得。你帮了大忙。",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "Hi, Mr. Stewart. I hope to be a bigger help on the new community center project.",
+  "cn": "希望在新社区中心项目上能帮更大的忙。",
+  "score": 0.83
+ },
+ {
+  "i": 182,
+  "en": "From what Robbie and Alexandra have told me,",
+  "cn": "从罗比和亚历山德拉告诉我的看，",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "you people are making one big story.",
+  "cn": "你们这些人正在制造一个大新闻。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "Let me introduce you, Mr. Maxwell.",
+  "cn": "让我给你介绍一下，麦克斯韦先生。",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "This is Matt Baker, who is responsible for this meeting.",
+  "cn": "负责这次会议的人，",
+  "score": 0.63
+ },
+ {
+  "i": 186,
+  "en": "And this is Joanne Thompson and Abe Lucas, who used to run the drugstore in town.",
+  "cn": "他以前在镇上经营药店。",
+  "score": 0.6
+ },
+ {
+  "i": 187,
+  "en": "Robbie and Alexandra told me what you need to fix up the old library.",
+  "cn": "你们翻修旧图书馆需要什么。",
+  "score": 0.69
+ },
+ {
+  "i": 188,
+  "en": "I am planning to write an editorial that I think will help you.",
+  "cn": "我打算写一篇社论，我觉得能帮上忙。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "Let's go. What are your questions?",
+  "cn": "开始吧。你们有什么问题？",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "Okay, now I have first a couple of questions.",
+  "cn": "好。现在，我有……首先……几个问题。",
+  "score": 0.84
+ },
+ {
+  "i": 191,
+  "en": "Have you talked to the community council?",
+  "cn": "你们和社区委员会谈过吗？",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "And have you had an engineer come in to do an inspection?",
+  "cn": "你们请工程师来检查过吗？",
+  "score": 1.0
+ },
+ {
+  "i": 193,
+  "en": "Okay, what do you need most of all?",
+  "cn": "好，你们最需要什么？",
+  "score": 0.89
+ },
+ {
+  "i": 194,
+  "en": "People power.",
+  "cn": "人力。",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "Men and women, young and old, to give us their time.",
+  "cn": "男女，老幼，给我们时间。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "To do what?",
+  "cn": "做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "To help scrub the building interior clean.",
+  "cn": "帮忙把建筑内部刷洗干净。",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "So that we can repaint it.",
+  "cn": "好让我们能重新粉刷。",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "And you also need bodies to do repainting.",
+  "cn": "你们也需要人来重新粉刷？",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "That's right.",
+  "cn": "对的.",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "And we'll also need some ladders and some brushes and some paint.",
+  "cn": "我们还需要一些梯子，",
+  "score": 0.7
+ },
+ {
+  "i": 202,
+  "en": "When do you need the volunteers and where do they report?",
+  "cn": "你们什么时候需要志愿者，",
+  "score": 0.67
+ },
+ {
+  "i": 203,
+  "en": "I've got the council to agree to open the building for us on the next four weekends.",
+  "cn": "下四个周末向我们开放建筑。",
+  "score": 0.75
+ },
+ {
+  "i": 204,
+  "en": "How about furnishings?",
+  "cn": "家具呢？",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "Are there any special requirements that I should list in the paper?",
+  "cn": "有什么特殊要求我应该列在报纸上吗？",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "Yes.",
+  "cn": "是的.",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "Here is a copy of all the things we need to start with.",
+  "cn": "这是我们需要开始的所有物品清单。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "Four desks, eight straight back chairs,",
+  "cn": "八张直背椅。三十张折叠椅。",
+  "score": 0.57
+ },
+ {
+  "i": 209,
+  "en": "30 folding chairs, six table lamps, three end tables, one piano.",
+  "cn": "六盏台灯。三张茶几。一架钢琴。",
+  "score": 0.79
+ },
+ {
+  "i": 210,
+  "en": "This is a good start.",
+  "cn": "这是个好开始。",
+  "score": 1.0
+ },
+ {
+  "i": 211,
+  "en": "These items shouldn't be difficult to come by once I print the article in the paper.",
+  "cn": "这些物品应该不难弄到，",
+  "score": 0.64
+ },
+ {
+  "i": 212,
+  "en": "This community has always been very generous.",
+  "cn": "这个社区一直很慷慨。",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "I agree, Mr. Maxwell.",
+  "cn": "我同意，麦克斯韦先生。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "What you're saying is in order for the center to succeed,",
+  "cn": "你的意思是，为了让这个中心成功，",
+  "score": 0.92
+ },
+ {
+  "i": 215,
+  "en": "we need to put together volunteers from the various generations of future users.",
+  "cn": "从未来用户的各代人中。",
+  "score": 0.64
+ },
+ {
+  "i": 216,
+  "en": "That's right.",
+  "cn": "没错",
+  "score": 0.3
+ },
+ {
+  "i": 217,
+  "en": "And without their energy and stamina, there's no way we can complete this project.",
+  "cn": "我们无法完成这个项目。",
+  "score": 0.67
+ },
+ {
+  "i": 218,
+  "en": "Got it.",
+  "cn": "得到它",
+  "score": 0.3
+ },
+ {
+  "i": 219,
+  "en": "Now give me some information about how you see the building being used.",
+  "cn": "关于你们打算怎么使用建筑。",
+  "score": 0.62
+ },
+ {
+  "i": 220,
+  "en": "Here, on the ground floor, we have the reception area.",
+  "cn": "哦，这里。一楼是接待区……",
+  "score": 0.94
+ },
+ {
+  "i": 221,
+  "en": "It's here, Robbie.",
+  "cn": "在这里，罗比。",
+  "score": 1.0
+ },
+ {
+  "i": 222,
+  "en": "Charles Maxwell lived up to his word.",
+  "cn": "查尔斯·麦克斯韦说到做到。",
+  "score": 0.84
+ },
+ {
+  "i": 223,
+  "en": "At the Stewart family home on Linden Street yesterday,",
+  "cn": "「昨天，在林登街斯图尔特家，",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "a group of caring Riverdale citizens gathered to plan the refurbishing of the old library",
+  "cn": "一群热心的里弗代尔市民聚集在一起，",
+  "score": 0.62
+ },
+ {
+  "i": 225,
+  "en": "to transform it into a new community center.",
+  "cn": "将其改造成新的社区中心。",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "The original plan by the council was tabled because of lack of funds.",
+  "cn": "因缺乏资金而被搁置。",
+  "score": 0.63
+ },
+ {
+  "i": 227,
+  "en": "The new plan needs you.",
+  "cn": "新计划需要你。",
+  "score": 1.0
+ },
+ {
+  "i": 228,
+  "en": "You can call it a community unity plan.",
+  "cn": "你可以称之为社区团结计划。",
+  "score": 0.86
+ },
+ {
+  "i": 229,
+  "en": "It needs your time, and it needs your energy,",
+  "cn": "它需要你的时间，需要你的精力。",
+  "score": 1.0
+ },
+ {
+  "i": 230,
+  "en": "and it needs your contributions of furniture, paint, brushes, ladders, lamps.",
+  "cn": "还需要你捐献家具、",
+  "score": 0.71
+ },
+ {
+  "i": 231,
+  "en": "A list of these items and the volunteer form can be picked up at the Riverdale Press offices.",
+  "cn": "可在里弗代尔报社办公室领取。",
+  "score": 0.62
+ },
+ {
+  "i": 232,
+  "en": "By working together, this community can do anything to benefit its citizens.",
+  "cn": "这个社区能为市民做任何事，",
+  "score": 0.81
+ },
+ {
+  "i": 233,
+  "en": "And we know you will all work together towards refurbishing the old library",
+  "cn": "我们相信大家都会一起努力，",
+  "score": 0.65
+ },
+ {
+  "i": 234,
+  "en": "and making it a new community center.",
+  "cn": "把它变成新的社区中心。",
+  "score": 1.0
+ },
+ {
+  "i": 235,
+  "en": "Charles Maxwell, editor.",
+  "cn": "查尔斯·麦克斯韦，编辑。」",
+  "score": 1.0
+ }
+]
