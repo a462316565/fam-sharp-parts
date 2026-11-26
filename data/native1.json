@@ -1,0 +1,1586 @@
+[
+ {
+  "i": 0,
+  "en": "Excuse me.",
+  "cn": "谢谢，失陪一下。",
+  "score": 0.7
+ },
+ {
+  "i": 1,
+  "en": "My name is Richard Stewart.",
+  "cn": "打扰一下，我叫 Richard Stewart。",
+  "score": 0.79
+ },
+ {
+  "i": 2,
+  "en": "I'm a photographer.",
+  "cn": "我是一名摄影师。",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "May I take a picture of you and your little boy?",
+  "cn": "我可以给您和您的小男孩拍张照吗？",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "What's it for?",
+  "cn": "是做什么用的？",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "It's for a book.",
+  "cn": "是为了一本书。",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "You're writing a book?",
+  "cn": "你在写一本书？",
+  "score": 1.0
+ },
+ {
+  "i": 7,
+  "en": "It's a book of pictures.",
+  "cn": "这是一本摄影集。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "I call it Family Album, U.S.A..",
+  "cn": "我称它为《美国家庭相册》。",
+  "score": 1.0
+ },
+ {
+  "i": 9,
+  "en": "Oh, that's a nice idea.",
+  "cn": "哦，这个主意不错。",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "Well, it's fine if you take our picture.",
+  "cn": "好吧，你可以给我们拍照。",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "I'm Martha Vann.",
+  "cn": "我是 Martha Vann。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "Thank you.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "I appreciate your help.",
+  "cn": "谢谢您，非常感激您的帮助。",
+  "score": 0.76
+ },
+ {
+  "i": 14,
+  "en": "I'm Richard.",
+  "cn": "顺便说一下，我叫 Richard。",
+  "score": 0.56
+ },
+ {
+  "i": 15,
+  "en": "What's your name?",
+  "cn": "你叫什么名字？",
+  "score": 1.0
+ },
+ {
+  "i": 16,
+  "en": "Gerald.",
+  "cn": "Gerald。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "How old are you, Gerald?",
+  "cn": "Gerald，你几岁了？",
+  "score": 1.0
+ },
+ {
+  "i": 18,
+  "en": "Five.",
+  "cn": "五岁。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "And where do you live?",
+  "cn": "你们住在哪里？",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "We live in California.",
+  "cn": "我们住在加利福尼亚州。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "Well, welcome to New York.",
+  "cn": "那么，欢迎来到纽约。",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "OK, just a second.",
+  "cn": "好的，稍等一下。",
+  "score": 1.0
+ },
+ {
+  "i": 23,
+  "en": "I'm almost ready here.",
+  "cn": "我这边快准备好了。",
+  "score": 1.0
+ },
+ {
+  "i": 24,
+  "en": "Can I help you?",
+  "cn": "我能帮您吗？",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "Oh, please.",
+  "cn": "哦，请帮忙。",
+  "score": 1.0
+ },
+ {
+  "i": 26,
+  "en": "Hold Gerald's hand, please.",
+  "cn": "请牵着 Gerald 的手，很好！",
+  "score": 0.86
+ },
+ {
+  "i": 27,
+  "en": "Great!",
+  "cn": "太好了",
+  "score": 0.3
+ },
+ {
+  "i": 28,
+  "en": "Now point to the buildings.",
+  "cn": "现在指向那些建筑物。",
+  "score": 1.0
+ },
+ {
+  "i": 29,
+  "en": "Terrific!",
+  "cn": "太棒了！",
+  "score": 1.0
+ },
+ {
+  "i": 30,
+  "en": "Give Mommy a kiss, Gerald.",
+  "cn": "Gerald，亲一下妈妈，很好！",
+  "score": 0.88
+ },
+ {
+  "i": 31,
+  "en": "Nice!",
+  "cn": "好！",
+  "score": 0.3
+ },
+ {
+  "i": 32,
+  "en": "Thank you, Gerald.",
+  "cn": "谢谢你，Gerald。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "And thank you, Mrs.Vann.",
+  "cn": "还有谢谢您，Vann 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "Oh, my pleasure.",
+  "cn": "哦，这是我的荣幸。",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "We'll be looking for your book.",
+  "cn": "我们会期待您的书出版。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Thank you.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Good-bye.",
+  "cn": "再见。",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "Bye, Gerald.",
+  "cn": "再见。",
+  "score": 0.55
+ },
+ {
+  "i": 39,
+  "en": "Thanks again.",
+  "cn": "再次感谢。",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "Oh, you're welcome.",
+  "cn": "哦，不客气。",
+  "score": 1.0
+ },
+ {
+  "i": 41,
+  "en": "Hey, let me take your picture!",
+  "cn": "嘿，让我给你拍张照！",
+  "score": 1.0
+ },
+ {
+  "i": 42,
+  "en": "Wonderful.",
+  "cn": "太好了，请便。",
+  "score": 0.63
+ },
+ {
+  "i": 43,
+  "en": "Please.",
+  "cn": "请进。",
+  "score": 0.49
+ },
+ {
+  "i": 44,
+  "en": "Are you from New York?",
+  "cn": "你是纽约人吗？",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "No, I'm from Greece.",
+  "cn": "不，我来自希腊。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "I'm an exchange student.",
+  "cn": "我是一名交换生。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "When did you come here?",
+  "cn": "你什么时候来的？",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Three months ago months.",
+  "cn": "三个月前。",
+  "score": 0.89
+ },
+ {
+  "i": 49,
+  "en": "Your English is very good.",
+  "cn": "你的英语说得很好。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "Thanks.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "I studied English in school.",
+  "cn": "我在学校学过英语。",
+  "score": 1.0
+ },
+ {
+  "i": 52,
+  "en": "Would you like some coffee?",
+  "cn": "你想喝点咖啡吗？",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "No, thank you.",
+  "cn": "不了，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "Tell me about your book.",
+  "cn": "跟我说说你的书吧。",
+  "score": 1.0
+ },
+ {
+  "i": 55,
+  "en": "Oh, it's not finished yet,",
+  "cn": "哦，还没完成，",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "but I have some of the pictures.",
+  "cn": "但我有一些照片。",
+  "score": 1.0
+ },
+ {
+  "i": 57,
+  "en": "Would you like to see them?",
+  "cn": "你想看看吗？",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "Yes.",
+  "cn": "哦，是的。",
+  "score": 0.6
+ },
+ {
+  "i": 59,
+  "en": "I'd like that.",
+  "cn": "好的，我很想看。",
+  "score": 0.82
+ },
+ {
+  "i": 60,
+  "en": "Here they are.",
+  "cn": "在这里，《美国家庭相册》。",
+  "score": 0.5
+ },
+ {
+  "i": 61,
+  "en": "Family Album, U.S.A.",
+  "cn": "Family Album，U.S.A.。",
+  "score": 0.3
+ },
+ {
+  "i": 62,
+  "en": "It's an album of pictures of the United States:",
+  "cn": "这是一本关于美国的摄影集：",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "the cities, the special places, and the people.",
+  "cn": "城市、特别的地方，还有人们。",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "And these are pictures of people working:",
+  "cn": "这些是工作中的人们的照片：",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "steelworkers, bankers, police, street vendors, ambulance drivers, doctors....",
+  "cn": "钢铁工人、银行职员、警察、街头小贩，",
+  "score": 0.71
+ },
+ {
+  "i": 66,
+  "en": "Oh, this is my father.",
+  "cn": "哦，这是我父亲，他是一名医生。",
+  "score": 0.69
+ },
+ {
+  "i": 67,
+  "en": "He's a doctor.",
+  "cn": "他是一个医生。",
+  "score": 0.3
+ },
+ {
+  "i": 68,
+  "en": "This is my mother.",
+  "cn": "这是我母亲。",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "What's her name?",
+  "cn": "她叫什么名字？",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "Ellen.",
+  "cn": "Ellen。",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "My younger brother, Robbie.",
+  "cn": "我的弟弟，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "He goes to high school.",
+  "cn": "他在上高中。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "This is my sister Susan.",
+  "cn": "这是我姐姐 Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 74,
+  "en": "She works for a toy company.",
+  "cn": "她在一家玩具公司工作。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "Here's my grandfather.",
+  "cn": "这是我祖父，他住在佛罗里达州。",
+  "score": 0.58
+ },
+ {
+  "i": 76,
+  "en": "He lives in Florida.",
+  "cn": "他住在Florida。",
+  "score": 0.3
+ },
+ {
+  "i": 77,
+  "en": "And this is my wife Marilyn.",
+  "cn": "这是我妻子 Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "Oh, she's very pretty.",
+  "cn": "哦，她很漂亮。",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "Thanks. And what about your family?",
+  "cn": "谢谢。那你的家人呢？",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "They're in Thessaloniki.",
+  "cn": "他们在塞萨洛尼基。",
+  "score": 0.72
+ },
+ {
+  "i": 81,
+  "en": "That's a large city in northern Greece.",
+  "cn": "那是希腊北部的一座大城市。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "But now I'm living in the Bronx.",
+  "cn": "但我现在住在布朗克斯区。",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "With a Greek-American family?",
+  "cn": "和一个希腊裔美国家庭住在一起？",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "No. Hispanic.",
+  "cn": "不，是拉丁裔家庭。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "Oh no!",
+  "cn": "哦不！",
+  "score": 0.3
+ },
+ {
+  "i": 86,
+  "en": "It's five thirty.",
+  "cn": "哦不！已经五点半了。",
+  "score": 0.75
+ },
+ {
+  "i": 87,
+  "en": "Will you excuse me?",
+  "cn": "请允许我先告辞？",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "I have to meet my wife.",
+  "cn": "我要去接我妻子。",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "It was nice meeting you.",
+  "cn": "很高兴认识你。",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "It was a pleasure meeting you, too.",
+  "cn": "认识你也是我的荣幸。",
+  "score": 1.0
+ },
+ {
+  "i": 91,
+  "en": "Thanks for your help.",
+  "cn": "谢谢你的帮助。",
+  "score": 1.0
+ },
+ {
+  "i": 92,
+  "en": "And good luck!",
+  "cn": "随时都行，祝你好运。",
+  "score": 0.68
+ },
+ {
+  "i": 93,
+  "en": "I'vve got to go.",
+  "cn": "祝你好运！我得走了。",
+  "score": 0.54
+ },
+ {
+  "i": 94,
+  "en": "By the way.",
+  "cn": "顺便这方式。",
+  "score": 0.3
+ },
+ {
+  "i": 95,
+  "en": "I'm Richard.",
+  "cn": "我是 Richard，你叫什么名字？",
+  "score": 0.5
+ },
+ {
+  "i": 96,
+  "en": "What's your name?",
+  "cn": "甜点是什么？",
+  "score": 0.47
+ },
+ {
+  "i": 97,
+  "en": "Alexandra.",
+  "cn": "Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "Bye-bye, Alexandra. Thanks.",
+  "cn": "再见，Alexandra，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Bye-bye. Richard! Richard! You left your bag!",
+  "cn": "再见。Richard！Richard！你把包落下了！",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "Excuse me, officer.",
+  "cn": "打扰一下，警官。",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "Can you help me?",
+  "cn": "您能帮帮我吗？",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "Sure.",
+  "cn": "当然。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "Can you tell me",
+  "cn": "您能告诉我",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "how to get to Linden Street, in Riverdale?",
+  "cn": "怎么去 Riverdale 的 Linden 街吗？",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "\"Richard Stewart, 46 Linden Street, Riverdale, New York.\"",
+  "cn": "Richard Stewart，林登大街46号。",
+  "score": 0.71
+ },
+ {
+  "i": 106,
+  "en": "You should take the number 1 subway.",
+  "cn": "你应该乘坐1号地铁。",
+  "score": 1.0
+ },
+ {
+  "i": 107,
+  "en": "Is there a station near here?",
+  "cn": "附近有地铁站吗？",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "Yes. The station's that way.",
+  "cn": "有，地铁站在那个方向。",
+  "score": 1.0
+ },
+ {
+  "i": 109,
+  "en": "You should take the number 1 train to Van Cortlandt Park.",
+  "cn": "你应该乘坐1号列车",
+  "score": 0.71
+ },
+ {
+  "i": 110,
+  "en": "Number 1 train to Van Cortlandt park. Thank you.",
+  "cn": "1号列车到 Van Cortlandt 公园，谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Anytime. Good luck.",
+  "cn": "任何时候。 ·  好 · 运气。",
+  "score": 0.3
+ },
+ {
+  "i": 112,
+  "en": "Remember, the number 1 train.",
+  "cn": "记住，乘1号列车，在上城方向的站台。",
+  "score": 0.72
+ },
+ {
+  "i": 113,
+  "en": "The uptown platform.",
+  "cn": "这 · 上城 · 月台。",
+  "score": 0.3
+ },
+ {
+  "i": 114,
+  "en": "Thank you.",
+  "cn": "谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 115,
+  "en": "You're welcome.",
+  "cn": "不客气。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Is this pink too bright for me?",
+  "cn": "这粉红色对我来说是不是太鲜艳了？",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Mmm-hmm.",
+  "cn": "嗯哼。",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "It is a very bright pink.",
+  "cn": "嗯，这粉红色确实很鲜艳。",
+  "score": 0.81
+ },
+ {
+  "i": 119,
+  "en": "Try this.",
+  "cn": "试试这件，是8号码。",
+  "score": 0.46
+ },
+ {
+  "i": 120,
+  "en": "It's size eight.",
+  "cn": "它是 · 尺码 · 八。",
+  "score": 0.3
+ },
+ {
+  "i": 121,
+  "en": "But I wear size ten.",
+  "cn": "但我穿10号。",
+  "score": 1.0
+ },
+ {
+  "i": 122,
+  "en": "How about green?",
+  "cn": "绿色的怎么样？是10号。",
+  "score": 0.61
+ },
+ {
+  "i": 123,
+  "en": "It's size ten.",
+  "cn": "它是 · 尺码 · 十。",
+  "score": 0.3
+ },
+ {
+  "i": 124,
+  "en": "Let me  try it on.",
+  "cn": "让我试穿一下。",
+  "score": 1.0
+ },
+ {
+  "i": 125,
+  "en": "I'm taking too much of your time.",
+  "cn": "我占用了您太多时间。",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "It's six o'clock.",
+  "cn": "已经六点了。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Where's my husband?",
+  "cn": "我丈夫在哪里？",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "I was expecting him  here at five forty-five.",
+  "cn": "我以为他五点四十五分就会来这里。",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "Don't worry.",
+  "cn": "别担心。",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "The traffic is very heavy at this hour.",
+  "cn": "别担心，这个时间段交通很拥挤。",
+  "score": 0.84
+ },
+ {
+  "i": 131,
+  "en": "I know. But we're going to be late for dinner.",
+  "cn": "我知道，但我们晚饭要迟到了。",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "I'll take this green sweater.",
+  "cn": "我要买这件绿色毛衣。",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "I like the color on me, don't you?",
+  "cn": "我觉得这颜色很适合我，你觉得呢？",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "I think it looks terrific on you.",
+  "cn": "我觉得您穿起来非常好看。",
+  "score": 1.0
+ },
+ {
+  "i": 135,
+  "en": "I'm sorry I'm so late.",
+  "cn": "对不起，我来这么晚。",
+  "score": 1.0
+ },
+ {
+  "i": 136,
+  "en": "I had a really bad day.",
+  "cn": "我今天真是糟透了。",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "It's ten after six. We're late.",
+  "cn": "已经六点十分了，我们要迟到了。",
+  "score": 1.0
+ },
+ {
+  "i": 138,
+  "en": "Robbie's cooking tonight, and dinner's at six thirty.",
+  "cn": "今晚 Robbie 做饭，晚饭是六点半。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "I know. I know. I'm really sorry.",
+  "cn": "我知道，我知道，真的很抱歉。",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "I left my bag of film on the ferry.",
+  "cn": "我把装胶卷的包落在渡轮上了。",
+  "score": 1.0
+ },
+ {
+  "i": 141,
+  "en": "I went back for it, but the ferry was gone.",
+  "cn": "我回去找，但渡轮已经开走了。",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "I lost a whole day's work.",
+  "cn": "我损失了整整一天的工作成果。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "I'll call the Staten Island Ferry lost-and found office.",
+  "cn": "我来给斯塔滕岛渡轮失物招领处打个电话。",
+  "score": 1.0
+ },
+ {
+  "i": 144,
+  "en": "I didn't think of that.",
+  "cn": "我没想到这个，谢谢。",
+  "score": 0.85
+ },
+ {
+  "i": 145,
+  "en": "Thanks.",
+  "cn": "不用了，谢谢。",
+  "score": 0.68
+ },
+ {
+  "i": 146,
+  "en": "Hello.",
+  "cn": "你好。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "Did anyone find a camera bag this afternoon,",
+  "cn": "今天下午有人找到一个相机包吗，",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "a small canvas bag,",
+  "cn": "一个小帆布包，",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "on the J. F. Kennedy Ferry? ...No?",
+  "cn": "在肯尼迪渡轮上？……没有？",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "Maybe someone will  find it.",
+  "cn": "也许有人会找到它。",
+  "score": 1.0
+ },
+ {
+  "i": 151,
+  "en": "The name is Stewart, Richard Stewart.",
+  "cn": "名字是 Stewart，Richard Stewart。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "And the telephone number is  five five five...three oh nine oh.",
+  "cn": "电话号码是555……",
+  "score": 0.77
+ },
+ {
+  "i": 153,
+  "en": "Thank you.",
+  "cn": "谢谢，不用了。",
+  "score": 0.78
+ },
+ {
+  "i": 154,
+  "en": "Sorry, Richard.",
+  "cn": "别担心，Richard。",
+  "score": 0.55
+ },
+ {
+  "i": 155,
+  "en": "They don't have it.",
+  "cn": "对不起，Richard，他们那里没有。",
+  "score": 0.7
+ },
+ {
+  "i": 156,
+  "en": "Thanks, anyway.",
+  "cn": "不管怎样，还是谢谢你。",
+  "score": 1.0
+ },
+ {
+  "i": 157,
+  "en": "There was a girl on the ferry.",
+  "cn": "渡轮上有个女孩。",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "Now maybe...",
+  "cn": "也许……",
+  "score": 1.0
+ },
+ {
+  "i": 159,
+  "en": "Tell me about it on the way home.",
+  "cn": "回家路上再跟我说吧。",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "And give her a teaspoon of the medicine after every meal.",
+  "cn": "每餐后给她服一茶匙药。",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "Don't worry.",
+  "cn": "别担心，她会好的。",
+  "score": 0.52
+ },
+ {
+  "i": 162,
+  "en": "She'll be fine.",
+  "cn": "嗯，她晚点会来。",
+  "score": 0.47
+ },
+ {
+  "i": 163,
+  "en": "You're welcome.",
+  "cn": "随时欢迎你来。",
+  "score": 0.73
+ },
+ {
+  "i": 164,
+  "en": "Good bye.",
+  "cn": "再见。",
+  "score": 0.53
+ },
+ {
+  "i": 165,
+  "en": "How are you?",
+  "cn": "你好吗？",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "I'm tired and hungry.",
+  "cn": "我又累又饿。",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "Well, Marilyn and Richard called.",
+  "cn": "嗯，Marilyn 和 Richard 打电话来了。",
+  "score": 1.0
+ },
+ {
+  "i": 168,
+  "en": "They'll be here soon, and then we'll eat.",
+  "cn": "他们很快就到，然后我们就吃饭。",
+  "score": 1.0
+ },
+ {
+  "i": 169,
+  "en": "All right.",
+  "cn": "好的，Susan……Susan 来吗？",
+  "score": 0.45
+ },
+ {
+  "i": 170,
+  "en": "Is...is Susan coming?",
+  "cn": "是…… · 是 ·Susan · 来？",
+  "score": 0.3
+ },
+ {
+  "i": 171,
+  "en": "I'll have vanilla.",
+  "cn": "我要香草味的。",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "Is that all right with everyone?",
+  "cn": "大家都同意吗？",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "I'll have chocolate.",
+  "cn": "我要巧克力味的。",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "Me, too.",
+  "cn": "我也是。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "Uh, one scoop of coffee and one scoop of chocolate for me.",
+  "cn": "和一勺巧克力味的给我。",
+  "score": 0.76
+ },
+ {
+  "i": 176,
+  "en": "Robbie, will you help me serve?",
+  "cn": "Robbie，你能帮我分一下吗？",
+  "score": 0.94
+ },
+ {
+  "i": 177,
+  "en": "I keep thinking about that bag of film.",
+  "cn": "我一直在想那包胶卷，整整八卷。",
+  "score": 0.84
+ },
+ {
+  "i": 178,
+  "en": "Eight rolls.",
+  "cn": "八卷。",
+  "score": 0.3
+ },
+ {
+  "i": 179,
+  "en": "a whole day's work.",
+  "cn": "整整一天的工作成果。",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "And good stuff,too.",
+  "cn": "而且都是好照片。",
+  "score": 1.0
+ },
+ {
+  "i": 181,
+  "en": "I'll get it. Hello.",
+  "cn": "我去开门，你好。",
+  "score": 1.0
+ },
+ {
+  "i": 182,
+  "en": "Hello. Does Richard Stewart live here?",
+  "cn": "Richard Stewart 住在这里吗？",
+  "score": 0.77
+ },
+ {
+  "i": 183,
+  "en": "Yes, he's my brother. I'm Robbie...Robbie Stewart.",
+  "cn": "我是 Robbie……Robbie Stewart。",
+  "score": 0.6
+ },
+ {
+  "i": 184,
+  "en": "I'm Alexandra Pappas. How do you do?",
+  "cn": "我是 Alexandra Pappas。",
+  "score": 0.64
+ },
+ {
+  "i": 185,
+  "en": "Your brother left his bag of film on the ferryboat.",
+  "cn": "你哥哥把装胶卷的包落在渡轮上了。",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "I found it.",
+  "cn": "我找到了。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "I'm really glad to see you.",
+  "cn": "我真的很高兴见到你。",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "I mean...my brother'll be really glad to see you!",
+  "cn": "我是说……我哥哥会非常高兴见到你的！",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "Robbie! Who is it?",
+  "cn": "Robbie！是谁啊？",
+  "score": 0.89
+ },
+ {
+  "i": 190,
+  "en": "It's Richard's film!",
+  "cn": "是 Richard 的胶卷！",
+  "score": 0.8
+ },
+ {
+  "i": 191,
+  "en": "I mean, Alexandra Pappas.",
+  "cn": "我是说，Alexandra Pappas。",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "Come in, please.",
+  "cn": "进来里，请。",
+  "score": 0.3
+ },
+ {
+  "i": 193,
+  "en": "Alexandra!",
+  "cn": "Alexandra！",
+  "score": 0.79
+ },
+ {
+  "i": 194,
+  "en": "Hello, Richard.",
+  "cn": "你好。",
+  "score": 0.53
+ },
+ {
+  "i": 195,
+  "en": "I found your bag!",
+  "cn": "你好，Richard，我找到你的包了！",
+  "score": 0.68
+ },
+ {
+  "i": 196,
+  "en": "Oh, thank you! Thank you!",
+  "cn": "哦，谢谢你！谢谢你！",
+  "score": 1.0
+ },
+ {
+  "i": 197,
+  "en": "Um...Alexandra, let me introduce you.",
+  "cn": "嗯……Alexandra，让我来介绍一下。",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "This is my wife Marilyn.",
+  "cn": "这是我妻子 Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "Richard showed me your photo.",
+  "cn": "Richard 给我看过你的照片。",
+  "score": 0.93
+ },
+ {
+  "i": 200,
+  "en": "How do you do?",
+  "cn": "您好。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "Oh yes.",
+  "cn": "哦是的。",
+  "score": 0.3
+ },
+ {
+  "i": 202,
+  "en": "Richard told us all about you.",
+  "cn": "Richard 跟我们说了很多关于你的事。",
+  "score": 0.93
+ },
+ {
+  "i": 203,
+  "en": "It's nice to meet you.",
+  "cn": "很高兴认识你。",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "And this is my mother, Ellen Stewart.",
+  "cn": "这是我母亲，Ellen Stewart。",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "How do you do?",
+  "cn": "您好。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "And my father, Dr.Philip Stewart.",
+  "cn": "这是我父亲，Philip Stewart 医生。",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "Nice to meet you, Alexandra.",
+  "cn": "很高兴认识你，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "And...ah...you met Robbie",
+  "cn": "还有……啊……你已经见过 Robbie 了。",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "Yes. And you must be Susan. Hi.",
+  "cn": "是的，你一定是 Susan，你好。",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "Hi. Welcome.",
+  "cn": "你好，欢迎。",
+  "score": 1.0
+ },
+ {
+  "i": 211,
+  "en": "I'm so glad you found the bag and took the time and trouble to return it.",
+  "cn": "并且花时间和精力把它送回来。",
+  "score": 0.67
+ },
+ {
+  "i": 212,
+  "en": "Oh, it was no trouble.",
+  "cn": "哦，这没什么麻烦的。",
+  "score": 1.0
+ },
+ {
+  "i": 213,
+  "en": "I just took the wrong train.",
+  "cn": "我只是坐错了地铁。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "Would you like something to eat?",
+  "cn": "你想吃点什么吗？",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "Thank you, no.",
+  "cn": "谢谢，再见。Gerald，再见。",
+  "score": 0.46
+ },
+ {
+  "i": 216,
+  "en": "I'm late for dinner at my house.",
+  "cn": "我在家里的晚饭已经迟了。",
+  "score": 1.0
+ },
+ {
+  "i": 217,
+  "en": "I really have to go.",
+  "cn": "我真的得走了。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "Would you like to call home?",
+  "cn": "你想打电话回家吗？",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "I'd appreciate that.",
+  "cn": "那就太感谢了。",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "Please, use the phone.",
+  "cn": "请用电话。",
+  "score": 1.0
+ },
+ {
+  "i": 221,
+  "en": "Thanks. Excuse me.",
+  "cn": "谢谢。抱歉我。",
+  "score": 0.3
+ },
+ {
+  "i": 222,
+  "en": "Alexandra's a high-school exchange student from Greece.",
+  "cn": "Alexandra 是来自希腊的高中交换生。",
+  "score": 0.9
+ },
+ {
+  "i": 223,
+  "en": "Where does she live?",
+  "cn": "她住在哪里？",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "With a family in the Bronx.",
+  "cn": "和布朗克斯区的一个家庭住在一起。",
+  "score": 1.0
+ },
+ {
+  "i": 225,
+  "en": "Oh, that's not too far from here!",
+  "cn": "哦，那离这里不太远！",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "Take it easy, Robbie.",
+  "cn": "别激动，Robbie。",
+  "score": 1.0
+ },
+ {
+  "i": 227,
+  "en": "Thank you. I can only stay a few minutes.",
+  "cn": "我只能待几分钟。",
+  "score": 0.82
+ },
+ {
+  "i": 228,
+  "en": "Have some iced tea.",
+  "cn": "喝点冰茶吧。",
+  "score": 1.0
+ },
+ {
+  "i": 229,
+  "en": "Thanks, Mrs. Stewart.",
+  "cn": "谢谢，Stewart 太太。",
+  "score": 1.0
+ },
+ {
+  "i": 230,
+  "en": "Please sit down, Alexandra.",
+  "cn": "请坐，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 231,
+  "en": "So, you're an exchange student.",
+  "cn": "那么，你是交换生。",
+  "score": 1.0
+ },
+ {
+  "i": 232,
+  "en": "Where do you go to school?",
+  "cn": "你在哪里上学？",
+  "score": 1.0
+ },
+ {
+  "i": 233,
+  "en": "At the Bronx High School of Science.",
+  "cn": "在布朗克斯科学高中。",
+  "score": 1.0
+ },
+ {
+  "i": 234,
+  "en": "Oh, that's a very good school.",
+  "cn": "哦，那是一所非常好的学校。",
+  "score": 1.0
+ },
+ {
+  "i": 235,
+  "en": "What are your favorite subjects?",
+  "cn": "你最喜欢什么科目？",
+  "score": 1.0
+ },
+ {
+  "i": 236,
+  "en": "Biology and mathematics.",
+  "cn": "生物和数学。",
+  "score": 1.0
+ },
+ {
+  "i": 237,
+  "en": "Richard tells me you're a doctor.",
+  "cn": "Richard 告诉我你是一名医生。",
+  "score": 0.93
+ },
+ {
+  "i": 238,
+  "en": "Yes, a pediatrician.",
+  "cn": "是的，儿科医生。",
+  "score": 1.0
+ },
+ {
+  "i": 239,
+  "en": "And what does your father do?",
+  "cn": "你父亲是做什么的？",
+  "score": 1.0
+ },
+ {
+  "i": 240,
+  "en": "He's a lawyer, in Thessaloniki.",
+  "cn": "他是律师，在塞萨洛尼基。",
+  "score": 1.0
+ },
+ {
+  "i": 241,
+  "en": "Would you like some pasta?",
+  "cn": "你想吃点意大利面吗？",
+  "score": 1.0
+ },
+ {
+  "i": 242,
+  "en": "I made it myself.",
+  "cn": "是我自己做的。",
+  "score": 1.0
+ },
+ {
+  "i": 243,
+  "en": "It might be a little cold. ",
+  "cn": "可能有点凉了。",
+  "score": 1.0
+ },
+ {
+  "i": 244,
+  "en": "Thanks, no.",
+  "cn": "谢谢，不。",
+  "score": 0.3
+ },
+ {
+  "i": 245,
+  "en": "I do have to go.",
+  "cn": "谢谢，不用了，我真的得走了。",
+  "score": 0.74
+ },
+ {
+  "i": 246,
+  "en": "It was nice meeting you all.",
+  "cn": "很高兴认识你们大家。",
+  "score": 1.0
+ },
+ {
+  "i": 247,
+  "en": "Well, maybe you'll come for lunch some Sunday,",
+  "cn": "嗯，也许某个周日你可以来吃午饭，",
+  "score": 1.0
+ },
+ {
+  "i": 248,
+  "en": "so we can really thank you for bringing Richard's bag bak. ",
+  "cn": "这样我们才能真正感谢你",
+  "score": 0.59
+ },
+ {
+  "i": 249,
+  "en": "Maybe.",
+  "cn": "也许吧。",
+  "score": 1.0
+ },
+ {
+  "i": 250,
+  "en": "You're welcome anytime.",
+  "cn": "不客气，再见。",
+  "score": 0.61
+ },
+ {
+  "i": 251,
+  "en": "Good-bye.",
+  "cn": "晚安。",
+  "score": 0.47
+ },
+ {
+  "i": 252,
+  "en": "Can I  drive you home?",
+  "cn": "我能开车送你回家吗？",
+  "score": 1.0
+ },
+ {
+  "i": 253,
+  "en": "No, thanks.",
+  "cn": "不，谢谢。",
+  "score": 0.3
+ },
+ {
+  "i": 254,
+  "en": "The train is just up the street.",
+  "cn": "地铁站就在街上。",
+  "score": 1.0
+ },
+ {
+  "i": 255,
+  "en": "It won't take me  long at all.",
+  "cn": "一点都不远。",
+  "score": 1.0
+ },
+ {
+  "i": 256,
+  "en": "Well, you really saved the day for me, Alexandra.",
+  "cn": "嗯，你真的帮了我大忙，Alexandra。",
+  "score": 1.0
+ },
+ {
+  "i": 257,
+  "en": "Bye.",
+  "cn": "再见",
+  "score": 0.3
+ },
+ {
+  "i": 258,
+  "en": "Bye-bye.",
+  "cn": "再见。",
+  "score": 0.3
+ },
+ {
+  "i": 259,
+  "en": "Good night.",
+  "cn": "好夜。",
+  "score": 0.3
+ },
+ {
+  "i": 260,
+  "en": "She's a smart young lady, and very nice.",
+  "cn": "她是个聪明的年轻女士，非常好。",
+  "score": 1.0
+ },
+ {
+  "i": 261,
+  "en": "Very!",
+  "cn": "非常！",
+  "score": 0.3
+ },
+ {
+  "i": 262,
+  "en": "Hey, she forgot her bag!",
+  "cn": "非常！嘿，她忘了她的包！",
+  "score": 0.87
+ },
+ {
+  "i": 263,
+  "en": "I guess we'll be seeing Alexandra again, Right, Robbie?",
+  "cn": "我想我们还会再见到 Alexandra 的。",
+  "score": 0.83
+ }
+]
