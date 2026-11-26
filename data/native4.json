@@ -1,0 +1,1274 @@
+[
+ {
+  "i": 0,
+  "en": "I'm exhausted.",
+  "cn": "Marilyn，我累坏了，动不了了。",
+  "score": 0.47
+ },
+ {
+  "i": 1,
+  "en": "My new exercise class is so hard.",
+  "cn": "我累坏了，我新的健身课太难了。",
+  "score": 0.77
+ },
+ {
+  "i": 2,
+  "en": "Your new exercise class?",
+  "cn": "你新的健身课？",
+  "score": 1.0
+ },
+ {
+  "i": 3,
+  "en": "Yeah.",
+  "cn": "是啊。",
+  "score": 0.3
+ },
+ {
+  "i": 4,
+  "en": "My new advanced exercise class.",
+  "cn": "对，我新的高级健身课。",
+  "score": 0.89
+ },
+ {
+  "i": 5,
+  "en": "Why advanced?",
+  "cn": "为什么是高级？",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "My instructor thought that the beginner's class was too easy for me.",
+  "cn": "初级班对我来说太简单了。",
+  "score": 0.72
+ },
+ {
+  "i": 7,
+  "en": "Too easy for you?",
+  "cn": "对你来说太简单？",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "Don't laugh.",
+  "cn": "你也别忘了。",
+  "score": 0.46
+ },
+ {
+  "i": 9,
+  "en": "In the beginner's class, they give you a chance to rest between exercises.",
+  "cn": "他们让你在练习之间有休息时间。",
+  "score": 0.76
+ },
+ {
+  "i": 10,
+  "en": "So?",
+  "cn": "所以呢？",
+  "score": 1.0
+ },
+ {
+  "i": 11,
+  "en": "The advanced class is nonstop.",
+  "cn": "高级班是连着不停歇的。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "I lift weights every morning for sixty minutes without stopping.",
+  "cn": "我每天早上举重六十分钟，",
+  "score": 0.83
+ },
+ {
+  "i": 13,
+  "en": "No problem.",
+  "cn": "没问题。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "Listen, Richard, doing aerobies for an hour is a lot different than lifting weights.",
+  "cn": "做一小时有氧运动和举重可大不一样。",
+  "score": 0.82
+ },
+ {
+  "i": 15,
+  "en": "Yeah.",
+  "cn": "是啊。",
+  "score": 0.3
+ },
+ {
+  "i": 16,
+  "en": "Quite a bit different.",
+  "cn": "是啊，差别挺大。",
+  "score": 0.86
+ },
+ {
+  "i": 17,
+  "en": "I think aerobics.",
+  "cn": "我觉得有氧运动很简单。",
+  "score": 0.72
+ },
+ {
+  "i": 18,
+  "en": "I could work out in your class with no problem.",
+  "cn": "我去你的班上做也没问题。",
+  "score": 1.0
+ },
+ {
+  "i": 19,
+  "en": "You think so?",
+  "cn": "你这么想？",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "Oh, without a doubt.",
+  "cn": "哦，毫无疑问。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "When's the next class?",
+  "cn": "下一节课什么时候？",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "Tomorrow morning at ten O'clock.",
+  "cn": "明天早上十点，试试吧。",
+  "score": 0.82
+ },
+ {
+  "i": 23,
+  "en": "Try it.",
+  "cn": "试它。",
+  "score": 0.3
+ },
+ {
+  "i": 24,
+  "en": "Tomorrow morning after lifting weights, I'll try aerobics.",
+  "cn": "明天早上举完重，",
+  "score": 0.74
+ },
+ {
+  "i": 25,
+  "en": "It's a snap.",
+  "cn": "一言为定。",
+  "score": 0.6
+ },
+ {
+  "i": 26,
+  "en": "Tomorrow morning ten O'clock.",
+  "cn": "小菜一碟，明天早上十点。",
+  "score": 0.68
+ },
+ {
+  "i": 27,
+  "en": "Aren't you going to the aerobics class this morning?",
+  "cn": "你今天早上不去上有氧课吗？",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "Of course.",
+  "cn": "当然去，简单，小意思。",
+  "score": 0.5
+ },
+ {
+  "i": 29,
+  "en": "Easy.",
+  "cn": "容易。",
+  "score": 0.3
+ },
+ {
+  "i": 30,
+  "en": "No sweat.",
+  "cn": "没有汗。",
+  "score": 0.3
+ },
+ {
+  "i": 31,
+  "en": "You are not going to able to move after this and the aerobics class.",
+  "cn": "做完这个再加上有氧课，",
+  "score": 0.58
+ },
+ {
+  "i": 32,
+  "en": "Are you kidding me?",
+  "cn": "你开玩笑吧？",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "It's going to be a piece of cake.",
+  "cn": "那还不是小菜一碟。",
+  "score": 1.0
+ },
+ {
+  "i": 34,
+  "en": "You want to bet.",
+  "cn": "你要不要打赌？",
+  "score": 1.0
+ },
+ {
+  "i": 35,
+  "en": "Yeah.",
+  "cn": "是啊。",
+  "score": 0.3
+ },
+ {
+  "i": 36,
+  "en": "What's the bet?",
+  "cn": "好啊，赌什么？",
+  "score": 0.81
+ },
+ {
+  "i": 37,
+  "en": "I bet I can go one hour in your class this morning and not feel a thing!",
+  "cn": "我赌我今天能在你的课上撑满一小时，",
+  "score": 0.77
+ },
+ {
+  "i": 38,
+  "en": "The bet is-I win, and you cook dinner for the entire family.",
+  "cn": "赌注是——我赢了，你给全家做晚饭。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "Or you win, and I cook dinner for the entire family.",
+  "cn": "你赢了，我给全家做晚饭。",
+  "score": 1.0
+ },
+ {
+  "i": 40,
+  "en": "It's a bet.",
+  "cn": "它是一个赌注。",
+  "score": 0.3
+ },
+ {
+  "i": 41,
+  "en": "OK.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 42,
+  "en": "Call my instructor, Jack Davis, right now.",
+  "cn": "好，现在就给我的教练 Jack Davis 打电话。",
+  "score": 0.93
+ },
+ {
+  "i": 43,
+  "en": "His number is 555-8842.",
+  "cn": "他的号码是 555-8842。",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "The advanced class starts at ten O'clock.",
+  "cn": "高级班十点开始。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "Well, it's eight twenty now.",
+  "cn": "嗯，现在八点二十。",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "It only takes eight minutes by bicycle to the aerobics class.",
+  "cn": "骑车去健身房只要八分钟。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "Give him a call.",
+  "cn": "给他打电话吧。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "Davis Aerobics Center for Good Health.",
+  "cn": "Davis 健身健康中心。",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "Jack Davis, please.",
+  "cn": "请找 Jack Davis。",
+  "score": 1.0
+ },
+ {
+  "i": 50,
+  "en": "This is Jack Davis.",
+  "cn": "我就是 Jack Davis。",
+  "score": 1.0
+ },
+ {
+  "i": 51,
+  "en": "Hello.",
+  "cn": "你好",
+  "score": 0.3
+ },
+ {
+  "i": 52,
+  "en": "This is Richard Stewart.",
+  "cn": "你好，我是 Richard Stewart。",
+  "score": 0.85
+ },
+ {
+  "i": 53,
+  "en": "My wife, Marilyn Stewart,",
+  "cn": "我妻子 Marilyn Stewart 是您课程的会员。",
+  "score": 0.53
+ },
+ {
+  "i": 54,
+  "en": "is a member of your program.",
+  "cn": "是一个成员 的你的节目。",
+  "score": 0.3
+ },
+ {
+  "i": 55,
+  "en": "I'd like to come to the ten o'clock advanced class this morning.",
+  "cn": "今天早上十点的高级班。",
+  "score": 0.74
+ },
+ {
+  "i": 56,
+  "en": "Oh, fine,fine.",
+  "cn": "哦，好，好。",
+  "score": 0.3
+ },
+ {
+  "i": 57,
+  "en": "Be here a few minutes early.",
+  "cn": "哦，好的好的，请提前几分钟到。",
+  "score": 0.78
+ },
+ {
+  "i": 58,
+  "en": "You need to complete some forms before the class.",
+  "cn": "上课前您需要填几张表。",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "You need to complete some forms before the class.",
+  "cn": "你需要去完成一些表格在 之前这课。",
+  "score": 0.3
+ },
+ {
+  "i": 60,
+  "en": "Thanks.",
+  "cn": "谢谢！",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "I'm on my way over.",
+  "cn": "谢谢，我这就过去。",
+  "score": 0.84
+ },
+ {
+  "i": 62,
+  "en": "Good-bye.",
+  "cn": "再见。",
+  "score": 1.0
+ },
+ {
+  "i": 63,
+  "en": "Bye-bye.",
+  "cn": "再见。",
+  "score": 0.76
+ },
+ {
+  "i": 64,
+  "en": "It's all set.",
+  "cn": "再见，搞定了，我走了。",
+  "score": 0.54
+ },
+ {
+  "i": 65,
+  "en": "I'm going.",
+  "cn": "我去。",
+  "score": 0.3
+ },
+ {
+  "i": 66,
+  "en": "Bye.",
+  "cn": "再见",
+  "score": 0.3
+ },
+ {
+  "i": 67,
+  "en": "See you later.",
+  "cn": "回头见。",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "Good luck.",
+  "cn": "祝你好运。",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "Don't forget about the bet.",
+  "cn": "别忘了我们打的赌。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "Dinner for the entire family.",
+  "cn": "给全家做晚饭。",
+  "score": 1.0
+ },
+ {
+  "i": 71,
+  "en": "And that includes Susan.",
+  "cn": "包括 Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Don't you forget.",
+  "cn": "别忘了 Susan。",
+  "score": 0.62
+ },
+ {
+  "i": 73,
+  "en": "OK, Richard.",
+  "cn": "怎么了，Richard。",
+  "score": 0.59
+ },
+ {
+  "i": 74,
+  "en": "That's terrific.",
+  "cn": "好的，Richard，太棒了。",
+  "score": 0.64
+ },
+ {
+  "i": 75,
+  "en": "Your pressure is 120 over 75, and that's fine.",
+  "cn": "你的血压是 120/75，很正常。",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "Now stand up,please.",
+  "cn": "现在请站起来。",
+  "score": 1.0
+ },
+ {
+  "i": 77,
+  "en": "Good, it's 122 over 80.",
+  "cn": "好，122/80。",
+  "score": 1.0
+ },
+ {
+  "i": 78,
+  "en": "You can sit down now.",
+  "cn": "你现在可以坐下了。",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "When was your last complete physical?",
+  "cn": "你上次做全面体检是什么时候？",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "Six months ago.",
+  "cn": "六个月前。",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Good.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 82,
+  "en": "Do you have any back or knee problems?",
+  "cn": "好，您的腰或膝盖有什么问题吗？",
+  "score": 0.92
+ },
+ {
+  "i": 83,
+  "en": "Nope.",
+  "cn": "不疼。",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "I am in perfect health.",
+  "cn": "没有，我身体棒极了。",
+  "score": 0.87
+ },
+ {
+  "i": 85,
+  "en": "What do you do for a living, Mr.Stewart?",
+  "cn": "您是做什么工作的，Stewart 先生？",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "I'm a photographer.",
+  "cn": "我是摄影师。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Interesting.",
+  "cn": "有趣的。",
+  "score": 0.3
+ },
+ {
+  "i": 88,
+  "en": "What do you photograph?",
+  "cn": "有意思，您拍什么？",
+  "score": 0.79
+ },
+ {
+  "i": 89,
+  "en": "Everything.",
+  "cn": "一切。",
+  "score": 0.3
+ },
+ {
+  "i": 90,
+  "en": "The American scene.",
+  "cn": "什么都拍，美国风光，人物、地点、事件。",
+  "score": 0.49
+ },
+ {
+  "i": 91,
+  "en": "People, places, events.",
+  "cn": "人们，地方，事件。",
+  "score": 0.3
+ },
+ {
+  "i": 92,
+  "en": "Did you ever think of photographing an aerobics class?",
+  "cn": "您有没有想过拍一节有氧课？",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "No...I can't remember taking pictures of people exercising.",
+  "cn": "没……我不记得拍过别人健身的照片。",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "But don't you think it'd be a good subject?",
+  "cn": "但你不觉得这是个好题材吗？",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "Sure.",
+  "cn": "当然。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "I need some good photos for my advertising, Mr.Stewart.",
+  "cn": "我需要一些好照片做广告，Stewart 先生。",
+  "score": 1.0
+ },
+ {
+  "i": 97,
+  "en": "Maybe you can photograph a class, and I can give you and Mrs.Stewart a month of classes-free.",
+  "cn": "这样我可以让您和 Stewart 太太",
+  "score": 0.51
+ },
+ {
+  "i": 98,
+  "en": "When can I photograph a class?",
+  "cn": "我什么时候可以来拍？",
+  "score": 1.0
+ },
+ {
+  "i": 99,
+  "en": "Anytime.",
+  "cn": "随时都行。",
+  "score": 1.0
+ },
+ {
+  "i": 100,
+  "en": "How about today?",
+  "cn": "今天怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "Terrific!",
+  "cn": "太好了！",
+  "score": 1.0
+ },
+ {
+  "i": 102,
+  "en": "Hi.",
+  "cn": "嗨。",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "Oh, hi.",
+  "cn": "哦，嗨。",
+  "score": 1.0
+ },
+ {
+  "i": 104,
+  "en": "Are we ready to go?",
+  "cn": "我们准备好了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 105,
+  "en": "Yeah. Yeah.",
+  "cn": "是啊。是啊。",
+  "score": 0.3
+ },
+ {
+  "i": 106,
+  "en": "Let's get in our lines.",
+  "cn": "好了好了，大家排好队。",
+  "score": 0.82
+ },
+ {
+  "i": 107,
+  "en": "We're going to take it slow first.",
+  "cn": "我们先慢慢来。",
+  "score": 1.0
+ },
+ {
+  "i": 108,
+  "en": "Stretch up... and we're going to go left first...2,3,4,... now stretch...OK,hold to the right.",
+  "cn": "向上伸展……我们先向左……",
+  "score": 0.62
+ },
+ {
+  "i": 109,
+  "en": "Sunrises.",
+  "cn": "日出。",
+  "score": 0.3
+ },
+ {
+  "i": 110,
+  "en": "Stretch it out.",
+  "cn": "日出式，伸展出去，背挺直。",
+  "score": 0.56
+ },
+ {
+  "i": 111,
+  "en": "Flat back.",
+  "cn": "平的背。",
+  "score": 0.3
+ },
+ {
+  "i": 112,
+  "en": "Bring it up...and twists...and side...2,3...and left...push...push...turn...hit the floor.",
+  "cn": "抬起来……扭转……侧身……2、3……",
+  "score": 0.62
+ },
+ {
+  "i": 113,
+  "en": "Take it side again...OK, and switch.",
+  "cn": "再来侧身……好，换边，伸展出去。",
+  "score": 0.8
+ },
+ {
+  "i": 114,
+  "en": "Stretch it out .",
+  "cn": "伸展它出。",
+  "score": 0.3
+ },
+ {
+  "i": 115,
+  "en": "And we're going to warm down with a tango.",
+  "cn": "我们用一段探戈来放松。",
+  "score": 1.0
+ },
+ {
+  "i": 116,
+  "en": "Left, Right.",
+  "cn": "左、右，享受它。",
+  "score": 0.61
+ },
+ {
+  "i": 117,
+  "en": "Enjoy it.",
+  "cn": "享受它。",
+  "score": 0.3
+ },
+ {
+  "i": 118,
+  "en": "Richard, did you go to the Davis Aerobics calss today?",
+  "cn": "Richard，你今天去上 Davis 有氧课了吗？",
+  "score": 0.92
+ },
+ {
+  "i": 119,
+  "en": "Yes, I went to the aerobics class today.",
+  "cn": "去了，我今天去上有氧课了。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "What is wrong with you?",
+  "cn": "你怎么了？",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "Nothing.",
+  "cn": "没什么。",
+  "score": 0.3
+ },
+ {
+  "i": 122,
+  "en": "I am in excellent health.",
+  "cn": "没什么，我身体好极了。",
+  "score": 0.85
+ },
+ {
+  "i": 123,
+  "en": "I have ideal blood pressure.",
+  "cn": "血压理想，心脏完美。",
+  "score": 0.71
+ },
+ {
+  "i": 124,
+  "en": "A perfect heart.",
+  "cn": "一个完美的心脏。",
+  "score": 0.3
+ },
+ {
+  "i": 125,
+  "en": "In other words.",
+  "cn": "换句话说，我状态绝佳。",
+  "score": 0.51
+ },
+ {
+  "i": 126,
+  "en": "I'm in wonderful condition.",
+  "cn": "我是在极好的 状况。",
+  "score": 0.3
+ },
+ {
+  "i": 127,
+  "en": "Richard, did you go to the aerobics class, really?",
+  "cn": "Richard，你真的去上有氧课了吗？",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "And don't forget to invite Susan for dinner.",
+  "cn": "别忘了请 Susan 来吃晚饭。",
+  "score": 1.0
+ },
+ {
+  "i": 129,
+  "en": "And your legs don't hurt?",
+  "cn": "你的腿不疼吗？",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "Hurt?",
+  "cn": "痛？",
+  "score": 0.3
+ },
+ {
+  "i": 131,
+  "en": "What do you mean?",
+  "cn": "疼？什么意思？",
+  "score": 0.84
+ },
+ {
+  "i": 132,
+  "en": "What about your arms?",
+  "cn": "你的胳膊呢？像这样把胳膊抬起来。",
+  "score": 0.55
+ },
+ {
+  "i": 133,
+  "en": "Lift your arms up like this.",
+  "cn": "举你的手臂上像这个。",
+  "score": 0.3
+ },
+ {
+  "i": 134,
+  "en": "And they don't hurt not even a little?",
+  "cn": "一点都不疼吗？",
+  "score": 0.9
+ },
+ {
+  "i": 135,
+  "en": "Nope.",
+  "cn": "不。",
+  "score": 0.3
+ },
+ {
+  "i": 136,
+  "en": "You are in great-condition.",
+  "cn": "你状态真好，我真不敢相信！",
+  "score": 0.66
+ },
+ {
+  "i": 137,
+  "en": "I can't believe it!",
+  "cn": "我就知道！",
+  "score": 0.47
+ },
+ {
+  "i": 138,
+  "en": "Grandpa, Ellen, Philip, Robbie, you and me.",
+  "cn": "爷爷、Ellen、Philip、Robbie、你和我。",
+  "score": 1.0
+ },
+ {
+  "i": 139,
+  "en": "That's six steaks.",
+  "cn": "那是六块牛排。",
+  "score": 1.0
+ },
+ {
+  "i": 140,
+  "en": "Don't forget Susan.",
+  "cn": "别忘了呼吸。",
+  "score": 0.57
+ },
+ {
+  "i": 141,
+  "en": "Seven steaks.",
+  "cn": "七块牛排。",
+  "score": 1.0
+ },
+ {
+  "i": 142,
+  "en": "Cooking dinner for the entire family is not so easy.",
+  "cn": "给全家做晚饭可不容易。",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "The shopping: the salad: tomatoes,lettuce, cucumbers, and onions.",
+  "cn": "西红柿、生菜、黄瓜和洋葱。",
+  "score": 0.71
+ },
+ {
+  "i": 144,
+  "en": "The main course : steak and potatoes.",
+  "cn": "主菜：牛排和土豆。",
+  "score": 1.0
+ },
+ {
+  "i": 145,
+  "en": "Richard, how much broccoli do I need for seven people?",
+  "cn": "Richard，七个人我需要多少西兰花？",
+  "score": 1.0
+ },
+ {
+  "i": 146,
+  "en": "Marilyn, I have to tell you something.",
+  "cn": "Marilyn，我得告诉你一件事。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "At today's exercise class...",
+  "cn": "在今天的健身课上……",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "Yes, Richard.",
+  "cn": "听着，Richard，",
+  "score": 0.57
+ },
+ {
+  "i": 149,
+  "en": "Well, I didn't really exercise.",
+  "cn": "嗯，我没真的健身。",
+  "score": 1.0
+ },
+ {
+  "i": 150,
+  "en": "I knew it!",
+  "cn": "我知道它！",
+  "score": 0.3
+ },
+ {
+  "i": 151,
+  "en": "I wanted to, but Jack Davis needed a photographer.",
+  "cn": "我想做的，但 Jack Davis 需要一个摄影师。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "I'm sorry, Marilyn.",
+  "cn": "对不起，Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 153,
+  "en": "I don't understand.",
+  "cn": "我不明白，你到底有没有健身？",
+  "score": 0.51
+ },
+ {
+  "i": 154,
+  "en": "Did you exercise or not?",
+  "cn": "所以你没健身？",
+  "score": 0.48
+ },
+ {
+  "i": 155,
+  "en": "No.",
+  "cn": "没有。",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "Instead of exercising, I photographed the class.",
+  "cn": "没有，我没健身，而是拍了课的照片。",
+  "score": 0.93
+ },
+ {
+  "i": 157,
+  "en": "And you didn't exercise?",
+  "cn": "而你不锻炼？",
+  "score": 0.3
+ },
+ {
+  "i": 158,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 159,
+  "en": "There's another advanced class today at four O'clock.",
+  "cn": "今天四点还有一节高级班。",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "We'll go together.",
+  "cn": "我们一起去。",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "What about the bet?",
+  "cn": "那打赌呢？",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "Oh, the bet is still on, but you shop for the groceries.",
+  "cn": "哦，赌约还算数，但你负责买菜。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "Remember, you win, and I cook dinner for the entire family.",
+  "cn": "记住，你赢了，我给全家做晚饭。",
+  "score": 1.0
+ },
+ {
+  "i": 164,
+  "en": "You win, and I cook dinner for the entire family.",
+  "cn": "你赢了，我给全家做晚饭。",
+  "score": 1.0
+ },
+ {
+  "i": 165,
+  "en": "Including Susan.",
+  "cn": "包括 Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "Four O'clock at the advanced exercise class with me.",
+  "cn": "四点的高级健身课，和我一起。",
+  "score": 1.0
+ },
+ {
+  "i": 167,
+  "en": "Don't forget to breathe.",
+  "cn": "不忘记去呼吸。",
+  "score": 0.3
+ },
+ {
+  "i": 168,
+  "en": "Skip, hop, front, Twist...again...OK, Now...scissors.",
+  "cn": "扭……再来……好，现在……剪刀步。",
+  "score": 0.72
+ },
+ {
+  "i": 169,
+  "en": "Skip, hop, front.",
+  "cn": "跳、蹦、向前。",
+  "score": 1.0
+ },
+ {
+  "i": 170,
+  "en": "This is fun.",
+  "cn": "真好玩，小菜一碟。",
+  "score": 0.46
+ },
+ {
+  "i": 171,
+  "en": "It's a piece of cake.",
+  "cn": "哦，你会做的，小菜一碟。",
+  "score": 0.65
+ },
+ {
+  "i": 172,
+  "en": "Yeah.",
+  "cn": "是啊。",
+  "score": 0.3
+ },
+ {
+  "i": 173,
+  "en": "Just wait.",
+  "cn": "是啊，等着瞧吧。",
+  "score": 0.74
+ },
+ {
+  "i": 174,
+  "en": "5, 6, 7, go right, 1, 2, back, 3, 1, 2, 3, pony, pony...1, 2, 3, kick...1, 2, 3, kick...pony.",
+  "cn": "5、6、7、向右、1、2、向后，",
+  "score": 0.59
+ },
+ {
+  "i": 175,
+  "en": "And twist, twist.",
+  "cn": "扭、扭。",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "OK.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 177,
+  "en": "Let's pick up the pace.",
+  "cn": "好，我们加快节奏。",
+  "score": 0.9
+ },
+ {
+  "i": 178,
+  "en": "How are you doing, Richard?",
+  "cn": "你怎么样，Richard？",
+  "score": 1.0
+ },
+ {
+  "i": 179,
+  "en": "I can barely move.",
+  "cn": "我几乎动不了了。",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "2,3,4,front.",
+  "cn": "2、3、4……现在换边……",
+  "score": 0.56
+ },
+ {
+  "i": 181,
+  "en": "Now we're going to run it off.",
+  "cn": "2、3、4、向前，现在我们跑动放松。",
+  "score": 0.75
+ },
+ {
+  "i": 182,
+  "en": "Front...knees up, knees up.",
+  "cn": "向前……抬膝盖，抬膝盖。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "OK, Finish off by jogging in place.",
+  "cn": "好，最后原地慢跑收尾。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "OK.",
+  "cn": "好",
+  "score": 0.3
+ },
+ {
+  "i": 185,
+  "en": "Keep those knees up.",
+  "cn": "好，保持抬膝。",
+  "score": 0.88
+ },
+ {
+  "i": 186,
+  "en": "All right.",
+  "cn": "好的",
+  "score": 0.3
+ },
+ {
+  "i": 187,
+  "en": "That's it for today.",
+  "cn": "好了，今天就到这里。",
+  "score": 0.74
+ },
+ {
+  "i": 188,
+  "en": "Thank you, everyone.",
+  "cn": "谢谢大家，下周见。",
+  "score": 0.6
+ },
+ {
+  "i": 189,
+  "en": "See you next week.",
+  "cn": "见你下一个周。",
+  "score": 0.3
+ },
+ {
+  "i": 190,
+  "en": "Thank you, Jack, but no thank you.",
+  "cn": "谢谢你，Jack，但不必了谢谢。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "The advanced exercise class is not so easy, huh?",
+  "cn": "高级健身课没那么容易，是吧？",
+  "score": 1.0
+ },
+ {
+  "i": 192,
+  "en": "Come on, Richard.",
+  "cn": "来吧，Richard，起来，我们走。",
+  "score": 0.56
+ },
+ {
+  "i": 193,
+  "en": "Get up.",
+  "cn": "起上。",
+  "score": 0.3
+ },
+ {
+  "i": 194,
+  "en": "Let's go, you have to cook dinner for the entire family.",
+  "cn": "你得给全家做晚饭。",
+  "score": 0.87
+ },
+ {
+  "i": 195,
+  "en": "Marilyn, I'm exhausted.",
+  "cn": "Marilyn， 我是精疲力尽的。",
+  "score": 0.3
+ },
+ {
+  "i": 196,
+  "en": "I can't move.",
+  "cn": "我不能动。",
+  "score": 0.3
+ },
+ {
+  "i": 197,
+  "en": "Marilyn,",
+  "cn": "Marilyn，",
+  "score": 0.3
+ },
+ {
+  "i": 198,
+  "en": "Oh, you'll do it.",
+  "cn": "哦，你将做它。",
+  "score": 0.3
+ },
+ {
+  "i": 199,
+  "en": "It's a piece of cake.",
+  "cn": "它是一个片蛋糕。",
+  "score": 0.3
+ },
+ {
+  "i": 200,
+  "en": "Excuse me, Richard,Marilyn.",
+  "cn": "打扰一下，Richard、Marilyn。",
+  "score": 1.0
+ },
+ {
+  "i": 201,
+  "en": "You are a terrific instructor, Jack.",
+  "cn": "你真是个出色的教练，Jack。",
+  "score": 1.0
+ },
+ {
+  "i": 202,
+  "en": "Thanks.",
+  "cn": "谢谢",
+  "score": 0.3
+ },
+ {
+  "i": 203,
+  "en": "But I have a question.",
+  "cn": "谢谢，但我有个问题。",
+  "score": 0.85
+ },
+ {
+  "i": 204,
+  "en": "Is this your very first advanced aerobics class?",
+  "cn": "这是你第一节高级有氧课吗？",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "Yes,it is.",
+  "cn": "是的。",
+  "score": 1.0
+ },
+ {
+  "i": 206,
+  "en": "You are in great-shape, Richard.",
+  "cn": "你的身体真好，Richard。",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "Very few people last in this class for the full hour the very first time.",
+  "cn": "能在这节课上撑满一小时。",
+  "score": 0.62
+ },
+ {
+  "i": 208,
+  "en": "It's true.",
+  "cn": "它是真的。",
+  "score": 0.3
+ },
+ {
+  "i": 209,
+  "en": "You are in Great-shape.",
+  "cn": "真的，你的身体真好。",
+  "score": 0.77
+ },
+ {
+  "i": 210,
+  "en": "Thanks!",
+  "cn": "谢谢",
+  "score": 0.3
+ },
+ {
+  "i": 211,
+  "en": "I think we'll cook dinner together.",
+  "cn": "我想我们会一起做晚饭。",
+  "score": 1.0
+ }
+]
