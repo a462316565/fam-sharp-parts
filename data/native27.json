@@ -1,0 +1,1394 @@
+[
+ {
+  "i": 0,
+  "en": "Is that you, Susan?",
+  "cn": "是你吗，Susan？",
+  "score": 1.0
+ },
+ {
+  "i": 1,
+  "en": "It's me, Grandpa.",
+  "cn": "是我，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 2,
+  "en": "Glad to see you.",
+  "cn": "见到你太高兴了！",
+  "score": 0.78
+ },
+ {
+  "i": 3,
+  "en": "And am I glad to see you.",
+  "cn": "见到你我也太高兴了！",
+  "score": 1.0
+ },
+ {
+  "i": 4,
+  "en": "I am also glad to be here.",
+  "cn": "我也很高兴来这里。",
+  "score": 1.0
+ },
+ {
+  "i": 5,
+  "en": "How are things?",
+  "cn": "最近怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 6,
+  "en": "I have been talking to a group of salesmen since 10 this morning,",
+  "cn": "我有",
+  "score": 0.75
+ },
+ {
+  "i": 7,
+  "en": "and I'm real exhausted.",
+  "cn": "我就一直在和一群推销员开会，累坏了。",
+  "score": 1.0
+ },
+ {
+  "i": 8,
+  "en": "You look good.",
+  "cn": "嗯，你看起来气色不错。",
+  "score": 0.8
+ },
+ {
+  "i": 9,
+  "en": "What's Harry doing tonight?",
+  "cn": "Harry 今晚做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 10,
+  "en": "He and Michelle are visiting relatives in New Jersey today.",
+  "cn": "今天去新泽西看望亲戚了。",
+  "score": 0.78
+ },
+ {
+  "i": 11,
+  "en": "The rest of our family went to the movies.",
+  "cn": "家里其他人去看电影了。",
+  "score": 1.0
+ },
+ {
+  "i": 12,
+  "en": "So it's just you and me, Susan.",
+  "cn": "所以家里只有你和我，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 13,
+  "en": "It's nice to be alone with you, Grandpa.",
+  "cn": "能和你单独待在一起真好，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 14,
+  "en": "We don't get to see enough of each other.",
+  "cn": "我们见面的机会太少了。",
+  "score": 1.0
+ },
+ {
+  "i": 15,
+  "en": "No, I feel the same way, Susan.",
+  "cn": "哦，我也有同感，Susan。",
+  "score": 0.88
+ },
+ {
+  "i": 16,
+  "en": "I miss seeing you.",
+  "cn": "我想念见你。",
+  "score": 1.0
+ },
+ {
+  "i": 17,
+  "en": "To tell the truth, next time I'd like to go into the city",
+  "cn": "我想进城去找你，",
+  "score": 0.51
+ },
+ {
+  "i": 18,
+  "en": "and meet you there instead of you coming here.",
+  "cn": "而不是你跑过来。",
+  "score": 0.69
+ },
+ {
+  "i": 19,
+  "en": "You don't need to do that, Grandpa.",
+  "cn": "您不用那样，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 20,
+  "en": "Yeah, I do.",
+  "cn": "嗯，我要的。",
+  "score": 1.0
+ },
+ {
+  "i": 21,
+  "en": "I need to get out more.",
+  "cn": "我需要",
+  "score": 1.0
+ },
+ {
+  "i": 22,
+  "en": "Well, I mean, there's a lot to do around the house,",
+  "cn": "家里有很多事要做，",
+  "score": 0.81
+ },
+ {
+  "i": 23,
+  "en": "and I love being here with the family, you know,",
+  "cn": "我也喜欢和家人在一起，",
+  "score": 0.85
+ },
+ {
+  "i": 24,
+  "en": "but I'm restless.",
+  "cn": "但我闲不住。",
+  "score": 1.0
+ },
+ {
+  "i": 25,
+  "en": "Since I retired, I've got extra time on my hands.",
+  "cn": "我有很多空闲时间。",
+  "score": 0.76
+ },
+ {
+  "i": 26,
+  "en": "I understand, Grandpa.",
+  "cn": "我理解，爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 27,
+  "en": "I think you do.",
+  "cn": "我认为",
+  "score": 1.0
+ },
+ {
+  "i": 28,
+  "en": "Frankly, I'd like to use my brain a little more.",
+  "cn": "我想多用用我的脑子。",
+  "score": 0.9
+ },
+ {
+  "i": 29,
+  "en": "Grandpa, you have so much energy",
+  "cn": "您精力充沛，又有多年经验。",
+  "score": 0.5
+ },
+ {
+  "i": 30,
+  "en": "and so many years of experience.",
+  "cn": "和如此many年的经验",
+  "score": 0.3
+ },
+ {
+  "i": 31,
+  "en": "There are probably a lot of places for you to work,",
+  "cn": "可能有很多地方都需要您，",
+  "score": 1.0
+ },
+ {
+  "i": 32,
+  "en": "particularly in the construction field.",
+  "cn": "特别是在建筑行业。",
+  "score": 1.0
+ },
+ {
+  "i": 33,
+  "en": "But at my age, I'm not looking for a full-time job.",
+  "cn": "我不是在找全职工作。",
+  "score": 0.77
+ },
+ {
+  "i": 34,
+  "en": "I'm retired, but I'm bored.",
+  "cn": "但我很无聊。",
+  "score": 0.71
+ },
+ {
+  "i": 35,
+  "en": "Well, there must be something.",
+  "cn": "嗯，总会有什么事的。",
+  "score": 1.0
+ },
+ {
+  "i": 36,
+  "en": "Maybe I can help.",
+  "cn": "也许我能帮忙。",
+  "score": 1.0
+ },
+ {
+  "i": 37,
+  "en": "Let's go into the kitchen,",
+  "cn": "我们走吧",
+  "score": 1.0
+ },
+ {
+  "i": 38,
+  "en": "and maybe you can help me set the table.",
+  "cn": "也许你能帮我摆餐桌。",
+  "score": 1.0
+ },
+ {
+  "i": 39,
+  "en": "Ha! Sounds good to me. What are we having?",
+  "cn": "我们吃什么？",
+  "score": 0.56
+ },
+ {
+  "i": 40,
+  "en": "I prepared lamb chops, mashed potatoes,",
+  "cn": "我准备了羊排、",
+  "score": 0.7
+ },
+ {
+  "i": 41,
+  "en": "and a tossed green salad to begin with.",
+  "cn": "土豆泥，还有开胃的蔬菜沙拉。",
+  "score": 0.82
+ },
+ {
+  "i": 42,
+  "en": "Grandpa, you are a terrific guy.",
+  "cn": "爷爷，您真了不起！",
+  "score": 1.0
+ },
+ {
+  "i": 43,
+  "en": "You're still thinking about something to do, aren't you?",
+  "cn": "您还在想找点事做，对吧？",
+  "score": 1.0
+ },
+ {
+  "i": 44,
+  "en": "A job of some kind.",
+  "cn": "某种工作。",
+  "score": 1.0
+ },
+ {
+  "i": 45,
+  "en": "That's right.",
+  "cn": "对的.",
+  "score": 1.0
+ },
+ {
+  "i": 46,
+  "en": "I've been thinking about it for weeks now.",
+  "cn": "我已经想了好几周了。",
+  "score": 1.0
+ },
+ {
+  "i": 47,
+  "en": "There must be some way to put my mind to good use.",
+  "cn": "总该有办法让我这脑子派上用场。",
+  "score": 1.0
+ },
+ {
+  "i": 48,
+  "en": "We'll find a solution,",
+  "cn": "我们会找到办法的。",
+  "score": 1.0
+ },
+ {
+  "i": 49,
+  "en": "a positive solution to your finding a way",
+  "cn": "一个积极的办法，",
+  "score": 0.55
+ },
+ {
+  "i": 50,
+  "en": "to use that wonderful mind of yours.",
+  "cn": "让您找到用武之地。",
+  "score": 0.71
+ },
+ {
+  "i": 51,
+  "en": "Sam, would you come in, please?",
+  "cn": "Sam，你进来一下好吗？Sam。",
+  "score": 0.96
+ },
+ {
+  "i": 52,
+  "en": "You sound like something's bothering you, Susan.",
+  "cn": "你听起来像有什么烦心事，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 53,
+  "en": "The sketches for the cover of the new doll book?",
+  "cn": "是新洋娃娃书封面的草图吗？",
+  "score": 1.0
+ },
+ {
+  "i": 54,
+  "en": "That's not it. Please sit down.",
+  "cn": "请坐下.",
+  "score": 0.61
+ },
+ {
+  "i": 55,
+  "en": "Sure.",
+  "cn": "当然.",
+  "score": 1.0
+ },
+ {
+  "i": 56,
+  "en": "I need your advice on a personal matter,",
+  "cn": "我需要",
+  "score": 0.9
+ },
+ {
+  "i": 57,
+  "en": "but it's not about me.",
+  "cn": "但不是关于我的。",
+  "score": 1.0
+ },
+ {
+  "i": 58,
+  "en": "You need my advice on a personal matter,",
+  "cn": "你需要我给关于私人事务的建议，",
+  "score": 1.0
+ },
+ {
+  "i": 59,
+  "en": "and it's not about you, okay?",
+  "cn": "又不是关于你的。",
+  "score": 0.87
+ },
+ {
+  "i": 60,
+  "en": "It's about my grandfather.",
+  "cn": "是关于我爷爷的。",
+  "score": 1.0
+ },
+ {
+  "i": 61,
+  "en": "What's the problem?",
+  "cn": "什么问题？",
+  "score": 1.0
+ },
+ {
+  "i": 62,
+  "en": "It won't sound like a big deal, but it is.",
+  "cn": "听起来可能不算什么大事，",
+  "score": 0.83
+ },
+ {
+  "i": 63,
+  "en": "I had dinner with him Saturday,",
+  "cn": "我周六和他吃了晚饭，",
+  "score": 1.0
+ },
+ {
+  "i": 64,
+  "en": "and he's very unhappy about not working.",
+  "cn": "他因为没工作很不开心。",
+  "score": 1.0
+ },
+ {
+  "i": 65,
+  "en": "I thought he was retired and pleased",
+  "cn": "我以为他退休了，",
+  "score": 0.77
+ },
+ {
+  "i": 66,
+  "en": "to be living with the family.",
+  "cn": "也很乐意和家人住在一起。",
+  "score": 0.79
+ },
+ {
+  "i": 67,
+  "en": "He is.",
+  "cn": "他是的，",
+  "score": 1.0
+ },
+ {
+  "i": 68,
+  "en": "But there's so much energy and talent in the man,",
+  "cn": "但他精力充沛、才华横溢，",
+  "score": 1.0
+ },
+ {
+  "i": 69,
+  "en": "and he doesn't get to use it.",
+  "cn": "却没有机会发挥。",
+  "score": 1.0
+ },
+ {
+  "i": 70,
+  "en": "Well, what can I do?",
+  "cn": "但我能做什么？",
+  "score": 0.75
+ },
+ {
+  "i": 71,
+  "en": "What kind of advice are you looking for?",
+  "cn": "你想让我给什么建议？",
+  "score": 1.0
+ },
+ {
+  "i": 72,
+  "en": "Simply this.",
+  "cn": "简单来说。",
+  "score": 1.0
+ },
+ {
+  "i": 73,
+  "en": "John Marchetta runs this company.",
+  "cn": "John Marchetta 经营这家公司。",
+  "score": 0.89
+ },
+ {
+  "i": 74,
+  "en": "He founded this company.",
+  "cn": "他创办了这家公司。",
+  "score": 1.0
+ },
+ {
+  "i": 75,
+  "en": "Right.",
+  "cn": "对的.",
+  "score": 1.0
+ },
+ {
+  "i": 76,
+  "en": "John Marchetta gave me my start here.",
+  "cn": "六年前 John Marchetta 给了我来这里的机会，",
+  "score": 0.78
+ },
+ {
+  "i": 77,
+  "en": "Six years ago, when I first graduated from college,",
+  "cn": "那时我刚大学毕业。",
+  "score": 0.77
+ },
+ {
+  "i": 78,
+  "en": "he gave me the chance to use my talents",
+  "cn": "他给我机会发挥才华，",
+  "score": 1.0
+ },
+ {
+  "i": 79,
+  "en": "and made me feel more confident.",
+  "cn": "让我更自信。",
+  "score": 1.0
+ },
+ {
+  "i": 80,
+  "en": "Right.",
+  "cn": "对的.",
+  "score": 1.0
+ },
+ {
+  "i": 81,
+  "en": "Maybe he can do the same thing for your grandfather.",
+  "cn": "也许他也能为你爷爷做同样的事。",
+  "score": 1.0
+ },
+ {
+  "i": 82,
+  "en": "Or at least give him some advice.",
+  "cn": "至少给他一些建议。",
+  "score": 1.0
+ },
+ {
+  "i": 83,
+  "en": "Right.",
+  "cn": "对的.",
+  "score": 1.0
+ },
+ {
+  "i": 84,
+  "en": "Then I've solved your problem.",
+  "cn": "那你的问题就解决了。",
+  "score": 1.0
+ },
+ {
+  "i": 85,
+  "en": "I can always depend on you, Sam.",
+  "cn": "我总能指望你，Sam。",
+  "score": 1.0
+ },
+ {
+  "i": 86,
+  "en": "I'm glad to help.",
+  "cn": "很乐意帮忙。",
+  "score": 1.0
+ },
+ {
+  "i": 87,
+  "en": "Shall I call Mr. Marchetta for you?",
+  "cn": "要我替你给 Marchetta 先生打电话吗？",
+  "score": 1.0
+ },
+ {
+  "i": 88,
+  "en": "No, no, I'll do that.",
+  "cn": "不不，我自己来。",
+  "score": 1.0
+ },
+ {
+  "i": 89,
+  "en": "Thanks.",
+  "cn": "谢谢.",
+  "score": 1.0
+ },
+ {
+  "i": 90,
+  "en": "No, how's the Stewart family?",
+  "cn": "Stewart 一家怎么样？",
+  "score": 0.86
+ },
+ {
+  "i": 91,
+  "en": "Fine, thank you, Mr. Marchetta.",
+  "cn": "很好，谢谢您，Marchetta 先生。",
+  "score": 0.86
+ },
+ {
+  "i": 92,
+  "en": "Except for my grandfather.",
+  "cn": "除了我爷爷。",
+  "score": 1.0
+ },
+ {
+  "i": 93,
+  "en": "What's wrong, Susan?",
+  "cn": "怎么了，Susan？",
+  "score": 1.0
+ },
+ {
+  "i": 94,
+  "en": "What's wrong with him?",
+  "cn": "怎么了",
+  "score": 1.0
+ },
+ {
+  "i": 95,
+  "en": "He needs to work.",
+  "cn": "他需要工作。",
+  "score": 1.0
+ },
+ {
+  "i": 96,
+  "en": "In fact, that is the reason why I am here to see you.",
+  "cn": "事实上，这就是我来见您的原因。",
+  "score": 0.9
+ },
+ {
+  "i": 97,
+  "en": "I know you're building a new factory,",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 98,
+  "en": "and I thought maybe my grandfather",
+  "cn": "我知道您在建新工厂，",
+  "score": 0.7
+ },
+ {
+  "i": 99,
+  "en": "is so experienced in the construction trade,",
+  "cn": "我爷爷在建筑行业很有经验，",
+  "score": 0.92
+ },
+ {
+  "i": 100,
+  "en": "he could be so valuable.",
+  "cn": "会很有用的。",
+  "score": 1.0
+ },
+ {
+  "i": 101,
+  "en": "Tell him to come and see me at 10 o'clock tomorrow morning.",
+  "cn": "让他明天早上十点",
+  "score": 0.61
+ },
+ {
+  "i": 102,
+  "en": "I have an idea that may solve the problem for him,",
+  "cn": "我有",
+  "score": 1.0
+ },
+ {
+  "i": 103,
+  "en": "help a lot of other people.",
+  "cn": "也能帮很多人。",
+  "score": 0.9
+ },
+ {
+  "i": 104,
+  "en": "Really, Mr. Marchetta, can I tell him that?",
+  "cn": "我能",
+  "score": 0.64
+ },
+ {
+  "i": 105,
+  "en": "Sure can.",
+  "cn": "当然",
+  "score": 1.0
+ },
+ {
+  "i": 106,
+  "en": "10 o'clock in the morning.",
+  "cn": "早上十点。在这里。",
+  "score": 0.72
+ },
+ {
+  "i": 107,
+  "en": "Here.",
+  "cn": "这里",
+  "score": 0.3
+ },
+ {
+  "i": 108,
+  "en": "Oh, ah.",
+  "cn": "哦ah.",
+  "score": 0.3
+ },
+ {
+  "i": 109,
+  "en": "Malcolm Stewart.",
+  "cn": "嗨。我是 Malcolm Stewart。",
+  "score": 0.69
+ },
+ {
+  "i": 110,
+  "en": "John Marchetta.",
+  "cn": "John Marchetta。",
+  "score": 1.0
+ },
+ {
+  "i": 111,
+  "en": "Sit down, sit down.",
+  "cn": "请坐，请坐。",
+  "score": 1.0
+ },
+ {
+  "i": 112,
+  "en": "Susan has told me a great deal about you.",
+  "cn": "Susan 跟我讲了很多关于您的事。",
+  "score": 1.0
+ },
+ {
+  "i": 113,
+  "en": "She says you're quite a man.",
+  "cn": "她说您很了不起。",
+  "score": 1.0
+ },
+ {
+  "i": 114,
+  "en": "She says a lot of wonderful things about you too,",
+  "cn": "您很多了不起的事，Stewart 先生。",
+  "score": 0.74
+ },
+ {
+  "i": 115,
+  "en": "Mr. Stewart.",
+  "cn": "Mr.Stewart.",
+  "score": 0.3
+ },
+ {
+  "i": 116,
+  "en": "That's always nice to hear, Mr. Marchetta.",
+  "cn": "这话听着总是让人高兴，Marchetta 先生。",
+  "score": 1.0
+ },
+ {
+  "i": 117,
+  "en": "Call me John.",
+  "cn": "叫我 John。",
+  "score": 1.0
+ },
+ {
+  "i": 118,
+  "en": "May I call you Malcolm?",
+  "cn": "我可以",
+  "score": 1.0
+ },
+ {
+  "i": 119,
+  "en": "Let's talk business.",
+  "cn": "谈正事吧。",
+  "score": 1.0
+ },
+ {
+  "i": 120,
+  "en": "That's music to my ears.",
+  "cn": "正合我意。",
+  "score": 1.0
+ },
+ {
+  "i": 121,
+  "en": "I understand you used to be in the construction business.",
+  "cn": "您以前是做建筑行业的。",
+  "score": 0.84
+ },
+ {
+  "i": 122,
+  "en": "Yep, 43 years.",
+  "cn": "Yep,43年",
+  "score": 0.3
+ },
+ {
+  "i": 123,
+  "en": "Here's a brief description of 43 years of on-the-job training.",
+  "cn": "四十三年工作经验的简介。",
+  "score": 0.55
+ },
+ {
+  "i": 124,
+  "en": "Some history.",
+  "cn": "这经历可不简单！",
+  "score": 0.65
+ },
+ {
+  "i": 125,
+  "en": "You're a valuable asset, Malcolm.",
+  "cn": "您是宝贵的人才，Malcolm。",
+  "score": 1.0
+ },
+ {
+  "i": 126,
+  "en": "Very valuable.",
+  "cn": "非常宝贵。",
+  "score": 1.0
+ },
+ {
+  "i": 127,
+  "en": "Thank you.",
+  "cn": "谢谢你.",
+  "score": 1.0
+ },
+ {
+  "i": 128,
+  "en": "43 years.",
+  "cn": "43年.",
+  "score": 0.3
+ },
+ {
+  "i": 129,
+  "en": "Half that time in my own construction company.",
+  "cn": "一半时间在经营自己的建筑公司。",
+  "score": 1.0
+ },
+ {
+  "i": 130,
+  "en": "Big jobs, factories, shopping malls, that kind of thing.",
+  "cn": "大工程——工厂、购物中心。",
+  "score": 0.69
+ },
+ {
+  "i": 131,
+  "en": "Then you retired.",
+  "cn": "然后您退休了。",
+  "score": 1.0
+ },
+ {
+  "i": 132,
+  "en": "Yes.",
+  "cn": "是的.",
+  "score": 1.0
+ },
+ {
+  "i": 133,
+  "en": "After my wife died,",
+  "cn": "我妻子去世后，",
+  "score": 1.0
+ },
+ {
+  "i": 134,
+  "en": "and I felt I should spend more time with my children and grandchildren.",
+  "cn": "我觉得应该多花点时间",
+  "score": 0.65
+ },
+ {
+  "i": 135,
+  "en": "I lived in Florida, and they lived in New York.",
+  "cn": "他们住在纽约。",
+  "score": 0.74
+ },
+ {
+  "i": 136,
+  "en": "I understand.",
+  "cn": "我理解",
+  "score": 1.0
+ },
+ {
+  "i": 137,
+  "en": "My daughter, Cami,",
+  "cn": "我女儿 Cami 住在纽约。",
+  "score": 0.48
+ },
+ {
+  "i": 138,
+  "en": "lives in New York. I like being near her.",
+  "cn": "我喜欢离她近一些。",
+  "score": 0.64
+ },
+ {
+  "i": 139,
+  "en": "When I came here, I planned to take a few months off,",
+  "cn": "本打算休息几个月，",
+  "score": 0.77
+ },
+ {
+  "i": 140,
+  "en": "relax with the family,",
+  "cn": "陪陪家人，然后找点事做。",
+  "score": 0.52
+ },
+ {
+  "i": 141,
+  "en": "and then look for some work.",
+  "cn": "和然后寻找为了一些工作.",
+  "score": 0.3
+ },
+ {
+  "i": 142,
+  "en": "Put my experience on the line.",
+  "cn": "把我的经验派上用场……",
+  "score": 1.0
+ },
+ {
+  "i": 143,
+  "en": "But, unfortunately, there isn't any work for a retired person my age.",
+  "cn": "我这个年纪的退休老人没适合的工作。",
+  "score": 0.84
+ },
+ {
+  "i": 144,
+  "en": "Sometimes there is, and sometimes there isn't.",
+  "cn": "有时没有。",
+  "score": 0.75
+ },
+ {
+  "i": 145,
+  "en": "I'm involved with an organization,",
+  "cn": "嗯，我参与了一个组织，",
+  "score": 0.89
+ },
+ {
+  "i": 146,
+  "en": "and we're trying to resolve that problem.",
+  "cn": "我们正试图解决这个问题。",
+  "score": 1.0
+ },
+ {
+  "i": 147,
+  "en": "What's that?",
+  "cn": "什么组织？",
+  "score": 1.0
+ },
+ {
+  "i": 148,
+  "en": "Tops.",
+  "cn": "TOPS。",
+  "score": 1.0
+ },
+ {
+  "i": 149,
+  "en": "T-O-P-S.",
+  "cn": "T-O-P-S.",
+  "score": 0.3
+ },
+ {
+  "i": 150,
+  "en": "It means talented, older people's society.",
+  "cn": "T-O-P-S——意思是杰出老年人才协会。",
+  "score": 0.75
+ },
+ {
+  "i": 151,
+  "en": "I'd like to be a member.",
+  "cn": "我想成为会员。",
+  "score": 1.0
+ },
+ {
+  "i": 152,
+  "en": "How much are the Jews?",
+  "cn": "会费多少？",
+  "score": 0.81
+ },
+ {
+  "i": 153,
+  "en": "There are no Jews.",
+  "cn": "没有会费。",
+  "score": 0.77
+ },
+ {
+  "i": 154,
+  "en": "The organization serves major companies in this city.",
+  "cn": "这个组织为这座城市的大公司服务。",
+  "score": 1.0
+ },
+ {
+  "i": 155,
+  "en": "Why?",
+  "cn": "为什么？",
+  "score": 1.0
+ },
+ {
+  "i": 156,
+  "en": "Because our members are men and women like you.",
+  "cn": "因为我们的会员都是像您这样的人。",
+  "score": 1.0
+ },
+ {
+  "i": 157,
+  "en": "Experienced, talented, retired.",
+  "cn": "经验丰富、才华横溢、已退休。",
+  "score": 1.0
+ },
+ {
+  "i": 158,
+  "en": "But our members want to go out there and use their talents.",
+  "cn": "但我们的会员想出去",
+  "score": 0.73
+ },
+ {
+  "i": 159,
+  "en": "They want to work.",
+  "cn": "他们想工作。",
+  "score": 1.0
+ },
+ {
+  "i": 160,
+  "en": "That is fantastic, John.",
+  "cn": "这太棒了，John！",
+  "score": 1.0
+ },
+ {
+  "i": 161,
+  "en": "I've got an idea for you, Malcolm.",
+  "cn": "我有个主意，Malcolm。",
+  "score": 1.0
+ },
+ {
+  "i": 162,
+  "en": "Just fill out this form for me.",
+  "cn": "帮我填一下这张表。",
+  "score": 1.0
+ },
+ {
+  "i": 163,
+  "en": "It'll only take a few minutes.",
+  "cn": "只要几分钟。",
+  "score": 1.0
+ },
+ {
+  "i": 164,
+  "en": "Sit right here and do it while I talk to my secretary.",
+  "cn": "我跟我秘书谈事的时候你填。",
+  "score": 0.8
+ },
+ {
+  "i": 165,
+  "en": "When I get back, we'll talk about my new factory.",
+  "cn": "等我回来，我们谈谈我的新工厂。",
+  "score": 1.0
+ },
+ {
+  "i": 166,
+  "en": "My company's a member of Tops,",
+  "cn": "我的公司是 TOPS 的会员。",
+  "score": 0.82
+ },
+ {
+  "i": 167,
+  "en": "so I try hard to find opportunities for people like you, Malcolm.",
+  "cn": "所以我努力为像您这样的人找机会。",
+  "score": 0.93
+ },
+ {
+  "i": 168,
+  "en": "And when I see an opportunity, I can act on it.",
+  "cn": "当我看到机会，",
+  "score": 0.71
+ },
+ {
+  "i": 169,
+  "en": "Well, I can use your brain power on the job right now.",
+  "cn": "嗯，我现在就能用您的智慧。",
+  "score": 0.9
+ },
+ {
+  "i": 170,
+  "en": "Have you got time this morning to go over to the construction site with me?",
+  "cn": "和我一起去工地吗？",
+  "score": 0.67
+ },
+ {
+  "i": 171,
+  "en": "I'd like to have you meet my foreman.",
+  "cn": "我想让您见见我的工头——",
+  "score": 1.0
+ },
+ {
+  "i": 172,
+  "en": "Get some background on the job.",
+  "cn": "了解一下工程背景。",
+  "score": 1.0
+ },
+ {
+  "i": 173,
+  "en": "I've got plenty of time.",
+  "cn": "我有的是时间。",
+  "score": 1.0
+ },
+ {
+  "i": 174,
+  "en": "I'll be right back.",
+  "cn": "我马上回来。",
+  "score": 1.0
+ },
+ {
+  "i": 175,
+  "en": "We'll go over to the job site together.",
+  "cn": "我们一起去工地。",
+  "score": 1.0
+ },
+ {
+  "i": 176,
+  "en": "Have you worked on the space port project?",
+  "cn": "Malcolm，您参与过 Spaceport 项目？",
+  "score": 0.73
+ },
+ {
+  "i": 177,
+  "en": "My company was a contractor.",
+  "cn": "我的公司是承包商。",
+  "score": 0.82
+ },
+ {
+  "i": 178,
+  "en": "I built the theater there with my own two hands, practically.",
+  "cn": "几乎是我亲手建的。",
+  "score": 0.65
+ },
+ {
+  "i": 179,
+  "en": "I understand.",
+  "cn": "我理解.",
+  "score": 1.0
+ },
+ {
+  "i": 180,
+  "en": "Well, I'm glad to see you two guys getting along so well.",
+  "cn": "很高兴看到你们俩相处得这么好，",
+  "score": 0.97
+ },
+ {
+  "i": 181,
+  "en": "Because, Danny, Malcolm is on the Tops team.",
+  "cn": "Malcolm 是 TOPS 团队的。",
+  "score": 0.78
+ },
+ {
+  "i": 182,
+  "en": "He's going to be working with you for a while.",
+  "cn": "他会和你一起工作一段时间。",
+  "score": 1.0
+ },
+ {
+  "i": 183,
+  "en": "His experience will be valuable to both of us.",
+  "cn": "他的经验对我们俩都很有价值。",
+  "score": 1.0
+ },
+ {
+  "i": 184,
+  "en": "Welcome aboard, Malcolm.",
+  "cn": "欢迎加入，Malcolm！",
+  "score": 1.0
+ },
+ {
+  "i": 185,
+  "en": "I'm going back to my office.",
+  "cn": "我回办公室了。",
+  "score": 1.0
+ },
+ {
+  "i": 186,
+  "en": "Give me a call later, Malcolm.",
+  "cn": "回头给我打电话，Malcolm。",
+  "score": 1.0
+ },
+ {
+  "i": 187,
+  "en": "I'll tell you the time and date of the next Tops meeting.",
+  "cn": "我会告诉你下次 TOPS 会议的时间和日期。",
+  "score": 1.0
+ },
+ {
+  "i": 188,
+  "en": "I'd like you to meet the group.",
+  "cn": "我想让你见见这个团体。",
+  "score": 1.0
+ },
+ {
+  "i": 189,
+  "en": "I will, John.",
+  "cn": "我会的，John。",
+  "score": 1.0
+ },
+ {
+  "i": 190,
+  "en": "And again, thanks.",
+  "cn": "再次感谢。",
+  "score": 1.0
+ },
+ {
+  "i": 191,
+  "en": "No.",
+  "cn": "不",
+  "score": 0.3
+ },
+ {
+  "i": 192,
+  "en": "Thank you.",
+  "cn": "哦，谢谢您！",
+  "score": 0.78
+ },
+ {
+  "i": 193,
+  "en": "And thanks, Susan.",
+  "cn": "也谢谢 Susan。",
+  "score": 0.78
+ },
+ {
+  "i": 194,
+  "en": "He's quite a man.",
+  "cn": "他真了不起。",
+  "score": 1.0
+ },
+ {
+  "i": 195,
+  "en": "A real inspiration for me.",
+  "cn": "对我是个真正的激励。",
+  "score": 1.0
+ },
+ {
+  "i": 196,
+  "en": "Okay, Danny.",
+  "cn": "因为，Danny，",
+  "score": 0.5
+ },
+ {
+  "i": 197,
+  "en": "I know you didn't expect to have me around,",
+  "cn": "我知道",
+  "score": 1.0
+ },
+ {
+  "i": 198,
+  "en": "but I think I can be of some help to you.",
+  "cn": "但我想我能帮上点忙。",
+  "score": 1.0
+ },
+ {
+  "i": 199,
+  "en": "Let me tell you something, Malcolm.",
+  "cn": "我跟你说，Malcolm。",
+  "score": 1.0
+ },
+ {
+  "i": 200,
+  "en": "With your background and experience, I can learn something.",
+  "cn": "凭您的背景和经验，",
+  "score": 0.68
+ },
+ {
+  "i": 201,
+  "en": "And I do need some advice and a difficult problem.",
+  "cn": "……我确实需要一个难题的建议。",
+  "score": 0.94
+ },
+ {
+  "i": 202,
+  "en": "Let me show you this.",
+  "cn": "我给你看这个。",
+  "score": 1.0
+ },
+ {
+  "i": 203,
+  "en": "I don't want to give you a final opinion",
+  "cn": "我不想过早下结论，",
+  "score": 1.0
+ },
+ {
+  "i": 204,
+  "en": "without studying these building plans more carefully.",
+  "cn": "需要更仔细地研究这些建筑图纸。",
+  "score": 1.0
+ },
+ {
+  "i": 205,
+  "en": "But a simple solution might be to move the air conditioning units",
+  "cn": "移动空调机组，",
+  "score": 0.61
+ },
+ {
+  "i": 206,
+  "en": "instead of redesigning the entire system.",
+  "cn": "而不是重新设计整个系统。",
+  "score": 1.0
+ },
+ {
+  "i": 207,
+  "en": "It might be simpler and less expensive.",
+  "cn": "可能更简单也更省钱。",
+  "score": 1.0
+ },
+ {
+  "i": 208,
+  "en": "You just earned your weight in gold, Malcolm.",
+  "cn": "你可帮了大忙了，Malcolm。",
+  "score": 1.0
+ },
+ {
+  "i": 209,
+  "en": "Welcome aboard.",
+  "cn": "欢迎加入！",
+  "score": 1.0
+ },
+ {
+  "i": 210,
+  "en": "It'll all happen so quickly.",
+  "cn": "一切发生得太快了！",
+  "score": 0.71
+ },
+ {
+  "i": 211,
+  "en": "I can't believe it.",
+  "cn": "我都不敢相信！",
+  "score": 1.0
+ },
+ {
+  "i": 212,
+  "en": "I'm glad Mr. Marchetto was so helpful.",
+  "cn": "很高兴 Marchetta 先生这么帮忙。",
+  "score": 0.88
+ },
+ {
+  "i": 213,
+  "en": "He was more than helpful.",
+  "cn": "他不止是帮忙。",
+  "score": 1.0
+ },
+ {
+  "i": 214,
+  "en": "He actually took me to meet his foreman.",
+  "cn": "他还带我去见他的工头。",
+  "score": 1.0
+ },
+ {
+  "i": 215,
+  "en": "I'm thrilled for you, Grandma.",
+  "cn": "真为你高兴，爷爷。",
+  "score": 0.85
+ },
+ {
+  "i": 216,
+  "en": "I don't know how to thank you, Susan.",
+  "cn": "我不知道该怎么谢你，Susan。",
+  "score": 1.0
+ },
+ {
+  "i": 217,
+  "en": "You're a wonderful granddaughter.",
+  "cn": "你是个出色的孙女。",
+  "score": 1.0
+ },
+ {
+  "i": 218,
+  "en": "It's good to see you so happy.",
+  "cn": "看到你这么开心真好。",
+  "score": 1.0
+ },
+ {
+  "i": 219,
+  "en": "I'll be at the construction site tomorrow.",
+  "cn": "我明天会去工地。",
+  "score": 1.0
+ },
+ {
+  "i": 220,
+  "en": "What are you doing tomorrow night?",
+  "cn": "你明晚做什么？",
+  "score": 1.0
+ },
+ {
+  "i": 221,
+  "en": "I'm not doing anything. Why?",
+  "cn": "我没什么安排。",
+  "score": 0.87
+ },
+ {
+  "i": 222,
+  "en": "How about a date with your grandfather?",
+  "cn": "和爷爷约个会怎么样？",
+  "score": 1.0
+ },
+ {
+  "i": 223,
+  "en": "I owe you a good steak dinner.",
+  "cn": "我欠你一顿上好的牛排。",
+  "score": 1.0
+ },
+ {
+  "i": 224,
+  "en": "I'll accept tomorrow night, you and me, dinner.",
+  "cn": "你和我。晚餐。",
+  "score": 0.53
+ },
+ {
+  "i": 225,
+  "en": "What time?",
+  "cn": "几点？",
+  "score": 1.0
+ },
+ {
+  "i": 226,
+  "en": "I'll pick you up here at seven.",
+  "cn": "我七点来这儿接你。",
+  "score": 1.0
+ },
+ {
+  "i": 227,
+  "en": "Is that okay?",
+  "cn": "可以吗？",
+  "score": 0.75
+ },
+ {
+  "i": 228,
+  "en": "I can't wait.",
+  "cn": "我等不及了！",
+  "score": 1.0
+ },
+ {
+  "i": 229,
+  "en": "And you can tell me all about your first full day",
+  "cn": "你重新上班第一天的全部情况。",
+  "score": 0.53
+ },
+ {
+  "i": 230,
+  "en": "back on the job.",
+  "cn": "回来在这工作.",
+  "score": 0.3
+ },
+ {
+  "i": 231,
+  "en": "It's a deal.",
+  "cn": "一言为定！",
+  "score": 1.0
+ }
+]
