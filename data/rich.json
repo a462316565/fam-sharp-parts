@@ -283473,25 +283473,8 @@
      "cn": "Susan?"
     }
    ],
-   "marks": [
-    {
-     "a": 7,
-     "b": 8,
-     "ph": "",
-     "rule": [
-      "ASSIM"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "是 那 你 Susan?",
-   "rules": [
-    {
-     "s": 7,
-     "e": 8,
-     "r": "ASSIM"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "是  那  你  Susan?"
   },
   {
    "i": 1,
@@ -283517,25 +283500,8 @@
      "cn": "Grandpa."
     }
    ],
-   "marks": [
-    {
-     "a": 0,
-     "b": 4,
-     "ph": "",
-     "rule": [
-      "ELISION"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "它是 我 Grandpa.",
-   "rules": [
-    {
-     "s": 0,
-     "e": 4,
-     "r": "ELISION"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "它是  我  Grandpa."
   },
   {
    "i": 2,
@@ -283567,25 +283533,8 @@
      "cn": "你"
     }
    ],
-   "marks": [
-    {
-     "a": 4,
-     "b": 5,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "高兴 去 看 你",
-   "rules": [
-    {
-     "s": 4,
-     "e": 5,
-     "r": "UNREL"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "高兴  去  看  你"
   },
   {
    "i": 3,
@@ -283635,53 +283584,8 @@
      "cn": "你"
     }
    ],
-   "marks": [
-    {
-     "a": 3,
-     "b": 4,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 6,
-     "b": 7,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 13,
-     "b": 14,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "和 是 我 高兴 去 看 你",
-   "rules": [
-    {
-     "s": 3,
-     "e": 4,
-     "r": "C2V"
-    },
-    {
-     "s": 6,
-     "e": 7,
-     "r": "C2V"
-    },
-    {
-     "s": 13,
-     "e": 14,
-     "r": "UNREL"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "和  是  我  高兴  去  看  你"
   },
   {
    "i": 4,
@@ -283731,53 +283635,8 @@
      "cn": "这里"
     }
    ],
-   "marks": [
-    {
-     "a": 1,
-     "b": 2,
-     "ph": "",
-     "rule": [
-      "V2V_J"
-     ],
-     "gap": true
-    },
-    {
-     "a": 4,
-     "b": 5,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 14,
-     "b": 15,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "我 是 也 高兴 去 是 这里",
-   "rules": [
-    {
-     "s": 1,
-     "e": 2,
-     "r": "V2V_J"
-    },
-    {
-     "s": 4,
-     "e": 5,
-     "r": "C2V"
-    },
-    {
-     "s": 14,
-     "e": 15,
-     "r": "UNREL"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "我  是  也  高兴  去  是  这里"
   },
   {
    "i": 5,
@@ -283803,25 +283662,8 @@
      "cn": "things?"
     }
    ],
-   "marks": [
-    {
-     "a": 3,
-     "b": 4,
-     "ph": "",
-     "rule": [
-      "V2V_W"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "如何 是 things?",
-   "rules": [
-    {
-     "s": 3,
-     "e": 4,
-     "r": "V2V_W"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "如何  是  things?"
   },
   {
    "i": 6,
@@ -283907,53 +283749,8 @@
      "cn": "早晨"
     }
    ],
-   "marks": [
-    {
-     "a": 19,
-     "b": 20,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    },
-    {
-     "a": 22,
-     "b": 23,
-     "ph": "",
-     "rule": [
-      "V2V_J"
-     ],
-     "gap": true
-    },
-    {
-     "a": 30,
-     "b": 31,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "我 有 曾经 谈论 去 一个 群 的 推销员 自从 10 这 早晨",
-   "rules": [
-    {
-     "s": 19,
-     "e": 20,
-     "r": "UNREL"
-    },
-    {
-     "s": 22,
-     "e": 23,
-     "r": "V2V_J"
-    },
-    {
-     "s": 30,
-     "e": 31,
-     "r": "C2V"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "我  有  曾经  谈论  去  一个  群  的  推销员  自从  10  这  早晨"
   },
   {
    "i": 7,
@@ -283985,53 +283782,8 @@
      "cn": "精疲力竭"
     }
    ],
-   "marks": [
-    {
-     "a": 3,
-     "b": 4,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 12,
-     "b": 13,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 4,
-     "b": 7,
-     "ph": "",
-     "rule": [
-      "ELISION"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "和 我是 real 精疲力竭",
-   "rules": [
-    {
-     "s": 3,
-     "e": 4,
-     "r": "C2V"
-    },
-    {
-     "s": 12,
-     "e": 13,
-     "r": "C2V"
-    },
-    {
-     "s": 4,
-     "e": 7,
-     "r": "ELISION"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "和  我是  real  精疲力竭"
   },
   {
    "i": 8,
@@ -284057,25 +283809,8 @@
      "cn": "好"
     }
    ],
-   "marks": [
-    {
-     "a": 8,
-     "b": 9,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "你 看起来 好",
-   "rules": [
-    {
-     "s": 8,
-     "e": 9,
-     "r": "UNREL"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "你  看起来  好"
   },
   {
    "i": 9,
@@ -284107,39 +283842,8 @@
      "cn": "今晚"
     }
    ],
-   "marks": [
-    {
-     "a": 18,
-     "b": 19,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    },
-    {
-     "a": 0,
-     "b": 6,
-     "ph": "",
-     "rule": [
-      "ELISION"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "什么是 Harry 做 今晚",
-   "rules": [
-    {
-     "s": 18,
-     "e": 19,
-     "r": "UNREL"
-    },
-    {
-     "s": 0,
-     "e": 6,
-     "r": "ELISION"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "什么是  Harry  做  今晚"
   },
   {
    "i": 10,
@@ -284207,53 +283911,8 @@
      "cn": "今天"
     }
    ],
-   "marks": [
-    {
-     "a": 2,
-     "b": 3,
-     "ph": "",
-     "rule": [
-      "V2V_J"
-     ],
-     "gap": true
-    },
-    {
-     "a": 15,
-     "b": 16,
-     "ph": "",
-     "rule": [
-      "V2V_J"
-     ],
-     "gap": true
-    },
-    {
-     "a": 38,
-     "b": 39,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "他 和 Michelle 是 拜访 亲戚 在 New Jersey 今天",
-   "rules": [
-    {
-     "s": 2,
-     "e": 3,
-     "r": "V2V_J"
-    },
-    {
-     "s": 15,
-     "e": 16,
-     "r": "V2V_J"
-    },
-    {
-     "s": 38,
-     "e": 39,
-     "r": "C2V"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "他  和  Michelle  是  拜访  亲戚  在  New  Jersey  今天"
   },
   {
    "i": 11,
@@ -284315,53 +283974,8 @@
      "cn": "电影"
     }
    ],
-   "marks": [
-    {
-     "a": 8,
-     "b": 9,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 11,
-     "b": 12,
-     "ph": "",
-     "rule": [
-      "C2V"
-     ],
-     "gap": true
-    },
-    {
-     "a": 27,
-     "b": 28,
-     "ph": "",
-     "rule": [
-      "UNREL"
-     ],
-     "gap": true
-    }
-   ],
-   "cn_plain": "这 其余 的 我们的 家庭 went 去 这 电影",
-   "rules": [
-    {
-     "s": 8,
-     "e": 9,
-     "r": "C2V"
-    },
-    {
-     "s": 11,
-     "e": 12,
-     "r": "C2V"
-    },
-    {
-     "s": 27,
-     "e": 28,
-     "r": "UNREL"
-    }
-   ]
+   "marks": [],
+   "cn_plain": "这  其余  的  我们的  家庭  went  去  这  电影"
   },
   {
    "i": 12,
@@ -284412,8 +284026,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "如此 它是 刚刚 你 和 我 Susan.",
-   "rules": []
+   "cn_plain": "如此  它是  刚刚  你  和  我  Susan."
   },
   {
    "i": 13,
@@ -284470,8 +284083,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "它是 好 去 是 独自 和 你 Grandpa.",
-   "rules": []
+   "cn_plain": "它是  好  去  是  独自  和  你  Grandpa."
   },
   {
    "i": 14,
@@ -284534,8 +284146,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "我们 不 得到 去 看 足够 的 每个 其他",
-   "rules": []
+   "cn_plain": "我们  不  得到  去  看  足够  的  每个  其他"
   },
   {
    "i": 15,
@@ -284590,17 +284201,22 @@
      "a": 11,
      "b": 14,
      "ph": "lə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 15,
      "b": 19,
      "ph": "ðə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "不 我 感觉 这 同样 way, Susan.",
-   "rules": []
+   "cn_plain": "不  我  感觉  这  同样  way,  Susan."
   },
   {
    "i": 16,
@@ -284640,8 +284256,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 想念 看 你",
-   "rules": []
+   "cn_plain": "我  想念  看  你"
   },
   {
    "i": 17,
@@ -284732,31 +284347,47 @@
      "a": 3,
      "b": 7,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 8,
      "b": 11,
      "ph": "lə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 24,
      "b": 28,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 29,
      "b": 32,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 41,
      "b": 43,
      "ph": "mɪndʒə d",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 44,
@@ -284768,11 +284399,13 @@
      "a": 53,
      "b": 57,
      "ph": "tʃjo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "去 告诉 这 实话 下一个 时间 我将 像 去 去 进入 这 城市",
-   "rules": []
+   "cn_plain": "去  告诉  这  实话  下一个  时间  我将  像  去  去  进入  这  城市"
   },
   {
    "i": 18,
@@ -284839,11 +284472,13 @@
      "a": 13,
      "b": 18,
      "ph": "də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "和 meet 你 那里 代替 的 你 coming 这里",
-   "rules": []
+   "cn_plain": "和  meet  你  那里  代替  的  你  coming  这里"
   },
   {
    "i": 19,
@@ -284898,11 +284533,13 @@
      "a": 10,
      "b": 14,
      "ph": "lə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "你 不 需要 去 做 那 Grandpa.",
-   "rules": []
+   "cn_plain": "你  不  需要  去  做  那  Grandpa."
   },
   {
    "i": 20,
@@ -284929,8 +284566,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "是 我 做",
-   "rules": []
+   "cn_plain": "是  我  做"
   },
   {
    "i": 21,
@@ -284979,7 +284615,10 @@
      "a": 0,
      "b": 1,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 10,
@@ -284988,8 +284627,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 需要 去 得到 出去 更多",
-   "rules": []
+   "cn_plain": "我  需要  去  得到  出去  更多"
   },
   {
    "i": 22,
@@ -285074,29 +284712,40 @@
      "a": 22,
      "b": 23,
      "ph": "zə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 28,
      "b": 30,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 41,
      "b": 44,
      "ph": "圆-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 45,
      "b": 51,
      "ph": "ə nɑr",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "好 我 意思是 有 一个 很多 去 做 周围 这 房子",
-   "rules": []
+   "cn_plain": "好  我  意思是  有  一个  很多  去  做  周围  这  房子"
   },
   {
    "i": 23,
@@ -285169,7 +284818,10 @@
      "a": 22,
      "b": 26,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 39,
@@ -285178,8 +284830,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "和 我 爱 是 这里 和 这 家庭 你 知道",
-   "rules": []
+   "cn_plain": "和  我  爱  是  这里  和  这  家庭  你  知道"
   },
   {
    "i": 24,
@@ -285206,8 +284857,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "但是 我是 不安分",
-   "rules": []
+   "cn_plain": "但是  我是  不安分"
   },
   {
    "i": 25,
@@ -285286,13 +284936,19 @@
      "a": 17,
      "b": 21,
      "ph": "tʃe t're",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 26,
      "b": 31,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 32,
@@ -285301,8 +284957,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "自从 我 退休 我有 得到 额外的 时间 在 我的 hands.",
-   "rules": []
+   "cn_plain": "自从  我  退休  我有  得到  额外的  时间  在  我的  hands."
   },
   {
    "i": 26,
@@ -285333,11 +284988,13 @@
      "a": 0,
      "b": 1,
      "ph": "ɑr'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "我 理解 Grandpa.",
-   "rules": []
+   "cn_plain": "我  理解  Grandpa."
   },
   {
    "i": 27,
@@ -285374,11 +285031,13 @@
      "a": 12,
      "b": 15,
      "ph": "k'jo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "我 认为 你 做",
-   "rules": []
+   "cn_plain": "我  认为  你  做"
   },
   {
    "i": 28,
@@ -285451,35 +285110,50 @@
      "a": 9,
      "b": 12,
      "ph": "drop-ⓚ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     },
     {
      "a": 13,
      "b": 17,
      "ph": "un-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 18,
      "b": 20,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 34,
      "b": 35,
      "ph": "nə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 36,
      "b": 42,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "坦白地 我将 像 去 用 我的 脑子 一个 little 更多",
-   "rules": []
+   "cn_plain": "坦白地  我将  像  去  用  我的  脑子  一个  little  更多"
   },
   {
    "i": 29,
@@ -285524,8 +285198,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Grandpa, 你 有 如此 much 精力",
-   "rules": []
+   "cn_plain": "Grandpa,  你  有  如此  much  精力"
   },
   {
    "i": 30,
@@ -285574,11 +285247,14 @@
      "a": 0,
      "b": 3,
      "ph": "sə'r",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "和 如此 many 年 的 经验",
-   "rules": []
+   "cn_plain": "和  如此  many  年  的  经验"
   },
   {
    "i": 31,
@@ -285663,29 +285339,40 @@
      "a": 25,
      "b": 27,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 28,
      "b": 34,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 35,
      "b": 38,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 46,
      "b": 51,
      "ph": "'t",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "那里 是 可能 一个 很多 的 地方 为了 你 去 工作",
-   "rules": []
+   "cn_plain": "那里  是  可能  一个  很多  的  地方  为了  你  去  工作"
   },
   {
    "i": 32,
@@ -285734,23 +285421,31 @@
      "a": 13,
      "b": 15,
      "ph": "nð-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 20,
      "b": 32,
      "ph": "mini-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 33,
      "b": 39,
      "ph": "mini-unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "particularly 在 这 建筑 领域",
-   "rules": []
+   "cn_plain": "particularly  在  这  建筑  领域"
   },
   {
    "i": 33,
@@ -285829,23 +285524,31 @@
      "a": 4,
      "b": 6,
      "ph": "mini-unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 31,
      "b": 34,
      "ph": "mini-unreleased-ⓒ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 37,
      "b": 46,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "但是 在 我的 age, 我是 不 看起来 为了 一个 全职 工作",
-   "rules": []
+   "cn_plain": "但是  在  我的  age,  我是  不  看起来  为了  一个  全职  工作"
   },
   {
    "i": 34,
@@ -285894,11 +285597,13 @@
      "a": 21,
      "b": 27,
      "ph": "mini-unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "我是 退休 但是 我是 无聊",
-   "rules": []
+   "cn_plain": "我是  退休  但是  我是  无聊"
   },
   {
    "i": 35,
@@ -285941,11 +285646,13 @@
      "a": 17,
      "b": 19,
      "ph": "lɑ-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "好 那里 必须 是 某事",
-   "rules": []
+   "cn_plain": "好  那里  必须  是  某事"
   },
   {
    "i": 36,
@@ -285982,11 +285689,13 @@
      "a": 12,
      "b": 17,
      "ph": "mini-Ⓟ 轻",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "也许 我 能 帮助",
-   "rules": []
+   "cn_plain": "也许  我  能  帮助"
   },
   {
    "i": 37,
@@ -286029,17 +285738,22 @@
      "a": 9,
      "b": 13,
      "ph": "ɪntə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 14,
      "b": 17,
      "ph": "də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "让我们 去 进入 这 厨房",
-   "rules": []
+   "cn_plain": "让我们  去  进入  这  厨房"
   },
   {
    "i": 38,
@@ -286106,17 +285820,22 @@
      "a": 14,
      "b": 17,
      "ph": "ən",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 26,
      "b": 29,
      "ph": "ð-圆-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "和 也许 你 能 帮助 我 摆 这 桌子",
-   "rules": []
+   "cn_plain": "和  也许  你  能  帮助  我  摆  这  桌子"
   },
   {
    "i": 39,
@@ -286189,11 +285908,13 @@
      "a": 32,
      "b": 34,
      "ph": "ər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "哈 听起来 好 去 我 什么 是 我们 having?",
-   "rules": []
+   "cn_plain": "哈  听起来  好  去  我  什么  是  我们  having?"
   },
   {
    "i": 40,
@@ -286242,23 +285963,32 @@
      "a": 2,
      "b": 10,
      "ph": "tər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 16,
      "b": 22,
      "ph": "drop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     },
     {
      "a": 23,
      "b": 29,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 准备 羊 排骨 捣碎的 土豆",
-   "rules": []
+   "cn_plain": "我  准备  羊  排骨  捣碎的  土豆"
   },
   {
    "i": 41,
@@ -286319,29 +286049,42 @@
      "a": 4,
      "b": 5,
      "ph": "də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 6,
      "b": 12,
      "ph": "drop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     },
     {
      "a": 28,
      "b": 33,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 34,
      "b": 39,
      "ph": "mini-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ELISION",
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "和 一个 拌的 绿色 沙拉 去 begin 和",
-   "rules": []
+   "cn_plain": "和  一个  拌的  绿色  沙拉  去  begin  和"
   },
   {
    "i": 42,
@@ -286386,8 +286129,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Grandpa, 你 是 一个 了不起 guy.",
-   "rules": []
+   "cn_plain": "Grandpa,  你  是  一个  了不起  guy."
   },
   {
    "i": 43,
@@ -286454,23 +286196,32 @@
      "a": 13,
      "b": 21,
      "ph": "ŋə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 41,
      "b": 44,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 52,
      "b": 56,
      "ph": "tʃjo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "你是 还 认为 关于 某事 去 做 不是 你",
-   "rules": []
+   "cn_plain": "你是  还  认为  关于  某事  去  做  不是  你"
   },
   {
    "i": 44,
@@ -286513,17 +286264,22 @@
      "a": 2,
      "b": 5,
      "ph": "bə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 9,
      "b": 13,
      "ph": "m-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "一个 工作 的 some 种类",
-   "rules": []
+   "cn_plain": "一个  工作  的  some  种类"
   },
   {
    "i": 45,
@@ -286544,8 +286300,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "那是 对",
-   "rules": []
+   "cn_plain": "那是  对"
   },
   {
    "i": 46,
@@ -286606,17 +286361,23 @@
      "a": 0,
      "b": 4,
      "ph": "ŋə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 25,
      "b": 27,
      "ph": "tə fə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我有 曾经 认为 关于 它 为了 星期 现在",
-   "rules": []
+   "cn_plain": "我有  曾经  认为  关于  它  为了  星期  现在"
   },
   {
    "i": 47,
@@ -286701,17 +286462,22 @@
      "a": 23,
      "b": 25,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 33,
      "b": 37,
      "ph": "də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "那里 必须 是 some way 去 放 我的 头脑 去 好 用",
-   "rules": []
+   "cn_plain": "那里  必须  是  some  way  去  放  我的  头脑  去  好  用"
   },
   {
    "i": 48,
@@ -286754,11 +286520,13 @@
      "a": 11,
      "b": 12,
      "ph": "dʒ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "我们将 找到 一个 解决办法",
-   "rules": []
+   "cn_plain": "我们将  找到  一个  解决办法"
   },
   {
    "i": 49,
@@ -286819,23 +286587,32 @@
      "a": 20,
      "b": 22,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 36,
      "b": 37,
      "ph": "ŋə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 38,
      "b": 41,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "一个 positive 解决办法 去 你的 找到 一个 way",
-   "rules": []
+   "cn_plain": "一个  positive  解决办法  去  你的  找到  一个  way"
   },
   {
    "i": 50,
@@ -286886,8 +286663,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "去 用 那 精彩 头脑 的 你的",
-   "rules": []
+   "cn_plain": "去  用  那  精彩  头脑  的  你的"
   },
   {
    "i": 51,
@@ -286936,7 +286712,10 @@
      "a": 5,
      "b": 10,
      "ph": "dʒjo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 11,
@@ -286945,8 +286724,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "Sam, 将 你 来 在 please?",
-   "rules": []
+   "cn_plain": "Sam,  将  你  来  在  please?"
   },
   {
    "i": 52,
@@ -287001,17 +286779,22 @@
      "a": 10,
      "b": 14,
      "ph": "r→v",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 37,
      "b": 41,
      "ph": "nð-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "你 听起来 像 something's 烦扰 你 Susan.",
-   "rules": []
+   "cn_plain": "你  听起来  像  something's  烦扰  你  Susan."
   },
   {
    "i": 53,
@@ -287080,8 +286863,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "这 草图 为了 这 封面 的 这 new 玩具娃娃 书",
-   "rules": []
+   "cn_plain": "这  草图  为了  这  封面  的  这  new  玩具娃娃  书"
   },
   {
    "i": 54,
@@ -287130,11 +286912,13 @@
      "a": 22,
      "b": 25,
      "ph": "j' s",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "那是 不 它 Please sit 下",
-   "rules": []
+   "cn_plain": "那是  不  它  Please  sit  下"
   },
   {
    "i": 55,
@@ -287153,11 +286937,13 @@
      "a": 0,
      "b": 5,
      "ph": "j'l",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "当然",
-   "rules": []
+   "cn_plain": "当然"
   },
   {
    "i": 56,
@@ -287218,13 +287004,20 @@
      "a": 7,
      "b": 11,
      "ph": "dʒjər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 12,
      "b": 18,
      "ph": "sɑːnə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 33,
@@ -287233,8 +287026,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 需要 你的 建议 在 一个 私人的 事情",
-   "rules": []
+   "cn_plain": "我  需要  你的  建议  在  一个  私人的  事情"
   },
   {
    "i": 57,
@@ -287283,11 +287075,13 @@
      "a": 9,
      "b": 12,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "但是 它是 不 关于 我",
-   "rules": []
+   "cn_plain": "但是  它是  不  关于  我"
   },
   {
    "i": 58,
@@ -287348,13 +287142,19 @@
      "a": 9,
      "b": 11,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 19,
      "b": 21,
      "ph": "sɑːnə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 33,
@@ -287363,8 +287163,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "你 需要 我的 建议 在 一个 私人的 事情",
-   "rules": []
+   "cn_plain": "你  需要  我的  建议  在  一个  私人的  事情"
   },
   {
    "i": 59,
@@ -287416,8 +287215,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "和 它是 不 关于 你 好",
-   "rules": []
+   "cn_plain": "和  它是  不  关于  你  好"
   },
   {
    "i": 60,
@@ -287450,8 +287248,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "它是 关于 我的 grandfather.",
-   "rules": []
+   "cn_plain": "它是  关于  我的  grandfather."
   },
   {
    "i": 61,
@@ -287482,11 +287279,13 @@
      "a": 7,
      "b": 10,
      "ph": "ts 圆 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "什么是 这 问题",
-   "rules": []
+   "cn_plain": "什么是  这  问题"
   },
   {
    "i": 62,
@@ -287559,7 +287358,11 @@
      "a": 9,
      "b": 14,
      "ph": "mini-ⓚ'ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "WEAK"
+     ]
     },
     {
      "a": 15,
@@ -287574,8 +287377,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "它 将不 听起来 像 一个 大 事情 但是 它 是",
-   "rules": []
+   "cn_plain": "它  将不  听起来  像  一个  大  事情  但是  它  是"
   },
   {
    "i": 63,
@@ -287633,8 +287435,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 有 晚餐 和 him Saturday,",
-   "rules": []
+   "cn_plain": "我  有  晚餐  和  him  Saturday,"
   },
   {
    "i": 64,
@@ -287685,8 +287486,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "和 他是 非常 不高兴 关于 不 工作",
-   "rules": []
+   "cn_plain": "和  他是  非常  不高兴  关于  不  工作"
   },
   {
    "i": 65,
@@ -287741,29 +287541,40 @@
      "a": 10,
      "b": 12,
      "ph": "tʃi",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 13,
      "b": 16,
      "ph": "wəz",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 17,
      "b": 24,
      "ph": "dən",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 29,
      "b": 36,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 认为 他 原本是 退休 和 高兴",
-   "rules": []
+   "cn_plain": "我  认为  他  原本是  退休  和  高兴"
   },
   {
    "i": 66,
@@ -287812,17 +287623,22 @@
      "a": 13,
      "b": 17,
      "ph": "ðə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 22,
      "b": 29,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "去 是 living 和 这 家庭",
-   "rules": []
+   "cn_plain": "去  是  living  和  这  家庭"
   },
   {
    "i": 67,
@@ -287843,8 +287659,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "他 是",
-   "rules": []
+   "cn_plain": "他  是"
   },
   {
    "i": 68,
@@ -287917,23 +287732,31 @@
      "a": 4,
      "b": 11,
      "ph": "ð-əz s",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 27,
      "b": 30,
      "ph": "ən",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 38,
      "b": 40,
      "ph": "tɪ 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "但是 有 如此 much 精力 和 才能 在 这 man,",
-   "rules": []
+   "cn_plain": "但是  有  如此  much  精力  和  才能  在  这  man,"
   },
   {
    "i": 69,
@@ -287988,13 +287811,19 @@
      "a": 0,
      "b": 3,
      "ph": "nɑənɪ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 7,
      "b": 14,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 22,
@@ -288003,8 +287832,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "和 他 不 得到 去 用 它",
-   "rules": []
+   "cn_plain": "和  他  不  得到  去  用  它"
   },
   {
    "i": 70,
@@ -288047,7 +287875,10 @@
      "a": 6,
      "b": 10,
      "ph": "stop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 11,
@@ -288056,8 +287887,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "好 什么 能 我 做",
-   "rules": []
+   "cn_plain": "好  什么  能  我  做"
   },
   {
    "i": 71,
@@ -288118,17 +287948,22 @@
      "a": 5,
      "b": 9,
      "ph": "dəv",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 24,
      "b": 27,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "什么 种类 的 建议 是 你 看起来 为了",
-   "rules": []
+   "cn_plain": "什么  种类  的  建议  是  你  看起来  为了"
   },
   {
    "i": 72,
@@ -288149,8 +287984,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "简单地 这",
-   "rules": []
+   "cn_plain": "简单地  这"
   },
   {
    "i": 73,
@@ -288193,11 +288027,14 @@
      "a": 25,
      "b": 33,
      "ph": "sə'd",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "John Marchetta runs 这 公司",
-   "rules": []
+   "cn_plain": "John  Marchetta  runs  这  公司"
   },
   {
    "i": 74,
@@ -288234,11 +288071,14 @@
      "a": 3,
      "b": 10,
      "ph": "də-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "他 找到 这 公司",
-   "rules": []
+   "cn_plain": "他  找到  这  公司"
   },
   {
    "i": 75,
@@ -288253,8 +288093,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "对",
-   "rules": []
+   "cn_plain": "对"
   },
   {
    "i": 76,
@@ -288309,17 +288148,22 @@
      "a": 20,
      "b": 22,
      "ph": "zə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 23,
      "b": 25,
      "ph": "nar",
-     "style": ""
+     "style": "",
+     "rule": [
+      "LINK_R"
+     ]
     }
    ],
-   "cn_plain": "John Marchetta 给 我 我的 start 这里",
-   "rules": []
+   "cn_plain": "John  Marchetta  给  我  我的  start  这里"
   },
   {
    "i": 77,
@@ -288386,11 +288230,13 @@
      "a": 28,
      "b": 37,
      "ph": "tʃ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "Six 年 ago, 何时 我 first graduated 从 college,",
-   "rules": []
+   "cn_plain": "Six  年  ago,  何时  我  first  graduated  从  college,"
   },
   {
    "i": 78,
@@ -288457,17 +288303,23 @@
      "a": 8,
      "b": 10,
      "ph": "i'ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     },
     {
      "a": 22,
      "b": 24,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "他 给 我 这 chance 去 用 我的 才能",
-   "rules": []
+   "cn_plain": "他  给  我  这  chance  去  用  我的  才能"
   },
   {
    "i": 79,
@@ -288516,11 +288368,14 @@
      "a": 0,
      "b": 3,
      "ph": "drop-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     }
    ],
-   "cn_plain": "和 做 我 感觉 更多 自信",
-   "rules": []
+   "cn_plain": "和  做  我  感觉  更多  自信"
   },
   {
    "i": 80,
@@ -288535,8 +288390,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "对",
-   "rules": []
+   "cn_plain": "对"
   },
   {
    "i": 81,
@@ -288609,23 +288463,31 @@
      "a": 0,
      "b": 5,
      "ph": "mini-ⓚ'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 6,
      "b": 8,
      "ph": "də də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 25,
      "b": 30,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "也许 他 能 做 这 同样 thing 为了 你的 grandfather.",
-   "rules": []
+   "cn_plain": "也许  他  能  做  这  同样  thing  为了  你的  grandfather."
   },
   {
    "i": 82,
@@ -288680,7 +288542,10 @@
      "a": 3,
      "b": 5,
      "ph": "r-ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 12,
@@ -288692,11 +288557,14 @@
      "a": 21,
      "b": 25,
      "ph": "mə 圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "或者 在 least 给 him some 建议",
-   "rules": []
+   "cn_plain": "或者  在  least  给  him  some  建议"
   },
   {
    "i": 83,
@@ -288711,8 +288579,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "对",
-   "rules": []
+   "cn_plain": "对"
   },
   {
    "i": 84,
@@ -288761,11 +288628,14 @@
      "a": 10,
      "b": 16,
      "ph": "dʒjər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "然后 我有 解决 你的 问题",
-   "rules": []
+   "cn_plain": "然后  我有  解决  你的  问题"
   },
   {
    "i": 85,
@@ -288829,8 +288699,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 能 always depend 在 你 Sam.",
-   "rules": []
+   "cn_plain": "我  能  always  depend  在  你  Sam."
   },
   {
    "i": 86,
@@ -288867,11 +288736,13 @@
      "a": 4,
      "b": 8,
      "ph": "æt tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我是 高兴 去 帮助",
-   "rules": []
+   "cn_plain": "我是  高兴  去  帮助"
   },
   {
    "i": 87,
@@ -288926,11 +288797,13 @@
      "a": 8,
      "b": 12,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "将 我 call Mr. Marchetta 为了 你",
-   "rules": []
+   "cn_plain": "将  我  call  Mr.  Marchetta  为了  你"
   },
   {
    "i": 88,
@@ -288976,8 +288849,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "不 不 我将 做 那",
-   "rules": []
+   "cn_plain": "不  不  我将  做  那"
   },
   {
    "i": 89,
@@ -288992,8 +288864,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Thanks.",
-   "rules": []
+   "cn_plain": "Thanks."
   },
   {
    "i": 90,
@@ -289036,11 +288907,13 @@
      "a": 10,
      "b": 13,
      "ph": "z'z",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "不 如何是 这 Stewart 家庭",
-   "rules": []
+   "cn_plain": "不  如何是  这  Stewart  家庭"
   },
   {
    "i": 91,
@@ -289083,11 +288956,14 @@
      "a": 17,
      "b": 20,
      "ph": "s'ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "好 thank 你 Mr. Marchetta.",
-   "rules": []
+   "cn_plain": "好  thank  你  Mr.  Marchetta."
   },
   {
    "i": 92,
@@ -289120,8 +288996,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Except 为了 我的 grandfather.",
-   "rules": []
+   "cn_plain": "Except  为了  我的  grandfather."
   },
   {
    "i": 93,
@@ -289148,8 +289023,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "什么是 wrong, Susan?",
-   "rules": []
+   "cn_plain": "什么是  wrong,  Susan?"
   },
   {
    "i": 94,
@@ -289182,8 +289056,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "什么是 wrong 和 him?",
-   "rules": []
+   "cn_plain": "什么是  wrong  和  him?"
   },
   {
    "i": 95,
@@ -289220,11 +289093,13 @@
      "a": 9,
      "b": 11,
      "ph": "t'",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "他 需要 去 工作",
-   "rules": []
+   "cn_plain": "他  需要  去  工作"
   },
   {
    "i": 96,
@@ -289315,11 +289190,13 @@
      "a": 37,
      "b": 41,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "在 fact, 那 是 这 reason 为什么 我 是 这里 去 看 你",
-   "rules": []
+   "cn_plain": "在  fact,  那  是  这  reason  为什么  我  是  这里  去  看  你"
   },
   {
    "i": 97,
@@ -289374,17 +289251,23 @@
      "a": 7,
      "b": 13,
      "ph": "r",
-     "style": ""
+     "style": "",
+     "rule": [
+      "LINK_R"
+     ]
     },
     {
      "a": 29,
      "b": 37,
      "ph": "ŋə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 知道 你是 建筑 一个 new 工厂",
-   "rules": []
+   "cn_plain": "我  知道  你是  建筑  一个  new  工厂"
   },
   {
    "i": 98,
@@ -289436,8 +289319,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "和 我 认为 也许 我的 grandfather",
-   "rules": []
+   "cn_plain": "和  我  认为  也许  我的  grandfather"
   },
   {
    "i": 99,
@@ -289488,8 +289370,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "是 如此 有经验 在 这 建筑 行业",
-   "rules": []
+   "cn_plain": "是  如此  有经验  在  这  建筑  行业"
   },
   {
    "i": 100,
@@ -289532,11 +289413,13 @@
      "a": 15,
      "b": 24,
      "ph": "tə næ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "他 能 是 如此 有价值",
-   "rules": []
+   "cn_plain": "他  能  是  如此  有价值"
   },
   {
    "i": 101,
@@ -289621,7 +289504,10 @@
      "a": 5,
      "b": 8,
      "ph": "lumə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 9,
@@ -289633,7 +289519,11 @@
      "a": 21,
      "b": 24,
      "ph": "i-ə t'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     },
     {
      "a": 25,
@@ -289642,8 +289532,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "告诉 him 去 来 和 看 我 在 10 点钟 明天 早晨",
-   "rules": []
+   "cn_plain": "告诉  him  去  来  和  看  我  在  10  点钟  明天  早晨"
   },
   {
    "i": 102,
@@ -289722,7 +289611,10 @@
      "a": 2,
      "b": 6,
      "ph": "həvə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 7,
@@ -289734,13 +289626,19 @@
      "a": 24,
      "b": 29,
      "ph": "v'd-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 42,
      "b": 45,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 46,
@@ -289749,8 +289647,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 有 一个 idea 那 may 解决 这 问题 为了 him,",
-   "rules": []
+   "cn_plain": "我  有  一个  idea  那  may  解决  这  问题  为了  him,"
   },
   {
    "i": 103,
@@ -289799,11 +289696,14 @@
      "a": 5,
      "b": 6,
      "ph": "tʃvə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "帮助 一个 很多 的 其他 people.",
-   "rules": []
+   "cn_plain": "帮助  一个  很多  的  其他  people."
   },
   {
    "i": 104,
@@ -289867,8 +289767,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "真 Mr. Marchetta, 能 我 告诉 him 那",
-   "rules": []
+   "cn_plain": "真  Mr.  Marchetta,  能  我  告诉  him  那"
   },
   {
    "i": 105,
@@ -289896,8 +289795,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "当然 能",
-   "rules": []
+   "cn_plain": "当然  能"
   },
   {
    "i": 106,
@@ -289946,11 +289844,13 @@
      "a": 14,
      "b": 17,
      "ph": "圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "10 点钟 在 这 早晨",
-   "rules": []
+   "cn_plain": "10  点钟  在  这  早晨"
   },
   {
    "i": 107,
@@ -289965,8 +289865,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "这里",
-   "rules": []
+   "cn_plain": "这里"
   },
   {
    "i": 108,
@@ -289987,8 +289886,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "哦 ah.",
-   "rules": []
+   "cn_plain": "哦  ah."
   },
   {
    "i": 109,
@@ -290013,11 +289911,13 @@
      "a": 0,
      "b": 7,
      "ph": "m'shib",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "Malcolm Stewart.",
-   "rules": []
+   "cn_plain": "Malcolm  Stewart."
   },
   {
    "i": 110,
@@ -290038,8 +289938,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "John Marchetta.",
-   "rules": []
+   "cn_plain": "John  Marchetta."
   },
   {
    "i": 111,
@@ -290076,11 +289975,14 @@
      "a": 4,
      "b": 9,
      "ph": "drop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     }
    ],
-   "cn_plain": "Sit 下 sit 下",
-   "rules": []
+   "cn_plain": "Sit  下  sit  下"
   },
   {
    "i": 112,
@@ -290147,23 +290049,31 @@
      "a": 10,
      "b": 14,
      "ph": "nəz",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 20,
      "b": 25,
      "ph": "l'",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 31,
      "b": 36,
      "ph": "tʃjo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "Susan 有 告诉 我 一个 伟大 事情 关于 你",
-   "rules": []
+   "cn_plain": "Susan  有  告诉  我  一个  伟大  事情  关于  你"
   },
   {
    "i": 113,
@@ -290212,7 +290122,10 @@
      "a": 4,
      "b": 8,
      "ph": "jo'r",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 9,
@@ -290224,11 +290137,13 @@
      "a": 16,
      "b": 21,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "她 说 你是 相当 一个 man.",
-   "rules": []
+   "cn_plain": "她  说  你是  相当  一个  man."
   },
   {
    "i": 114,
@@ -290301,23 +290216,31 @@
      "a": 11,
      "b": 14,
      "ph": "zə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 15,
      "b": 17,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 45,
      "b": 49,
      "ph": "z'",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "她 说 一个 很多 的 精彩 things 关于 你 也",
-   "rules": []
+   "cn_plain": "她  说  一个  很多  的  精彩  things  关于  你  也"
   },
   {
    "i": 115,
@@ -290338,8 +290261,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Mr. Stewart.",
-   "rules": []
+   "cn_plain": "Mr.  Stewart."
   },
   {
    "i": 116,
@@ -290400,11 +290322,13 @@
      "a": 22,
      "b": 27,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "那是 always 好 去 hear, Mr. Marchetta.",
-   "rules": []
+   "cn_plain": "那是  always  好  去  hear,  Mr.  Marchetta."
   },
   {
    "i": 117,
@@ -290431,8 +290355,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Call 我 John.",
-   "rules": []
+   "cn_plain": "Call  我  John."
   },
   {
    "i": 118,
@@ -290471,8 +290394,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "May 我 call 你 Malcolm?",
-   "rules": []
+   "cn_plain": "May  我  call  你  Malcolm?"
   },
   {
    "i": 119,
@@ -290512,8 +290434,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "让我们 谈话 生意",
-   "rules": []
+   "cn_plain": "让我们  谈话  生意"
   },
   {
    "i": 120,
@@ -290556,11 +290477,13 @@
      "a": 13,
      "b": 15,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "那是 音乐 去 我的 耳朵",
-   "rules": []
+   "cn_plain": "那是  音乐  去  我的  耳朵"
   },
   {
    "i": 121,
@@ -290633,23 +290556,32 @@
      "a": 2,
      "b": 12,
      "ph": "ɑr'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 17,
      "b": 21,
      "ph": "tu iə nð 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 48,
      "b": 57,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 理解 你 过去常常 去 是 在 这 建筑 生意",
-   "rules": []
+   "cn_plain": "我  理解  你  过去常常  去  是  在  这  建筑  生意"
   },
   {
    "i": 122,
@@ -290683,8 +290615,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "Yep, 43 年",
-   "rules": []
+   "cn_plain": "Yep,  43  年"
   },
   {
    "i": 123,
@@ -290757,13 +290688,19 @@
      "a": 27,
      "b": 29,
      "ph": "zə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 33,
      "b": 38,
      "ph": "nəv",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 39,
@@ -290775,11 +290712,13 @@
      "a": 42,
      "b": 52,
      "ph": "nð 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "Here's 一个 brief description 的 43 年 的 on-the-job 训练",
-   "rules": []
+   "cn_plain": "Here's  一个  brief  description  的  43  年  的  on-the-job  训练"
   },
   {
    "i": 124,
@@ -290800,8 +290739,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Some history.",
-   "rules": []
+   "cn_plain": "Some  history."
   },
   {
    "i": 125,
@@ -290840,8 +290778,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "你是 一个 有价值的 资产, Malcolm.",
-   "rules": []
+   "cn_plain": "你是  一个  有价值的  资产,  Malcolm."
   },
   {
    "i": 126,
@@ -290862,8 +290799,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "非常 有价值.",
-   "rules": []
+   "cn_plain": "非常  有价值."
   },
   {
    "i": 127,
@@ -290884,8 +290820,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "谢谢 你.",
-   "rules": []
+   "cn_plain": "谢谢  你."
   },
   {
    "i": 128,
@@ -290906,8 +290841,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "43 年.",
-   "rules": []
+   "cn_plain": "43  年."
   },
   {
    "i": 129,
@@ -290968,17 +290902,22 @@
      "a": 15,
      "b": 17,
      "ph": "d-圆't",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 18,
      "b": 20,
      "ph": "m'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "一半 那 时间 在 我的 自己的 建筑 公司.",
-   "rules": []
+   "cn_plain": "一半  那  时间  在  我的  自己的  建筑  公司."
   },
   {
    "i": 130,
@@ -291045,11 +290984,13 @@
      "a": 47,
      "b": 49,
      "ph": "də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "大的 工程, 工厂, 购物 商场, 那 种 的 东西.",
-   "rules": []
+   "cn_plain": "大的  工程,  工厂,  购物  商场,  那  种  的  东西."
   },
   {
    "i": 131,
@@ -291086,11 +291027,13 @@
      "a": 9,
      "b": 17,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "然后 你 退休了.",
-   "rules": []
+   "cn_plain": "然后  你  退休了."
   },
   {
    "i": 132,
@@ -291105,8 +291048,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "是的.",
-   "rules": []
+   "cn_plain": "是的."
   },
   {
    "i": 133,
@@ -291143,11 +291085,13 @@
      "a": 6,
      "b": 8,
      "ph": "mini-unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "在...之后 我的 妻子 去世,",
-   "rules": []
+   "cn_plain": "在...之后  我的  妻子  去世,"
   },
   {
    "i": 134,
@@ -291244,29 +291188,41 @@
      "a": 4,
      "b": 5,
      "ph": "d'tɑr",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 6,
      "b": 10,
      "ph": "drop-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     },
     {
      "a": 44,
      "b": 52,
      "ph": "d'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 57,
      "b": 71,
      "ph": "ðə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "和 我 觉得 我 应该 花 更多 时间 和 我的 孩子们 和 孙子孙女们.",
-   "rules": []
+   "cn_plain": "和  我  觉得  我  应该  花  更多  时间  和  我的  孩子们  和  孙子孙女们."
   },
   {
    "i": 135,
@@ -291339,7 +291295,10 @@
      "a": 8,
      "b": 10,
      "ph": "də inner弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 20,
@@ -291348,8 +291307,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 住 在 Florida, 和 他们 住 在 New York.",
-   "rules": []
+   "cn_plain": "我  住  在  Florida,  和  他们  住  在  New  York."
   },
   {
    "i": 136,
@@ -291370,8 +291328,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "我 明白.",
-   "rules": []
+   "cn_plain": "我  明白."
   },
   {
    "i": 137,
@@ -291402,11 +291359,13 @@
      "a": 0,
      "b": 2,
      "ph": "ɑr'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "我的 女儿, Cami,",
-   "rules": []
+   "cn_plain": "我的  女儿,  Cami,"
   },
   {
    "i": 138,
@@ -291479,17 +291438,23 @@
      "a": 21,
      "b": 25,
      "ph": "zən",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 26,
      "b": 31,
      "ph": "mini-'ərt",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ELISION",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "住 在 New York. 我 喜欢 是 靠近 她.",
-   "rules": []
+   "cn_plain": "住  在  New  York.  我  喜欢  是  靠近  她."
   },
   {
    "i": 139,
@@ -291580,13 +291545,20 @@
      "a": 28,
      "b": 30,
      "ph": "('因为所以) lə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     },
     {
      "a": 31,
      "b": 35,
      "ph": "mini-ⓚ'r",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 38,
@@ -291595,8 +291567,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "当 我 来到 这里, 我 计划 去 休 一个 几 月 假,",
-   "rules": []
+   "cn_plain": "当  我  来到  这里,  我  计划  去  休  一个  几  月  假,"
   },
   {
    "i": 140,
@@ -291629,8 +291600,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "放松 和 这 家人,",
-   "rules": []
+   "cn_plain": "放松  和  这  家人,"
   },
   {
    "i": 141,
@@ -291679,29 +291649,40 @@
      "a": 0,
      "b": 3,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 4,
      "b": 8,
      "ph": "nð 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 14,
      "b": 17,
      "ph": "ə fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 23,
      "b": 28,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "和 然后 寻找 为了 一些 工作.",
-   "rules": []
+   "cn_plain": "和  然后  寻找  为了  一些  工作."
   },
   {
    "i": 142,
@@ -291750,11 +291731,13 @@
      "a": 21,
      "b": 24,
      "ph": "s'ɑːr n'd 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "放 我的 经验 在 这 线上.",
-   "rules": []
+   "cn_plain": "放  我的  经验  在  这  线上."
   },
   {
    "i": 143,
@@ -291845,11 +291828,13 @@
      "a": 47,
      "b": 54,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "但是, 不幸地, 那里 没有 任何 工作 为了 一个 退休的 人 我的 年龄.",
-   "rules": []
+   "cn_plain": "但是,  不幸地,  那里  没有  任何  工作  为了  一个  退休的  人  我的  年龄."
   },
   {
    "i": 144,
@@ -291904,17 +291889,24 @@
      "a": 16,
      "b": 19,
      "ph": "zɑ ər'z",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     },
     {
      "a": 40,
      "b": 46,
      "ph": "zɑ ər'z'n t",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "有时 那里 有, 和 有时 那里 没有.",
-   "rules": []
+   "cn_plain": "有时  那里  有,  和  有时  那里  没有."
   },
   {
    "i": 145,
@@ -291960,8 +291952,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我是 参与的 和 一个 组织,",
-   "rules": []
+   "cn_plain": "我是  参与的  和  一个  组织,"
   },
   {
    "i": 146,
@@ -292012,8 +292003,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "和 我们是 努力 去 解决 那 问题.",
-   "rules": []
+   "cn_plain": "和  我们是  努力  去  解决  那  问题."
   },
   {
    "i": 147,
@@ -292034,8 +292024,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "是什么 那?",
-   "rules": []
+   "cn_plain": "是什么  那?"
   },
   {
    "i": 148,
@@ -292050,8 +292039,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "Tops.",
-   "rules": []
+   "cn_plain": "Tops."
   },
   {
    "i": 149,
@@ -292066,8 +292054,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "T-O-P-S.",
-   "rules": []
+   "cn_plain": "T-O-P-S."
   },
   {
    "i": 150,
@@ -292112,8 +292099,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "它 意思是 有才华的, 年长的 人们的 协会.",
-   "rules": []
+   "cn_plain": "它  意思是  有才华的,  年长的  人们的  协会."
   },
   {
    "i": 151,
@@ -292162,11 +292148,13 @@
      "a": 4,
      "b": 8,
      "ph": "ər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 想 去 是 一个 成员.",
-   "rules": []
+   "cn_plain": "我  想  去  是  一个  成员."
   },
   {
    "i": 152,
@@ -292205,8 +292193,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "多少 多 是 这 会费?",
-   "rules": []
+   "cn_plain": "多少  多  是  这  会费?"
   },
   {
    "i": 153,
@@ -292246,8 +292233,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "那里 有 没有 会费.",
-   "rules": []
+   "cn_plain": "那里  有  没有  会费."
   },
   {
    "i": 154,
@@ -292308,7 +292294,10 @@
      "a": 24,
      "b": 29,
      "ph": "zr nð's",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 43,
@@ -292317,8 +292306,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "这 组织 服务 主要的 公司 在 这个 城市.",
-   "rules": []
+   "cn_plain": "这  组织  服务  主要的  公司  在  这个  城市."
   },
   {
    "i": 155,
@@ -292340,8 +292328,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "为什么?",
-   "rules": []
+   "cn_plain": "为什么?"
   },
   {
    "i": 156,
@@ -292408,29 +292395,41 @@
      "a": 20,
      "b": 23,
      "ph": "ər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 28,
      "b": 31,
      "ph": "ər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 32,
      "b": 37,
      "ph": "nən",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 38,
      "b": 42,
      "ph": "mini-ⓚ jə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "因为 我们的 成员 是 男人 和 女人 像 你.",
-   "rules": []
+   "cn_plain": "因为  我们的  成员  是  男人  和  女人  像  你."
   },
   {
    "i": 157,
@@ -292470,8 +292469,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "有经验的, 有才华的, 退休的.",
-   "rules": []
+   "cn_plain": "有经验的,  有才华的,  退休的."
   },
   {
    "i": 158,
@@ -292562,29 +292560,41 @@
      "a": 8,
      "b": 15,
      "ph": "ər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 21,
      "b": 23,
      "ph": "wɑnə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 31,
      "b": 36,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 45,
      "b": 50,
      "ph": "zə 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "但是 我们的 成员 想要 去 出去 外面 那里 和 使用 他们的 才能.",
-   "rules": []
+   "cn_plain": "但是  我们的  成员  想要  去  出去  外面  那里  和  使用  他们的  才能."
   },
   {
    "i": 159,
@@ -292617,8 +292627,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "他们 想要 去 工作.",
-   "rules": []
+   "cn_plain": "他们  想要  去  工作."
   },
   {
    "i": 160,
@@ -292651,8 +292660,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "那 是 极好的, John.",
-   "rules": []
+   "cn_plain": "那  是  极好的,  John."
   },
   {
    "i": 161,
@@ -292707,17 +292715,22 @@
      "a": 9,
      "b": 11,
      "ph": "tʃnɑr",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 12,
      "b": 16,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 有 一个 主意 给 你, Malcolm.",
-   "rules": []
+   "cn_plain": "我  有  一个  主意  给  你,  Malcolm."
   },
   {
    "i": 162,
@@ -292772,13 +292785,19 @@
      "a": 0,
      "b": 4,
      "ph": "lɑʊ tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 5,
      "b": 9,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 14,
@@ -292787,8 +292806,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "刚刚 填写 出 这个 表格 给 我.",
-   "rules": []
+   "cn_plain": "刚刚  填写  出  这个  表格  给  我."
   },
   {
    "i": 163,
@@ -292837,11 +292855,13 @@
      "a": 11,
      "b": 15,
      "ph": "mini-ⓚ'r",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "它将 只 花费 一个 几 分钟.",
-   "rules": []
+   "cn_plain": "它将  只  花费  一个  几  分钟."
   },
   {
    "i": 164,
@@ -292938,11 +292958,13 @@
      "a": 19,
      "b": 21,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "坐 就 这里 和 做 它 当...时 我 说话 给 我的 秘书.",
-   "rules": []
+   "cn_plain": "坐  就  这里  和  做  它  当...时  我  说话  给  我的  秘书."
   },
   {
    "i": 165,
@@ -293021,11 +293043,14 @@
      "a": 17,
      "b": 22,
      "ph": "wɪl mini-ⓚ'ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "当 我 回 来, 我们将 说话 关于 我的 新的 工厂.",
-   "rules": []
+   "cn_plain": "当  我  回  来,  我们将  说话  关于  我的  新的  工厂."
   },
   {
    "i": 166,
@@ -293074,11 +293099,13 @@
      "a": 25,
      "b": 30,
      "ph": "r-ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我的 公司是 一个 成员 的 Tops,",
-   "rules": []
+   "cn_plain": "我的  公司是  一个  成员  的  Tops,"
   },
   {
    "i": 167,
@@ -293163,13 +293190,19 @@
      "a": 5,
      "b": 8,
      "ph": "d/ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 14,
      "b": 16,
      "ph": "də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 17,
@@ -293181,17 +293214,22 @@
      "a": 22,
      "b": 35,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 40,
      "b": 46,
      "ph": "l'jo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "如此 我 尝试 努力地 去 找到 机会 为了 人们 像 你, Malcolm.",
-   "rules": []
+   "cn_plain": "如此  我  尝试  努力地  去  找到  机会  为了  人们  像  你,  Malcolm."
   },
   {
    "i": 168,
@@ -293270,7 +293308,10 @@
      "a": 9,
      "b": 10,
      "ph": "nɑr iən",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 18,
@@ -293282,7 +293323,10 @@
      "a": 33,
      "b": 36,
      "ph": "t'z",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 37,
@@ -293291,8 +293335,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "和 当 我 看见 一个 机会, 我 能 行动 在 它.",
-   "rules": []
+   "cn_plain": "和  当  我  看见  一个  机会,  我  能  行动  在  它."
   },
   {
    "i": 169,
@@ -293377,23 +293420,31 @@
      "a": 33,
      "b": 35,
      "ph": "zjor",
-     "style": ""
+     "style": "",
+     "rule": [
+      "LINK_R"
+     ]
     },
     {
      "a": 40,
      "b": 43,
      "ph": "nð-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 44,
      "b": 49,
      "ph": "unreleased-ⓑ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "嗯, 我 能 使用 你的 头脑 力量 在 这 工作 就 现在.",
-   "rules": []
+   "cn_plain": "嗯,  我  能  使用  你的  头脑  力量  在  这  工作  就  现在."
   },
   {
    "i": 170,
@@ -293508,11 +293559,13 @@
      "a": 34,
      "b": 36,
      "ph": "tu z'z",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "有 你 得到 时间 这个 早上 去 去 过去 到 这 建筑 场地 和 我?",
-   "rules": []
+   "cn_plain": "有  你  得到  时间  这个  早上  去  去  过去  到  这  建筑  场地  和  我?"
   },
   {
    "i": 171,
@@ -293573,7 +293626,10 @@
      "a": 0,
      "b": 3,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 9,
@@ -293585,11 +293641,13 @@
      "a": 21,
      "b": 25,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 想 去 让 你 见 我的 工头.",
-   "rules": []
+   "cn_plain": "我  想  去  让  你  见  我的  工头."
   },
   {
    "i": 172,
@@ -293638,11 +293696,13 @@
      "a": 4,
      "b": 8,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "得到 一些 背景 在 这 工作.",
-   "rules": []
+   "cn_plain": "得到  一些  背景  在  这  工作."
   },
   {
    "i": 173,
@@ -293681,8 +293741,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "我 有 大量 的 时间.",
-   "rules": []
+   "cn_plain": "我  有  大量  的  时间."
   },
   {
    "i": 174,
@@ -293728,8 +293787,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我将 是 就 回来.",
-   "rules": []
+   "cn_plain": "我将  是  就  回来."
   },
   {
    "i": 175,
@@ -293790,11 +293848,13 @@
      "a": 6,
      "b": 8,
      "ph": "tə də",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我们将 去 过去 到 这 工作 场地 一起.",
-   "rules": []
+   "cn_plain": "我们将  去  过去  到  这  工作  场地  一起."
   },
   {
    "i": 176,
@@ -293855,11 +293915,14 @@
      "a": 19,
      "b": 22,
      "ph": "də nð 内弹",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "有 你 工作过 在 这 太空 港 项目?",
-   "rules": []
+   "cn_plain": "有  你  工作过  在  这  太空  港  项目?"
   },
   {
    "i": 177,
@@ -293902,11 +293965,13 @@
      "a": 11,
      "b": 14,
      "ph": "z'z",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "我的 公司 原本是 一个 承包商.",
-   "rules": []
+   "cn_plain": "我的  公司  原本是  一个  承包商."
   },
   {
    "i": 178,
@@ -293985,23 +294050,32 @@
      "a": 2,
      "b": 7,
      "ph": "ðə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 8,
      "b": 11,
      "ph": "mini-ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ELISION",
+      "WEAK"
+     ]
     },
     {
      "a": 12,
      "b": 19,
      "ph": "mini-ð",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ELISION"
+     ]
     }
    ],
-   "cn_plain": "我 建造 这 剧院 那里 用 我的 自己的 两 手, 实际上.",
-   "rules": []
+   "cn_plain": "我  建造  这  剧院  那里  用  我的  自己的  两  手,  实际上."
   },
   {
    "i": 179,
@@ -294022,8 +294096,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "我 明白.",
-   "rules": []
+   "cn_plain": "我  明白."
   },
   {
    "i": 180,
@@ -294108,23 +294181,32 @@
      "a": 15,
      "b": 17,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 30,
      "b": 34,
      "ph": "tə ŋə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 52,
      "b": 57,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "嗯, 我是 高兴 去 看见 你 两 家伙 变得 进展 如此 好.",
-   "rules": []
+   "cn_plain": "嗯,  我是  高兴  去  看见  你  两  家伙  变得  进展  如此  好."
   },
   {
    "i": 181,
@@ -294185,11 +294267,13 @@
      "a": 30,
      "b": 33,
      "ph": "m'zɑːn",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "因为, Danny, Malcolm 是 在 这 Tops 团队.",
-   "rules": []
+   "cn_plain": "因为,  Danny,  Malcolm  是  在  这  Tops  团队."
   },
   {
    "i": 182,
@@ -294262,7 +294346,10 @@
      "a": 5,
      "b": 10,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 25,
@@ -294274,7 +294361,10 @@
      "a": 30,
      "b": 33,
      "ph": "r",
-     "style": ""
+     "style": "",
+     "rule": [
+      "LINK_R"
+     ]
     },
     {
      "a": 40,
@@ -294283,8 +294373,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "他是 将 去 是 工作 和 你 为了 一个 一会儿.",
-   "rules": []
+   "cn_plain": "他是  将  去  是  工作  和  你  为了  一个  一会儿."
   },
   {
    "i": 183,
@@ -294357,17 +294446,23 @@
      "a": 23,
      "b": 31,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 32,
      "b": 34,
      "ph": "θ'əs",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "他的 经验 将 是 有价值的 给 两者 的 我们.",
-   "rules": []
+   "cn_plain": "他的  经验  将  是  有价值的  给  两者  的  我们."
   },
   {
    "i": 184,
@@ -294398,17 +294493,22 @@
      "a": 8,
      "b": 15,
      "ph": "mə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 16,
      "b": 24,
      "ph": "unreleased-ⓓ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "欢迎 加入, Malcolm.",
-   "rules": []
+   "cn_plain": "欢迎  加入,  Malcolm."
   },
   {
    "i": 185,
@@ -294466,8 +294566,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我是 将 回去 到 我的 办公室.",
-   "rules": []
+   "cn_plain": "我是  将  回去  到  我的  办公室."
   },
   {
    "i": 186,
@@ -294516,11 +294615,13 @@
      "a": 8,
      "b": 9,
      "ph": "iə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "给 我 一个 电话 以后, Malcolm.",
-   "rules": []
+   "cn_plain": "给  我  一个  电话  以后,  Malcolm."
   },
   {
    "i": 187,
@@ -294605,13 +294706,19 @@
      "a": 0,
      "b": 4,
      "ph": "əl",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 23,
      "b": 26,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 49,
@@ -294620,8 +294727,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我将 告诉 你 这 时间 和 日期 的 这 下一个 Tops 会议.",
-   "rules": []
+   "cn_plain": "我将  告诉  你  这  时间  和  日期  的  这  下一个  Tops  会议."
   },
   {
    "i": 188,
@@ -294676,17 +294782,22 @@
      "a": 13,
      "b": 15,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 21,
      "b": 24,
      "ph": "d 圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "我 想 你 去 见 这 团队.",
-   "rules": []
+   "cn_plain": "我  想  你  去  见  这  团队."
   },
   {
    "i": 189,
@@ -294713,8 +294824,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "我 将, John.",
-   "rules": []
+   "cn_plain": "我  将,  John."
   },
   {
    "i": 190,
@@ -294741,8 +294851,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "和 再次, 谢谢.",
-   "rules": []
+   "cn_plain": "和  再次,  谢谢."
   },
   {
    "i": 191,
@@ -294757,8 +294866,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "不.",
-   "rules": []
+   "cn_plain": "不."
   },
   {
    "i": 192,
@@ -294779,8 +294887,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "谢谢 你.",
-   "rules": []
+   "cn_plain": "谢谢  你."
   },
   {
    "i": 193,
@@ -294807,8 +294914,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "和 谢谢, Susan.",
-   "rules": []
+   "cn_plain": "和  谢谢,  Susan."
   },
   {
    "i": 194,
@@ -294845,11 +294951,13 @@
      "a": 11,
      "b": 12,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "他是 相当 一个 男人.",
-   "rules": []
+   "cn_plain": "他是  相当  一个  男人."
   },
   {
    "i": 195,
@@ -294892,17 +295000,22 @@
      "a": 2,
      "b": 6,
      "ph": "'p'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     },
     {
      "a": 23,
      "b": 26,
      "ph": "fər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "一个 真正的 鼓舞 给 我.",
-   "rules": []
+   "cn_plain": "一个  真正的  鼓舞  给  我."
   },
   {
    "i": 196,
@@ -294923,8 +295036,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "好的, Danny.",
-   "rules": []
+   "cn_plain": "好的,  Danny."
   },
   {
    "i": 197,
@@ -294997,17 +295109,22 @@
      "a": 18,
      "b": 24,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 33,
      "b": 35,
      "ph": "rə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 知道 你 没有 预料 去 有 我 在周围,",
-   "rules": []
+   "cn_plain": "我  知道  你  没有  预料  去  有  我  在周围,"
   },
   {
    "i": 198,
@@ -295092,7 +295209,10 @@
      "a": 18,
      "b": 20,
      "ph": "iə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 24,
@@ -295101,8 +295221,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "但是 我 认为 我 能 是 的 一些 帮助 给 你.",
-   "rules": []
+   "cn_plain": "但是  我  认为  我  能  是  的  一些  帮助  给  你."
   },
   {
    "i": 199,
@@ -295151,17 +295270,22 @@
      "a": 4,
      "b": 6,
      "ph": "stop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 16,
      "b": 26,
      "ph": "'n",
-     "style": ""
+     "style": "",
+     "rule": [
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "让 我 告诉 你 某事, Malcolm.",
-   "rules": []
+   "cn_plain": "让  我  告诉  你  某事,  Malcolm."
   },
   {
    "i": 200,
@@ -295228,11 +295352,13 @@
      "a": 21,
      "b": 24,
      "ph": "nəm",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "和 你的 背景 和 经验, 我 能 学习 某事.",
-   "rules": []
+   "cn_plain": "和  你的  背景  和  经验,  我  能  学习  某事."
   },
   {
    "i": 201,
@@ -295311,23 +295437,32 @@
      "a": 14,
      "b": 18,
      "ph": "mə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 19,
      "b": 25,
      "ph": "sɑːnə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 30,
      "b": 31,
      "ph": "drop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     }
    ],
-   "cn_plain": "和 我 确实 需要 一些 建议 和 一个 困难的 问题.",
-   "rules": []
+   "cn_plain": "和  我  确实  需要  一些  建议  和  一个  困难的  问题."
   },
   {
    "i": 202,
@@ -295370,11 +295505,14 @@
      "a": 0,
      "b": 3,
      "ph": "drop-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "ELISION"
+     ]
     }
    ],
-   "cn_plain": "让 我 展示 你 这.",
-   "rules": []
+   "cn_plain": "让  我  展示  你  这."
   },
   {
    "i": 203,
@@ -295441,7 +295579,10 @@
      "a": 8,
      "b": 12,
      "ph": "wɑnə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 13,
@@ -295453,17 +295594,22 @@
      "a": 16,
      "b": 20,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 21,
      "b": 24,
      "ph": "lə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 不 想要 去 给 你 一个 最终的 意见",
-   "rules": []
+   "cn_plain": "我  不  想要  去  给  你  一个  最终的  意见"
   },
   {
    "i": 204,
@@ -295521,8 +295667,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "没有 研究 这些 建筑 计划 更 仔细地.",
-   "rules": []
+   "cn_plain": "没有  研究  这些  建筑  计划  更  仔细地."
   },
   {
    "i": 205,
@@ -295607,11 +295752,14 @@
      "a": 39,
      "b": 42,
      "ph": "ð-圆 iər",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "但是 一个 简单的 解决办法 可能 是 去 移动 这 空气 调节 装置",
-   "rules": []
+   "cn_plain": "但是  一个  简单的  解决办法  可能  是  去  移动  这  空气  调节  装置"
   },
   {
    "i": 206,
@@ -295660,13 +295808,19 @@
      "a": 0,
      "b": 7,
      "ph": "dʒz",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 23,
      "b": 26,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 27,
@@ -295675,8 +295829,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "代替 的 重新设计 这 整个 系统.",
-   "rules": []
+   "cn_plain": "代替  的  重新设计  这  整个  系统."
   },
   {
    "i": 207,
@@ -295731,11 +295884,13 @@
      "a": 12,
      "b": 19,
      "ph": "sr",
-     "style": ""
+     "style": "",
+     "rule": [
+      "LINK_R"
+     ]
     }
    ],
-   "cn_plain": "它 可能 是 更简单的 和 更少 昂贵的.",
-   "rules": []
+   "cn_plain": "它  可能  是  更简单的  和  更少  昂贵的."
   },
   {
    "i": 208,
@@ -295796,23 +295951,32 @@
      "a": 4,
      "b": 8,
      "ph": "dʒəm",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     },
     {
      "a": 9,
      "b": 15,
      "ph": "dʒjo",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 28,
      "b": 30,
      "ph": "ŋ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "你 刚刚 挣得 你的 体重 在 黄金, Malcolm.",
-   "rules": []
+   "cn_plain": "你  刚刚  挣得  你的  体重  在  黄金,  Malcolm."
   },
   {
    "i": 209,
@@ -295837,11 +296001,13 @@
      "a": 0,
      "b": 7,
      "ph": "mə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "欢迎 加入.",
-   "rules": []
+   "cn_plain": "欢迎  加入."
   },
   {
    "i": 210,
@@ -295880,8 +296046,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "它将 都 发生 如此 快速地.",
-   "rules": []
+   "cn_plain": "它将  都  发生  如此  快速地."
   },
   {
    "i": 211,
@@ -295921,8 +296086,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 不能 相信 它.",
-   "rules": []
+   "cn_plain": "我  不能  相信  它."
   },
   {
    "i": 212,
@@ -295977,7 +296141,10 @@
      "a": 23,
      "b": 26,
      "ph": "tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 30,
@@ -295986,8 +296153,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我是 高兴 先生 Marchetto 原本是 如此 有帮助的.",
-   "rules": []
+   "cn_plain": "我是  高兴  先生  Marchetto  原本是  如此  有帮助的."
   },
   {
    "i": 213,
@@ -296030,11 +296196,13 @@
      "a": 12,
      "b": 16,
      "ph": "ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "他 原本是 更多 比 有帮助的.",
-   "rules": []
+   "cn_plain": "他  原本是  更多  比  有帮助的."
   },
   {
    "i": 214,
@@ -296095,7 +296263,10 @@
      "a": 3,
      "b": 11,
      "ph": "'æktʃu'li",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 17,
@@ -296107,11 +296278,13 @@
      "a": 23,
      "b": 27,
      "ph": "t→h",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "他 实际上 带 我 去 见 他的 工头.",
-   "rules": []
+   "cn_plain": "他  实际上  带  我  去  见  他的  工头."
   },
   {
    "i": 215,
@@ -296154,7 +296327,10 @@
      "a": 4,
      "b": 12,
      "ph": "mini-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 13,
@@ -296163,8 +296339,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我是 激动的 为了 你, 奶奶.",
-   "rules": []
+   "cn_plain": "我是  激动的  为了  你,  奶奶."
   },
   {
    "i": 216,
@@ -296225,7 +296400,10 @@
      "a": 13,
      "b": 16,
      "ph": "kjʊə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 20,
@@ -296234,8 +296412,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 不 知道 如何 去 谢谢 你, Susan.",
-   "rules": []
+   "cn_plain": "我  不  知道  如何  去  谢谢  你,  Susan."
   },
   {
    "i": 217,
@@ -296278,7 +296455,10 @@
      "a": 7,
      "b": 8,
      "ph": "riə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 9,
@@ -296287,8 +296467,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "你是 一个 极好的 孙女.",
-   "rules": []
+   "cn_plain": "你是  一个  极好的  孙女."
   },
   {
    "i": 218,
@@ -296343,11 +296522,13 @@
      "a": 10,
      "b": 12,
      "ph": "d/ə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "它是 好的 去 看见 你 如此 高兴.",
-   "rules": []
+   "cn_plain": "它是  好的  去  看见  你  如此  高兴."
   },
   {
    "i": 219,
@@ -296402,23 +296583,32 @@
      "a": 8,
      "b": 10,
      "ph": "ɑrəl",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 11,
      "b": 14,
      "ph": "biə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 15,
      "b": 27,
      "ph": "də mini-ⓚ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我将 是 在 这 建筑 场地 明天.",
-   "rules": []
+   "cn_plain": "我将  是  在  这  建筑  场地  明天."
   },
   {
    "i": 220,
@@ -296467,11 +296657,14 @@
      "a": 9,
      "b": 12,
      "ph": "tə'",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK",
+      "C2V"
+     ]
     }
    ],
-   "cn_plain": "什么 是 你 做 明天 晚上?",
-   "rules": []
+   "cn_plain": "什么  是  你  做  明天  晚上?"
   },
   {
    "i": 221,
@@ -296514,11 +296707,14 @@
      "a": 14,
      "b": 23,
      "ph": "ŋə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我是 不 做 任何事. 为什么?",
-   "rules": []
+   "cn_plain": "我是  不  做  任何事.  为什么?"
   },
   {
    "i": 222,
@@ -296573,17 +296769,22 @@
      "a": 12,
      "b": 16,
      "ph": "və tə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 22,
      "b": 26,
      "ph": "dʒjo'",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "如何 关于 一个 约会 和 你的 祖父?",
-   "rules": []
+   "cn_plain": "如何  关于  一个  约会  和  你的  祖父?"
   },
   {
    "i": 223,
@@ -296638,11 +296839,13 @@
      "a": 6,
      "b": 9,
      "ph": "uə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我 欠 你 一个 好的 牛排 晚餐.",
-   "rules": []
+   "cn_plain": "我  欠  你  一个  好的  牛排  晚餐."
   },
   {
    "i": 224,
@@ -296699,8 +296902,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "我将 接受 明天 晚上, 你 和 我, 晚餐.",
-   "rules": []
+   "cn_plain": "我将  接受  明天  晚上,  你  和  我,  晚餐."
   },
   {
    "i": 225,
@@ -296721,8 +296923,7 @@
     }
    ],
    "marks": [],
-   "cn_plain": "什么 时间?",
-   "rules": []
+   "cn_plain": "什么  时间?"
   },
   {
    "i": 226,
@@ -296777,7 +296978,10 @@
      "a": 5,
      "b": 9,
      "ph": "əl",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 14,
@@ -296789,17 +296993,23 @@
      "a": 17,
      "b": 21,
      "ph": "ʌp→h",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     },
     {
      "a": 22,
      "b": 24,
      "ph": "ə-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "我将 接 你 起来 这里 在 七点.",
-   "rules": []
+   "cn_plain": "我将  接  你  起来  这里  在  七点."
   },
   {
    "i": 227,
@@ -296830,11 +297040,13 @@
      "a": 3,
      "b": 7,
      "ph": "zɑt-圆",
-     "style": ""
+     "style": "",
+     "rule": [
+      "ASSIM"
+     ]
     }
    ],
-   "cn_plain": "是 那 好吗?",
-   "rules": []
+   "cn_plain": "是  那  好吗?"
   },
   {
    "i": 228,
@@ -296868,8 +297080,7 @@
      "style": ""
     }
    ],
-   "cn_plain": "我 不能 等.",
-   "rules": []
+   "cn_plain": "我  不能  等."
   },
   {
    "i": 229,
@@ -296954,29 +297165,41 @@
      "a": 17,
      "b": 19,
      "ph": "lə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     },
     {
      "a": 20,
      "b": 23,
      "ph": "tjjor",
-     "style": ""
+     "style": "",
+     "rule": [
+      "LINK_R"
+     ]
     },
     {
      "a": 24,
      "b": 29,
      "ph": "mini-ⓣ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     },
     {
      "a": 30,
      "b": 34,
      "ph": "mini-ⓚ ən nɑ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL",
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "和 你 能 告诉 我 全部 关于 你的 第一 完整的 一天",
-   "rules": []
+   "cn_plain": "和  你  能  告诉  我  全部  关于  你的  第一  完整的  一天"
   },
   {
    "i": 230,
@@ -297013,11 +297236,13 @@
      "a": 12,
      "b": 16,
      "ph": "mini-unreleased-ⓑ",
-     "style": ""
+     "style": "",
+     "rule": [
+      "UNREL"
+     ]
     }
    ],
-   "cn_plain": "回来 在 这 工作.",
-   "rules": []
+   "cn_plain": "回来  在  这  工作."
   },
   {
    "i": 231,
@@ -297048,11 +297273,13 @@
      "a": 0,
      "b": 4,
      "ph": "itsə",
-     "style": ""
+     "style": "",
+     "rule": [
+      "WEAK"
+     ]
     }
    ],
-   "cn_plain": "它是 一个 交易.",
-   "rules": []
+   "cn_plain": "它是  一个  交易."
   }
  ]
 }
